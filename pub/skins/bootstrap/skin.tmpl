@@ -63,13 +63,13 @@
 
   <body>
 
-    <div class="topbar navbar navbar-fixed-top">
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <h1><a class='brand' href='/'>$WikiTitle<span>$WikiSlogan</span></a></h3>
           <ul class='nav'>
             <li class='menu'>
-              <a class='menu' href='#'>About</a>
+              <a class='menu dropdown-toggle' href='#'>About</a>
               <ul class='menu-dropdown'>
                 <li><a href='/Contributors'>Contributors</a></li>
                 <li><a target='_blank' href='http://groups.google.com/group/espacesociety'>Google Group</a></li>
@@ -161,7 +161,7 @@
           s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
           (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
       }());
-      $('.topbar').dropdown();
+      $('.dropdown-toggle').dropdown();
       var _cmo = {form: '4e24fc031ffafb000101e40b', text: 'Contact', align: 'left', valign: 'middle', lang: 'en', background_color: '#DC5B06'}; (function() {var cms = document.createElement('script'); cms.type = 'text/javascript'; cms.async = true; cms.src = ('https:' == document.location.protocol ? 'https://d1uwd25yvxu96k.cloudfront.net' : 'http://static.contactme.com') + '/widgets/tab/v1/tab.js'; var s = document.getElementsByTagName('script')[1]; s.parentNode.insertBefore(cms, s);})();
   </script>
 </html>
