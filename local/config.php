@@ -10,11 +10,11 @@ date_default_timezone_set('America/New_York'); # if you run PHP 5.1 or newer
 #
 $TimeFmt = '%B %d, %Y, at %I:%M %p EST';
 $EnablePathInfo = 1;
-$ScriptUrl = 'http://localhost';
-$ScriptUrl = 'http://blooming-planet-2890.herokuapp.com/';
+// $ScriptUrl = 'http://localhost';
+$ScriptUrl = 'http://evening-galaxy-4662.herokuapp.com/';
 // $Skin = 'boira';
 $SkinColor = 'red';
-$Skin = 'minimous';
+// $Skin = 'minimous';
 $Skin = 'bootstrap';
 $EnableMarkdown =1;
 include_once("$FarmD/cookbook/pagetoc.php");
