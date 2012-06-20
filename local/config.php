@@ -19,7 +19,7 @@ $SkinColor = 'red';
 // $Skin = 'minimous';
 $Skin = 'bootstrap';
 $EnableMarkdown =1;
-$FarmC = "FarmD/cookbook";
+$FarmC = "$FarmD/cookbook";
 include_once("$FarmD/cookbook/pagetoc.php");
 include_once("$FarmD/cookbook/markdown.php");
 // $EditTemplatesFmt = 'Characters.Template';
