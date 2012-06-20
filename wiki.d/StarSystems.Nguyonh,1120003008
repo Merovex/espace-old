@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1114299890
+text=²see SigmaDraconis²
+targets=StarSystems.SigmaDraconis
+author=JohnUghrin
+author:1114299890=JohnUghrin
+host:1114299890=24.166.101.248
+diff:1114299890:1114299890:=1,2d0²< ²< see SigmaDraconis²
+name=StarSystems.Nguyonh
+host=24.166.101.248
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.6) Gecko/20050405 Firefox/1.0 (Ubuntu package 1.0.2)
+rev=1

@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104869548
+text=(:redirect [[Scholar.ChangSingh]]:)
+targets=
+author=AaronClausen
+author:1104869548=AaronClausen
+host:1104869548=64.141.6.11
+diff:1104869548:1104869548:=1d0²< (:redirect [[Scholar.ChangSingh]]:)²\ No newline at end of file²
+name=Category.ChangSinghAuthored
+host=64.141.6.11
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

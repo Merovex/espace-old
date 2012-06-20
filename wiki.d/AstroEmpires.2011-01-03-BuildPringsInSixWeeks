@@ -1,0 +1,20 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1294105537
+host=68.33.222.116
+name=AstroEmpires.2011-01-03-BuildPringsInSixWeeks
+rev=2
+targets=AstroEmpires.PlanetaryRingConstructionGuide,Category.AstroEmpires
+text=(:tags:[[!Astro Empires]]:)%0a'''(:blogarticledate:)'''%0a[[#teaser]]%0aConsider Patton's adage: ``No man-made defense is defensible." Or Nathan%0aBedford Forrest's maxium, ``A good offense is the best defense." Astro Empires%0ahas combat as its core. While a good offense is always wanted, being able to%0abuild strong defenses allows you to maintain a good offense. On five servers,%0aI've built prings in scant weeks, roughly 50 days.%0a%0a[[#body]]%0aHow do I do it? I start before the beginning. As with any endeavor, you cannot%0aattain your outcome without goals. If you want prings quickly, you have to%0adecide you want them well before the server starts. If you have other goals,%0athen you need to establish them, too, and plan accordingly.%0a%0aDid you not do well on Juno server? Juno why? Hah!  Now is the right time to%0astart thinking about the ``K" server, whatever it will be called. You can spend%0ayour time on Juno planning what you'll do on K.%0a%0aMy secret is that simple. There's more to it, but there's no point in my%0asharing it if you're not interested. Leave a comment below, and I'll start%0adocumenting how I can my first set of prings finished on my first base, then%0abuild most within the next week.%0a%0a>>note%3c%3c%0aMy math was off, it takes Seven weeks (six weeks is 42 days). But, I now have the [[Planetary Ring Construction Guide]] that documents my process%0a>>%3c%3c%0a%0a%0a(:comment This page has been edited using Pywe:)%0a(:title Prings in Seven Weeks? Unsinn!:)
+time=1296612625
+title=Prings in Seven Weeks? Unsinn!
+author:1296612625=BenWilson
+csum:1296612625=
+diff:1296612625:1294105537:=25,31c25,27%0a%3c >>note%3c%3c%0a%3c My math was off, it takes Seven weeks (six weeks is 42 days). But, I now have the [[Planetary Ring Construction Guide]] that documents my process%0a%3c >>%3c%3c%0a%3c %0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a%3c (:title Prings in Seven Weeks? Unsinn!:)%0a\ No newline at end of file%0a---%0a> (:title Prings in Six Weeks? Unsinn!:)%0a> %0a> (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1296612625=68.33.222.116
+author:1294105537=BenWilson
+diff:1294105537:1294105537:=1,27d0%0a%3c (:tags:[[!Astro Empires]]:)%0a%3c '''(:blogarticledate:)'''%0a%3c [[#teaser]]%0a%3c Consider Patton's adage: ``No man-made defense is defensible." Or Nathan%0a%3c Bedford Forrest's maxium, ``A good offense is the best defense." Astro Empires%0a%3c has combat as its core. While a good offense is always wanted, being able to%0a%3c build strong defenses allows you to maintain a good offense. On five servers,%0a%3c I've built prings in scant weeks, roughly 50 days.%0a%3c %0a%3c [[#body]]%0a%3c How do I do it? I start before the beginning. As with any endeavor, you cannot%0a%3c attain your outcome without goals. If you want prings quickly, you have to%0a%3c decide you want them well before the server starts. If you have other goals,%0a%3c then you need to establish them, too, and plan accordingly.%0a%3c %0a%3c Did you not do well on Juno server? Juno why? Hah!  Now is the right time to%0a%3c start thinking about the ``K" server, whatever it will be called. You can spend%0a%3c your time on Juno planning what you'll do on K.%0a%3c %0a%3c My secret is that simple. There's more to it, but there's no point in my%0a%3c sharing it if you're not interested. Leave a comment below, and I'll start%0a%3c documenting how I can my first set of prings finished on my first base, then%0a%3c build most within the next week.%0a%3c %0a%3c (:title Prings in Six Weeks? Unsinn!:)%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1294105537=68.33.222.116

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1192978668
+host=69.243.109.103
+name=AstroEmpires.BattleCalculations
+rev=1
+targets=
+text=%0aCalculating Opponent's Technology Level%0a=======================================%0a%0aTo calculate your opponent's technology, the obvious solution is to%0adivide a unit's Power by the standard power level for a unit of that%0atype, subtract 1 and multiply by 20. This yields the tech level of that%0aunit's weapon. Armour is done the same way, although if there are%0afighters, there is an easier way (see below).%0a%0a'''Armour.''' To determine your opponent's armor level. Subtract two%0afrom his Fighter's Armor level and multiply by ten. This is his Armor%0aTech rating. For example, an opponent has a Fighter Armor of 3.7.%0aSubtracing 2 gives you 1.7. Multiplying by 10 gives you 17.%0a%0a'''Laser.''' Again, subtract two and multiply by ten the Fighter's%0aPower. The example above with an opponent of 3.9 would have a Laser of%0a19.%0a%0a'''Plasma.''' Divide the Cruiser's power by 24 (or HC by 48), subtract 1%0aand multiply by 20.%0a%0a(:comment This page has been edited using Pywe:)
+time=1192978668
+author:1192978668=BenWilson
+diff:1192978668:1192978668:=1,23d0%0a%3c %0a%3c Calculating Opponent's Technology Level%0a%3c =======================================%0a%3c %0a%3c To calculate your opponent's technology, the obvious solution is to%0a%3c divide a unit's Power by the standard power level for a unit of that%0a%3c type, subtract 1 and multiply by 20. This yields the tech level of that%0a%3c unit's weapon. Armour is done the same way, although if there are%0a%3c fighters, there is an easier way (see below).%0a%3c %0a%3c '''Armour.''' To determine your opponent's armor level. Subtract two%0a%3c from his Fighter's Armor level and multiply by ten. This is his Armor%0a%3c Tech rating. For example, an opponent has a Fighter Armor of 3.7.%0a%3c Subtracing 2 gives you 1.7. Multiplying by 10 gives you 17.%0a%3c %0a%3c '''Laser.''' Again, subtract two and multiply by ten the Fighter's%0a%3c Power. The example above with an opponent of 3.9 would have a Laser of%0a%3c 19.%0a%3c %0a%3c '''Plasma.''' Divide the Cruiser's power by 24 (or HC by 48), subtract 1%0a%3c and multiply by 20.%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1192978668=69.243.109.103

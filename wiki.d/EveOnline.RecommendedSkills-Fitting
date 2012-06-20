@@ -1,0 +1,16 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1321487946
+host=69.140.6.80
+name=EveOnline.RecommendedSkills-Fitting
+rev=1
+targets=
+text=Fitting Skills%0a==============%0a%0a[[#fit]]%0a{|%0a|-%0a! width=30%25|Skill%0a! width=40%25|Benefit%0a! colspan=2|Burn Rate%0a|-%0a|Engineering%0a|5%25 powergrid output%0a|(:eveskill type=IM v=256:)%0a|-%0a|Electronics%0a|+5%25 CPU output%0a|(:eveskill type=IM v=256:)%0a|-%0a|Weapon Upgrades%0a| -5%25 CPU needs of weapon turrets and launchers. Also gets you T2 gyrostabilizers.%0a|(:eveskill type=IM v=512:)%0a|-%0a|Advanced Weapon Upgrades (to level III)%0a| -2%25 powergrid needs of weapon turrets and launchers.%0a|(:eveskill type=IM v=1536:)%0a|}%0a
+time=1321487946
+author:1321487946=BenWilson
+csum:1321487946=
+diff:1321487946:1321487946:=1,26d0%0a%3c Fitting Skills%0a%3c ==============%0a%3c %0a%3c [[#fit]]%0a%3c {|%0a%3c |-%0a%3c ! width=30%25|Skill%0a%3c ! width=40%25|Benefit%0a%3c ! colspan=2|Burn Rate%0a%3c |-%0a%3c |Engineering%0a%3c |5%25 powergrid output%0a%3c |(:eveskill type=IM v=256:)%0a%3c |-%0a%3c |Electronics%0a%3c |+5%25 CPU output%0a%3c |(:eveskill type=IM v=256:)%0a%3c |-%0a%3c |Weapon Upgrades%0a%3c | -5%25 CPU needs of weapon turrets and launchers. Also gets you T2 gyrostabilizers.%0a%3c |(:eveskill type=IM v=512:)%0a%3c |-%0a%3c |Advanced Weapon Upgrades (to level III)%0a%3c | -2%25 powergrid needs of weapon turrets and launchers.%0a%3c |(:eveskill type=IM v=1536:)%0a%3c |}%0a
+host:1321487946=69.140.6.80

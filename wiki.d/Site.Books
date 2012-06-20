@@ -1,0 +1,40 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1287249633
+host=69.140.6.80
+name=Site.Books
+rev=7
+targets=AstroEmpires.AstroEmpires,Macropedia.Macropedia,Milieu.Milieu,Macropedia.ImperiumEdition,Macropedia.OriginalEdition,Chronology.Chronology
+text=>>transparent span5%3c%3c%0a!! `AstroEmpire Guides%0a* [[AstroEmpires/AstroEmpires|Overview]]%0a(:pagelist group=AstroEmpires fmt=#title link=Category.Sidebar :)%0a>>%3c%3c%0a%0a>>transparent span5%3c%3c%0a!! Macropedia%0a* [[Macropedia/Macropedia|Overview]]%0a* [[Milieu/Milieu]]%0a* [[Macropedia/Imperium Edition]]%0a* [[Macropedia/Original Edition]]%0a* [[Chronology/Chronology]]%0a>>%3c%3c
+time=1321039277
+author:1321039277=BenWilson
+csum:1321039277=
+diff:1321039277:1321037838:=1c1%0a%3c >>transparent span5%3c%3c%0a---%0a> >>transparent span6%3c%3c%0a
+host:1321039277=69.140.6.80
+author:1321037838=BenWilson
+csum:1321037838=
+diff:1321037838:1321037813:=1c1%0a%3c >>transparent span6%3c%3c%0a---%0a> >>transparent span7%3c%3c%0a7c7%0a%3c >>transparent span5%3c%3c%0a---%0a> >>transparent span7%3c%3c%0a
+host:1321037838=69.140.6.80
+author:1321037813=BenWilson
+csum:1321037813=
+diff:1321037813:1287249807:=1c1%0a%3c >>transparent span7%3c%3c%0a---%0a> >>transparent span-7%3c%3c%0a7c7%0a%3c >>transparent span7%3c%3c%0a---%0a> >>transparent span-7 prepend-1%3c%3c%0a
+host:1321037813=69.140.6.80
+author:1287249807=BenWilson
+csum:1287249807=
+diff:1287249807:1287249789:=7c7%0a%3c >>transparent span-7 prepend-1%3c%3c%0a---%0a> >>transparent span-7%3c%3c%0a
+host:1287249807=68.33.222.116
+author:1287249789=BenWilson
+csum:1287249789=
+diff:1287249789:1287249746:=1c1%0a%3c >>transparent span-7%3c%3c%0a---%0a> >>transparent span-8%3c%3c%0a7c7%0a%3c >>transparent span-7%3c%3c%0a---%0a> >>transparent span-8%3c%3c%0a
+host:1287249789=68.33.222.116
+author:1287249746=BenWilson
+csum:1287249746=
+diff:1287249746:1287249633:=1c1%0a%3c >>transparent span-8%3c%3c%0a---%0a> >>transparent%3c%3c%0a7c7%0a%3c >>transparent span-8%3c%3c%0a---%0a> >>transparent%3c%3c%0a
+host:1287249746=68.33.222.116
+author:1287249633=BenWilson
+csum:1287249633=
+diff:1287249633:1287249633:=1,14d0%0a%3c >>transparent%3c%3c%0a%3c !! `AstroEmpire Guides%0a%3c * [[AstroEmpires/AstroEmpires|Overview]]%0a%3c (:pagelist group=AstroEmpires fmt=#title link=Category.Sidebar :)%0a%3c >>%3c%3c%0a%3c %0a%3c >>transparent%3c%3c%0a%3c !! Macropedia%0a%3c * [[Macropedia/Macropedia|Overview]]%0a%3c * [[Milieu/Milieu]]%0a%3c * [[Macropedia/Imperium Edition]]%0a%3c * [[Macropedia/Original Edition]]%0a%3c * [[Chronology/Chronology]]%0a%3c >>%3c%3c%0a\ No newline at end of file%0a
+host:1287249633=68.33.222.116

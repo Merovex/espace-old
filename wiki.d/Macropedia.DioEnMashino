@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.DioEnMashino
+rev=6
+targets=Macropedia.DinzwarGefera,Macropedia.DreohedgeGevar,Macropedia.ImperiumEdition,Macropedia.Celtainu,Chronology.FirstExpanse,Macropedia.HelsmuntInstitute,Chronology.HyperspaceVortices,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe major breakthrough in computer AI technology developed by Phurnando Letalles and Hugau-bmilanoj Stepivan Shersite d'Mibashura of the HelsmuntInstitute, who later went on to found [[Celtainu|Cel-Tainu Astrophysical Research Corporation]].  Dio En Mashino was based upon late [[Chronology/FirstExpanse|First Expanse]] multi-AI segments (essentially vast super-networks of AI cores), but with newer breakthroughs in quantum fabrication techniques, could do far more complex computations in far less time.%0a%0aDio En Mashino was capable of predicting graviton interactions down to femtometres (10'^-15^' metres), allowing its programming, inherited from the original [[Chronology/FirstExpanse|First Expanse]] computer on which it was modeled, to produce Branespace navigation computations of previously unheard of accuracy.  This finally permitted FTL travel to proceed safely again, and the dangers of [[Chronology/HyperspaceVortices|Hyperspace Vortices]] to be overcome.%0a%0aOver the years, Dio En Mashino was refined, and CARC engineers worked to produce ever more powerful computers.  But not only was Dio En Mashino revolutionary in astrogation, but it's huge array of core networks were a major breakthrough in AI development and memory storage.  Though it was largely dedicated to Branespace forecasting, some of its descendants were to go in other directions entirely.%0a%0aBecause of the watershed nature of Dio en Mashino, most systems readily accepted realigning their calendars to mark the year of its activation as 1 anno Dio en Mashino (ADEM). These systems still keep their own internal system of calendars and years (frequently based on the first year of the system's founding), but generally write the ADEM year.%0a%0a!! References%0a# [[Celtainu]]%0a# HelsmuntInstitute%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667421
+author:1129667421=BenWilson
+diff:1129667421:1114977337:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667421=144.167.105.115

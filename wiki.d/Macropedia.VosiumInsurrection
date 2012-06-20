@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1116271128
+text=
+targets=
+author=AaronClausen
+author:1110051781=BenWilson
+host:1110051781=144.167.104.139
+diff:1110051781:1110051781:=1,5d0²< !! Related Articles²< (:pagelist group=Macropedia fmt=simple {$Name}:)²< ²< ----²< [[!PhantomImperiumEdition]] \ No newline at end of file²
+name=Macropedia.VosiumInsurrection
+host=64.141.6.11
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+rev=2
+author:1116271128=AaronClausen
+host:1116271128=64.141.6.11
+diff:1116271128:1110051781:=0a1,5²> !! Related Articles²> (:pagelist group=Macropedia {$Name}:)²> ²> ----²> [[!PhantomImperiumEdition]] \ No newline at end of file²

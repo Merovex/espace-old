@@ -1,0 +1,15 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1260662588
+host=68.48.114.50
+name=AstroEmpires.TenSevenGuide
+rev=1
+targets=AstroEmpires.TenSevenGuide
+text=AstroEmpires.TenSevenGuide is a new page.%0a(:comment This page has been edited using Pywe:)
+time=1260662588
+author:1260662588=BenWilson
+diff:1260662588:1260662588:=1,2d0%0a%3c AstroEmpires.TenSevenGuide is a new page.%0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1260662588=68.48.114.50

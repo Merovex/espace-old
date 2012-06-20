@@ -1,0 +1,25 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1112572119
+text=This is a manually updated list of topics that fit into the '''{$Group}''' Category.²²If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.²²----²²(:pagelist group={$Group}:)²²
+targets=Generalities.RecentChanges
+author=BenWilson
+author:1105929545=BenWilson
+host:1105929545=68.51.35.56
+diff:1105929545:1105929545:=1,6d0²< ! {$Group}²< ²< This is a manually updated list of topics that fit into the {$Group} Category.²< ²< (:pagelist group={$Group}:)²< ²
+name=Generalities.Generalities
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.6) Gecko/20050317 Firefox/1.0.2
+rev=5
+author:1105929666=BenWilson
+host:1105929666=68.51.35.56
+diff:1105929666:1105929545:=3,7c3,4²< This is a manually updated list of topics that fit into the '''{$Group}''' Category.²< ²< ----²< ²< (These are all pages in this category. If you find one here that is not above, please correct the list above.²---²> This is a manually updated list of topics that fit into the {$Group} Category.²> ²
+author:1105929709=BenWilson
+host:1105929709=68.51.35.56
+diff:1105929709:1105929666:=6a7²> (These are all pages in this category. If you find one here that is not above, please correct the list above.²
+author:1105931775=BenWilson
+host:1105931775=68.51.35.56
+diff:1105931775:1105929709:=5,6d4²< If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.²< ²
+author:1112572119=BenWilson
+host:1112572119=68.51.35.56
+diff:1112572119:1105931775:=0a1,2²> ! {$Group}²> ²

@@ -1,0 +1,59 @@
+version=pmwiki-2.2.0-beta56 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1174782979
+host=64.124.158.130
+name=Site.LocalTemplates-Draft
+rev=12
+targets=Site.LocalTemplates,Group.Name
+text=!!! fmt={$FullName}#include%0a%0aConcatenate the text of pages in the list. (Note, this can be an expensive operation!)%0a%0a[@%0a[[#include]]%0a(:include {=$FullName} self=0:)%0a%0a[[#includeend]]%0a@]%0a%0a!!! fmt={$FullName}#headerinclude%0a%0a[@%0a[[#headerinclude]]%0a!!! {=$Titlespaced}%0a(:include {=$FullName}#from para=1:)%0a   * Read More about [[{=$FullName}|{=$Titlespaced}]]%0a%0a(:if equal {>$Group}:)%0a(:if:)%0a[[#headerincludeend]]%0a@]%0a%0a!!! fmt={$FullName}#sitemap%0a%0a[[#sitemap]] (:if ! equal {=$Group} {=$Name}:)%0a(:if ! equal {%3c$Group} {=$Group}:)%0a!! {=$Groupspaced} (:if ! equal {=$Group} {=$Name}:)%0a   * [[{=$Group}/{=$Name}|{=$Titlespaced}]]%0a(:if equal {>$Group}:)%0a(:if:)%0a[[#sitemapend]]%0a%0a!!! fmt={$FullName}#chrontrail%0a%0a[@%0a[[#chrontrail]]{=$FullName}%0a(:if equal {$FullName} {=$FullName}:)[[{%3c$FullName}|+]] | [[{$Group}]] | [[{>$FullName}|+]](:if:)%0a[[#chrontrailend]]%0a@]%0a(:title LocalTemplates:)
+time=1182858131
+title=LocalTemplates
+author:1182858131=BenWilson
+csum:1182858131=
+diff:1182858131:1182858083:=38c38%0a%3c [[#chrontrail]]{=$FullName}%0a---%0a> [[#chrontrail]]a%0a
+host:1182858131=64.124.158.130
+author:1182858083=BenWilson
+csum:1182858083=
+diff:1182858083:1182858033:=38c38%0a%3c [[#chrontrail]]a%0a---%0a> [[#chrontrail]]%0a
+host:1182858083=64.124.158.130
+author:1182858033=BenWilson
+csum:1182858033=
+diff:1182858033:1178455162:=34,41d33%0a%3c %0a%3c !!! fmt={$FullName}#chrontrail%0a%3c %0a%3c [@%0a%3c [[#chrontrail]]%0a%3c (:if equal {$FullName} {=$FullName}:)[[{%3c$FullName}|+]] | [[{$Group}]] | [[{>$FullName}|+]](:if:)%0a%3c [[#chrontrailend]]%0a%3c @]%0a
+host:1182858033=64.124.158.130
+author:1178455162=BenWilson
+csum:1178455162=
+diff:1178455162:1178454832:=30c30%0a%3c    * [[{=$Group}/{=$Name}|{=$Titlespaced}]]%0a---%0a>    * [[{=$Group}/{=$Name}|+]]%0a
+host:1178455162=69.243.109.103
+author:1178454832=BenWilson
+csum:1178454832=
+diff:1178454832:1174871970:=24,33d23%0a%3c %0a%3c !!! fmt={$FullName}#sitemap%0a%3c %0a%3c [[#sitemap]] (:if ! equal {=$Group} {=$Name}:)%0a%3c (:if ! equal {%3c$Group} {=$Group}:)%0a%3c !! {=$Groupspaced} (:if ! equal {=$Group} {=$Name}:)%0a%3c    * [[{=$Group}/{=$Name}|+]]%0a%3c (:if equal {>$Group}:)%0a%3c (:if:)%0a%3c [[#sitemapend]]%0a
+host:1178454832=69.243.109.103
+author:1174871970=BenWilson
+csum:1174871970=
+diff:1174871970:1174871798:=16,19c16,17%0a%3c !!! {=$Titlespaced}%0a%3c (:include {=$FullName}#from para=1:)%0a%3c    * Read More about [[{=$FullName}|{=$Titlespaced}]]%0a%3c %0a---%0a> %25rfloat%25[-more-] [[{=$FullName}|{=$Titlespaced}]]%0a> (:include {=$FullName} para=1:)%0a21a20%0a> %0a
+host:1174871970=69.243.109.103
+author:1174871798=BenWilson
+csum:1174871798=
+diff:1174871798:1174871783:=12,13c12,13%0a%3c !!! fmt={$FullName}#headerinclude%0a%3c %0a---%0a> !!! fmt=#headerinclude%0a> %0a
+host:1174871798=69.243.109.103
+author:1174871783=BenWilson
+csum:1174871783=
+diff:1174871783:1174871767:=1,2c1,2%0a%3c !!! fmt={$FullName}#include%0a%3c %0a---%0a> !!! fmt=$FullName#include%0a> %0a23c23%0a%3c (:title LocalTemplates:)%0a\ No newline at end of file%0a---%0a> (:title {$Title}:)%0a\ No newline at end of file%0a
+host:1174871783=69.243.109.103
+author:1174871767=BenWilson
+csum:1174871767=
+diff:1174871767:1174871743:=1,2c1,2%0a%3c !!! fmt=$FullName#include%0a%3c %0a---%0a> !!! fmt=#include%0a> %0a19,20c19,20%0a%3c (:if:)%0a%3c %0a---%0a> (:title {$Title}:)(:if:)%0a> %0a22,23c22%0a%3c @]%0a%3c (:title {$Title}:)%0a\ No newline at end of file%0a---%0a> @]%0a\ No newline at end of file%0a
+host:1174871767=69.243.109.103
+author:1174871743=BenWilson
+csum:1174871743=
+diff:1174871743:1174783003:=10,21d9%0a%3c @]%0a%3c %0a%3c !!! fmt=#headerinclude%0a%3c %0a%3c [@%0a%3c [[#headerinclude]]%0a%3c %25rfloat%25[-more-] [[{=$FullName}|{=$Titlespaced}]]%0a%3c (:include {=$FullName} para=1:)%0a%3c (:if equal {>$Group}:)%0a%3c (:title {$Title}:)(:if:)%0a%3c %0a%3c [[#headerincludeend]]%0a
+host:1174871743=69.243.109.103
+author:1174783003=
+diff:1174783003:1174782979:=1,2c1,2%0a%3c !!! fmt=#include%0a%3c %0a---%0a> fmt=#include%0a> %0a5d4%0a%3c [@%0a10d8%0a%3c @]%0a\ No newline at end of file%0a
+host:1174783003=69.243.109.103
+author:1174782979=
+diff:1174782979:1174782979:=1,8d0%0a%3c fmt=#include%0a%3c %0a%3c Concatenate the text of pages in the list. (Note, this can be an expensive operation!)%0a%3c %0a%3c [[#include]]%0a%3c (:include {=$FullName} self=0:)%0a%3c %0a%3c [[#includeend]]%0a
+host:1174782979=69.243.109.103

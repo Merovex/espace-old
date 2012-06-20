@@ -1,0 +1,21 @@
+version=pmwiki-2.0.beta51 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6
+author=BenWilson
+host=70.245.12.29
+name=NaturalSciences.BraneTheory
+rev=5
+targets=Category.NaturalSciences
+text='''Brane cosmology''' is a protoscience based on some of the latest thinking about the nature of reality. It is motivated by, but not rigorously derived from, superstring/M-theory/m-brane. The model has the aim of allowing cosmologists to explore the possible ramifications of these theories about reality on the smallest scales for our picture of the universe on the largest scales.²²The central concept involves "unrolling" one or more of the compact dimensions of superstring theory to form a higher-dimensional medium, called the "bulk", in which our four-dimensional universe (one of a possibly large number of branes) lies embedded. Interactions with the bulk, and possibly with other branes, can influence our brane and thus introduce effects not seen in more standard cosmological models.²²As one of its attractive features, the model "explains" the weakness of gravity relative to the other fundamental forces of nature. In the brane picture, the other three forces (electromagnetism and the weak and strong nuclear forces) are localised on the brane, but gravity has no such constraint and so much of its attractive power "leaks" into the bulk. As a consequence, the force of gravity should appear significantly stronger on small (sub-millimetre) scales, where less gravitational force has "leaked". Various experiments are currently proposed to test this.²²The ekpyrotic model forms one extrapolation of brane cosmology which has attracted a considerable amount of attention. ([[http://en.wikipedia.org/wiki/Brane_cosmology | original source]])²²%category%Category: [[!NaturalSciences]]
+time=1122842319
+author:1122842319=BenWilson
+csum:1122842319=fixed category markup
+diff:1122842319:1122842092:=9c9,10²< %category%Category: [[!NaturalSciences]]²\ No newline at end of file²---²> %category%²> Category: [[!NaturalSciences]]²\ No newline at end of file²
+host:1122842319=70.245.12.29
+author:1122842092=BenWilson
+diff:1122842092:1122842074:=9d8²< %category%²
+host:1122842092=70.245.12.29
+author:1122842074=BenWilson
+csum:1122842074=fixed title and categories
+diff:1122842074:1104434690:=7,9c7²< The ekpyrotic model forms one extrapolation of brane cosmology which has attracted a considerable amount of attention. ([[http://en.wikipedia.org/wiki/Brane_cosmology | original source]])²< ²< Category: [[!NaturalSciences]]²\ No newline at end of file²---²> The ekpyrotic model forms one extrapolation of brane cosmology which has attracted a considerable amount of attention. ([[http://en.wikipedia.org/wiki/Brane_cosmology | original source]])²\ No newline at end of file²
+host:1122842074=70.245.12.29

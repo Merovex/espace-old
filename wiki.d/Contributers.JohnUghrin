@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1111798425
+text=Been around since the beginning of this project, like the other contributors.²²I am Scholar/ChoMinhTelRan.²²
+targets=Scholar.ChoMinhTelRan
+author=JohnUghrin
+author:1111798425=JohnUghrin
+host:1111798425=24.166.101.248
+diff:1111798425:1111798425:minor=1,4d0²< Been around since the beginning of this project, like the other contributors.²< ²< I am Scholar/ChoMinhTelRan.²< ²
+name=Contributers.JohnUghrin
+host=24.166.101.248
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041209 Firefox/1.0 (Ubuntu) (Ubuntu package 1.0-2ubuntu4-warty99)
+rev=1

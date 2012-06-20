@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.TawmerikDynasty
+rev=17
+targets=Macropedia.TembaTwo,Macropedia.TaoSunni,Macropedia.ImperiumEdition,Macropedia.RethTawmerikI,Macropedia.KanthTawmerik,Macropedia.LendaTawmerik,Macropedia.QannaDabrian,Macropedia.FullyIntegratedCorporation,Macropedia.FasantauriSystem,Macropedia.PerezFamily,Macropedia.ImperialCongress,Macropedia.HagurinCharacterSet,Macropedia.RightsOfTheImperialCitizen,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a!!! Tawmerik Emperors:%0a* [[RethTawmerikI|Reth I]]%0a* Reth II%0a* Sedren (stated as third emperor)%0a* [[KanthTawmerik|Kanth]]%0a* Lendth%0a* [[LendaTawmerik|Lenda]]%0a* Temba I%0a* Reth III%0a* [[TembaTwo|Temba II]]%0a* Deth%0a* Denher%0a* Falther%0a* Lubher (although QannaDabrian held the throne)%0a%0aThe Tawmerik family entered the Galactic scene as a powerful [[Macropedia/FullyIntegratedCorporation|FIC]] on the FasantauriSystem. Sometime rivals of the PerezFamily and Terran Patriots. The Tawmeriks are responsible for forming the Imperium from its inception. Among their achievements: the formation of the ImperialCongress, adopting the HagurinCharacterSet, and establishing the RightsOfTheImperialCitizen. %0a%0aIn a sense, the dynasty can be seen as a victim of its own success. They desired to create and secure an empire to stabilize the wayward human worlds and bring economic benefits to themselves and others. To do so, they established a near autocracy, originally giving power almost exclusively to wealthy aristocratic families. Later on, as more distant populations experienced lifestyle advancements that came with economic stability, they demanded rights and self-determination that the Tawmerik style of rule could not tolerate.%0a%0a!! References%0a# FasantauriSystem%0a# FullyIntegratedCorporation%0a# RethTawmerikI%0a%0a!! Related Articles%0a(:pagelist fmt=simple group=Macropedia {$Name}:)%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129672314
+author:1129672314=BenWilson
+diff:1129672314:1121033993:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672314=144.167.105.115

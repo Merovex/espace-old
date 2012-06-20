@@ -1,0 +1,27 @@
+version=pmwiki-2.1.beta23 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1140025358
+host=65.68.18.205
+name=Macropedia.RSSList
+rev=4
+targets=
+text=(:pagelist group=Macropedia fmt=#simple count=20 order=-ctime :)
+time=1140094760
+author:1140094760=BenWilson
+csum:1140094760=
+diff:1140094760:1140025422:=
+host:1140094760=65.68.18.205
+author:1140025422=BenWilson
+csum:1140025422=
+diff:1140025422:1140025392:=1c1%0a%3c (:pagelist group=Macropedia fmt=#simple count=20 order=-ctime :)%0a\ No newline at end of file%0a---%0a> (:pagelist group=Macropedia fmt=#simple list=normal count=20 order=-ctime :)%0a\ No newline at end of file%0a
+host:1140025422=65.68.18.205
+author:1140025392=BenWilson
+csum:1140025392=
+diff:1140025392:1140025358:=
+host:1140025392=65.68.18.205
+author:1140025358=BenWilson
+csum:1140025358=
+diff:1140025358:1140025358:=1d0%0a%3c (:pagelist group=Macropedia fmt=#simple list=normal count=20 order=-ctime :)%0a\ No newline at end of file%0a
+host:1140025358=65.68.18.205

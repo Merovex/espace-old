@@ -1,0 +1,19 @@
+version=pmwiki-2.0.beta44 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.9) Gecko/20050711 Firefox/1.0.5
+author=BenWilson
+host=70.248.67.21
+name=FudgeRules.BroadSkills
+rev=4
+targets=
+text=(:redirect [[FudgeRules.BroadSkill]]:)
+time=1121533473
+author:1120514891=BenWilson
+diff:1120514891:1120514736:=0a1,2²> !! Skills²> ²
+host:1120514891=70.248.67.21
+author:1120514736=BenWilson
+diff:1120514736:1120514722:=0a1²> ²3c4²< :%dlfudge%Arts & Crafts-:describes the various artistic abilities including cooking, various smithy skills, pottery and the like.²---²> :%dlstar%Arts & Crafts-:describes the various artistic abilities including cooking, various smithy skills, pottery and the like.²
+host:1120514736=70.248.67.21
+author:1120514722=BenWilson
+diff:1120514722:1120514722:=1,24d0²< ²< !! Skills²< ²< :%dlstar%Arts & Crafts-:describes the various artistic abilities including cooking, various smithy skills, pottery and the like.²< :Athletics-:covers all the sports related activities including climbing, running, swimming and throwing.²< :Communication-:involves interpersonal communication from individuals to large crowds.²< :Covert Skills-:includes various stealthy and theivery abilities as well as gambling.²< :Education-:describes various areas of knowledge such as history, geography, linguistics, religion and research.²< :Enterprise-:covers all the actions related to business including trading with or as a street merchant to running a corporation.²< :Focus-:involves abilities that require the ability to narrow one's observation. This includes area knowledge, awareness, induition, lip reading, etc.²< :Heavy Weapons-:includes the ablity to operate all sort of heavy artillery and seige weapons.²< :Investigation-:describes all manner of activities relating to uncovering evidence and finding the truth.²< :Medicine-:covers all health-recovery related actions.²< :Melee Weapons-:involves the use of any hand-held weapon.²< :Military Sciences-:covers the various abilities typically gained only by serving in the military such as demolitions, strategy, tactics, gunsmithing, etc.²< :Nature/Outdoor-: includes all manner of nature or outdoor related actions such as hunting and fishing, animal handling, survival, etc..²< :Performance-:describes various performing-arts actions.²< :Sciences-:includes all hard-science knowledge and mathematics.²< :Simple Missle Weapons-:involves the use of muscle-powered missle weapons such as bows, boomerangs, and slings.²< :Small Arms-:incudes the use of various gunpowder-powered missle weapons.²< :Social-:covers all society-related skills. This involves such things as ''savoir faire'' and higher-society behavior.²< :Social Sciences-:describes all soft-science and political knowledge.²< :Technical-:covers any higher-tech related activity such as astrogation, navigation, computers, electronics, engineering and the ability to operate electronics.²< :Transportation-:involves the use of any form of transportation found on land, water, air or space.²\ No newline at end of file²
+host:1120514722=70.248.67.21

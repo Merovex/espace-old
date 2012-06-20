@@ -1,0 +1,60 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1293908984
+host=68.33.222.116
+name=AstroEmpires.SideBar
+rev=12
+targets=AstroEmpires.Articles
+text=Astro Empires%0a=========%0a%0a(:if auth edit:)%0a(:newpageboxplus base=AstroEmpires.AstroEmpires prefix={$PageCreationDate}- label="New Blog Entry":)%0a(:ifend:)%0a%0a!!! Guides%0a%0a(:pagelist fmt=title group=AstroEmpires link=Category.Guides order=name :)%0a%0a!!! Articles%0a%0a(:pagelist fmt=title group=AstroEmpires name=2*,1* order=-name count=5:)%0a%0a[[Articles|Older Articles]]%0a>>%3c%3c
+time=1296645627
+author:1296645627=BenWilson
+csum:1296645627=
+diff:1296645627:1296645496:=6a7,14%0a> !!! Translate This Page...%0a> (:translate-this-icon de:)%0a> (:translate-this-icon el:)%0a> (:translate-this-icon es:)%0a> (:translate-this-icon fr:)%0a> (:translate-this-icon it:)%0a> (:translate-this-icon ja:)%0a> (:translate-this-icon pt:)%0a
+host:1296645627=68.33.222.116
+author:1296645496=BenWilson
+csum:1296645496=
+diff:1296645496:1296645211:=1,3c1%0a%3c Astro Empires%0a%3c =========%0a%3c %0a---%0a> >>transparent%3c%3c%0a
+host:1296645496=68.33.222.116
+author:1296645211=BenWilson
+csum:1296645211=
+diff:1296645211:1293985320:=13,16d12%0a%3c %0a%3c !!! Guides%0a%3c %0a%3c (:pagelist fmt=title group=AstroEmpires link=Category.Guides order=name :)%0a
+host:1296645211=68.33.222.116
+author:1293985320=BenWilson
+csum:1293985320=
+diff:1293985320:1293910414:=2,4d1%0a%3c (:if auth edit:)%0a%3c (:newpageboxplus base=AstroEmpires.AstroEmpires prefix={$PageCreationDate}- label="New Blog Entry":)%0a%3c (:ifend:)%0a
+host:1293985320=68.33.222.116
+author:1293910414=BenWilson
+csum:1293910414=
+diff:1293910414:1293910206:=12a13%0a> %0a15d15%0a%3c [[Articles|Older Articles]]%0a
+host:1293910414=68.33.222.116
+author:1293910206=BenWilson
+csum:1293910206=
+diff:1293910206:1293910163:=14c14%0a%3c (:pagelist fmt=title group=AstroEmpires name=2*,1* order=-name count=5:)%0a---%0a> (:pagelist fmt=simple group=AstroEmpires name=2*,1* order=-name count=5:)%0a
+host:1293910206=68.33.222.116
+author:1293910163=BenWilson
+csum:1293910163=
+diff:1293910163:1293910120:=14c14%0a%3c (:pagelist fmt=simple group=AstroEmpires name=2*,1* order=-name count=5:)%0a---%0a> (:pagelist fmt=simple group=AstroEmpires name=2*,1* order=-name:)%0a
+host:1293910163=68.33.222.116
+author:1293910120=BenWilson
+csum:1293910120=
+diff:1293910120:1293909788:=10,15d9%0a%3c %0a%3c !!! Articles%0a%3c %0a%3c %0a%3c (:pagelist fmt=simple group=AstroEmpires name=2*,1* order=-name:)%0a%3c %0a
+host:1293910120=68.33.222.116
+author:1293909788=BenWilson
+csum:1293909788=
+diff:1293909788:1293909654:=2a3%0a> (:translate-this-icon es:)%0a4,7d4%0a%3c (:translate-this-icon el:)%0a%3c (:translate-this-icon es:)%0a%3c (:translate-this-icon fr:)%0a%3c (:translate-this-icon it:)%0a9c6,8%0a%3c (:translate-this-icon pt:)%0a---%0a> (:translate-this-icon pr:)%0a> (:translate-this-icon fr:)%0a> (:translate-this-icon it:)%0a
+host:1293909788=68.33.222.116
+author:1293909654=BenWilson
+csum:1293909654=
+diff:1293909654:1293909126:=6,8d5%0a%3c (:translate-this-icon pr:)%0a%3c (:translate-this-icon fr:)%0a%3c (:translate-this-icon it:)%0a
+host:1293909654=68.33.222.116
+author:1293909126=BenWilson
+csum:1293909126=
+diff:1293909126:1293908984:=1d0%0a%3c >>transparent%3c%3c%0a5,6c4%0a%3c (:translate-this-icon ja:)%0a%3c >>%3c%3c%0a\ No newline at end of file%0a---%0a> (:translate-this-icon ja:)%0a\ No newline at end of file%0a
+host:1293909126=68.33.222.116
+author:1293908984=BenWilson
+csum:1293908984=
+diff:1293908984:1293908984:=1,4d0%0a%3c !!! Translate This Page...%0a%3c (:translate-this-icon es:)%0a%3c (:translate-this-icon de:)%0a%3c (:translate-this-icon ja:)%0a\ No newline at end of file%0a
+host:1293908984=68.33.222.116

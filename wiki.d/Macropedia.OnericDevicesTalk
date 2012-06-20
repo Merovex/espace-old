@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1112642172
+text=''This is an [[OnericDevices]] talk.''²²Cute :)²²Only one question: you haven't mentioned bullets - can't they be made using the Oneric techniques? And if they can, why the first Oneric weapons weren't simply guns with such bullets?²²--²²I don't think so.  The Oneric devices were meant as a return of close melee combat, and projectile weapons are anything but.
+targets=Macropedia.OnericDevices
+author=AaronClausen
+author:1112540862=MateuszCzaplinski
+host:1112540862=83.16.49.165
+diff:1112540862:1112540862:=1,5d0²< ''This is an [[OnericDevices]] talk.''²< ²< Cute :)²< ²< Only one question: you haven't mentioned bullets - can't they be made using the Oneric techniques? And if they can, why the first Oneric weapons weren't simply guns with such bullets?²\ No newline at end of file²
+name=Macropedia.OnericDevicesTalk
+host=64.141.6.11
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.6) Gecko/20050317 Firefox/1.0.2
+rev=2
+author:1112642172=AaronClausen
+host:1112642172=64.141.6.11
+diff:1112642172:1112540862:=5,9c5²< Only one question: you haven't mentioned bullets - can't they be made using the Oneric techniques? And if they can, why the first Oneric weapons weren't simply guns with such bullets?²< ²< --²< ²< I don't think so.  The Oneric devices were meant as a return of close melee combat, and projectile weapons are anything but.²\ No newline at end of file²---²> Only one question: you haven't mentioned bullets - can't they be made using the Oneric techniques? And if they can, why the first Oneric weapons weren't simply guns with such bullets?²\ No newline at end of file²

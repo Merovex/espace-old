@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta51 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6
+author=BenWilson
+host=70.245.12.29
+name=Category.NaturalSciences
+rev=2
+targets=
+text=This category represents all things related to Natural Science.
+time=1122842427
+author:1122842427=BenWilson
+diff:1122842427:1122842402:=1c1,28²< This category represents all things related to Natural Science.²\ No newline at end of file²---²> (:*toc:)²> !! Overview²> ²> With sub-sections, might be helpful to have one overview section to summarize.²> ²> !! In-Text Heading 1²> ²> Sample text²> ²> !! In-Text Heading 2²> ²> (:comment When text exceeds 200 words, should break into sections, ²> separate by in-text headings. When 3 or more headings, leave the ²> TOC macro in place. :)²> ²> Sample text²> ²> !! References²> # Actual Entry²> # First Phantom Entry²> # Second Phantom Entry²> ²> !! Related Articles²> (:pagelist group=Macropedia fmt=simple {$Name}:)²> ²> ----²> *[[!{$Period}Edition]]²> *[[!{$ScholarName}Authored]]²\ No newline at end of file²
+host:1122842427=70.245.12.29
+author:1122842402=BenWilson
+diff:1122842402:1122842402:=1,28d0²< (:*toc:)²< !! Overview²< ²< With sub-sections, might be helpful to have one overview section to summarize.²< ²< !! In-Text Heading 1²< ²< Sample text²< ²< !! In-Text Heading 2²< ²< (:comment When text exceeds 200 words, should break into sections, ²< separate by in-text headings. When 3 or more headings, leave the ²< TOC macro in place. :)²< ²< Sample text²< ²< !! References²< # Actual Entry²< # First Phantom Entry²< # Second Phantom Entry²< ²< !! Related Articles²< (:pagelist group=Macropedia fmt=simple {$Name}:)²< ²< ----²< *[[!{$Period}Edition]]²< *[[!{$ScholarName}Authored]]²\ No newline at end of file²
+host:1122842402=70.245.12.29

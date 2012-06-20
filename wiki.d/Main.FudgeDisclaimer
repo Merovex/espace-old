@@ -1,0 +1,14 @@
+version=pmwiki-2.0.beta51 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6
+author=BenWilson
+host=70.249.56.70
+name=Main.FudgeDisclaimer
+rev=4
+targets=
+text=!! ABOUT FUDGE²²Fudge is a role-playing game written by Steffan O'Sullivan, with extensive input from the Usenet community of rec.games.design. The basic rules of Fudge are available on the internet at http://www.fudgerpg.com and in book form from Grey Ghost Games, P.O. Box 838, Randolph, MA 02368. They may be used with any gaming genre. While an individual work derived from Fudge may specify certain attributes and skills, many more are possible with Fudge. Every Game Master using Fudge is encouraged to add or ignore any character traits. Anyone who wishes to distribute such material for free may do so - merely include this ABOUT FUDGE notice and disclaimer (complete with Fudge copyright notice). If you wish to charge a fee for such material, other than as an article in a magazine or other periodical, [[http://www.fudgerpg.com/ |contact]] Grey Ghost Press.²²For information about publishing your own derivative Fudge works, please visit Grey Ghost's [[http://www.fudgerpg.com/fudge/aboutfudge.html |About Fudge ]] page.²²!! DISCLAIMER²²The following materials based on Fudge, entitled [=E-Space=] Setting Website, are created by, made available by, and Copyright (C) 2004 by the [=E-Space=] Society, and are not necessarily endorsed in any way by any publisher of other Fudge materials. No publisher of other Fudge materials is in any way responsible for the content of these materials unless specifically credited. Original Fudge materials Copyright (C)1992-2004 by Grey Ghost Press, All Rights Reserved.²
+time=1123502819
+author:1123502819=BenWilson
+csum:1123502819=fixed title
+diff:1123502819:1103048045:=1,2c1,2²< !! ABOUT FUDGE²< ²---²> ! ABOUT FUDGE²> ²
+host:1123502819=70.249.56.70

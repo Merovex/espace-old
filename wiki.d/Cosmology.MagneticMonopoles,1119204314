@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1106063572
+text=(:redirect [[NaturalSciences.MagneticMonopoles]]:)
+targets=Cosmology.HyperSpace,Chronology.FirstExpanse,Contributers.JohnUghrin
+author=BenWilson
+author:1103055531=BenWilson
+host:1103055531=10.1.1.74
+diff:1103055531:1103055531:=1,35d0²< %TOC%²< ²< ---++ Magnetic Monopoles²< ²< ---+++ What are they?²< ²< Simply put, Magnetic Monopoles would be a new type of subatomic particle. This particle would have either a North or South magetic charge, but not an electric charge. I imagine they would have mass of slightly less than a proton (if that matters to anyone.)²< ²< Finding one would be like finding a N end of a magnet without finding a S end. They would be attracted to magnetic fields of the opposite flavor and can be manipulated by using electromagnetic fields.²< ²< Additionally, a N and S monopole could pair up and form a bizarre atom which I have dubbed Magnetium. Magnetium could weakly bond with other substances whose molecular or atomic structure provides for something physicists would call a "magnetic moment." Which just means that part of the molecule has slightly magnetic. (This is not uncommon at all.) ²< ²< ---+++ What do they do? Why are they valuable?²< ²< There are a few really important uses for magnetic monopoles:²< ²< ---++++ Fusion Reactors²< ²< Monopoles allow you to build a really strong magnetic field that can easily be manipulated to fire up the plasma reaction for a fusion generator and contain the plasma. ²< ²< ---++++ Ramscoop Drives²< ²< Similarly, monopoles provide you with an easy way to funnel and accelerate particles in a ramscoop drive. This increases the efficiency of such drives greatly.²< ²< ---++++ FTL Travel: HyperSpace²< ²< Through a generally unspecified means. Monopoles are essential for the mechanism that allows brane-hopping.²< ²< ---+++ How do they fit in the timeline?²< ²< Monopoles were _officially_ discovered early in the FirstExpanse, but it took until the middle of that period for them to really take off as a critical resource. Some conspiracy theorists suspect that they were discovered earlier, but were kept a corporate secret. ²< ²< The popularization of the brane-hopping drive lead to a "monopole rush" of smaller prospecting ships zipping out as far as they dared to other stars in search of bountiful asteroid belts. ²< ²< -- [[~JohnUghrin]] - 15 Apr 2004²
+name=Cosmology.MagneticMonopoles
+host=144.167.104.139
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=3
+author:1103055781=BenWilson
+host:1103055781=10.1.1.74
+diff:1103055781:1103055531:minor=31,32c31,32²< Monopoles were _officially_ discovered early in the [[Chronology.FirstExpanse |First Expanse]], but it took until the middle of that period for them to really take off as a critical resource. Some conspiracy theorists suspect that they were discovered earlier, but were kept a corporate secret. ²< ²---²> Monopoles were _officially_ discovered early in the FirstExpanse, but it took until the middle of that period for them to really take off as a critical resource. Some conspiracy theorists suspect that they were discovered earlier, but were kept a corporate secret. ²> ²

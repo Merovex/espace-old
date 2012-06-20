@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1105747025
+text=During the FirstExpanse era. Humans developed the ability to leave normal spacetime and enter Hyperspace. Unfortunately, misunderstanding in the nature of hyperspace lead to the formation of Hyperspace Vortices.²²Ships passing through hyperspace would "swirl" the space around them. At first, this wasn't a problem, but as more and more ships²passed the same optimum travel routes, the vortices grew more powerful. Of course, no one knew why.²²Ships began "hypering in" well off their intended targets. Which was a great inconvenience, but not terribly deadly in the emptiness of space. ²²²-- Guide.JohnUghrin - 08 Mar 2004 <br />²²By the end of the FirstDecline a few colonies had finally discovered means of minimizing hyperspace vortices, and this lead to the formation of the ImperialDominion.²²-- Guide.AaronClausen - 04 Dec 2004 <br />²²'ported over from the old wiki.
+targets=Cosmology.FirstExpanse,Guide.JohnUghrin,Cosmology.FirstDecline,Cosmology.ImperialDominion,Guide.AaronClausen
+author=JohnUghrin
+author:1105747025=JohnUghrin
+host:1105747025=24.164.101.135
+diff:1105747025:1105747025:=1,15d0²< During the FirstExpanse era. Humans developed the ability to leave normal spacetime and enter Hyperspace. Unfortunately, misunderstanding in the nature of hyperspace lead to the formation of Hyperspace Vortices.²< ²< Ships passing through hyperspace would "swirl" the space around them. At first, this wasn't a problem, but as more and more ships²< passed the same optimum travel routes, the vortices grew more powerful. Of course, no one knew why.²< ²< Ships began "hypering in" well off their intended targets. Which was a great inconvenience, but not terribly deadly in the emptiness of space. ²< ²< ²< -- Guide.JohnUghrin - 08 Mar 2004 <br />²< ²< By the end of the FirstDecline a few colonies had finally discovered means of minimizing hyperspace vortices, and this lead to the formation of the ImperialDominion.²< ²< -- Guide.AaronClausen - 04 Dec 2004 <br />²< ²< 'ported over from the old wiki.²\ No newline at end of file²
+name=Cosmology.HyperspaceVortices
+host=24.164.101.135
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

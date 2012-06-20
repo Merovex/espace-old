@@ -1,0 +1,62 @@
+version=pmwiki-2.2.0-beta57 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.5) Gecko/20070713 Firefox/2.0.0.5
+author=AaronClausen
+charset=ISO-8859-1
+csum=Opened up Serema Dabrian article to be written.
+host=70.67.63.106
+name=Macropedia.DabrianDynasty
+rev=22
+targets=Macropedia.CounselOfConcernedScientists,Macropedia.Dalludna,Macropedia.ImperiumEditionIndex,Macropedia.Celtainu,Macropedia.TawmerikDynasty,Macropedia.QannaDabrian,Macropedia.GrandReforms,Macropedia.IvanDabrian,Macropedia.QannaDabrianTwo,Macropedia.EmilDabrian,Macropedia.AntiusTrevusOne,Macropedia.JubalTwo,Macropedia.SeremaDabrian,Macropedia.BalanarThree,Macropedia.JubalThree,Macropedia.JubalFour
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Dabrians were a relatively young noble family that had made its fortune during the early Imperium period as a major backer of the [[Celtainu|Cel-Tainu Astrophysical Research Corporation]].  Under a series of clever patriarchs and matriarchs, the Dabrians slowly grew political power to match their financial strength.  They gained both renown and notoriety for using marriage as a means to gain control of a number of lower, second-tier aristocratic families, as well as key marriages to members of the TawmerikDynasty.%0a%0aBy the time the TawmerikDynasty finally failed due to a series of weak rulers, the Dabrians had maneuvered themselves into position, and the young but brilliant QannaDabrian, who was married to a nephew of the last Tawmerik ruler, was declared Empress.  Unfortunately for the Dabrians, later emperors did not prove as good at managing family and Imperial affairs, and it was largely the mismanagement of the Imperial coffers that lead to the GrandReforms which saw a wane in the political power of the emperors for some generations to come.%0a%0a!! Emperors%0a* [[QannaDabrian|Qanna Dabrian I]]%0a* Niomar Dabrian%0a* Quivar Dabrian I%0a* Balanar Dabrian I%0a* Balanar Dabrian II%0a* Quivar Dabrian II%0a* Jubal I%0a* IvanDabrian%0a* [[QannaDabrianTwo|Qanna Dabrian II]]%0a* EmilDabrian%0a* [[AntiusTrevusOne|Antius Trevus I]]%0a* [[JubalTwo|Jubal II]]%0a* Antius Trevus II%0a* [[Serema Dabrian]]%0a* [[BalanarThree|Balanar III]]%0a* [[JubalThree|Jubal III]]%0a* [[JubalFour|Jubal IV]]%0a%0a!! References%0a# [[Celtainu|Cel-Tainu Astrophysical Research Corporation]]%0a# GrandReforms%0a# QannaDabrian%0a# TawmerikDynasty%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a!! Known Family Tree%0a %0a    From Tawmerik Dynasty %0a Qanna = Lubher%0a       |%0a    Niomar%0a       |%0a   Q(u)ivar%0a     %3c?> indicates an unspecified relationship%0a   Balanar I%0a     %3c?>%0a   Balanar II%0a     %3c?>%0a   Quivar II%0a     %3c?>%0a      |----------------------|%0a   Jubal I                  [?] indicates an unspecified, but implied person%0a      |                      |%0a   Ivan Dabrian        Qanna II (Nilana)%0a                             |-------------------------------|%0a                           Emil                  [?_Korra] = [?]  %0a                             |                             |%0a                       Antius Trevus I (Grand Reforms)    [?]%0a                             |--------------|              | %0a                         Jubal II=Anrika    ?          [Anrika Korra-Dabrian]%0a                                 |%0a                        Antius Trevus II%0a                                %3c?>%0a                               Serema%0a                |----------------|%0a              {Ivan}         Balanar III%0a                |%0a             Jubal III%0a                |%0a             Jubal IV (Interregnum Starts)%0a                 |--------------|%0a               ?[son]           {rumored daughter}%0a %0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1185224080
+author:1185224080=AaronClausen
+csum:1185224080=Opened up Serema Dabrian article to be written.
+diff:1185224080:1129667311:=21c21%0a%3c * [[Serema Dabrian]]%0a---%0a> * Serema Dabrian%0a
+host:1185224080=70.67.63.106
+author:1129667311=BenWilson
+diff:1129667311:1126405121:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667311=144.167.105.115
+author:1126405121=JohnUghrin
+diff:1126405121:1126404972:minor=36,39c36,39%0a%3c  Qanna = Lubher%0a%3c        |%0a%3c     Niomar%0a%3c        |%0a---%0a> Qanna = Lubher%0a>       |%0a>    Niomar%0a>       |%0a41,42d40%0a%3c      %3c?> indicates an unspecified relationship%0a%3c    Balanar I%0a43a42,43%0a>    Balanar I%0a>      %3c?>%0a49c49%0a%3c    Jubal I                  [?] indicates an unspecified, but implied person%0a---%0a>    Jubal I                  [?]%0a
+host:1126405121=24.166.101.248
+author:1126404972=JohnUghrin
+diff:1126404972:1126404883:minor=35d34%0a%3c     From Tawmerik Dynasty %0a
+host:1126404972=24.166.101.248
+author:1126404883=JohnUghrin
+diff:1126404883:1126404269:minor=34d33%0a%3c  %0a63,66c62,65%0a%3c                 |%0a%3c              Jubal III%0a%3c                 |%0a%3c              Jubal IV (Interregnum Starts)%0a---%0a>                                  |%0a>                             Jubal III%0a>                                  |%0a>                              Jubal IV (Interregnum Starts)%0a
+host:1126404883=24.166.101.248
+author:1126404269=JohnUghrin
+diff:1126404269:1126404041:minor=60,61c60,61%0a%3c                 |----------------|%0a%3c               {Ivan}         Balanar III%0a---%0a>                                 %3c?>%0a>                            Balanar III%0a
+host:1126404269=24.166.101.248
+author:1126404041=JohnUghrin
+diff:1126404041:1126403863:=58c58%0a%3c                                 %3c?>%0a---%0a>                                  |%0a60,61d59%0a%3c                                 %3c?>%0a%3c                            Balanar III%0a62a61,62%0a>                            Balanar III%0a>                                  |%0a
+host:1126404041=24.166.101.248
+author:1126403863=JohnUghrin
+diff:1126403863:1126403818:=46c46%0a%3c       |----------------------|%0a---%0a>       |----------------------+%0a50c50%0a%3c                              |-------------------------------|%0a---%0a>                              |-------------------------------+%0a66c66%0a%3c                  |--------------|%0a---%0a>                  +--------------+%0a
+host:1126403863=24.166.101.248
+author:1126403818=JohnUghrin
+diff:1126403818:1126403776:minor=46c46%0a%3c       |----------------------+%0a---%0a>       |----------------------|%0a50c50%0a%3c                              |-------------------------------+%0a---%0a>                              |-------------------------------|%0a66c66%0a%3c                  +--------------+%0a---%0a>                  |--------------|%0a69,70c69,70%0a%3c %0a%3c %0a---%0a> @@%0a> %0a
+host:1126403818=24.166.101.248
+author:1126403776=JohnUghrin
+diff:1126403776:1126403749:=34c34,36%0a%3c Qanna = Lubher%0a---%0a> @@Qanna = Lubher@@ %0a> @@      |%0a>    Niomar%0a36,37d37%0a%3c    Niomar%0a%3c       |%0a
+host:1126403776=24.166.101.248
+author:1126403749=JohnUghrin
+diff:1126403749:1126403642:minor=34,35c34,37%0a%3c @@Qanna = Lubher@@ %0a%3c @@      |%0a---%0a> @@ %0a> %0a> Qanna = Lubher%0a>       |%0a
+host:1126403749=24.166.101.248
+author:1126403642=JohnUghrin
+diff:1126403642:1126403601:minor=34,35c34%0a%3c @@ %0a%3c %0a---%0a> @@%0a70d68%0a%3c  %0a
+host:1126403642=24.166.101.248
+author:1126403601=JohnUghrin
+diff:1126403601:1126403555:=47c47%0a%3c       |----------------------|%0a---%0a>       |----------------------+%0a51c51%0a%3c                              |-------------------------------|%0a---%0a>                              |-------------------------------+%0a67c67%0a%3c                  |--------------|%0a---%0a>                  +--------------+%0a
+host:1126403601=24.166.101.248
+author:1126403555=JohnUghrin
+diff:1126403555:1126403498:=34,35c34%0a%3c @@%0a%3c Qanna = Lubher%0a---%0a> @@Qanna = Lubher%0a68,70c67,68%0a%3c                ?[son]           {rumored daughter}%0a%3c @@%0a%3c %0a---%0a>                ?[son]           {rumored daughter}@@%0a> %0a
+host:1126403555=24.166.101.248
+author:1126403498=JohnUghrin
+csum:1126403498=added family tree
+diff:1126403498:1126400910:=33,68c33%0a%3c !! Known Family Tree%0a%3c @@Qanna = Lubher%0a%3c       |%0a%3c    Niomar%0a%3c       |%0a%3c    Q(u)ivar%0a%3c      %3c?>%0a%3c    Balanar I%0a%3c      %3c?>%0a%3c    Balanar II%0a%3c      %3c?>%0a%3c    Quivar II%0a%3c      %3c?>%0a%3c       |----------------------+%0a%3c    Jubal I                  [?]%0a%3c       |                      |%0a%3c    Ivan Dabrian        Qanna II (Nilana)%0a%3c                              |-------------------------------+%0a%3c                            Emil                  [?_Korra] = [?]  %0a%3c                              |                             |%0a%3c                        Antius Trevus I (Grand Reforms)    [?]%0a%3c                              |--------------|              | %0a%3c                          Jubal II=Anrika    ?          [Anrika Korra-Dabrian]%0a%3c                                  |%0a%3c                         Antius Trevus II%0a%3c                                  |%0a%3c                                Serema%0a%3c                                  |%0a%3c                            Balanar III%0a%3c                                  |%0a%3c                             Jubal III%0a%3c                                  |%0a%3c                              Jubal IV (Interregnum Starts)%0a%3c                  +--------------+%0a%3c                ?[son]           {rumored daughter}@@%0a%3c %0a---%0a> %0a
+host:1126403498=24.166.101.248
+author:1126400910=JohnUghrin
+csum:1126400910=linked in Balanar III
+diff:1126400910:1115405854:=20c20%0a%3c * [[BalanarThree|Balanar III]]%0a---%0a> * Balanar III%0a
+host:1126400910=24.166.101.248

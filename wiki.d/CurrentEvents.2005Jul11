@@ -1,0 +1,19 @@
+version=pmwiki-2.0.beta44 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=CurrentEvents.2005Jul11
+rev=2
+targets=
+text=(:title Lexicon's First Pass Complete!:)²We've been so busy with life and the Lexicon that I've not been able to keep y'all up to date. On June 30, 2005 we finished our first 26 turns through the Lexicon. Well over 100 entries were written, and dozens more await. Now we'll be going back through the various letters to complete as many entries as we can. Hopefully by the anniversary we can say we are finished.²
+time=1121136693
+title=Lexicon's First Pass Complete!
+author:1121136693=BenWilson
+csum:1121136693=fixed title
+diff:1121136693:1121136679:=1c1²< (:title Lexicon's First Pass Complete!:)²---²> (:Lexicon's First Pass Complete!:)²
+host:1121136693=70.248.67.21
+author:1121136679=BenWilson
+csum:1121136679=Initially Written
+diff:1121136679:1121136679:=1,2d0²< (:Lexicon's First Pass Complete!:)²< We've been so busy with life and the Lexicon that I've not been able to keep y'all up to date. On June 30, 2005 we finished our first 26 turns through the Lexicon. Well over 100 entries were written, and dozens more await. Now we'll be going back through the various letters to complete as many entries as we can. Hopefully by the anniversary we can say we are finished.²
+host:1121136679=70.248.67.21

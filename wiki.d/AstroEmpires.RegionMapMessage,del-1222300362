@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.6) Gecko/20061201 Firefox/2.0.0.6 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1191095251
+host=69.243.109.103
+name=AstroEmpires.RegionMapMessage
+rev=2
+targets=
+text=Do me a favor. Since I have several to manage, would you mind inputing your bases into my [url='http://espacesociety.org/scout.html']Scout Interface[/url]?. Also, if you are able to scout out any other guild bases (ours, theirs), please put those in as well. This all feeds into my [url='http://espacesociety.org/AstroEmpires.RegionMap']Region Mapping[/url] activity. This way, when war breaks out we'll already have the hostiles dialed in.%0a%0aThanks for your help.%0a%0aBen Wilson
+time=1191095343
+author:1191095343=BenWilson
+csum:1191095343=
+diff:1191095343:1191095251:=2,3d1%0a%3c %0a%3c Thanks for your help.%0a
+host:1191095343=69.243.109.103
+author:1191095251=BenWilson
+csum:1191095251=
+diff:1191095251:1191095251:=1,3d0%0a%3c Do me a favor. Since I have several to manage, would you mind inputing your bases into my [url='http://espacesociety.org/scout.html']Scout Interface[/url]?. Also, if you are able to scout out any other guild bases (ours, theirs), please put those in as well. This all feeds into my [url='http://espacesociety.org/AstroEmpires.RegionMap']Region Mapping[/url] activity. This way, when war breaks out we'll already have the hostiles dialed in.%0a%3c %0a%3c Ben Wilson%0a\ No newline at end of file%0a
+host:1191095251=69.243.109.103

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1321488034
+host=69.140.6.80
+name=EveOnline.RecommendedSkills-Tackling
+rev=3
+targets=
+text=Tackling Skills%0a===============%0a%0a[[#tac]]%0aAll PvP combat pilots need to train up on tackling skills. These are the skills you need to prevent a target from escaping. These are usually the first combat skills learned by new pilots, because they are easy to master, and because they are highly valued, especially in fleet.%0a%0a{|%0a|-%0a! width=30%25|Skill%0a! width=40%25|Benefit/Why%0a! colspan=2|Burn Rate%0a|-%0a| Energy Emission Systems(IV+)%0a| Fit energy neutralizers. This is particularly valuable for Amarr pilots looking at the T2 Curse, Pilgrim, and Sentinel. (Also in Capacitor and Shield Tanking, above.)%0a|(:eveskill type=IM v=512:)%0a%0a|-%0a| Propulsion Jamming (IV+)%0a| -5%25 capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers%0a|(:eveskill type=IM v=768:)%0a|}%0a%0aIf you ever plan to venture into 0.0 space, you might also consider training Anchoring to Level II or more. This skill is used to deploy various items in space, including mobile warp disruptors – you’ll need this to set up warp disruption bubbles in null-sec space. By the way, Anchoring is also useful for setting storage containers in space, which is helpful if you plan to make some ISK as a miner.
+time=1325124115
+author:1325124115=BenWilson
+csum:1325124115=
+diff:1325124115:1325124105:=21c21%0a%3c |}%0a---%0a> %0a
+host:1325124115=69.140.6.80
+author:1325124105=BenWilson
+csum:1325124105=
+diff:1325124105:1321488034:=7,21c7,9%0a%3c {|%0a%3c |-%0a%3c ! width=30%25|Skill%0a%3c ! width=40%25|Benefit/Why%0a%3c ! colspan=2|Burn Rate%0a%3c |-%0a%3c | Energy Emission Systems(IV+)%0a%3c | Fit energy neutralizers. This is particularly valuable for Amarr pilots looking at the T2 Curse, Pilgrim, and Sentinel. (Also in Capacitor and Shield Tanking, above.)%0a%3c |(:eveskill type=IM v=512:)%0a%3c %0a%3c |-%0a%3c | Propulsion Jamming (IV+)%0a%3c | -5%25 capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers%0a%3c |(:eveskill type=IM v=768:)%0a%3c %0a---%0a> Plan to train Propulsion Jamming to Level IV or higher, for a 5%25 reduction to warp scrambler and stasis web capacitor need per skill level, and to fit effective scramblers, disruptors and webifiers.%0a> %0a> Train Energy Emission Systems to Level IV also, to fit energy neutralizers to kill your target's capacitor energy. This is particularly valuable for Amarr pilots looking at the t2 Curse, Pilgrim, and Sentinel.%0a
+host:1325124105=69.140.6.80
+author:1321488034=BenWilson
+csum:1321488034=
+diff:1321488034:1321488034:=1,11d0%0a%3c Tackling Skills%0a%3c ===============%0a%3c %0a%3c [[#tac]]%0a%3c All PvP combat pilots need to train up on tackling skills. These are the skills you need to prevent a target from escaping. These are usually the first combat skills learned by new pilots, because they are easy to master, and because they are highly valued, especially in fleet.%0a%3c %0a%3c Plan to train Propulsion Jamming to Level IV or higher, for a 5%25 reduction to warp scrambler and stasis web capacitor need per skill level, and to fit effective scramblers, disruptors and webifiers.%0a%3c %0a%3c Train Energy Emission Systems to Level IV also, to fit energy neutralizers to kill your target's capacitor energy. This is particularly valuable for Amarr pilots looking at the t2 Curse, Pilgrim, and Sentinel.%0a%3c %0a%3c If you ever plan to venture into 0.0 space, you might also consider training Anchoring to Level II or more. This skill is used to deploy various items in space, including mobile warp disruptors – you’ll need this to set up warp disruption bubbles in null-sec space. By the way, Anchoring is also useful for setting storage containers in space, which is helpful if you plan to make some ISK as a miner.%0a\ No newline at end of file%0a
+host:1321488034=69.140.6.80

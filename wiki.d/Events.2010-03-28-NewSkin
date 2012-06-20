@@ -1,0 +1,26 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=68.33.222.116
+name=Events.2010-03-28-NewSkin
+rev=4
+targets=AstroEmpires.AstroEmpires
+text='''March 23, 2010.'''%0a[[#teaser]]If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a%0a[[#body]]%0aI've also been thinking about how to make the site more useful; so stay tuned for updates.%0a%0aOn other news, for the past three years, I've been creating a series of [[AstroEmpires|Astro Empires guides]] that provide a view into how the game functions. Through they years, I've received scores of comments; usually thanking me for helping light the way.%0a(:title New Skin:)
+time=1293916622
+title=New Skin
+author:1293916622=BenWilson
+csum:1293916622=
+diff:1293916622:1269799783:=1,4c1,2%0a%3c '''March 23, 2010.'''%0a%3c [[#teaser]]If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a%3c %0a%3c [[#body]]%0a---%0a> '''March 23, 2010.''' If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a> %0a
+host:1293916622=68.33.222.116
+author:1269799783=BenWilson
+csum:1269799783=
+diff:1269799783:1269799663:=1,2c1,2%0a%3c '''March 23, 2010.''' If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a%3c %0a---%0a> If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a> %0a4,5d3%0a%3c %0a%3c On other news, for the past three years, I've been creating a series of [[AstroEmpires|Astro Empires guides]] that provide a view into how the game functions. Through they years, I've received scores of comments; usually thanking me for helping light the way.%0a
+host:1269799783=68.48.114.50
+author:1269799663=BenWilson
+csum:1269799663=
+diff:1269799663:1269799534:=1,4d0%0a%3c If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.%0a%3c %0a%3c I've also been thinking about how to make the site more useful; so stay tuned for updates.%0a%3c (:title New Skin:)%0a\ No newline at end of file%0a
+host:1269799663=68.48.114.50
+author:1269799534=BenWilson
+host:1269799534=68.48.114.50

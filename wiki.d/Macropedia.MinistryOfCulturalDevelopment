@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.MinistryOfCulturalDevelopment
+rev=3
+targets=Macropedia.MotherMemoryCore,Macropedia.MuzigleFiasco,Macropedia.ImperiumEdition,Macropedia.TembaTwo,Macropedia.GrandReforms,Macropedia.HjansKrebLakol,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aImperium government ministry, founded out of the merger of a number of departments by [[TembaTwo|Temba II]] as part of his sweeping plans to produce a galactic culture.  Given a vast budget, its purpose was to finance and manage various cultural projects such as theaters, symphonies, museums and fairs.%0a%0aWithin a few generations the Ministry had become a place for Emperors and politicians to stick patronage appointees.  Its large budget often ended up either being spent on ill-conceived projects or outright misappropriated by directors.%0a%0aPart of the GrandReforms was a major overhaul of the Ministry, which was delivered from the hands of patronage appointees.  Those reforms were relatively shortlived, and the Ministry was finally abolished by Premiere HjansKrebLakol, its budget redirected directly into the Premiere's office.%0a%0a!! References%0a# GrandReforms%0a# HjansKrebLakol%0a# [[TembaTwo|Temba II]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129670372
+author:1129670372=BenWilson
+diff:1129670372:1127244728:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670372=144.167.105.115
+author:1127244728=AaronClausen
+csum:1127244728=Completed article
+diff:1127244728:1115126734:=1,12c1,8%0a%3c Imperium government ministry, founded out of the merger of a number of departments by [[TembaTwo|Temba II]] as part of his sweeping plans to produce a galactic culture.  Given a vast budget, its purpose was to finance and manage various cultural projects such as theaters, symphonies, museums and fairs.%0a%3c %0a%3c Within a few generations the Ministry had become a place for Emperors and politicians to stick patronage appointees.  Its large budget often ended up either being spent on ill-conceived projects or outright misappropriated by directors.%0a%3c %0a%3c Part of the GrandReforms was a major overhaul of the Ministry, which was delivered from the hands of patronage appointees.  Those reforms were relatively shortlived, and the Ministry was finally abolished by Premiere HjansKrebLakol, its budget redirected directly into the Premiere's office.%0a%3c %0a%3c !! References%0a%3c # GrandReforms%0a%3c # HjansKrebLakol%0a%3c # [[TembaTwo|Temba II]]%0a%3c %0a%3c !! Related Articles%0a---%0a> %0a> %0a> ----%0a> !!! References%0a> # Article1%0a> # Article2%0a> %0a> !!! Related Articles%0a16c12%0a%3c [[!ImperiumEdition]] [[!ChangSinghAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1127244728=64.141.6.11

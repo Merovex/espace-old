@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.TaoSunni
+rev=6
+targets=Macropedia.SedrenTawmerik,Macropedia.TawmerikDynasty,Macropedia.ImperiumEdition,Macropedia.QuijradLkradaWars,Macropedia.AlaerianCult,StarSystems.AlAidraSystem,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Tao Sunni religion is an unusual "pidgeon" religion formed sometime in the distant past on Terra itself. While like most "spiritual" religions, the Tao Sunni have little in the way of rational thought to offer, they do offer their followers an odd mix of peace and internal struggle. What little solid evidence can be had of the sects origins indicate that two Terran religions "Dhaoism" and "Islam" where in contact with each other from ancient times. Nothing indicates their union or particular compatibility until almost the advent of the Tao Sunni sect. While not firm evidence, stories from within the modern group indicate that followers of the two religions met in a land foreign to both, and somehow managed to merge their philosophies into one reasonably coherent whole.%0a%0aAt the beginning of the ADEM era, the Tao Sunni had only two remaining colonies, one of which (Iadia) was dying as the after-affects of an unusual astronomical phenomenon often misinterpreted as an alien attack. However, the religion became quite fashionable among the educated for some time during the early years of the Imperium.%0a%0aThe religion itself has many similarities in detail to the AlaerianCult, although in practice they were very different. The persistent pacifism espoused by the Tao Sunnis frustrated much of the Imperium's recruiting efforts among the academically elite in the early Imperium. The group persisted for some time with its center on the remaining colony StarSystems/AlAidraSystem. However, that system was an important mining resource, and a convenient stop for smugglers of various sorts. The colony was overwhelmed by immigrant miners and miscreants. It was practically destroyed in the second [[QuijradLkradaWars|Quijrad Lkrada War]].%0a%0a!! References%0a# AlaerianCult%0a# QuijradLkradaWars%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129672304
+author:1129672304=BenWilson
+diff:1129672304:1121034029:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672304=144.167.105.115

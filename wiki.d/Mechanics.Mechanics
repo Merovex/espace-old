@@ -1,0 +1,19 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=Mechanics.Mechanics
+rev=4
+targets=Mechanics.StarSystemDesign,Mechanics.FudgeRules
+text=The pages in this section present one (or more) perspective(s) on VERB a role-playing game. The original intent was to have a good Science Fiction setting for Fudge. That intent remains, although the focus is more on the worldbuilding rather than the role-playing aspect of the setting.²²Most of the material presented on this site is meant to serve as general background for a role-playing group's campaign. The idea was to have a "Macro" setting from which GMs could feel free to create their own campaigns. If they wanted, they could also contribute the material from their campaign into the macro setting; in effect, enriching the overall setting. However, our original goal was to provide the right "hooks" to allow campaigns to act totally independent of the main setting.²²So, when we talk about a StarSystemDesign, we are merely offering a somewhat Fudgeified way of doing so. If you are familiar with Fudge,  then you know that the core design characteristic of Fudge is that it has few, if any, core rules. Everything can essentially be home-rules. So, take what we offer as a suggestion and have fun. In some cases, we may present several different and contradictory approaches. I think that is in the spirit of Fudge. If you don't like how I do it, then find your own way (but still respect me tomorrow).²²This page also serves as a catch-all for this group. The page listing below is automatically generated.²²[[FudgeRules]]²²(:pagelist group=Mechanics:)
+time=1120514658
+author:1120514658=BenWilson
+diff:1120514658:1120514648:=9,10c9,10²< [[FudgeRules]]²< ²---²> FudgeRules²> ²
+host:1120514658=70.248.67.21
+author:1120514648=BenWilson
+diff:1120514648:1119817155:=9,10d8²< FudgeRules²< ²
+host:1120514648=70.248.67.21
+author:1119817155=BenWilson
+diff:1119817155:1105934539:=0a1,2²> ! Mechanics²> ²
+host:1119817155=70.248.67.21

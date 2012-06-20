@@ -1,0 +1,13 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.LiuNoRiMasters
+rev=3
+targets=Macropedia.LibrarianSociety,Macropedia.LastChargeOfLightHorse,Macropedia.ImperiumEdition,Macropedia.Heljyks,Macropedia.DinzwarGefera,Macropedia.QannaDabrianTwo,Macropedia.OnericDevices,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=(:title Liu-No-Ri Masters:)%3c%3c|ImperiumEditionIndex|>>%0a%0aAs the Imperium came into conflict with the [[Heljyks]], most long rang tactics were becoming ineffective. The rebirth of melee combat mixed with the rise of spirituality to produce the Liu-No-Ri Masters. A small group of veterans in the DinzwarGefera gave up their use of mind-altering substances to pursue a "purity of body, soul, and action." They developed a very effective combat style using the weapons of the time. They gained a great reputation, and remained within the DinzwarGefera.%0a%0aSometime late in the reign of [[QannaDabrianTwo|Qanna Dabrian II]], the Masters obtained independence from, or were made independent of, the DinzwarGefera. The details of that change are somewhat muddled, apparently due to lapse record-keeping among the mercenaries. This is especially the case since many of the masters still operated with the mercenaries on occasion. With that independence, the masters set up monasteries on several worlds. Interestingsly enough, they chose worlds that were "out of the way" or remote from the bustle of the Imperium Core. %0a%0aIn spite of this, their fame grew, and so did their reputation. In particular, their reputation appears to have grown without regard to historical evidence of their potency or effectiveness in combat. Nonetheless, when they introduced combat with their OnericDevices, they brought a new level of fear and apprehension to the field. While the devices were only briefly secret, they are forever associated with these monks.  %0a%0a%0a----%0a!! References%0a# DinzwarGefera%0a# [[Heljyks]]%0a# OnericDevices%0a# [[QannaDabrianTwo|Qanna Dabrian II]]%0a----%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ChoMinhTelRanAuthored]] [[!ImperiumEdition]]
+time=1129668437
+title=Liu-No-Ri Masters
+author:1129668437=BenWilson
+diff:1129668437:1112541749:=1,2c1,2%0a%3c (:title Liu-No-Ri Masters:)%3c%3c|ImperiumEdition|>>%0a%3c %0a---%0a> ! Liu-No-Ri Masters%0a> %0a
+host:1129668437=144.167.105.115

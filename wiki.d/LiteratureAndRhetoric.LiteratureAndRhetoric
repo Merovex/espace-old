@@ -1,0 +1,20 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+excerpt=%3ch2>%3cspan class='wikiword'>%3ca class='wikilink' href='http://espace.gmtoolbox.org/Scholar/ChangSingh'>Chang Singh%3c/a>%3c/span>%3c/h2>%0a%3cul>%3cli>%3ca class='wikilink' href='http://espace.gmtoolbox.org/LiteratureAndRhetoric/MythsDecline'>Myths of the Decline%3c/a> - Collected by the famed scholar %3cspan class='wikiword'>%3ca class='wikilink' href='http://espace.gmtoolbox.org/Scholar/ChangSingh'>Chang Singh%3c/a>%3c/span>, this important work traces many of the legends, myths and fables that grew during the dark period that followed the failure of FTL travel.%0a%3c/li>%3c/ul>%3cp class='vspace'>%3c/p>%3ch2>%3cspan class='wikiwo
+host=70.252.86.42
+name=LiteratureAndRhetoric.LiteratureAndRhetoric
+rev=7
+targets=Scholar.ChangSingh,LiteratureAndRhetoric.MythsDecline,Macropedia.JanoosWelkred,LiteratureAndRhetoric.RepublicanPapers,LiteratureAndRhetoric.TaleCounterRevolution,Macropedia.NazirAlShamuth,LiteratureAndRhetoric.LifeTimesFurnoklinTaschera,Macropedia.FurnoklinTaschera,LiteratureAndRhetoric.LoyalReformerEssays,Macropedia.KuberianMovement,LiteratureAndRhetoric.UniverseUnionEmpiresMindSoul,LiteratureAndRhetoric.RecentChanges
+text=!! Scholar/ChangSingh%0a* [[MythsDecline|Myths of the Decline]] - Collected by the famed scholar Scholar/ChangSingh, this important work traces many of the legends, myths and fables that grew during the dark period that followed the failure of FTL travel.%0a%0a!! Macropedia/JanoosWelkred%0a* The RepublicanPapers%0a* [[TaleCounterRevolution|A Tale of Counter-revolution]]%0a%0a!! Macropedia/NazirAlShamuth%0a* [[LifeTimesFurnoklinTaschera|The Life and Times of Furnoklin Taschera]] [-(see also Macropedia/FurnoklinTaschera)-]%0a* [[LoyalReformerEssays|A Loyal Reformer's Essays]]%0a%0a!! Hans Richter Kuber (see Macropedia/KuberianMovement)%0a* [[UniverseUnionEmpiresMindSoul|Universe Union and Empires of the Mind and Soul]]%0a%0aThis is a manually updated list of topics that fit into the '''Literature and Rhetoric''' Category.%0a%0aIf you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a%0a----%0a%0a(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a(:pagelist group={$Group} fmt=#list:)%0a%0a
+time=1137980516
+author:1137980516=BenWilson
+csum:1137980516=
+diff:1137980516:1117572613:=0a1,2%0a> ! Literature and Rhetoric%0a> %0a22,23c24,25%0a%3c (:pagelist group={$Group} fmt=#list:)%0a%3c %0a---%0a> (:pagelist group={$Group}:)%0a> %0a
+host:1137980516=70.252.86.42
+author:1117572613=AaronClausen
+diff:1117572613:1110405576:=14,16d13%0a%3c !! Hans Richter Kuber (see Macropedia/KuberianMovement)%0a%3c * [[UniverseUnionEmpiresMindSoul|Universe Union and Empires of the Mind and Soul]]%0a%3c %0a
+host:1117572613=64.141.6.11
+author:1110405576=AaronClausen
+diff:1110405576:1109012262:=10,13d9%0a%3c !! Macropedia/NazirAlShamuth%0a%3c * [[LifeTimesFurnoklinTaschera|The Life and Times of Furnoklin Taschera]] [-(see also Macropedia/FurnoklinTaschera)-]%0a%3c * [[LoyalReformerEssays|A Loyal Reformer's Essays]]%0a%3c %0a
+host:1110405576=64.141.6.11

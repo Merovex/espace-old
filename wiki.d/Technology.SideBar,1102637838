@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1102637656
+text=  * MicroDrives²  * MacroDrives²* Computers²* PowerPlants²* Communications²* Sensors²* Combats²* MicroSettings
+targets=Technology.MicroDrives,Technology.MacroDrives,Technology.PowerPlants,Technology.MicroSettings
+author=BenWilson
+author:1102637643=BenWilson
+host:1102637643=10.1.1.74
+diff:1102637643:1102637643:=1,8d0²< * MicroDrives²< * MacroDrives²< * Computers²< * PowerPlants²< * Communications²< * Sensors²< * Combats²< * MicroSettings²\ No newline at end of file²
+name=Technology.SideBar
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1102637656=BenWilson
+host:1102637656=10.1.1.74
+diff:1102637656:1102637643:=1,2c1,2²<   * MicroDrives²<   * MacroDrives²---²> * MicroDrives²> * MacroDrives²

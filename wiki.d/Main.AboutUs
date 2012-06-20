@@ -1,0 +1,32 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1287247789
+host=69.140.6.80
+name=Main.AboutUs
+rev=5
+targets=
+text=Everyspace Society%0a==================%0a%0aThe Everyspace collaborative Sci-Fi milieu grew from the Fudge RPG's lack of a setting of this type. The material is suitable for stand-along campaigns and fiction writing.%0a%0aBecause of its Sci-Fi nature, Everyspace became a home for popular [[http://www.astroempires.com|Astro Empires]] guides. Some aspects of AE's game cross-pollinated with E-Space in interesting ways.%0a%0aEveryspace is also the milieu source for some novels in Ben Wilson's [[http://www.dausha.net/Books|Pax Imperium Terradoma]] series.
+time=1316307606
+author:1316307606=BenWilson
+csum:1316307606=
+diff:1316307606:1287252039:=8c8%0a%3c Everyspace is also the milieu source for some novels in Ben Wilson's [[http://www.dausha.net/Books|Pax Imperium Terradoma]] series.%0a\ No newline at end of file%0a---%0a> Everyspace is also the milieu source for some [[http://www.dausha.net/Books|novels]].%0a\ No newline at end of file%0a
+host:1316307606=69.140.6.80
+author:1287252039=BenWilson
+csum:1287252039=
+diff:1287252039:1287248360:=4,8c4%0a%3c The Everyspace collaborative Sci-Fi milieu grew from the Fudge RPG's lack of a setting of this type. The material is suitable for stand-along campaigns and fiction writing.%0a%3c %0a%3c Because of its Sci-Fi nature, Everyspace became a home for popular [[http://www.astroempires.com|Astro Empires]] guides. Some aspects of AE's game cross-pollinated with E-Space in interesting ways.%0a%3c %0a%3c Everyspace is also the milieu source for some [[http://www.dausha.net/Books|novels]].%0a\ No newline at end of file%0a---%0a> The Everyspace collaborative Sci-Fi milieu grew from the Fudge RPG's lack of a setting of this type. The material is suitable for stand-along campaigns and fiction writing.%0a\ No newline at end of file%0a
+host:1287252039=68.33.222.116
+author:1287248360=BenWilson
+csum:1287248360=
+diff:1287248360:1287248028:=4c4%0a%3c The Everyspace collaborative Sci-Fi milieu grew from the Fudge RPG's lack of a setting of this type. The material is suitable for stand-along campaigns and fiction writing.%0a\ No newline at end of file%0a---%0a> Everyspace grew from the Fudge RPG's need for a Sci-Fi milieu and became a collaborative milieu.%0a\ No newline at end of file%0a
+host:1287248360=68.33.222.116
+author:1287248028=BenWilson
+csum:1287248028=
+diff:1287248028:1287247789:=4c4%0a%3c Everyspace grew from the Fudge RPG's need for a Sci-Fi milieu and became a collaborative milieu.%0a\ No newline at end of file%0a---%0a> A%0a\ No newline at end of file%0a
+host:1287248028=68.33.222.116
+author:1287247789=BenWilson
+csum:1287247789=
+diff:1287247789:1287247789:=1,4d0%0a%3c Everyspace Society%0a%3c ==================%0a%3c %0a%3c A%0a\ No newline at end of file%0a
+host:1287247789=68.33.222.116

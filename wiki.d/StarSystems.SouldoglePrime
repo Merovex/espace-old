@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=144.167.104.139
+name=StarSystems.SouldoglePrime
+rev=3
+targets=StarSystems.ProcyonSystem
+text=!! Overview²²Souldogle Prime is the first an only world orbiting [[ProcyonSystem|Alpha Procyon]]. While during the Imperial era it considered itself independent, it is described more fully in the ProcyonSystem Entry.²²!! Stellar Data²²²!! Planets²²²!! A Habitable/Significant Planet²²:Gravity%dlstar%: Incomplete²:Habitat: Incomplete²:Colony: Incomplete²:Resources: Incomplete²²!! History²²!!! Discovery²²!!! Early Colonization²²!!! Epoch²²!!! Epoch²²!! References²# ²²!! Related Articles²(:pagelist fmt=simple {$Name}:)
+time=1120002720
+author:1120002720=BenWilson
+diff:1120002720:1109609614:=1,2c1,2²< !! Overview²< ²---²> !! Souldogle Prime²> ²5,32c5,6²< !! Stellar Data²< ²< ²< !! Planets²< ²< ²< !! A Habitable/Significant Planet²< ²< :Gravity%dlstar%: Incomplete²< :Habitat: Incomplete²< :Colony: Incomplete²< :Resources: Incomplete²< ²< !! History²< ²< !!! Discovery²< ²< !!! Early Colonization²< ²< !!! Epoch²< ²< !!! Epoch²< ²< !! References²< # ²< ²< !! Related Articles²< (:pagelist fmt=simple {$Name}:)²\ No newline at end of file²---²> !! Related Pages²> (:pagelist group=Macropedia {$Name}:)²
+host:1120002720=144.167.104.139

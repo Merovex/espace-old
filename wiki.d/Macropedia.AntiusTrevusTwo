@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.12) Gecko/20050919 Firefox/1.0.7
+author=MateuszCzaplinski
+ctime=1137873916
+excerpt=%3cp>(:redirect %3cspan class='wikiword'>%3ca class='wikilink' href='http://www.gmtoolbox.org/espace/Macropedia/DabrianDynasty'>Dabrian Dynasty%3c/a>%3c/span>:)%0a%3c/p>%0a
+host=83.16.49.165
+name=Macropedia.AntiusTrevusTwo
+rev=1
+targets=Macropedia.DabrianDynasty
+text=(:redirect DabrianDynasty:)
+time=1137873916
+author:1137873916=MateuszCzaplinski
+csum:1137873916=a redirect as for now
+diff:1137873916:1137873916:minor=1d0%0a%3c (:redirect DabrianDynasty:)%0a\ No newline at end of file%0a
+host:1137873916=83.16.49.165

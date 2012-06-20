@@ -1,0 +1,24 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1319293575
+host=69.140.6.80
+name=Milieu.Corporations
+rev=3
+targets=
+text=Attributes:%0a%0a* Revenue%0a* Employees%0a* Facilities%0a* Presence%0a* Product Lines%0a* Customer Satisfaction%0a* Employee Satisfaction%0a* Public Relations%0a----%0a* Size%0a* Value%0a* Social%0a* Wealth
+time=1319293957
+author:1319293957=BenWilson
+csum:1319293957=
+diff:1319293957:1319293921:=11c11%0a%3c ----%0a---%0a> %0a
+host:1319293957=69.140.6.80
+author:1319293921=BenWilson
+csum:1319293921=
+diff:1319293921:1319293575:=0a1%0a> %0a10,15c11%0a%3c * Public Relations%0a%3c %0a%3c * Size%0a%3c * Value%0a%3c * Social%0a%3c * Wealth%0a\ No newline at end of file%0a---%0a> * Public Relations%0a\ No newline at end of file%0a
+host:1319293921=69.140.6.80
+author:1319293575=BenWilson
+csum:1319293575=
+diff:1319293575:1319293575:=1,11d0%0a%3c %0a%3c Attributes:%0a%3c %0a%3c * Revenue%0a%3c * Employees%0a%3c * Facilities%0a%3c * Presence%0a%3c * Product Lines%0a%3c * Customer Satisfaction%0a%3c * Employee Satisfaction%0a%3c * Public Relations%0a\ No newline at end of file%0a
+host:1319293575=69.140.6.80

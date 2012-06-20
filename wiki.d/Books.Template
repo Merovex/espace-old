@@ -1,0 +1,15 @@
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1338771174
+host=127.0.0.1
+name=Books.Template
+rev=1
+targets=Characters.YannAzarola,Characters.KermanoOchoa,Characters.SendaoLitovio,Characters.DanelBophendze
+text=(:*toc:)%0a%0a%0aCharacters%0a========%0a%0a* [[Characters/YannAzarola|+]], Hero%0a* [[Characters/KermanoOchoa|+]], Opposition%0a* [[Characters/SendaoLitovio|+]], Confidant%0a* [[Characters/DanelBophendze|+]]%0a%0aSummary%0a=======%0a%0a%0aBack Cover%0a=========%0a
+time=1338771174
+author:1338771174=BenWilson
+diff:1338771174:1338771174:=1,17d0%0a%3c (:*toc:)%0a%3c %0a%3c %0a%3c Characters%0a%3c ========%0a%3c %0a%3c * [[Characters/YannAzarola|+]], Hero%0a%3c * [[Characters/KermanoOchoa|+]], Opposition%0a%3c * [[Characters/SendaoLitovio|+]], Confidant%0a%3c * [[Characters/DanelBophendze|+]]%0a%3c %0a%3c Summary%0a%3c =======%0a%3c %0a%3c %0a%3c Back Cover%0a%3c =========%0a
+host:1338771174=127.0.0.1

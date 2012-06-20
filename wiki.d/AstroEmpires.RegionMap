@@ -1,0 +1,24 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.11) Gecko/20071204 Ubuntu/7.10 (gutsy) Firefox/2.0.0.11
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1190894253
+host=69.243.109.103
+name=AstroEmpires.RegionMap
+rev=7
+targets=
+text={$AERegionMap}%0a%0a(:ae-map-region:)
+time=1198703983
+author:1190894524=BenWilson
+csum:1190894524=
+diff:1190894524:1190894396:=1,3c1%0a%3c {$AERegionMap}%0a%3c %0a%3c (:ae-map-region:)%0a\ No newline at end of file%0a---%0a> {$AERegionMap}%0a\ No newline at end of file%0a
+host:1190894524=64.124.158.130
+author:1190894396=BenWilson
+csum:1190894396=
+diff:1190894396:1190894253:=1c1%0a%3c {$AERegionMap}%0a\ No newline at end of file%0a---%0a> {$RegionMap}%0a\ No newline at end of file%0a
+host:1190894396=64.124.158.130
+author:1190894253=BenWilson
+csum:1190894253=
+diff:1190894253:1190894253:=1d0%0a%3c {$RegionMap}%0a\ No newline at end of file%0a
+host:1190894253=64.124.158.130

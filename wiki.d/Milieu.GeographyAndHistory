@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1188597750
+host=69.243.109.103
+name=Milieu.GeographyAndHistory
+rev=1
+targets=
+text=(:pagelist group=%25newwin%25[[GeographyAndHistory/GeographyAndHistory|GeographyAndHistory]] fmt=simple:) %0a(:pagelist group=Geography fmt=simple:)%0a(:pagelist group=%25newwin%25[[StarSystems/StarSystems|StarSystems]] fmt=simple:)%0a(:pagelist group=History fmt=simple:)%0a(:pagelist group=Chronology fmt=simple:)
+time=1188597750
+author:1188597750=BenWilson
+csum:1188597750=
+diff:1188597750:1188597750:=1,5d0%0a%3c (:pagelist group=%25newwin%25[[GeographyAndHistory/GeographyAndHistory|GeographyAndHistory]] fmt=simple:) %0a%3c (:pagelist group=Geography fmt=simple:)%0a%3c (:pagelist group=%25newwin%25[[StarSystems/StarSystems|StarSystems]] fmt=simple:)%0a%3c (:pagelist group=History fmt=simple:)%0a%3c (:pagelist group=Chronology fmt=simple:)%0a\ No newline at end of file%0a
+host:1188597750=69.243.109.103

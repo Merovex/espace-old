@@ -1,0 +1,15 @@
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1338758319
+host=127.0.0.1
+name=Setting.Setting
+rev=1
+targets=
+text=(:pagelist group={$Group}:)
+time=1338758319
+author:1338758319=BenWilson
+diff:1338758319:1338758319:=1d0%0a%3c (:pagelist group={$Group}:)%0a\ No newline at end of file%0a
+host:1338758319=127.0.0.1

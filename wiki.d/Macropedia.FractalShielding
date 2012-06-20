@@ -1,0 +1,21 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+host=70.249.188.200
+name=Macropedia.FractalShielding
+rev=4
+targets=Macropedia.FemaronFelard,Macropedia.FrontierRebellion,Macropedia.ImperiumEditionIndex,Macropedia.ImperiumEquipmentIndex,Macropedia.UnstableParticleProjectors,Macropedia.DaoJihnCorp,Category.ImperiumEdition,Category.IsaacTaub,Category.ImperiumEquipment
+text=%3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a%3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%0a'''Fractal Shielding''' was developed to deter the use of [[unstable particle projectors]]. Those projectors were dubbed the shotgun of stellar combat. They were inaccurate but had a wide arc of devistation.%0a%0aFractal Shielding was created by ship generators that were able to create a weak Soup bubble around the ship. These bubbles were able to vent away much of the harmful effects of the projectors. The generators were developed by the masterminds at the [[Dao Jihn Corp]]oration.%0a%0aThe original goal of the shielding was to create a narrow beam that would rip a hole in to the Soup--preferably within the enemy ship. Dao engineers were unable to focus the field and found that it had the effect of absorbing energy weapons. What they chose to ignore is the potential hop pollution effects caused as a result.%0a%0a!! References%0a# [[Unstable Particle Projectors]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!IsaacTaub]] [[!ImperiumEquipment]]
+time=1141520087
+author:1141520087=BubbaWilson
+csum:1141520087=
+diff:1141520087:1129667588:=1,3c1,2%0a%3c %3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a%3c %3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%3c %0a---%0a> %3c%3c|ImperiumEditionIndex|>>%0a> %0a16c15%0a%3c [[!ImperiumEdition]] [[!IsaacTaub]] [[!ImperiumEquipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!IsaacTaub]]%0a\ No newline at end of file%0a
+host:1141520087=70.249.188.200
+author:1129667588=BenWilson
+diff:1129667588:1126981640:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667588=144.167.105.115
+author:1126981640=BenWilson
+csum:1126981640=Initially Written
+diff:1126981640:1115911607:=1,10c1,7%0a%3c '''Fractal Shielding''' was developed to deter the use of [[unstable particle projectors]]. Those projectors were dubbed the shotgun of stellar combat. They were inaccurate but had a wide arc of devistation.%0a%3c %0a%3c Fractal Shielding was created by ship generators that were able to create a weak Soup bubble around the ship. These bubbles were able to vent away much of the harmful effects of the projectors. The generators were developed by the masterminds at the [[Dao Jihn Corp]]oration.%0a%3c %0a%3c The original goal of the shielding was to create a narrow beam that would rip a hole in to the Soup--preferably within the enemy ship. Dao engineers were unable to focus the field and found that it had the effect of absorbing energy weapons. What they chose to ignore is the potential hop pollution effects caused as a result.%0a%3c %0a%3c !! References%0a%3c # [[Unstable Particle Projectors]]%0a%3c %0a%3c !! Related Articles%0a---%0a> %0a> ----%0a> !!! References%0a> # Article1%0a> # Article2%0a> %0a> !!! Related Articles%0a13c10,11%0a%3c [[!ImperiumEdition]] [[!IsaacTaub]]%0a\ No newline at end of file%0a---%0a> %0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1126981640=144.167.105.33

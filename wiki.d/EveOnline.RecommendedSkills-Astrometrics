@@ -1,0 +1,44 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1327360055
+host=69.140.6.80
+name=EveOnline.RecommendedSkills-Astrometrics
+rev=8
+targets=
+text=Astrometrics%0a==========%0a%0aHave Astrometrics to level 4 and all of the other three scanning support skills to%0alevel 3. To be certain, have Astrometric Rangefinding, Astrometric Pinpointing %0aand Astrometric Acquisition to level 3 each. You are not looking for the ability to %0ajust scan, you need to be able to scan quickly too.  There is more to be said %0aabout these skills in the "Scanning Your Ass Off" section.%0a%0a[[See Guide -> http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf]]%0a%0aThere are only 4 scanning skills in the game.  To  evaluate a character's ability to scan use a simple rule of thumb. %0a* Weak: Skills @ III%0a* Average: Skills @ IV%0a* Good: @ V%0a%0a{|%0a|-%0a! width=30%25|Skill%0a! width=40%25|Benefit/Why%0a! colspan=2|Burn Rate%0a%0a|-%0a|Astrometrics (IV)%0a| 1x probe per level%0a|(:eveskill type=IM v=135:)%0a%0a|-%0a|Astrometrics Acquisition (III)%0a| -10%25 Scan Time%0a|(:eveskill type=IM v=40:)%0a%0a|-%0a|Astrometrics Rangefinding (III)%0a| +10%25 Scan Distance%0a|(:eveskill type=IM v=64:)%0a%0a|-%0a|Astrometrics Pinpointing (III)%0a| -10%25 Deviation%0a|(:eveskill type=IM v=40:)%0a%0a|-%0a| Racial Frigate (V)%0a| Access T2 scanning ships%0a| (:eveskill type=PW v=512:)%0a%0a|}
+time=1327361273
+author:1327361273=BenWilson
+csum:1327361273=
+diff:1327361273:1327361141:=45c45%0a%3c | Access T2 scanning ships%0a---%0a> | -10%25 Deviation%0a
+host:1327361273=69.140.6.80
+author:1327361141=BenWilson
+csum:1327361141=
+diff:1327361141:1327360746:=12,16d11%0a%3c There are only 4 scanning skills in the game.  To  evaluate a character's ability to scan use a simple rule of thumb. %0a%3c * Weak: Skills @ III%0a%3c * Average: Skills @ IV%0a%3c * Good: @ V%0a%3c %0a43,46d37%0a%3c |-%0a%3c | Racial Frigate (V)%0a%3c | -10%25 Deviation%0a%3c | (:eveskill type=PW v=512:)%0a
+host:1327361141=69.140.6.80
+author:1327360746=BenWilson
+csum:1327360746=
+diff:1327360746:1327360598:=20c20%0a%3c | 1x probe per level%0a---%0a> |%0a25c25%0a%3c | -10%25 Scan Time%0a---%0a> |%0a30c30%0a%3c | +10%25 Scan Distance%0a---%0a> |%0a35c35%0a%3c | -10%25 Deviation%0a---%0a> |%0a
+host:1327360746=69.140.6.80
+author:1327360598=BenWilson
+csum:1327360598=
+diff:1327360598:1327360510:=1,3d0%0a%3c Astrometrics%0a%3c ==========%0a%3c %0a9,10d5%0a%3c %0a%3c [[See Guide -> http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf]]%0a
+host:1327360598=69.140.6.80
+author:1327360510=BenWilson
+csum:1327360510=
+diff:1327360510:1327360089:=16,17c16,17%0a%3c |(:eveskill type=IM v=135:)%0a%3c %0a---%0a> |(:eveskill type=IM v=256:)%0a> %0a19c19%0a%3c |Astrometrics Acquisition (III)%0a---%0a> |Astrometrics Rangefinding (III)%0a21,22c21,22%0a%3c |(:eveskill type=IM v=40:)%0a%3c %0a---%0a> |(:eveskill type=IM v=256:)%0a> %0a24c24%0a%3c |Astrometrics Rangefinding (III)%0a---%0a> |Astrometrics Pinpointing (III)%0a26,27c26,27%0a%3c |(:eveskill type=IM v=64:)%0a%3c %0a---%0a> |(:eveskill type=IM v=256:)%0a> %0a29c29%0a%3c |Astrometrics Pinpointing (III)%0a---%0a> |Astrometrics Acquisition (III)%0a31,33c31%0a%3c |(:eveskill type=IM v=40:)%0a%3c %0a%3c %0a---%0a> |(:eveskill type=IM v=256:)%0a
+host:1327360510=69.140.6.80
+author:1327360089=BenWilson
+csum:1327360089=
+diff:1327360089:1327360064:=18c18%0a%3c |-%0a---%0a> -%0a23c23%0a%3c |-%0a---%0a> -%0a28c28%0a%3c |-%0a---%0a> -%0a31a32%0a> %0a
+host:1327360089=69.140.6.80
+author:1327360064=BenWilson
+csum:1327360064=
+diff:1327360064:1327360055:=31,33c31%0a%3c |(:eveskill type=IM v=256:)%0a%3c %0a%3c |}%0a\ No newline at end of file%0a---%0a> |(:eveskill type=IM v=256:)%0a\ No newline at end of file%0a
+host:1327360064=69.140.6.80
+author:1327360055=BenWilson
+csum:1327360055=
+diff:1327360055:1327360055:=1,31d0%0a%3c Have Astrometrics to level 4 and all of the other three scanning support skills to%0a%3c level 3. To be certain, have Astrometric Rangefinding, Astrometric Pinpointing %0a%3c and Astrometric Acquisition to level 3 each. You are not looking for the ability to %0a%3c just scan, you need to be able to scan quickly too.  There is more to be said %0a%3c about these skills in the "Scanning Your Ass Off" section.%0a%3c %0a%3c {|%0a%3c |-%0a%3c ! width=30%25|Skill%0a%3c ! width=40%25|Benefit/Why%0a%3c ! colspan=2|Burn Rate%0a%3c %0a%3c |-%0a%3c |Astrometrics (IV)%0a%3c |%0a%3c |(:eveskill type=IM v=256:)%0a%3c %0a%3c -%0a%3c |Astrometrics Rangefinding (III)%0a%3c |%0a%3c |(:eveskill type=IM v=256:)%0a%3c %0a%3c -%0a%3c |Astrometrics Pinpointing (III)%0a%3c |%0a%3c |(:eveskill type=IM v=256:)%0a%3c %0a%3c -%0a%3c |Astrometrics Acquisition (III)%0a%3c |%0a%3c |(:eveskill type=IM v=256:)%0a\ No newline at end of file%0a
+host:1327360055=69.140.6.80

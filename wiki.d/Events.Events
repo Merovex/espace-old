@@ -1,0 +1,59 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1174783086
+host=68.33.222.116
+name=Events.Events
+rev=12
+targets=
+text=(:if auth edit:)%0a(:newpageboxplus base=Events.Events prefix={$PageCreationDate}- label="New Blog Entry":)%0a(:ifend:)%0a%0a(:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-$Name,-$Group:)%0a(:title Events:)
+time=1293996361
+title=Events
+author:1293996361=BenWilson
+csum:1293996361=
+diff:1293996361:1293985230:=5c5,6%0a%3c (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-$Name,-$Group:)%0a---%0a> (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-name:)%0a> %0a
+host:1293996361=68.33.222.116
+author:1293985230=BenWilson
+csum:1293985230=
+diff:1293985230:1293984920:=0a1,3%0a> (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-name:)%0a> %0a> %0a2c5%0a%3c (:newpageboxplus base=Events.Events prefix={$PageCreationDate}- label="New Blog Entry":)%0a---%0a> (:newpagebox save=true value='{$PageCreationDate}-':)%0a4,6d6%0a%3c %0a%3c (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-name:)%0a%3c %0a
+host:1293985230=68.33.222.116
+author:1293984920=BenWilson
+csum:1293984920=
+diff:1293984920:1292772645:=1c1%0a%3c (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events,AstroEmpires name=2* order=-name:)%0a---%0a> (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events name=2* order=-name:)%0a
+host:1293984920=68.33.222.116
+author:1292772645=BenWilson
+csum:1292772645=
+diff:1292772645:1292772632:=5c5%0a%3c (:newpagebox save=true value='{$PageCreationDate}-':)%0a---%0a> (:newpagebox save=true value='Event-{$PageCreationDate}':)%0a
+host:1292772645=68.33.222.116
+author:1292772632=BenWilson
+csum:1292772632=
+diff:1292772632:1292772031:=1c1%0a%3c (:pagelist fmt=Site.LocalTemplates#blogsummary group=Events name=2* order=-name:)%0a---%0a> (:pagelist fmt=Site.LocalTemplates#include group=Events name=Event-* order=-name:)%0a
+host:1292772632=68.33.222.116
+author:1292772031=BenWilson
+csum:1292772031=
+diff:1292772031:1174925193:=6,7c6%0a%3c (:ifend:)%0a%3c (:title Events:)%0a\ No newline at end of file%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1292772031=68.33.222.116
+author:1174925193=BenWilson
+csum:1174925193=
+diff:1174925193:1174924914:=3d2%0a%3c %0a5c4%0a%3c (:newpagebox save=true value='Event-{$PageCreationDate}':)%0a---%0a> (:newpagebox save=true value='Events-{$PageCreationDate}':)%0a
+host:1174925193=69.243.109.103
+author:1174924914=BenWilson
+csum:1174924914=
+diff:1174924914:1174924625:=4c4%0a%3c (:newpagebox save=true value='Events-{$PageCreationDate}':)%0a---%0a> (:newpagebox save=true:)%0a
+host:1174924914=69.243.109.103
+author:1174924625=BenWilson
+csum:1174924625=
+diff:1174924625:1174924405:=4c4%0a%3c (:newpagebox save=true:)%0a---%0a> (:newpagebox:)%0a
+host:1174924625=69.243.109.103
+author:1174924405=BenWilson
+csum:1174924405=
+diff:1174924405:1174783102:=1,5c1%0a%3c (:pagelist fmt=Site.LocalTemplates#include group=Events name=Event-* order=-name:)%0a%3c %0a%3c (:if auth edit:)%0a%3c (:newpagebox:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=Site.LocalTemplates#include group=Events name=Event-* order=-name:)%0a\ No newline at end of file%0a
+host:1174924405=69.243.109.103
+author:1174783102=
+diff:1174783102:1174783086:=1c1%0a%3c (:pagelist fmt=Site.LocalTemplates#include group=Events name=Event-* order=-name:)%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=Site.LocalTemplates group=Events name=Event-* order=-name:)%0a\ No newline at end of file%0a
+host:1174783102=69.243.109.103
+author:1174783086=
+diff:1174783086:1174783086:=1d0%0a%3c (:pagelist fmt=Site.LocalTemplates group=Events name=Event-* order=-name:)%0a\ No newline at end of file%0a
+host:1174783086=69.243.109.103

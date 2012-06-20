@@ -1,0 +1,18 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.GawdainTawmerik
+rev=4
+targets=Macropedia.GruyonhDoyu,Macropedia.HagurinCharacterSet,Macropedia.ImperiumEdition,Macropedia.ParthasClassVessels,Macropedia.BafiktuyIntelligenceDirective,Macropedia.LendaTawmerik,Macropedia.UmarianGuard,Category.ImperiumEdition,Category.ChoMinhTelRanAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Duke Gawdain Tawmerik is famed for two things. Primary among them was the commision of the design for ParthasClassVessels. Secondarily, he is noted for his role in creating dissension among the the Tawmerik family. Some credit this dissension with sowing the seeds of the end of the dynasty, however that appears somewhat overstated.%0a%0aWhen the Imperium legislated control and profits of the Parthas shipyards away from Gawdain, he took it as personal insult. Working tirelessly, he developed a coalition of Tawmeriks who secretly opposed the Imperial system. They became tightly involved with the BafiktuyIntelligenceDirective. So much so, that the Empress LendaTawmerik eventually created the UmarianGuard. %0a%0aThe movement lost momentum after Gawdain's death. It never made any overt attempts to disrupt the Imperial System, however it did make things politically interesting for several decades.%0a%0a!! References%0a%0a* BafiktuyIntelligenceDirective%0a* UmarianGuard%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]][[!ChoMinhTelRanAuthored]]
+time=1129667836
+author:1129667836=BenWilson
+diff:1129667836:1127248837:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667836=144.167.105.115
+author:1127248837=BenWilson
+diff:1127248837:1123886961:=15c15%0a%3c [[!ImperiumEdition]][[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]][[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1127248837=144.167.105.33
+author:1123886961=JohnUghrin
+diff:1123886961:1111817660:=1,11d0%0a%3c The Duke Gawdain Tawmerik is famed for two things. Primary among them was the commision of the design for ParthasClassVessels. Secondarily, he is noted for his role in creating dissension among the the Tawmerik family. Some credit this dissension with sowing the seeds of the end of the dynasty, however that appears somewhat overstated.%0a%3c %0a%3c When the Imperium legislated control and profits of the Parthas shipyards away from Gawdain, he took it as personal insult. Working tirelessly, he developed a coalition of Tawmeriks who secretly opposed the Imperial system. They became tightly involved with the BafiktuyIntelligenceDirective. So much so, that the Empress LendaTawmerik eventually created the UmarianGuard. %0a%3c %0a%3c The movement lost momentum after Gawdain's death. It never made any overt attempts to disrupt the Imperial System, however it did make things politically interesting for several decades.%0a%3c %0a%3c !! References%0a%3c %0a%3c * BafiktuyIntelligenceDirective%0a%3c * UmarianGuard%0a%3c %0a15c4,5%0a%3c [[!PhantomImperiumEdition]][[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> %0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1123886961=24.166.101.248

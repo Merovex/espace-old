@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1106855893
+text=! Hegimonic Economic Trade Group²²!! References²# Actual Cite²# Phantom Cite²# Phantom Cite²²!! Related Articles²(:pagelist group=Macropedia fmt=simple {$Name}:)²²²[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+targets=[[!ImperiumEdition]],[[!IsaacTaubAuthored]]
+author=BenWilson
+author:1106855893=BenWilson
+host:1106855893=144.167.104.139
+diff:1106855893:1106855893:=1,13d0²< ! Hegimonic Economic Trade Group²< ²< !! References²< # Actual Cite²< # Phantom Cite²< # Phantom Cite²< ²< !! Related Articles²< (:pagelist group=Macropedia {$Name}:)²< ²< ----²< [[!ImperiumEdition]] < [[!IsaacTaubAuthored]] \ No newline at end of file²
+name=Macropedia.HegimonicEconomicTradeGroup
+host=144.167.104.139
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

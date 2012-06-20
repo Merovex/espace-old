@@ -1,0 +1,19 @@
+version=pmwiki-2.1.beta23 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1139791118
+host=69.155.127.118
+name=Category.ExplorationAndSurvivalEquipment
+rev=2
+targets=Category.ExplorationAndSurvivalEquipment
+text=This category represents all things related to {$Name}.%0a%0a----
+time=1139791134
+author:1139791134=BenWilson
+csum:1139791134=
+diff:1139791134:1139791118:=2,3d1%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1139791134=69.155.127.118
+author:1139791118=BenWilson
+csum:1139791118=
+diff:1139791118:1139791118:=1d0%0a%3c This category represents all things related to {$Name}.%0a
+host:1139791118=69.155.127.118

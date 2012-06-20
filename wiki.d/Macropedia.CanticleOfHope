@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.CanticleOfHope
+rev=2
+targets=Macropedia.BitaniumFibreExplorationCorporation,Macropedia.CathianNavy,Macropedia.ImperiumEdition,Macropedia.ImperialCongress,Macropedia.Anthorph,Macropedia.HundredBloodyDays,Chronology.FirstDecline,Chronology.SecondDecline,Macropedia.SabanianEmpire,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aIt is a dangerous age.  Central authority has all but disappeared, warlords great and small vie for control of the fragments of the Imperium, while the impotent ImperialCongress finds itself barely capable of governing a few neighboring systems.%0a%0aFor scholars, the final days of the Imperium were a dark time.  Many of our [[Anthorph]] brethren disappeared, likely murdered by the lunacy of the HundredBloodyDays.  So much knowledge disappeared, so much wisdom extinguished in a last gasp of madness, fear and venom.%0a%0aThere are those, however, who strive to gather what has not been lost, and perhaps to unearth what has been.  As humanity descends into a new dark age, we are driven to assure that the Chronology/SecondDecline is not as all-encompassing as the [[Chronology/FirstDecline|First]].%0a%0aThus we, the scholars, historians and scientists, have endeavored, at times with no small cost and risk, to produce the Canticle of Hope, a hidden archive where the sum of human knowledge may be stored against the worst, and in the hope of better times.  Though I have worked on this project, I do not know the location, nor can I say with any certainty the form in which the archives take.  Though part of my despises the idea of hiding knowledge, even as I speak, the ruler of the SabanianEmpire demands that these archives be released into his "protection".  Some of my colleagues have already been taken prisoner, and I fear that the worst will soon happen as the Sabanians discover that our resolve is proof against even the execution of brethren.%0a%0a!! References%0a# [[Anthorph]]s%0a# HundredBloodyDays%0a# ImperialCongress%0a# SabanianEmpire%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667036
+author:1129667036=BenWilson
+diff:1129667036:1121376836:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667036=144.167.105.115

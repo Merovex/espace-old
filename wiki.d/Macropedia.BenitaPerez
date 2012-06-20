@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.BenitaPerez
+rev=10
+targets=Macropedia.BangHaiNokIncident,Macropedia.BitaniumFibreExplorationCorporation,Macropedia.ImperiumEdition,Macropedia.TerranRepublic,Macropedia.PerezFamily,Macropedia.BenitaPerez,Macropedia.AlistairCormwite,Macropedia.CommitteeTenThousandFlowers,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aFull Name: Benita Antonia Beatriz Perez%0a%0aLast Prime Minister of the short-lived TerranRepublic.  Known as a good-natured bureaucrat and minor scion of the PerezFamily, chosen by various factions more because of her political inexperience than because of any particular adminstrative skills.%0a%0aDuring her very brief tenure, BenitaPerez attempted to reorganize the TerranRepublic to be more representative.  To reformers, her reorganization was too slow and didn't reach far enough, while to the more conservative elements, her actions were perceived as an attack on the traditional political system.%0a%0aThough lacking in skill, she did not lack in intelligence, and soon realized that there were forces working to destroy to the TerranRepublic.  Her confrontations with AlistairCormwite were little known outside the higher echelons, but it is clear that towards the end, she recognized him as the chief mover of events to tear down the Republic, though she never could discover who his benefactors were.  Cormwite, a far savvier operator than Perez, seems to have had the better of her in the end.%0a%0aUpon the collapse of the TerranRepublic, BenitaPerez was arrested and spent nearly thirty years in prison, charged with various trumped-up treasonous acts (but was never brought to trial).  She was eventually freed, and during a brief period of liberal politics in the Imperium, lead the overly idealistic [[CommitteeTenThousandFlowers|Committee of Ten Thousand Flowers]].  She was assassinated soon after, though it is unclear whether this was carried out by agents of the Imperium or some fellow member of the [[CommitteeTenThousandFlowers|Committee of Ten Thousand Flowers]].%0a%0a!! References%0a# AlistairCormwite%0a# [[CommitteeTenThousandFlowers|Committee of Ten Thousand Flowers]]%0a# PerezFamily%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667006
+author:1129667006=BenWilson
+diff:1129667006:1123392334:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667006=144.167.105.115
+author:1123392334=BenWilson
+csum:1123392334=fixed title
+diff:1123392334:1105992779:=0a1,2%0a> ! Benita Perez%0a> %0a
+host:1123392334=70.249.188.117

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.HelsmuntInstitute
+rev=5
+targets=Macropedia.Heljyks,Macropedia.HjansKrebLakol,Macropedia.ImperiumEdition,Chronology.FirstDecline,Chronology.FirstExpanse,Macropedia.Celtainu,Macropedia.DioEnMashino,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Helsmunt Institute was'^1^' a research facility originally dedicated to advanced physics and computational research.  Founded in the early years of the [[Chronology/FirstDecline]], it was hoped that it might find some way to overcome the limitations of travel through Branespace.  Though it found no solutions, and for centuries was little more than a repository of vast stores of old data files and [[Chronology/FirstExpanse]] equipment that was too good to throw away, but not good enough to keep.%0a%0aProbably its most famous members (though not necessarily best respected within the Institute) were Phurnando Letalles and and Hugau-bmilanoj Stepivan Shersite d'Mibashura, who discovered the DioEnMashino, thus triggering the return to Branespace, and ultimately the rise of the Imperium.  Though the Institute was greatly displeased to lose such a valuable piece of equipment'^2^', it did eventually gain a 10%25 stake in [[Celtainu|Cel-Tainu Astrophysical Research Corporation]].%0a%0aDuring much of the Imperium, the Helsmunt Institute was the premier institute of advancement in Branespace technology.  Fueled by [[Celtainu|CARC]]'s profits, its facilities were expanded, and it opened up branch campuses and laboratories on many worlds, attacting some of the brightest researchers.  Even as the Imperium began to crumble, the Institute, though forced to close many branches, was able to survive.%0a%0a'-'^1^' And still is, for it has survived the ups and down and outlasted the Imperium.-'%0a'-'^2^' It must be pointed out that it had sat for over eight or nine centuries without being noticed.-'%0a%0a!! References%0a# [[Celtainu|Cel-Tainu Astrophysical Research Corporation]]%0a# DioEnMashino%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667922
+author:1129667922=BenWilson
+diff:1129667922:1121032979:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667922=144.167.105.115

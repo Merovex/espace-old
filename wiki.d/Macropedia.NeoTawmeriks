@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.NeoTawmeriks
+rev=5
+targets=Macropedia.NazirAlShamuth,Macropedia.NewDiaspora,Macropedia.ImperiumEdition,Macropedia.TawmerikDynasty,Macropedia.QannaDabrian,Macropedia.KuberianMovement,Macropedia.Lemardians,Macropedia.DabrianDynasty,Macropedia.GrandReforms,Macropedia.HjansKrebLakol,Macropedia.ImperialInterregnum,Macropedia.HundredBloodyDays,Category.ImperiumEdition,Category.ChoMinhTelRanAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aWhen the TawmerikDynasty finally failed and QannaDabrian ruled the Imperium, many Tawmeriks and close Tawmerik allies were shocked. Unwilling to see or accept the changing political landscape, they became increasingly ostracized until they existed almost entirely outside the normal political life of the Imperium. Seperated into scattered "loyalist" enclaves they secretly kept track of who they believed to be the "true emperor" for generations.%0a%0aNot entirely careful to hide their beliefs, they suffered an occasional tragedy at the hands of Imperial agents. Secretly, as the DabrianDynasty began to wane, they began to rebuild their strength. They took the GrandReforms to be an omen of their coming return to power. The Neo Tawmeriks even began to build a fleet. They also started to politically push for a return to the "good old days" of the TawmerikDynasty. This met with a minor degree of success, but did earn them distinction as one of the few groups to successfully curry favor with both [[KuberianMovement|Kuberian]] and [[Lemardians|Lemardian]] groups. They made their most cogent political bid for power opposing HjansKrebLakol during the ImperialInterregnum. %0a%0aWhen the Imperium erupted in the HundredBloodyDays, the Neo Tawmeriks saw their opportunity and took it. Their small fleet leapt into action in a desperate attempt to "restore civility and order to the galaxy." They crowned a new emperor from among themselves, and waited for the popular revolt among the military to close the deal. They utterly failed in this regard.%0a%0aPresumably some survived the debacle, but they have not made any public announcements since their resounding defeat.%0a%0a!! References%0a# DabrianDynasty%0a# HjansKrebLakol%0a# TawmerikDynasty%0a%0a!! Related Articles%0a%0a(:pagelist fmt=simple group=Macropedia {$Name}:)%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] %0a
+time=1129670548
+author:1129670548=BenWilson
+diff:1129670548:1127248875:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670548=144.167.105.115
+author:1127248875=BenWilson
+csum:1127248875=changed category
+diff:1127248875:1120346379:=18c18,20%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] %0a---%0a> ----%0a> %0a> [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]] %0a
+host:1127248875=144.167.105.33

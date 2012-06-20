@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=MateuszCzaplinski
+host=83.16.49.165
+name=Contributers.MateuszCzaplinski
+rev=4
+targets=Macropedia.OdniPlanyeti,Macropedia.Heljyks,Macropedia.Macropedia,Macropedia.LiuNoRiMasters,Macropedia.DinzwarGefera,Macropedia.Zenbrudi
+text=I'm just a tiny Wikignome here. Interested in the world and it's development, and watching it since it's very first days on the [[http://fudge.phoenyx.net|FudgeList]], yet not having enough inventiveness nor time to add anything big into the Project.²²!! Editing notes²* ²* ''This is the talk page of FOOBAR article.''²*²* '''Cross-group links:''' @@[=Macropedia/OdniPlanyeti=]@@ shows as Macropedia/OdniPlanyeti, whilst @@[=Macropedia.OdniPlanyeti=]@@ as Macropedia.OdniPlanyeti.²** One-word links, such as @@Heljyks@@, still need to be linkified by enclosing in @@[=[[=]@@s and @@[=]]=]@@s anyway: @@[=[[Macropedia/Heljyks]]=]@@ shows as [[Macropedia/Heljyks]].²* '''Categories:''' @@[=(:pagelist Category PhantomImperiumEdition:)=]@@ shows all pages of category [=PhantomImperiumEdition=] (that is, linking to [=Category/PhantomImperiumEdition=]), whilst @@[=(:pagelist group=Category:)=]@@ shows all sub-pages of page/group Category.²* '''Linking-to''' articles can be printed by using: @@[=(:pagelist group=Macropedia {$Name}:)=]@@²²!! Links²Here I suppose I'll store some [[Macropedia|world]] links I find especially interesting. (The link comments below are not meant to be very deep - just a simple reference, useful for me at least.)²* [[Macropedia/Heljyks]] - ye space pirates! :)²* Macropedia/OdniPlanyeti - is it the only starsystem/planet here now?!?²* [[Macropedia/LiuNoRiMasters|Liu-No-Ri Masters]] - kinda monks, who spawned from one of Macropedia/DinzwarGefera mercenaries groups.²* [[Macropedia/Zenbrudi]] - horrible aliens; and is it ''really'' truth that ''all'' of them were killed?...²
+time=1120738492
+author:1120738492=MateuszCzaplinski
+diff:1120738492:1112553542:=17c17²< * [[Macropedia/Zenbrudi]] - horrible aliens; and is it ''really'' truth that ''all'' of them were killed?...²---²> ²
+host:1120738492=83.16.49.165

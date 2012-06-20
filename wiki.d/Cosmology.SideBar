@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103042561
+text=!Cosmology²²(:include Main.SideBar:)
+targets=
+author=BenWilson
+author:1102639146=BenWilson
+host:1102639146=10.1.1.74
+diff:1102639146:1102639146:=1d0²< !Cosmology²\ No newline at end of file²
+name=Cosmology.SideBar
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1103042561=BenWilson
+host:1103042561=10.1.1.74
+diff:1103042561:1102639146:=1,3c1²< !Cosmology²< ²< (:include Main.SideBar:)²\ No newline at end of file²---²> !Cosmology²\ No newline at end of file²

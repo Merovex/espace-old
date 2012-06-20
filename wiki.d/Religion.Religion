@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+excerpt=%3cul>%3cli>%3cspan class='wikiword'>%3ca class='wikilink' href='http://espace.gmtoolbox.org/Religion/AlaerianCult'>Alaerian Cult%3c/a>%3c/span>%0a%3c/li>%3cli>%3cspan class='wikiword'>%3ca class='wikilink' href='http://espace.gmtoolbox.org/Religion/QinLopShu'>Qin Lop Shu%3c/a>%3c/span>%0a%3c/li>%3c/ul>%3cp class='vspace'>%3c/p>%3cp>This is a manually updated list of topics that fit into the %3cstrong>Religion%3c/strong> Category.%0a'''%0aIf you visit the site often, you might want to check out this category's %3cspan class='wikiword'>%3ca class='wikilink' href='http://espace.gmtoolbox.org/Religion/RecentChanges'>Recent Changes%3c/a>%3c/span>.%0a%3c/
+host=70.252.86.42
+name=Religion.Religion
+rev=6
+targets=Religion.AlaerianCult,Religion.QinLopShu,Religion.RecentChanges
+text=* AlaerianCult%0a* QinLopShu%0a%0aThis is a manually updated list of topics that fit into the '''{$Group}''' Category.%0a'''%0aIf you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a%0a----%0a%0a(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a(:pagelist group={$Group}:)%0a%0a
+time=1137979968
+author:1137979968=BenWilson
+csum:1137979968=
+diff:1137979968:1114302853:=0a1,2%0a> ! {$Group}%0a> %0a
+host:1137979968=70.252.86.42
+author:1114302853=JohnUghrin
+diff:1114302853:1110563040:=4,5c4%0a%3c * QinLopShu%0a%3c %0a---%0a> %0a7c6%0a%3c '''%0a---%0a> %0a
+host:1114302853=24.166.101.248
+author:1110563040=AaronClausen
+diff:1110563040:1110501451:minor=3,4c3,4%0a%3c * AlaerianCult%0a%3c %0a---%0a> ---+++ AlaerianCult%0a> %0a
+host:1110563040=64.141.6.11
+author:1110501451=AaronClausen
+diff:1110501451:1105931860:=3,4d2%0a%3c ---+++ AlaerianCult%0a%3c %0a
+host:1110501451=64.141.6.11

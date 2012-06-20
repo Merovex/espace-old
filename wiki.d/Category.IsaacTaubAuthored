@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104462961
+text=(:redirect [[Scholar.IsaacTaub]]:)
+targets=
+author=BenWilson
+author:1104462961=BenWilson
+host:1104462961=68.51.35.56
+diff:1104462961:1104462961:=1d0²< (:redirect [[Scholar.IsaacTaub]]:)²\ No newline at end of file²
+name=Category.IsaacTaubAuthored
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

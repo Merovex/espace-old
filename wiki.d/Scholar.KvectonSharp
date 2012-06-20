@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BenWilson
+csum=Added scholar General Kvecton Sharp
+ctime=1140216263
+host=64.141.6.11
+name=Scholar.KvectonSharp
+rev=1
+targets=Macropedia.FemaronFelard,Macropedia.SabanianEmpire,Category.ScholarImperiumEdition
+text='''General Kvecton Sharp''' Celebrated military commander of the Late Imperium, legendary for his leading several military ventures against [[Macropedia/Femaron Felard|the Bloody Pretender]], including several key battles that established the [[Macropedia/SabanianEmpire]]%0a%0a!! Articles%0a(:pagelist fmt=simple Category/KvectonSharpAuthored:)%0a(:pagelist fmt=simple !KvectonSharpAuthored:)%0a%0a----%0a[[!ScholarImperiumEdition]]
+time=1140216263
+author:1140216263=BenWilson
+csum:1140216263=Added scholar General Kvecton Sharp
+diff:1140216263:1140216263:=1,8d0%0a%3c '''General Kvecton Sharp''' Celebrated military commander of the Late Imperium, legendary for his leading several military ventures against [[Macropedia/Femaron Felard|the Bloody Pretender]], including several key battles that established the [[Macropedia/SabanianEmpire]]%0a%3c %0a%3c !! Articles%0a%3c (:pagelist fmt=simple Category/KvectonSharpAuthored:)%0a%3c (:pagelist fmt=simple !KvectonSharpAuthored:)%0a%3c %0a%3c ----%0a%3c [[!ScholarImperiumEdition]]%0a\ No newline at end of file%0a
+host:1140216263=64.141.6.11

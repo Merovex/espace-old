@@ -1,0 +1,16 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1317949550
+host=69.140.6.80
+name=Category.Guides
+rev=1
+targets=
+text=This category represents all things related to {$Name}.%0a%0a----
+time=1317949550
+author:1317949550=BenWilson
+csum:1317949550=
+diff:1317949550:1317949550:=1,3d0%0a%3c This category represents all things related to {$Name}.%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1317949550=69.140.6.80

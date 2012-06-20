@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1112734237
+text=!! Related Articles²(:pagelist group=Macropedia fmt=simple {$Name}:)²²----²* Category/PhantomImperiumEdition
+targets=Category.PhantomImperiumEdition
+author=AaronClausen
+author:1112734237=AaronClausen
+host:1112734237=64.141.6.11
+diff:1112734237:1112734237:=1,5d0²< !! Related Articles²< (:pagelist group=Macropedia {$Name}:)²< ²< ----²< * Category/PhantomImperiumEdition²\ No newline at end of file²
+name=Macropedia.CamridZoromEffect
+host=64.141.6.11
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.6) Gecko/20050317 Firefox/1.0.2
+rev=1

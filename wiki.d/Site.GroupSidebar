@@ -1,0 +1,24 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.8) Gecko/20100214 Ubuntu/9.10 (karmic) Firefox/3.5.8
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1269790338
+host=68.48.114.50
+name=Site.GroupSidebar
+rev=3
+targets=
+text=(:pagelist link=Category.Sidebar fmt=#groupsidebar order=group,title:)
+time=1269790709
+author:1269790709=BenWilson
+csum:1269790709=
+diff:1269790709:1269790440:=1c1%0a%3c (:pagelist link=Category.Sidebar fmt=#groupsidebar order=group,title:)%0a\ No newline at end of file%0a---%0a> (:pagelist link=Category.Sidebar fmt=#sidebar order=group,title group=$Group:)%0a\ No newline at end of file%0a
+host:1269790709=68.48.114.50
+author:1269790440=BenWilson
+csum:1269790440=
+diff:1269790440:1269790338:=1c1%0a%3c (:pagelist link=Category.Sidebar fmt=#sidebar order=group,title group=$Group:)%0a\ No newline at end of file%0a---%0a> (:pagelist link=Category.Sidebar fmt=#sidebar order=group,title:)%0a
+host:1269790440=68.48.114.50
+author:1269790338=BenWilson
+csum:1269790338=
+diff:1269790338:1269790338:=1d0%0a%3c (:pagelist link=Category.Sidebar fmt=#sidebar order=group,title:)%0a
+host:1269790338=68.48.114.50

@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.6) Gecko/20061201 Firefox/2.0.0.6 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1192456558
+host=69.243.109.103
+name=AstroEmpires.ResearchLabsCost
+rev=1
+targets=
+text=Research Labs%0aUpgrade increases Base Research capacity by 6, and allows the Research of more Technologies.%0a %0aLevel	Credits	Research Output%0a1	2	6%0a2	3	12%0a3	5	18%0a4	7	24%0a5	11	30%0a6	16	36%0a7	22	42%0a8	34	48%0a9	50	54%0a10	75	60%0a11	113	66%0a12	168	72%0a13	252	78%0a14	378	84%0a15	566	90%0a16	850	96%0a17	1275	102%0a18	1912	108%0a19	2867	114%0a20	4301	120%0a21	6451	126%0a22	9677	132%0a23	14515	138%0a24	21773	144%0a25	32659	150%0a26	48988	156%0a27	73481	162%0a28	110222	168%0a29	165333	174
+time=1192456558
+author:1192456558=BenWilson
+csum:1192456558=
+diff:1192456558:1192456558:=1,33d0%0a%3c Research Labs%0a%3c Upgrade increases Base Research capacity by 6, and allows the Research of more Technologies.%0a%3c  %0a%3c Level	Credits	Research Output%0a%3c 1	2	6%0a%3c 2	3	12%0a%3c 3	5	18%0a%3c 4	7	24%0a%3c 5	11	30%0a%3c 6	16	36%0a%3c 7	22	42%0a%3c 8	34	48%0a%3c 9	50	54%0a%3c 10	75	60%0a%3c 11	113	66%0a%3c 12	168	72%0a%3c 13	252	78%0a%3c 14	378	84%0a%3c 15	566	90%0a%3c 16	850	96%0a%3c 17	1275	102%0a%3c 18	1912	108%0a%3c 19	2867	114%0a%3c 20	4301	120%0a%3c 21	6451	126%0a%3c 22	9677	132%0a%3c 23	14515	138%0a%3c 24	21773	144%0a%3c 25	32659	150%0a%3c 26	48988	156%0a%3c 27	73481	162%0a%3c 28	110222	168%0a%3c 29	165333	174%0a\ No newline at end of file%0a
+host:1192456558=69.243.109.103

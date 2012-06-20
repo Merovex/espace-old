@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1109612959
+text=!! Luyten's Star²²Home of the Muzigle System.²²(:pagelist group=Macropedia {$Name}:)²(:pagelist group=Macropedia {Muzigle}:)
+targets=
+author=JohnUghrin
+author:1109612925=JohnUghrin
+host:1109612925=24.166.101.248
+diff:1109612925:1109612925:minor=1,5d0²< !! Luyten's Star²< ²< Home of the Muzigle System.²< ²< (:pagelist group=Macropedia {$Name}:)²
+name=StarSystems.LuytensStar
+host=24.166.101.248
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1109612959=JohnUghrin
+host:1109612959=24.166.101.248
+diff:1109612959:1109612925:minor=6d5²< (:pagelist group=Macropedia {Muzigle}:)²\ No newline at end of file²

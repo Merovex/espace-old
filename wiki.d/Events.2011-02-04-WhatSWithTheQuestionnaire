@@ -1,0 +1,17 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1296838972
+host=68.33.222.116
+name=Events.2011-02-04-WhatSWithTheQuestionnaire
+rev=1
+targets=
+text='''(:blogarticledate:)'''%0a[[#teaser]]%0aOkay, so if you're coming to this site, odds are you're coming to look at one of the handle AE guides I've published. Simply put, I'm trying to figure out whether I'm doing right by you in my guides, or what more should I be doing?%0a%0aAdditionally, my overall goal is to try to entice you into Science Fiction. The Lexicon RPG was a fun way to play with Sci-Fi, and I'm looking for more contributors. And, of course, I'm writing novels, so I'm hoping you'll be interested in reading them when finished.%0a%0aSimple.%0a%0aIf you completed the questionnaire, thank you. If not, I still thank you for coming to the site.%0a[[#body]]%0a(:title What's with the #@$& Questionnaire?:)
+time=1296838972
+title=What's with the #@$&amp; Questionnaire?
+author:1296838972=BenWilson
+csum:1296838972=
+diff:1296838972:1296838972:=1,11d0%0a%3c '''(:blogarticledate:)'''%0a%3c [[#teaser]]%0a%3c Okay, so if you're coming to this site, odds are you're coming to look at one of the handle AE guides I've published. Simply put, I'm trying to figure out whether I'm doing right by you in my guides, or what more should I be doing?%0a%3c %0a%3c Additionally, my overall goal is to try to entice you into Science Fiction. The Lexicon RPG was a fun way to play with Sci-Fi, and I'm looking for more contributors. And, of course, I'm writing novels, so I'm hoping you'll be interested in reading them when finished.%0a%3c %0a%3c Simple.%0a%3c %0a%3c If you completed the questionnaire, thank you. If not, I still thank you for coming to the site.%0a%3c [[#body]]%0a%3c (:title What's with the #@$& Questionnaire?:)%0a\ No newline at end of file%0a
+host:1296838972=68.33.222.116

@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+ctime=1141505389
+host=70.249.188.200
+name=Technology.Batteries
+rev=3
+targets=
+text=This is just a general discussion of the various battery sizes and their storage capacity through the various periods. Not sure how to organize yet yet.%0a%0a!! Portable Batteries%0a%0aPortable battery sizes used in E-Space are the same size you have grown accustom to in daily use. The only difference is the amount of power available. These batteries are cylindrical. The dimensions are diameter and height.%0a%0a* '''Quad-A''' (1cm x 2mm)%0a* '''[[AAA -> http://en.wikipedia.org/wiki/AAA_battery]]''' (1cm x 4cm)%0a* '''[[AA ->http://en.wikipedia.org/wiki/AA_battery]]''' (1.5cm x 5cm)%0a* '''[[C -> http://en.wikipedia.org/wiki/C_battery]]''' (2.5cm x 5cm)%0a* '''[[D -> http://en.wikipedia.org/wiki/C_battery]]''' (3.5cm x 5cm)%0a%0a
+time=1141506217
+author:1141506217=BubbaWilson
+csum:1141506217=
+diff:1141506217:1141506217:=1,12d0%0a%3c This is just a general discussion of the various battery sizes and their storage capacity through the various periods. Not sure how to organize yet yet.%0a%3c %0a%3c !! Portable Batteries%0a%3c %0a%3c Portable battery sizes used in E-Space are the same size you have grown accustom to in daily use. The only difference is the amount of power available. These batteries are cylindrical. The dimensions are diameter and height.%0a%3c %0a%3c * '''Quad-A''' (1cm x 2mm)%0a%3c * '''[[AAA -> http://en.wikipedia.org/wiki/AAA_battery]]''' (1cm x 4cm)%0a%3c * '''[[AA ->http://en.wikipedia.org/wiki/AA_battery]]''' (1.5cm x 5cm)%0a%3c * '''[[C -> http://en.wikipedia.org/wiki/C_battery]]''' (2.5cm x 5cm)%0a%3c * '''[[D -> http://en.wikipedia.org/wiki/C_battery]]''' (3.5cm x 5cm)%0a%3c %0a
+host:1141506217=70.249.188.200
+author:1141505933=BubbaWilson
+csum:1141505933=
+diff:1141505933:1141505389:=3,11c3,10%0a%3c !! Portable Batteries%0a%3c %0a%3c Portable battery sizes used in E-Space are the same size you have grown accustom to in daily use. The only difference is the amount of power available. These batteries are cylindrical. The dimensions are diameter and height.%0a%3c %0a%3c * '''Quad-A''' (1cm x 2mm)%0a%3c * '''[[AAA -> http://en.wikipedia.org/wiki/AAA_battery]]''' (1cm x 4cm)%0a%3c * '''[[AA ->http://en.wikipedia.org/wiki/AA_battery]]''' (1.5cm x 5cm)%0a%3c * '''[[C -> http://en.wikipedia.org/wiki/C_battery]]''' (2.5cm x 5cm)%0a%3c * '''[[D -> http://en.wikipedia.org/wiki/C_battery]]''' (3.5cm x 5cm)%0a\ No newline at end of file%0a---%0a> !! Sizes%0a> %0a> Battery sizes used in E-Space are the same size you have grown accustom to in daily use. The only difference is the amount of power available.%0a> %0a> * [[AAA -> http://en.wikipedia.org/wiki/AAA_battery]]%0a> * [[AA ->http://en.wikipedia.org/wiki/AA_battery]]%0a> * [[C -> http://en.wikipedia.org/wiki/C_battery]]%0a> * [[D -> http://en.wikipedia.org/wiki/C_battery]]%0a\ No newline at end of file%0a
+host:1141505933=70.249.188.200
+author:1141505389=BubbaWilson
+csum:1141505389=
+diff:1141505389:1141505389:=1,10d0%0a%3c This is just a general discussion of the various battery sizes and their storage capacity through the various periods. Not sure how to organize yet yet.%0a%3c %0a%3c !! Sizes%0a%3c %0a%3c Battery sizes used in E-Space are the same size you have grown accustom to in daily use. The only difference is the amount of power available.%0a%3c %0a%3c * [[AAA -> http://en.wikipedia.org/wiki/AAA_battery]]%0a%3c * [[AA ->http://en.wikipedia.org/wiki/AA_battery]]%0a%3c * [[C -> http://en.wikipedia.org/wiki/C_battery]]%0a%3c * [[D -> http://en.wikipedia.org/wiki/C_battery]]%0a\ No newline at end of file%0a
+host:1141505389=70.249.188.200

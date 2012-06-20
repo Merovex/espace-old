@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1243898709
+host=68.48.114.50
+name=Site.SiteHeader
+rev=1
+targets=
+text=H
+time=1243898709
+author:1243898709=BenWilson
+csum:1243898709=
+diff:1243898709:1243898709:=1d0%0a%3c H%0a\ No newline at end of file%0a
+host:1243898709=68.48.114.50

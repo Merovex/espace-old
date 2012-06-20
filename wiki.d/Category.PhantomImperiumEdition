@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1106164270
+text=This is a phantom entry belonging to the Macropedia/ImperiumEdition of the Macropedia.²²!!! Phantom articles²(:pagelist Category PhantomImperiumEdition:)
+targets=Macropedia.ImperiumEdition
+author=JohnUghrin
+author:1104463101=BenWilson
+host:1104463101=68.51.35.56
+diff:1104463101:1104463101:=1d0²< This is a phantom entry belonging to the Macropedia/ImperiumEdition of the Macropedia.²\ No newline at end of file²
+name=Category.PhantomImperiumEdition
+host=24.164.101.16
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1106164270=JohnUghrin
+host:1106164270=24.164.101.16
+diff:1106164270:1104463101:=1,4c1²< This is a phantom entry belonging to the Macropedia/ImperiumEdition of the Macropedia.²< ²< !!! Phantom articles²< (:pagelist Category PhantomImperiumEdition:)²\ No newline at end of file²---²> This is a phantom entry belonging to the Macropedia/ImperiumEdition of the Macropedia.²\ No newline at end of file²

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+ctime=1136166018
+excerpt=%3cp>%3ca name='sidebar' id='sidebar'>%3c/a> %0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3ch2>{=$Groupspaced}s %3c/h2>%0a%3cul>%3cli>%3ca class='createlinktext' rel='nofollow' %0a    href='http://espace.gmtoolbox.org/Group/Titlespaced?action=edit'>Titlespaced%3c/a>%3ca rel='nofollow' %0a    class='createlink' href='http://espace.gmtoolbox.org/Group/Titlespaced?action=edit'>?%3c/a>%0a%3c/li>%3c/ul>%3cp class='vspace'>%3c/p>%3cp>%3ca name='sidebarend' id='sidebarend'>%3c/a>%0a%3c/p>%0a
+host=69.155.125.173
+name=Site.PagelistTemplate
+rev=2
+targets=Group.Titlespaced
+text=[[#sidebar]](:if equal {%3c$Group}:)%0a(:if ! equal {%3c$Group} {=$Group}:)%0a!! {=$Groupspaced}s(:if ! equal {$Group} {$Name}:)%0a* [[{=$Group}/{=$Titlespaced}|+]]%0a(:if equal {>$Group}:)%0a(:if:)%0a[[#sidebarend]]
+time=1136166088
+author:1136166088=BenWilson
+diff:1136166088:1136166018:=3,4c3,4%0a%3c !! {=$Groupspaced}s(:if ! equal {$Group} {$Name}:)%0a%3c * [[{=$Group}/{=$Titlespaced}|+]]%0a---%0a> %25sidehead%25[[{=$Group}]](:if:)%0a> * [[{=$FullName}|+]]%0a
+host:1136166088=69.155.125.173
+author:1136166018=BenWilson
+diff:1136166018:1136166018:=1,7d0%0a%3c [[#sidebar]](:if equal {%3c$Group}:)%0a%3c (:if ! equal {%3c$Group} {=$Group}:)%0a%3c %25sidehead%25[[{=$Group}]](:if:)%0a%3c * [[{=$FullName}|+]]%0a%3c (:if equal {>$Group}:)%0a%3c (:if:)%0a%3c [[#sidebarend]]%0a\ No newline at end of file%0a
+host:1136166018=69.155.125.173

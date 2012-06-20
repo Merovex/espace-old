@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.YingShoDahnDriveWorks
+rev=3
+targets=Macropedia.YismaKiauUprising,Macropedia.YauwzaMagruder,Macropedia.ImperiumEdition,Macropedia.ImperialCongress,Macropedia.FteigarAlloys,Macropedia.DurinBonish,Macropedia.HundredBloodyDays,Macropedia.SabanianEmpire,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe most important independent manufacturer of interstellar craft during the Late Imperium period.  Founded by the industrialist, K. Z. Zordon, it was given a special charter by the ImperialCongress to operate independently of the state monopoly, providing it sold 75%25 of its hop drives back to Imperium interests.%0a%0aZordon, while not an engineer or researcher himself, hired the very best, and working with  variants of the FteigarAlloys, they managed to make the last great innovations to hop drives during the Imperium Era.  What Zordon was a master of was cooking the books, and he greatly underreported the number of drives being made.  It's difficult to say how many were produced, but it seems likely that no more than 20%25 of the drives ended up being sold to the Imperium.%0a%0aAfter Zordon's death, the Ying Sho Dahn Drive Works managed to bribe important members of the Imperial Congress into letting them retain their special charter.  It was very typical of the way business was done in the faltering Imperium.  DurinBonish, when he succeeded the failing Emperors, finally seized the Drive Works, repudiated the Imperial Charter and nationalized it (in reality giving it to a few close associates).%0a%0aDuring the HundredBloodyDays, the SabanianEmpire "inherited" the Drive Works when they secceeded from the dying Imperium.  Due to the failure of communications, it is not known what has become of the Ying Sho Dahn Drive Works, though the reported growing instability of this upstart Empire suggest that it is likely changed hands once again.%0a%0a!! References%0a# DurinBonish%0a# FteigarAlloys%0a# HundredBloodyDays%0a# ImperialCongress%0a# SabanianEmpire%0a%0a!!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129672804
+author:1129672804=BenWilson
+diff:1129672804:1119031719:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672804=144.167.105.115

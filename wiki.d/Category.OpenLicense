@@ -1,0 +1,15 @@
+version=pmwiki-2.0.12 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b5) Gecko/20051006 Firefox/1.4.1
+author=BenWilson
+host=144.167.105.115
+name=Category.OpenLicense
+rev=2
+targets=
+text=(:pagelist fmt=simple [[!Open License]]:)
+time=1131631824
+author:1131631824=BenWilson
+diff:1131631824:1131631795:=1c1%0a%3c (:pagelist fmt=simple [[!Open License]]:)%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=simple !Open License:)%0a\ No newline at end of file%0a
+host:1131631824=144.167.105.115
+author:1131631795=BenWilson
+diff:1131631795:1131631795:=1d0%0a%3c (:pagelist fmt=simple !Open License:)%0a\ No newline at end of file%0a
+host:1131631795=144.167.105.115

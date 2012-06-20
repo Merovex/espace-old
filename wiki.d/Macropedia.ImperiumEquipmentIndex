@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta23 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1139792494
+host=69.155.127.118
+name=Macropedia.ImperiumEquipmentIndex
+rev=1
+targets=
+text=(:pagelist fmt=#sitemap !ImperiumEquipment:)
+time=1139792494
+author:1139792494=BenWilson
+csum:1139792494=
+diff:1139792494:1139792494:=1d0%0a%3c (:pagelist fmt=#sitemap !ImperiumEquipment:)%0a\ No newline at end of file%0a
+host:1139792494=69.155.127.118

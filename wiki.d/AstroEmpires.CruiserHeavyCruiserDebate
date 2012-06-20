@@ -1,0 +1,18 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1265816424
+host=68.48.114.50
+name=AstroEmpires.CruiserHeavyCruiserDebate
+rev=2
+targets=AstroEmpires.SmallFleetDoctrine,AstroEmpires.EfficiencyRatios
+text=This article addresses a debate I heard between a Cruiser Fleet and a%0aHeavy Cruiser Fleet. As one may gather from my [[Small Fleet Doctrine]],%0aI prefer Cruiser Fleets as the _core_ of any combat fleet.%0a%0aBoth fleets use Fighters. Cruiser Fleets build a mix of Cruisers and%0aCarriers. Heavy Cruiser Fleets build a mix of Heavy Cruisers and Fleet%0aCarriers. Casual familiarity with each combination shows the speeds%0amatch. Both fleet sets value Laser and Plasma as the core Power%0atechnologies.%0a%0aEfficiencies of the Fleets%0a==========================%0a%0aCruisers are marginally [[EfficiencyRatios|more efficient]] than Heavy%0aCruisers.%0a%0a(:comment This page has been edited using Pywe:)
+time=1265816469
+author:1265816469=BenWilson
+diff:1265816469:1265816424:=14c14%0a%3c Cruisers are marginally [[EfficiencyRatios|more efficient]] than Heavy%0a---%0a> Cruisers are marginally [[more efficient|EfficiencyRatios]] than Heavy%0a
+host:1265816469=68.48.114.50
+author:1265816424=BenWilson
+diff:1265816424:1265816424:=1,17d0%0a%3c This article addresses a debate I heard between a Cruiser Fleet and a%0a%3c Heavy Cruiser Fleet. As one may gather from my [[Small Fleet Doctrine]],%0a%3c I prefer Cruiser Fleets as the _core_ of any combat fleet.%0a%3c %0a%3c Both fleets use Fighters. Cruiser Fleets build a mix of Cruisers and%0a%3c Carriers. Heavy Cruiser Fleets build a mix of Heavy Cruisers and Fleet%0a%3c Carriers. Casual familiarity with each combination shows the speeds%0a%3c match. Both fleet sets value Laser and Plasma as the core Power%0a%3c technologies.%0a%3c %0a%3c Efficiencies of the Fleets%0a%3c ==========================%0a%3c %0a%3c Cruisers are marginally [[more efficient|EfficiencyRatios]] than Heavy%0a%3c Cruisers.%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1265816424=68.48.114.50

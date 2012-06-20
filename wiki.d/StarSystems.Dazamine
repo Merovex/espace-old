@@ -1,0 +1,31 @@
+version=pmwiki-2.0.beta55 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6
+author=BenWilson
+host=144.167.105.33
+name=StarSystems.Dazamine
+rev=11
+targets=
+text=(:toc:)²!! Overview²²Dazamine is a binary system, with a K5 primary (Dazamine) orbited by a small M6 star (Shoeya).²²!! Planets Orbiting Dazamine²²!!! Iadia²:Gravity%dlstar%: Good²:Habitat: Poor²:Colony: Poor²:Resources: Good²:Satellites: 1²²----²²!!! Eltur²:Gravity%dlstar%: Superb²:Habitat: Terrible²:Colony: Terrible²:Resources: Terrible²:Satellites: 6²²----²²!!! Zilof²:%dlstar%Gravity: Superb²:Habitat: Terrible²:Colony: Terrible²:Resources: Terrible²:Satellites: 4²²----²²!!! Vona²:%dlstar%Gravity: Terrible²:Habitat: Terrible²:Colony: Terrible²:Resources: Terrible²:Satellites: Poor²²----²²!! Planets Orbiting Shoeya²²----²²!!! Neuvena²:%dlstar%Gravity: Mediocre²:Habitat: Terrible²:Colony: Terrible²:Resources: Great²:Satellites: 0²²----²²!!!Bagra²:%dlstar%Gravity: Great²:Habitat: Terrible²:Colony: Terrible²:Resources: Fair²:Satellites: 2²²----²²!! Planets Orbiting Binary Pair²²----²²!!!Zeus-rama²:%dlstar%Gravity: Superb²:Habitat: Terrible²:Colony: Terrible²:Resources: Terrible²:Satellites: 11²²----²²!! Related Articles²(:pagelist fmt=simple group=Macropedia {$Name}:)²²
+time=1125602912
+author:1125602912=BenWilson
+diff:1125602912:1125602710:=80,81c80,81²< (:pagelist fmt=simple group=Macropedia {$Name}:)²< ²---²> (:pagelist group=Macropedia {$Name}:)²> ²
+host:1125602912=144.167.105.33
+author:1125602710=BenWilson
+diff:1125602710:1125602653:=8c8,10²< !!! Iadia²---²> ²> ²> !!!%clear% Iadia²17c19²< !!! Eltur²---²> !!! %clear%Eltur²
+host:1125602710=144.167.105.33
+author:1125602653=BenWilson
+diff:1125602653:1125602597:=19c19²< !!! %clear%Eltur²---²> !!! Eltur²
+host:1125602653=144.167.105.33
+author:1125602597=BenWilson
+diff:1125602597:1125602579:=10c10²< !!!%clear% Iadia²---²> %clear%!!! Iadia²
+host:1125602597=144.167.105.33
+author:1125602579=BenWilson
+diff:1125602579:1125589318:=8,10c8,10²< ²< ²< %clear%!!! Iadia²---²> ----²> ²> !!! Iadia²
+host:1125602579=144.167.105.33
+author:1125589318=JohnUghrin
+diff:1125589318:1120001571:minor=8,9d7²< ----²< ²17,18d14²< ----²< ²26,27d21²< ----²< ²35,36d28²< ----²< ²44,45d35²< ----²< ²48,49d37²< ----²< ²57,58d44²< ----²< ²66,67d51²< ----²< ²70,71d53²< ----²< ²79,80d60²< ----²< ²
+host:1125589318=24.166.101.248
+author:1120001571=BenWilson
+diff:1120001571:1108402569:=1,3c1,2²< (:toc:)²< !! Overview²< ²---²> ! Dazamine²> ²8,35c7,34²< !!! Iadia²< :Gravity%dlstar%: Good²< :Habitat: Poor²< :Colony: Poor²< :Resources: Good²< :Satellites: 1²< ²< !!! Eltur²< :Gravity%dlstar%: Superb²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Terrible²< :Satellites: 6²< ²< !!! Zilof²< :%dlstar%Gravity: Superb²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Terrible²< :Satellites: 4²< ²< !!! Vona²< :%dlstar%Gravity: Terrible²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Terrible²< :Satellites: Poor²< ²---²> !!! 1. Iadia²>    * Gravity: Good²>    * Habitat: Poor²>    * Colony: Poor²>    * Resources: Good²>    * Satellites: 1²> ²> !!! 2. Eltur²>    * Gravity: Superb²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Terrible²>    * Satellites: 6²> ²> !!! 3. Zilof²>    * Gravity: Superb²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Terrible²>    * Satellites: 4²> ²> !!! 4. Vona²>    * Gravity: Terrible²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Terrible²>    * Satellites: Poor²> ²38,51c37,50²< !!! Neuvena²< :%dlstar%Gravity: Mediocre²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Great²< :Satellites: 0²< ²< !!!Bagra²< :%dlstar%Gravity: Great²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Fair²< :Satellites: 2²< ²---²> !!! 1. Neuvena²>    * Gravity: Mediocre²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Great²>    * Satellites: 0²> ²> !!! 2. Bagra²>    * Gravity: Great²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Fair²>    * Satellites: 2²> ²54,60c53,59²< !!!Zeus-rama²< :%dlstar%Gravity: Superb²< :Habitat: Terrible²< :Colony: Terrible²< :Resources: Terrible²< :Satellites: 11²< ²---²> !!! 1. Zeus-rama²>    * Gravity: Superb²>    * Habitat: Terrible²>    * Colony: Terrible²>    * Resources: Terrible²>    * Satellites: 11²> ²63d61²< ²
+host:1120001571=144.167.104.139

@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.EkreiterPlague
+rev=4
+targets=Macropedia.DurinBonish,Macropedia.ElkarLemard,Macropedia.ImperiumEdition,Category.ImperiumEdition,Category.IsaacTaubAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe '''Ekreiter Plague''' destroyed political support for microscopic biological research for generations to come. Although such research continued, it was never again discussed in polite circles.%0a%0aThe Plague was created for the purpose of reducing the various venereal diseases that began their spread when the various star systems began to reunite. The Plague was designed to target those diseases and destroy them.%0a%0aInitially, the Plague met with success. Millions of cases of dwulkier were cured in a matter of months. However, itself being a microbe, ekreiter began to mutate, and shared genes with dwulkier. This resulted in a super strain that was itself sexually transmitted, but resulted in sterility of its host. By the time this became know, millions more were infected the the Plague. Those so infected had to be segregated from society lest they result in sterility of the entire human race.%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+time=1129667458
+author:1129667458=BenWilson
+diff:1129667458:1125245398:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667458=144.167.105.115
+author:1125245398=BenWilson
+csum:1125245398=Initially Written
+diff:1125245398:1120697829:=1,6c1,5%0a%3c The '''Ekreiter Plague''' destroyed political support for microscopic biological research for generations to come. Although such research continued, it was never again discussed in polite circles.%0a%3c %0a%3c The Plague was created for the purpose of reducing the various venereal diseases that began their spread when the various star systems began to reunite. The Plague was designed to target those diseases and destroy them.%0a%3c %0a%3c Initially, the Plague met with success. Millions of cases of dwulkier were cured in a matter of months. However, itself being a microbe, ekreiter began to mutate, and shared genes with dwulkier. This resulted in a super strain that was itself sexually transmitted, but resulted in sterility of its host. By the time this became know, millions more were infected the the Plague. Those so infected had to be segregated from society lest they result in sterility of the entire human race.%0a%3c %0a---%0a> %0a> !! References%0a> # Article1%0a> # Article2%0a> %0a10c9,10%0a%3c [[!ImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> %0a> [[!PhantomImperiumEdition]] [[!PhantomIsaacTaub]]%0a\ No newline at end of file%0a
+host:1125245398=69.155.122.58

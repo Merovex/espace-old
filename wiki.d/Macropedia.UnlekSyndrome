@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.UnlekSyndrome
+rev=3
+targets=Macropedia.TithianFoundation,Macropedia.UntaraDriveControl,Macropedia.ImperiumEdition,Macropedia.NormalizedAnthorph,Macropedia.Anthorph,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aA serious condition that was common among some [[Anthorph]] populations, and though cured during the High Imperium, reappeared among the [[NormalizedAnthorph|Normalized Anthorphs]], who as a group generally refused all treatment.%0a%0aThere are two forms of the affliction.  The first, and the most obviously horrible, occurs among [[Anthorph]]s during puberty.  Lesions form on the skin and within internal organs, causing a terrible, painful death.  Those that survive it are often horribly maimed; limbs twisted, internal organs barely functional, and usually a great deal of reconstructive surgery and organ replacement is required.%0a%0aThe second form is the more insidious.  The [[Anthorph]] will come down with a mild case, and then seemingly recover.  The disorder is wreaking havoc with the brain, however, and slowly madness will come.  For some the behavior is so obviously abnormal that they are institutionalized, but for others it is not so obvious.  In any case, psychotic and paranoid delusional behavior is the norm.%0a%0aThe syndrome defied treatment for centuries before the cause, a whole complex of genes that are found in a number of [[Anthorph]] lineages which, when expressed, can cause an individual's hereditable genetic alterations to breakdown.  A vaccine was developed that could alter those DNA sequences to stabilize the genes, and save for those who refused the injections, Unlek Syndrome was eradicated.%0a%0a!! References%0a# [[Anthorph]]s%0a# [[NormalizedAnthorph|Normalized Anthorphs]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129672499
+author:1129672499=BenWilson
+diff:1129672499:1115400848:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672499=144.167.105.115

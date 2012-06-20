@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104437800
+text=* Pages borrowed from [[http://www.orionsarm.com|Orion's Arm]] fall under the Creative Commons [[http://creativecommons.org/licenses/by-nc-sa/1.0/|Attribution-NonCommercial-ShareAlike 2.0]] license, unless otherwise specified.²²* Pages authored by [[~BenWilson]] fall under the Creative Commons [[http://creativecommons.org/licenses/by-nc-nd/2.0/|Attribution-NonCommercial-NoDerivs 2.0]] license.
+targets=Contributers.BenWilson
+author=BenWilson
+author:1104437800=BenWilson
+host:1104437800=68.51.35.56
+diff:1104437800:1104437800:=1,3d0²< * Pages borrowed from [[http://www.orionsarm.com|Orion's Arm]] fall under the Creative Commons [[http://creativecommons.org/licenses/by-nc-sa/1.0/|Attribution-NonCommercial-ShareAlike 2.0]] license, unless otherwise specified.²< ²< * Pages authored by [[~BenWilson]] fall under the Creative Commons [[http://creativecommons.org/licenses/by-nc-nd/2.0/|Attribution-NonCommercial-NoDerivs 2.0]] license.²\ No newline at end of file²
+name=Main.Copyrights
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

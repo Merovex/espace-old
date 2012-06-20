@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1243899429
+host=68.48.114.50
+name=Macropedia.ImperiumEditionPrinted-Draft
+rev=1
+targets=
+text=%25lfloat%25 http://espacesociety.org/pub/images/MT_perspective-thumb.gif%0a%0aAfter several years of festering on the site, the proof for the ''Macropedia Terradoma---Imperium Edition'' is being reviewed pending a final publication in June 2009. Please check back here for the official release notice.
+time=1243899429
+author:1243899429=BenWilson
+csum:1243899429=
+diff:1243899429:1243899429:=1,3d0%0a%3c %25lfloat%25 http://espacesociety.org/pub/images/MT_perspective-thumb.gif%0a%3c %0a%3c After several years of festering on the site, the proof for the ''Macropedia Terradoma---Imperium Edition'' is being reviewed pending a final publication in June 2009. Please check back here for the official release notice.%0a\ No newline at end of file%0a
+host:1243899429=68.48.114.50

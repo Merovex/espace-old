@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1105822509
+text=! Entry Template²(:*toc:)²!! Overview²²With sub-sections, might be helpful to have one overview section to summarize.²²!! In-Text Heading 1²²Sample text²²!! In-Text Heading 2²²(:comment When text exceeds 200 words, should break into sections, ²separate by in-text headings. When 3 or more headings, leave the ²TOC macro in place. :)²²Sample text²²!! References²# Actual Entry²# First Phantom Entry²# Second Phantom Entry²²!! Related Articles²(:pagelist group=Macropedia fmt=simple {$Name}:)²²²[[!]]{$Period}Edition²[[!]]{$ScholarName}Authored
+targets=
+author=BenWilson
+author:1105822347=BenWilson
+host:1105822347=68.51.35.56
+diff:1105822347:1105822347:=1,23d0²< ! EntryTemplate²< (:*toc:)²< !! Overview²< ²< !! In-Text Heading 1²< ²< !! In-Text Heading 2²< ²< (:comment When text exceeds 200 words, should break into sections, separate by in-text headings. When 3 or more headings, leave the TOC macro in place. :)²< ²< Sample text²< ²< !! References²< # Actual Entry²< # First Phantom Entry²< # Second Phantom Entry²< ²< !! Related Articles²< (:pagelist group=Macropedia {$Name}:)²< ²< ----²< [[!]]{$Period}Edition²< [[!]]{$ScholarName}Authored²\ No newline at end of file²
+name=Macropedia.EntryTemplate
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1105822509=BenWilson
+host:1105822509=68.51.35.56
+diff:1105822509:1105822347:=1c1²< ! Entry Template²---²> ! EntryTemplate²5,6d4²< With sub-sections, might be helpful to have one overview section to summarize.²< ²9,10d6²< Sample text²< ²13,16c9,10²< (:comment When text exceeds 200 words, should break into sections, ²< separate by in-text headings. When 3 or more headings, leave the ²< TOC macro in place. :)²< ²---²> (:comment When text exceeds 200 words, should break into sections, separate by in-text headings. When 3 or more headings, leave the TOC macro in place. :)²> ²

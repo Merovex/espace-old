@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.AlistairCormwite
+rev=12
+targets=Macropedia.AlaerianCult,Macropedia.Anthorph,Macropedia.ImperiumEdition,Macropedia.ImperialCoreWorlds,Macropedia.MorshFurnoklin,Macropedia.TerranRepublic,Macropedia.TawmerikDynasty,Category.ImperiumEdition,Category.IsaacTaubAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aFull name: Krezil-Bafiktuanoj Alistair Cormwite d'Regzit%0a%0aAlistair Cormwite was known as the godfather of the Imperium. He was born into obscurity and as a youth worked as a day laborer on a minor world within the sphere of the ImperialCoreWorlds. As an impovershed lad he taught himself to read and then learned mathematics and accounting. He began a brief criminal life as a loan shark.%0a%0aHis criminal career was cut short when he was arrested and convicted for sharking and tax evasion. However, during his trial he caught the attention of MorshFurnoklin, who was an agent for the Tawmerik family. His sentence was commuted to indentured servitude to the Tawmerik family.%0a%0aUnder their mentorship, he became a capable businessman and revealed shrewd and cuthroat competitive nature. His opinion of competition is best shown by his quote, "if I caught a competitor in space within a space suit, I'd cut his life support." His political savvy allowed the Tawmerik family to rise to dominance within their world. %0a%0aWhen public demand for a reunifying republic raised to a crescendo, he helped maneouver Reth Tawmerik, head of the Tawmerik family into position as the first Prime Minister of the TerranRepublic. Conspiracy theorists belief he was also instrumental in the fracturing of the short-lived republic, which paved the way for Reth and the TawmerikDynasty to rise to supreme power as the Emperor.%0a%0aNot much else is known of Alistair after the coronation. Evidence suggests that after Reth I became Emperor, Alistair was the man behind the curtain, helping to secure a long reign for the Tawmeriks. There is also speculation that one of Reth's children may have been Alistairs, but there is no DNA evidence to support this.%0a%0a!! References%0a# ImperialCoreWorlds%0a# TawmerikDynasty%0a%0a!! Related Articles%0a(:pagelist fmt=simple group=Macropedia {$Name}:)%0a%0a[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+time=1129666823
+author:1129666823=BenWilson
+diff:1129666823:1123392371:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129666823=144.167.105.115
+author:1123392371=BenWilson
+csum:1123392371=fixed category markup
+diff:1123392371:1118003947:=20c20,22%0a%3c [[!ImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> ----%0a> *Category/ImperiumEdition%0a> *Category/IsaacTaubAuthored%0a\ No newline at end of file%0a
+host:1123392371=70.249.188.117

@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104632267
+text=* '''AlistairCormwite''' -- by [[Scholar/IsaacTaub]]²²* '''AradianCult''' -- by [[Scholar/ChangSingh]]
+targets=Scholar.IsaacTaub,Macropedia.AlistairCormwite,Scholar.ChangSingh,Macropedia.AradianCult
+author=AaronClausen
+author:1103602048=BenWilson
+host:1103602048=68.51.35.56
+diff:1103602048:1103602048:=1d0²< * '''AlistairCormwite''' -- by [[Scholar/IsaacTaub]]²\ No newline at end of file²
+name=Macropedia.ImperiumEditionTurnA
+host=64.141.6.8
+agent=Mozilla/5.0 (X11; U; Linux i586; en-US; rv:1.8a6) Gecko/20041221 Firefox/1.0+
+rev=2
+author:1104632267=AaronClausen
+host:1104632267=64.141.6.8
+diff:1104632267:1103602048:=1,3c1²< * '''AlistairCormwite''' -- by [[Scholar/IsaacTaub]]²< ²< * '''AradianCult''' -- by [[Scholar/ChangSingh]]²\ No newline at end of file²---²> * '''AlistairCormwite''' -- by [[Scholar/IsaacTaub]]²\ No newline at end of file²

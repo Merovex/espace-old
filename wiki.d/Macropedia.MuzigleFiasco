@@ -1,0 +1,13 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.MuzigleFiasco
+rev=7
+targets=Macropedia.MinistryOfCulturalDevelopment,Macropedia.MuridianAvengers,Macropedia.ImperiumEdition,StarSystems.LuytensStar,Macropedia.TawmerikDynasty,Macropedia.HegemonicEconomicTradeGroup,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=(:title The Muzigle Fiasco:)%3c%3c|ImperiumEditionIndex|>>%0a%0aOne of the primary incidents responsible for the fall of the TawmerikDynasty, the Muzigle Fiasco brought a horrid period of deep economic instability to the Imperium. The HegemonicEconomicTradeGroup, with much Imperial financial backing was intent on making a bid for control of the [[StarSystems/LuytensStar|Muzigle System]]. Unfortunately, the purchase was bungled in the worst ways.%0a%0aThe first bungle came in the form of a leak that the purchase was imminent. Outside investment and speculation skyrocketed the prices. Secondly, negotiations with the wild government on the system took longer than expected and commitments to purchase were extracted and made too early in the process. Thirdly, once the purchase ''had to be made'' the cost was so exhorbitant as to require Imperial house guarantees. The guarantees ended up costing the family significant resources.%0a%0aWith the Imperial house finances in trouble, it was easy for them to be pushed out of office.%0a%0a!! References%0a# TawmerikDynasty%0a# HegemonicEconomicTradeGroup%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a!! Starsystem Link:%0aStarSystems/LuytensStar%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129670381
+title=The Muzigle Fiasco
+author:1129670381=BenWilson
+diff:1129670381:1119151312:=1,2c1,2%0a%3c (:title The Muzigle Fiasco:)%3c%3c|ImperiumEdition|>>%0a%3c %0a---%0a> (:title The Muzigle Fiasco:)%0a> %0a
+host:1129670381=144.167.105.115

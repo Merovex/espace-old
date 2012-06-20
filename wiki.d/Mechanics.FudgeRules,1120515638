@@ -1,0 +1,22 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=Mechanics.FudgeRules
+rev=4
+targets=Mechanics.BroadSkills,Mechanics.DefinedSkills,FudgeRules.FudgeRules
+text=!! Skills²BroadSkills are for the campaign where it is not important to know exactly which weapon a character is proficient in, or what type of knowledge he is an expert of. Naturally, this is mean for the more rules-light games.²²DefinedSkills are for the more specific campaign.²²[[FudgeRules/FudgeRules]]
+time=1120515625
+author:1120515625=BenWilson
+diff:1120515625:1120515616:=6c6²< [[FudgeRules/FudgeRules]]²\ No newline at end of file²---²> FudgeRules/FudgeRules²\ No newline at end of file²
+host:1120515625=70.248.67.21
+author:1120515616=BenWilson
+diff:1120515616:1120515147:=4,6c4²< DefinedSkills are for the more specific campaign.²< ²< FudgeRules/FudgeRules²\ No newline at end of file²---²> DefinedSkills are for the more specific campaign.²\ No newline at end of file²
+host:1120515616=70.248.67.21
+author:1120515147=BenWilson
+diff:1120515147:1120514695:=0a1²> ²2,4c3,4²< BroadSkills are for the campaign where it is not important to know exactly which weapon a character is proficient in, or what type of knowledge he is an expert of. Naturally, this is mean for the more rules-light games.²< ²< DefinedSkills are for the more specific campaign.²\ No newline at end of file²---²> ²> MinimalistSkills²\ No newline at end of file²
+host:1120515147=70.248.67.21
+author:1120514695=BenWilson
+diff:1120514695:1120514695:=1,4d0²< ²< !! Skills²< ²< MinimalistSkills²\ No newline at end of file²
+host:1120514695=70.248.67.21

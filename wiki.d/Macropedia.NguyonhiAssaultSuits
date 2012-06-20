@@ -1,0 +1,21 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+host=70.249.188.200
+name=Macropedia.NguyonhiAssaultSuits
+rev=8
+targets=Macropedia.NewDiaspora,Macropedia.NindusAzrahnFelard,Macropedia.ImperiumEditionIndex,Macropedia.ImperiumEquipmentIndex,Macropedia.Anthorph,Macropedia.FrontierRebellion,Macropedia.BangHaiNokIncident,Category.ImperiumEdition,Category.ChangSinghAuthored,Category.CombatEquipment,Category.ImperiumEquipment
+text=%3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a%3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%0aNothing has ever demonstrated the skills of the [[Anthorph]] peoples in genetics and in technology more fully than the famous Nguyonhi Assault Suits.  These wonders of genetic and physical engineering are now the mainstay of armies and security forces throughout explored space, but were one of the single most revolutionary combat inventions since the invention of the spear.%0a%0aThe suits are part mechanism, part miniturized AI bio-net and part living organism.  The Nguyonhi [[Anthorph]]s had discovered a foot long worm, the Tren, that had the strongest muscle tissue ever observed in natural organisms and nerve cells that could transmit information at speeds far in excess of those of humans.  They modified the Tren with the same techniques that they had used on themselves, producing the first assault suits.  These early suits proved invaluable during the FrontierRebellion, and in particular the BangHaiNokIncident.%0a%0aWith the formation of the Imperium, the Nguyonhi now had access to vast treasure troves of technology and data.  With these they created the later suits; hybrids of the alien Tren worm, human-derived ganglia and nano-motors to produce suits that could amplify the strength and reaction time of a wearer dozens of times, while adding less than twenty pounds of bulk.  The modern Nguyonhi Assault Suits can take an extraordinary amount of punishment, and have completely revolutionized infantry and special-ops combat.%0a%0a!! References%0a# [[Anthorph]]s%0a# BangHaiNokIncident%0a# FrontierRebellion%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]] [[!ImperiumEquipment]]
+time=1141520061
+author:1141520061=BubbaWilson
+csum:1141520061=
+diff:1141520061:1140325724:=1,3c1,2%0a%3c %3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a%3c %3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%3c %0a---%0a> %3c%3c|ImperiumEditionIndex|>>%0a> %0a19c18%0a%3c [[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]] [[!ImperiumEquipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]]%0a\ No newline at end of file%0a
+host:1141520061=70.249.188.200
+author:1140325724=BenWilson
+csum:1140325724=
+diff:1140325724:1129670491:=18c18%0a%3c [[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!ChangSinghAuthored]]%0a\ No newline at end of file%0a
+host:1140325724=24.166.101.248
+author:1129670491=BenWilson
+diff:1129670491:1121033125:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670491=144.167.105.115

@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1102692149
+text=(:wikilog:)²²
+targets=
+author=BenWilson
+author:1102692125=BenWilson
+host:1102692125=144.167.104.63
+diff:1102692125:1102692125:=1d0²< (:wikilog:)²\ No newline at end of file²
+name=Blog.GroupHeader
+host=144.167.104.63
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1102692149=BenWilson
+host:1102692149=144.167.104.63
+diff:1102692149:1102692125:=1,2c1²< (:wikilog:)²< ²---²> (:wikilog:)²\ No newline at end of file²

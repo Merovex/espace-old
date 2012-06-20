@@ -1,0 +1,184 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=68.33.222.116
+name=Site.PageActions
+passwdattr=@admin
+passwdedit=@admin
+rev=48
+targets=Site.PageActions,Site.GroupAttributes,Site.AuthUser
+text=(:if authid:)%0a[[{*$FullName}?action=logout|$[Sign Out]]]%0a(:if auth edit:)%0a| [[{*$FullName}?action=edit|$[Edit]]]%0a| [[{*$FullName}?action=upload|$[Attach]]]%0a(:if auth admin:)%0a| [[{*$FullName}?action=diff|$[History]]]%0a| [[{*$FullName}?action=attr|$[Page Attr]]]%0a| [[{*$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a| [[{$SiteGroup}.AuthUser|$[Users]]]%0a%0a(:comment This page has been edited using Pywe:)
+time=1293986390
+author:1293986390=BenWilson
+diff:1293986390:1291953044:=2c2%0a%3c [[{*$FullName}?action=logout|$[Sign Out]]]%0a---%0a> [[{$FullName}?action=logout|$[Sign Out]]]%0a4,5c4,5%0a%3c | [[{*$FullName}?action=edit|$[Edit]]]%0a%3c | [[{*$FullName}?action=upload|$[Attach]]]%0a---%0a> | [[{$FullName}?action=edit|$[Edit]]]%0a> | [[{$FullName}?action=upload|$[Attach]]]%0a7,12c7,10%0a%3c | [[{*$FullName}?action=diff|$[History]]]%0a%3c | [[{*$FullName}?action=attr|$[Page Attr]]]%0a%3c | [[{*$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c | [[{$SiteGroup}.AuthUser|$[Users]]]%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a---%0a> | [[{$FullName}?action=diff|$[History]]]%0a> | [[{$FullName}?action=attr|$[Page Attr]]]%0a> | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a> | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a
+host:1293986390=68.33.222.116
+author:1291953044=BenWilson
+csum:1291953044=
+diff:1291953044:1220308011:=0a1,2%0a> (:if !authid:)%0a> %25color=#777%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1291953044=68.33.222.116
+author:1220308011=BenWilson
+csum:1220308011=
+diff:1220308011:1219462062:=2c2%0a%3c %25color=#777%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#444%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1220308011=98.218.217.196
+author:1219462062=BenWilson
+csum:1219462062=
+diff:1219462062:1219462041:=2c2%0a%3c %25color=#444%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#484848%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1219462062=98.218.217.196
+author:1219462041=BenWilson
+csum:1219462041=
+diff:1219462041:1188405846:=2c2%0a%3c %25color=#484848%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#555%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1219462041=98.218.217.196
+author:1188405846=BenWilson
+csum:1188405846=
+diff:1188405846:1179793078:=2c2%0a%3c %25color=#555%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#AAA%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1188405846=64.124.158.130
+author:1179793078=BenWilson
+csum:1179793078=
+diff:1179793078:1179793062:=2c2%0a%3c %25color=#AAA%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#DDD%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1179793078=69.243.109.103
+author:1179793062=BenWilson
+csum:1179793062=
+diff:1179793062:1179793040:=2c2%0a%3c %25color=#DDD%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#CCC rel=nofollow%25[[{$FullName}?action=login|$[Sign In]]]%0a6,7c6,7%0a%3c | [[{$FullName}?action=edit|$[Edit]]]%0a%3c | [[{$FullName}?action=upload|$[Attach]]]%0a---%0a> (:cell:)   [[{$FullName}?action=edit|$[Edit]]]%0a> (:cell:)   [[{$FullName}?action=upload|$[Attach]]]%0a9,12c9,12%0a%3c | [[{$FullName}?action=diff|$[History]]]%0a%3c | [[{$FullName}?action=attr|$[Page Attr]]]%0a%3c | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a---%0a> (:cell:)  [[{$FullName}?action=diff|$[History]]]%0a> (:cell:)  [[{$FullName}?action=attr|$[Page Attr]]]%0a> (:cell:)  [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a> (:cell:)  [[{$SiteGroup}.AuthUser$[Users]]]%0a\ No newline at end of file%0a
+host:1179793062=69.243.109.103
+author:1179793040=BenWilson
+csum:1179793040=
+diff:1179793040:1179792915:=6,7c6,7%0a%3c (:cell:)   [[{$FullName}?action=edit|$[Edit]]]%0a%3c (:cell:)   [[{$FullName}?action=upload|$[Attach]]]%0a---%0a> (:cell  [[{$FullName}?action=edit:)$[Edit]]]:)%0a> (:cell  [[{$FullName}?action=upload:)$[Attach]]]:)%0a9,12c9,12%0a%3c (:cell:)  [[{$FullName}?action=diff|$[History]]]%0a%3c (:cell:)  [[{$FullName}?action=attr|$[Page Attr]]]%0a%3c (:cell:)  [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c (:cell:)  [[{$SiteGroup}.AuthUser$[Users]]]%0a\ No newline at end of file%0a---%0a> (:cell  [[{$FullName}?action=diff:)$[History]]]:)%0a> (:cell  [[{$FullName}?action=attr:)$[Page Attr]]]:)%0a> (:cell  [[{$Group}.GroupAttributes?action=attr:)$[Group Attr]]]:)%0a> (:cell  [[{$SiteGroup}.AuthUser:)$[Users]]]:)%0a\ No newline at end of file%0a
+host:1179793040=69.243.109.103
+author:1179792915=BenWilson
+csum:1179792915=
+diff:1179792915:1179792875:=6,7c6,7%0a%3c (:cell  [[{$FullName}?action=edit:)$[Edit]]]:)%0a%3c (:cell  [[{$FullName}?action=upload:)$[Attach]]]:)%0a---%0a> (:cell  [[{$FullName}?action=edit:)$[Edit]]]%0a> (:cell  [[{$FullName}?action=upload:)$[Attach]]]%0a9,12c9,12%0a%3c (:cell  [[{$FullName}?action=diff:)$[History]]]:)%0a%3c (:cell  [[{$FullName}?action=attr:)$[Page Attr]]]:)%0a%3c (:cell  [[{$Group}.GroupAttributes?action=attr:)$[Group Attr]]]:)%0a%3c (:cell  [[{$SiteGroup}.AuthUser:)$[Users]]]:)%0a\ No newline at end of file%0a---%0a> (:cell  [[{$FullName}?action=diff:)$[History]]]%0a> (:cell  [[{$FullName}?action=attr:)$[Page Attr]]]%0a> (:cell  [[{$Group}.GroupAttributes?action=attr:)$[Group Attr]]]%0a> (:cell  [[{$SiteGroup}.AuthUser:)$[Users]]]%0a\ No newline at end of file%0a
+host:1179792915=69.243.109.103
+author:1179792875=BenWilson
+csum:1179792875=
+diff:1179792875:1174928235:=2c2%0a%3c %25color=#CCC rel=nofollow%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#666 rel=nofollow%25[[{$FullName}?action=login|$[Sign In]]]%0a6,7c6,7%0a%3c (:cell  [[{$FullName}?action=edit:)$[Edit]]]%0a%3c (:cell  [[{$FullName}?action=upload:)$[Attach]]]%0a---%0a> | [[{$FullName}?action=edit|$[Edit]]]%0a> | [[{$FullName}?action=upload|$[Attach]]]%0a9,12c9,12%0a%3c (:cell  [[{$FullName}?action=diff:)$[History]]]%0a%3c (:cell  [[{$FullName}?action=attr:)$[Page Attr]]]%0a%3c (:cell  [[{$Group}.GroupAttributes?action=attr:)$[Group Attr]]]%0a%3c (:cell  [[{$SiteGroup}.AuthUser:)$[Users]]]%0a\ No newline at end of file%0a---%0a> | [[{$FullName}?action=diff|$[History]]]%0a> | [[{$FullName}?action=attr|$[Page Attr]]]%0a> | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a> | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a
+host:1179792875=69.243.109.103
+author:1174928235=BenWilson
+csum:1174928235=
+diff:1174928235:1174919320:=2c2%0a%3c %25color=#666 rel=nofollow%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=#666%25[[{$FullName}?action=login|$[Sign In]]]%0a
+host:1174928235=69.243.109.103
+author:1174919320=BenWilson
+csum:1174919320=
+diff:1174919320:1174919302:=6,7c6,7%0a%3c | [[{$FullName}?action=edit|$[Edit]]]%0a%3c | [[{$FullName}?action=upload|$[Attach]]]%0a---%0a> * [[{$FullName}?action=edit|$[Edit]]]%0a> * [[{$FullName}?action=upload|$[Attach]]]%0a9,12c9,12%0a%3c | [[{$FullName}?action=diff|$[History]]]%0a%3c | [[{$FullName}?action=attr|$[Page Attr]]]%0a%3c | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a---%0a> * [[{$FullName}?action=diff|$[History]]]%0a> * [[{$FullName}?action=attr|$[Page Attr]]]%0a> * [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a> * [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a
+host:1174919320=69.243.109.103
+author:1174919302=BenWilson
+csum:1174919302=
+diff:1174919302:1172159945:=6,7c6,7%0a%3c * [[{$FullName}?action=edit|$[Edit]]]%0a%3c * [[{$FullName}?action=upload|$[Attach]]]%0a---%0a> | [[{$FullName}?action=edit|$[Edit]]]%0a> | [[{$FullName}?action=upload|$[Attach]]]%0a9,12c9,12%0a%3c * [[{$FullName}?action=diff|$[History]]]%0a%3c * [[{$FullName}?action=attr|$[Page Attr]]]%0a%3c * [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c * [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a---%0a> | [[{$FullName}?action=diff|$[History]]]%0a> | [[{$FullName}?action=attr|$[Page Attr]]]%0a> | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a> | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a
+host:1174919302=69.243.109.103
+author:1172159945=BenWilson
+csum:1172159945=
+diff:1172159945:1172159922:=2c2%0a%3c %25color=#666%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25color=grey%25[[{$FullName}?action=login|$[Sign In]]]%0a4c4%0a%3c [[{$FullName}?action=logout|$[Sign Out]]]%0a---%0a> %25color=#666%25[[{$FullName}?action=logout|$[Sign Out]]]%0a
+host:1172159945=69.243.109.103
+author:1172159922=BenWilson
+csum:1172159922=
+diff:1172159922:1172159910:=4c4%0a%3c %25color=#666%25[[{$FullName}?action=logout|$[Sign Out]]]%0a---%0a> %25color=grey%25[[{$FullName}?action=logout|$[Sign Out]]]%0a
+host:1172159922=69.243.109.103
+author:1172159910=BenWilson
+csum:1172159910=
+diff:1172159910:1172159638:=2c2%0a%3c %25color=grey%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> %25grey%25[[{$FullName}?action=login|$[Sign In]]]%0a4c4%0a%3c %25color=grey%25[[{$FullName}?action=logout|$[Sign Out]]]%0a---%0a> [[{$FullName}?action=logout|$[Sign Out]]]%0a
+host:1172159910=69.243.109.103
+author:1172159638=BenWilson
+csum:1172159638=
+diff:1172159638:1157813749:=2c2%0a%3c %25grey%25[[{$FullName}?action=login|$[Sign In]]]%0a---%0a> [[{$FullName}?action=login|$[Sign In]]]%0a
+host:1172159638=69.243.109.103
+author:1157813749=BenWilson
+csum:1157813749=
+diff:1157813749:1155590875:=11,12c11%0a%3c | [[{$Group}.GroupAttributes?action=attr|$[Group Attr]]]%0a%3c | [[{$SiteGroup}.AuthUser|$[Users]]]%0a\ No newline at end of file%0a---%0a> | [[{$SiteGroup}.AuthUser|$[Users]]]%0a
+host:1157813749=70.252.87.161
+author:1155590875=BenWilson
+csum:1155590875=
+diff:1155590875:1155512513:=11a12%0a> | [[{$FullName}?action=admin|$[admin]]]%0a\ No newline at end of file%0a
+host:1155590875=70.252.87.161
+author:1155512513=BenWilson
+csum:1155512513=
+diff:1155512513:1155419361:=2c2%0a%3c [[{$FullName}?action=login|$[Sign In]]]%0a---%0a> [[{$FullName}?action=login|$[login]]]%0a4c4%0a%3c [[{$FullName}?action=logout|$[Sign Out]]]%0a---%0a> [[{$FullName}?action=logout|$[logout]]]%0a6,7c6,7%0a%3c | [[{$FullName}?action=edit|$[Edit]]]%0a%3c | [[{$FullName}?action=upload|$[Attach]]]%0a---%0a> | [[{$FullName}?action=edit|$[edit]]]%0a> | [[{$FullName}?action=upload|$[attach]]]%0a9,12c9,12%0a%3c | [[{$FullName}?action=diff|$[History]]]%0a%3c | [[{$FullName}?action=attr|$[Page Attr]]]%0a%3c | [[{$SiteGroup}.AuthUser|$[Users]]]%0a%3c | [[{$FullName}?action=admin|$[admin]]]%0a\ No newline at end of file%0a---%0a> | [[{$FullName}?action=diff|$[history]]]%0a> | [[{$FullName}?action=attr|$[attr]]]%0a> | [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a> | [[{$FullName}?action=admin|$[admin]]]%0a
+host:1155512513=70.252.87.161
+author:1155419361=BenWilson
+csum:1155419361=
+diff:1155419361:1147992790:=1,7d0%0a%3c (:if !authid:)%0a%3c [[{$FullName}?action=login|$[login]]]%0a%3c (:if authid:)%0a%3c [[{$FullName}?action=logout|$[logout]]]%0a%3c (:if auth edit:)%0a%3c | [[{$FullName}?action=edit|$[edit]]]%0a%3c | [[{$FullName}?action=upload|$[attach]]]%0a9,12c2,12%0a%3c | [[{$FullName}?action=diff|$[history]]]%0a%3c | [[{$FullName}?action=attr|$[attr]]]%0a%3c | [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a%3c | [[{$FullName}?action=admin|$[admin]]]%0a---%0a> * %25last%25[[{$FullName}?action=admin|$[admin]]]%0a> * [[{$FullName}?action=attr|$[attr]]]%0a> * [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a> * [[{$FullName}?action=diff|$[history]]]%0a> (:if auth edit:)%0a> * [[{$FullName}?action=edit|$[edit]]]%0a> * [[{$FullName}?action=upload|$[attach]]]%0a> (:if !authid:)%0a> * %25sole%25 [[{$FullName}?action=login|$[login]]]%0a> (:if authid:)%0a> * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a\ No newline at end of file%0a
+host:1155419361=71.143.168.5
+author:1147992790=BenWilson
+csum:1147992790=
+diff:1147992790:1147992703:=8a9,11%0a> (:if !auth admin:)%0a> * %25last%25[[{$FullName}?action=diff|$[history]]]%0a> (:ifend:)%0a
+host:1147992790=70.249.57.197
+author:1147992703=BenWilson
+csum:1147992703=
+diff:1147992703:1147992693:=2c2%0a%3c * %25last%25[[{$FullName}?action=admin|$[admin]]]%0a---%0a> * [[{$FullName}?action=admin|$[admin]]]%0a
+host:1147992703=70.249.57.197
+author:1147992693=BenWilson
+csum:1147992693=
+diff:1147992693:1147992675:=4c4%0a%3c * [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a---%0a> * %25last%25 [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a15c15%0a%3c * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a\ No newline at end of file%0a---%0a> * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a
+host:1147992693=70.249.57.197
+author:1147992675=BenWilson
+csum:1147992675=
+diff:1147992675:1147992649:=1a2%0a> * [[{$FullName}?action=diff|$[history]]]%0a5c6,9%0a%3c * [[{$FullName}?action=diff|$[history]]]%0a---%0a> (:if !authid:)%0a> * %25sole%25 [[{$FullName}?action=login|$[login]]]%0a> (:if authid:)%0a> * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a11,15c15%0a%3c (:ifend:)%0a%3c (:if !authid:)%0a%3c * %25sole%25 [[{$FullName}?action=login|$[login]]]%0a%3c (:if authid:)%0a%3c * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1147992675=70.249.57.197
+author:1147992649=BenWilson
+csum:1147992649=
+diff:1147992649:1147989517:=1,5d0%0a%3c (:if auth admin:)%0a%3c * [[{$FullName}?action=diff|$[history]]]%0a%3c * [[{$FullName}?action=admin|$[admin]]]%0a%3c * [[{$FullName}?action=attr|$[attr]]]%0a%3c * %25last%25 [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a15c10,14%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:if auth admin:)%0a> * [[{$FullName}?action=diff|$[history]]]%0a> * [[{$FullName}?action=admin|$[admin]]]%0a> * [[{$FullName}?action=attr|$[attr]]]%0a> * %25last%25 [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a
+host:1147992649=70.249.57.197
+author:1147989517=BenWilson
+csum:1147989517=
+diff:1147989517:1147989419:=4c4%0a%3c * %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a---%0a> %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a
+host:1147989517=70.249.57.197
+author:1147989419=BenWilson
+csum:1147989419=
+diff:1147989419:1147621155:=2c2%0a%3c * %25sole%25 [[{$FullName}?action=login|$[login]]]%0a---%0a> [[{$FullName}?action=login|$[login]]]%0a4c4%0a%3c %25first%25 [[{$FullName}?action=logout|$[logout]]]%0a---%0a> [[{$FullName}?action=logout|$[logout]]]%0a6,9c6,8%0a%3c * [[{$FullName}?action=edit|$[edit]]]%0a%3c * [[{$FullName}?action=upload|$[attach]]]%0a%3c (:if !auth admin:)%0a%3c * %25last%25[[{$FullName}?action=diff|$[history]]]%0a---%0a> &middot; [[{$FullName}?action=edit|$[edit]]]%0a> &middot; [[{$FullName}?action=upload|$[attach]]]%0a> &middot; [[{$FullName}?action=diff|$[history]]]%0a11,14c10,12%0a%3c * [[{$FullName}?action=diff|$[history]]]%0a%3c * [[{$FullName}?action=admin|$[admin]]]%0a%3c * [[{$FullName}?action=attr|$[attr]]]%0a%3c * %25last%25 [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a---%0a> &middot; [ [[{$FullName}?action=admin|$[admin]]]%0a> &middot; [[{$FullName}?action=attr|$[attr]]]%0a> &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]] ]%0a\ No newline at end of file%0a
+host:1147989419=70.249.57.197
+author:1147621155=BenWilson
+csum:1147621155=
+diff:1147621155:1147544778:=8d7%0a%3c &middot; [[{$FullName}?action=diff|$[history]]]%0a
+host:1147621155=70.249.57.197
+author:1147544778=BenWilson
+csum:1147544778=
+diff:1147544778:1135960255:=7d6%0a%3c &middot; [[{$FullName}?action=upload|$[attach]]]%0a9c8%0a%3c &middot; [ [[{$FullName}?action=admin|$[admin]]]%0a---%0a> &middot; [[{$FullName}?action=admin|$[admin]]]%0a11c10%0a%3c &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]] ]%0a\ No newline at end of file%0a---%0a> &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a
+host:1147544778=70.249.57.197
+author:1135960255=BenWilson
+diff:1135960255:1135960240:=10c10,11%0a%3c &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a---%0a> &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a> (:endif:)%0a\ No newline at end of file%0a
+host:1135960255=65.68.18.205
+author:1135960240=BenWilson
+diff:1135960240:1135959220:=2c2,3%0a%3c [[{$FullName}?action=login|$[login]]]%0a---%0a> [[{$FullName}?action=login|login]]%0a> (:if:)%0a4c5,6%0a%3c [[{$FullName}?action=logout|$[logout]]]%0a---%0a> [[{$FullName}?action=logout|logout]]%0a> (:if:)%0a6c8,9%0a%3c &middot; [[{$FullName}?action=edit|$[edit]]]%0a---%0a> &middot; [[{$FullName}?action=edit|$UACEdit]]%0a> (:if:)%0a8,11c11,14%0a%3c &middot; [[{$FullName}?action=admin|$[admin]]]%0a%3c &middot; [[{$FullName}?action=attr|$[attr]]]%0a%3c &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a%3c (:endif:)%0a\ No newline at end of file%0a---%0a> &middot; [[{$FullName}?action=admin|$UACAdmin]]%0a> &middot; [[{$FullName}?action=attr|$UACAttr]]%0a> &middot; [[{$SiteGroup}.AuthUser?action=edit|$UACUsers]]%0a> (:if:)%0a\ No newline at end of file%0a
+host:1135960240=65.68.18.205
+author:1135959157=BenWilson
+diff:1135959157:1135958920:=1d0%0a%3c (:if !authid:)%0a2a2,3%0a> (:if auth edit:)%0a> &middot; [[{$FullName}?action=edit|$UACEdit]]%0a4,9d4%0a%3c (:if authid:)%0a%3c [[{$FullName}?action=logout|logout]]%0a%3c (:if:)%0a%3c (:if auth edit:)%0a%3c &middot; [[{$FullName}?action=edit|$UACEdit]]%0a%3c (:if:)%0a
+host:1135959157=65.68.18.205
+author:1135958920=BenWilson
+diff:1135958920:1135956053:=1d0%0a%3c [[{$FullName}?action=login|login]]%0a
+host:1135958920=65.68.18.205
+author:1135956053=BenWilson
+diff:1135956053:1135956038:=7c7%0a%3c &middot; [[{$SiteGroup}.AuthUser?action=edit|$UACUsers]]%0a---%0a> &middot; [[{$SiteGroup}.UserAuth?action=edit|$UACUsers]]%0a
+host:1135956053=65.68.18.205
+author:1135956038=BenWilson
+diff:1135956038:1135955999:=7c7%0a%3c &middot; [[{$SiteGroup}.UserAuth?action=edit|$UACUsers]]%0a---%0a> &middot; [[{$SiteGroup.UserAuth?action=edit|$UACUsers]]%0a
+host:1135956038=65.68.18.205
+author:1135955999=BenWilson
+diff:1135955999:1135955815:=2c2%0a%3c &middot; [[{$FullName}?action=edit|$UACEdit]]%0a---%0a> &middot; [[{$FullName}?action=edit|{$UACEdit}]]%0a5,7c5,6%0a%3c &middot; [[{$FullName}?action=admin|$UACAdmin]]%0a%3c &middot; [[{$FullName}?action=attr|$UACAttr]]%0a%3c &middot; [[{$SiteGroup.UserAuth?action=edit|$UACUsers]]%0a---%0a> &middot; [[{$FullName}?action=admin|{$UACAdmin}]]%0a> &middot; [[{$FullName}?action=attr|{$UACAttr}]]%0a
+host:1135955999=65.68.18.205
+author:1135955815=BenWilson
+diff:1135955815:1135955739:=2c2%0a%3c &middot; [[{$FullName}?action=edit|{$UACEdit}]]%0a---%0a> &middot; [[{$FullName}?action=edit|{$Edit}]]%0a5,6c5,6%0a%3c &middot; [[{$FullName}?action=admin|{$UACAdmin}]]%0a%3c &middot; [[{$FullName}?action=attr|{$UACAttr}]]%0a---%0a> &middot; [[{$FullName}?action=admin|{$Admin}]]%0a> &middot; [[{$FullName}?action=attr|{$Attr}]]%0a
+host:1135955815=65.68.18.205
+author:1135955739=BenWilson
+diff:1135955739:1135955332:=2c2%0a%3c &middot; [[{$FullName}?action=edit|{$Edit}]]%0a---%0a> &middot; [[${PageUrl}?action=edit]]%0a5,6c5%0a%3c &middot; [[{$FullName}?action=admin|{$Admin}]]%0a%3c &middot; [[{$FullName}?action=attr|{$Attr}]]%0a---%0a> &middot; [[{$PageUrl}?action=admin|${Admin}]]%0a
+host:1135955739=65.68.18.205
+author:1135955332=BenWilson
+diff:1135955332:1135955318:=2c2%0a%3c &middot; [[${PageUrl}?action=edit]]%0a---%0a> &middot; [[{$PageUrl}?action=edit]]%0a
+host:1135955332=65.68.18.205
+author:1135955318=BenWilson
+diff:1135955318:1135955297:=2c2%0a%3c &middot; [[{$PageUrl}?action=edit]]%0a---%0a> &middot; [[{$PageUrl}?action=edit|${Edit}]]%0a
+host:1135955318=65.68.18.205
+author:1135955297=BenWilson
+diff:1135955297:1135955265:=2c2%0a%3c &middot; [[{$PageUrl}?action=edit|${Edit}]]%0a---%0a> [[{$PageUrl}?action=edit|${Edit}]]%0a5c5%0a%3c &middot; [[{$PageUrl}?action=admin|${Admin}]]%0a---%0a> [[{$PageUrl}?action=admin|${Admin}]]%0a
+host:1135955297=65.68.18.205
+author:1135955265=BenWilson
+diff:1135955265:1135955233:=3,5d2%0a%3c (:if:)%0a%3c (:if auth admin:)%0a%3c [[{$PageUrl}?action=admin|${Admin}]]%0a
+host:1135955265=65.68.18.205
+author:1135955233=BenWilson
+diff:1135955233:1135955117:=1d0%0a%3c (:if auth edit:)%0a3d1%0a%3c (:if:)%0a\ No newline at end of file%0a
+host:1135955233=65.68.18.205
+author:1135955117=BenWilson
+diff:1135955117:1135955095:=1c1%0a%3c [[{$PageUrl}?action=edit|${Edit}]]%0a---%0a> [[$PageUrl?action=edit|${Edit}]]%0a
+host:1135955117=65.68.18.205
+author:1135955095=BenWilson
+diff:1135955095:1135955095:=1d0%0a%3c [[$PageUrl?action=edit|${Edit}]]%0a
+host:1135955095=65.68.18.205

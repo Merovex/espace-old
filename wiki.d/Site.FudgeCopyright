@@ -1,0 +1,14 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+ctime=1136164377
+excerpt=%3cp>The %3cstrong>%3cem>Fudge%3c/em>%3c/strong> system is available for use under the Open Game license.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>%3cstrong>%3cem>Fudge%3c/em>%3c/strong> is released under the Open Game License (OGL). (%3cem>See%3c/em> %3ca class='external' target='_blank' href='http://www.fudgerpg.com/files/rtf/fudge_srd.rtf'>%3cstrong>%3cem>Fudge%3c/em>%3c/strong> System Reference Document (%3cstrong>%3cem>Fudge%3c/em>%3c/strong> SRD)%3c/a>.)%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>The %3cstrong>%3cem>Fudge%3c/em>%3c/strong> SRD contains all of the %3cstrong>%3cem>Fudge%3c/em>%3c/strong> material in this initial release that falls under the Open Game Li
+host=69.155.125.173
+name=Site.FudgeCopyright
+rev=1
+targets=
+text=The Fudge system is available for use under the Open Game license.%0a%0aFudge is released under the Open Game License (OGL). (''See'' [[Fudge System Reference Document (Fudge SRD)->http://www.fudgerpg.com/files/rtf/fudge_srd.rtf]].)%0a%0aThe Fudge SRD contains all of the Fudge material in this initial release that falls under the Open Game License.%0a%0aAppendix I in the Fudge SRD contains the Open Game License, version 1.0a 
+time=1136164377
+author:1136164377=BenWilson
+diff:1136164377:1136164377:=1,7d0%0a%3c The Fudge system is available for use under the Open Game license.%0a%3c %0a%3c Fudge is released under the Open Game License (OGL). (''See'' [[Fudge System Reference Document (Fudge SRD)->http://www.fudgerpg.com/files/rtf/fudge_srd.rtf]].)%0a%3c %0a%3c The Fudge SRD contains all of the Fudge material in this initial release that falls under the Open Game License.%0a%3c %0a%3c Appendix I in the Fudge SRD contains the Open Game License, version 1.0a %0a\ No newline at end of file%0a
+host:1136164377=69.155.125.173

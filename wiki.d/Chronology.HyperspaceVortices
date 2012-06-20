@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103055343
+text=During the FirstExpanse era. Humans developed the ability to leave normal spacetime and enter Hyperspace. Unfortunately, misunderstanding in the nature of hyperspace lead to the formation of Hyperspace Vortices.²²Ships passing through hyperspace would "swirl" the space around them. At first, this wasn't a problem, but as more and more ships²passed the same optimum travel routes, the vortices grew more powerful. Of course, no one knew why.²²Ships began "hypering in" well off their intended targets. Which was a great inconvenience, but not terribly deadly in the emptiness of space. ²²²-- [[~JohnUghrin]] - 08 Mar 2004 <br />²²By the end of the FirstDecline a few colonies had finally discovered means of minimizing hyperspace vortices, and this lead to the formation of the ImperialDominion.²²-- [[~AaronClausen]] - 04 Dec 2004 <br />²²Over time, technological improvements and better computer calculations reduce the impact of hyperspace vortices. This is a sort of human competition with nature. Human uses the environment, upsetting the environment. The environment becomes trecherous for humans to use, so they improve the technology. A never ending cycle.²²-- [[~BenWilson]]
+targets=Chronology.FirstExpanse,Contributers.JohnUghrin,Chronology.FirstDecline,Chronology.ImperialDominion,Contributers.AaronClausen,Contributers.BenWilson
+author=BenWilson
+author:1103055296=BenWilson
+host:1103055296=10.1.1.74
+diff:1103055296:1103055296:=1,17d0²< During the FirstExpanse era. Humans developed the ability to leave normal spacetime and enter Hyperspace. Unfortunately, misunderstanding in the nature of hyperspace lead to the formation of Hyperspace Vortices.²< ²< Ships passing through hyperspace would "swirl" the space around them. At first, this wasn't a problem, but as more and more ships²< passed the same optimum travel routes, the vortices grew more powerful. Of course, no one knew why.²< ²< Ships began "hypering in" well off their intended targets. Which was a great inconvenience, but not terribly deadly in the emptiness of space. ²< ²< ²< -- Guide.JohnUghrin - 08 Mar 2004 <br />²< ²< By the end of the FirstDecline a few colonies had finally discovered means of minimizing hyperspace vortices, and this lead to the formation of the ImperialDominion.²< ²< -- Guide.AaronClausen - 04 Dec 2004 <br />²< ²< Over time, technological improvements and better computer calculations reduce the impact of hyperspace vortices. This is a sort of human competition with nature. Human uses the environment, upsetting the environment. The environment becomes trecherous for humans to use, so they improve the technology. A never ending cycle.²< ²< -- [[~name]]²\ No newline at end of file²
+name=Chronology.HyperspaceVortices
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1103055343=BenWilson
+host:1103055343=10.1.1.74
+diff:1103055343:1103055296:=9,10c9,10²< -- [[~JohnUghrin]] - 08 Mar 2004 <br />²< ²---²> -- Guide.JohnUghrin - 08 Mar 2004 <br />²> ²13,14c13,14²< -- [[~AaronClausen]] - 04 Dec 2004 <br />²< ²---²> -- Guide.AaronClausen - 04 Dec 2004 <br />²> ²17c17²< -- [[~BenWilson]]²\ No newline at end of file²---²> -- [[~name]]²\ No newline at end of file²

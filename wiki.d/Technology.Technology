@@ -1,0 +1,33 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+host=70.249.188.200
+name=Technology.Technology
+rev=8
+targets=Technology.RecentChanges,Technology.Batteries
+text=This is a manually updated list of topics that fit into the {$Group} Category.%0a%0aIf you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a%0a* [[Batteries]]%0a%0a----%0a%0a(:pagelist group={$Group} fmt=#list :)%0a%0a
+time=1141504964
+author:1141504964=BubbaWilson
+csum:1141504964=
+diff:1141504964:1137980441:=5,6d4%0a%3c * [[Batteries]]%0a%3c %0a
+host:1141504964=70.249.188.200
+author:1137980441=BenWilson
+csum:1137980441=
+diff:1137980441:1137980313:=7,8c7,8%0a%3c (:pagelist group={$Group} fmt=#list :)%0a%3c %0a---%0a> (:pagelist group={$Group} :)%0a> %0a
+host:1137980441=70.252.86.42
+author:1137980313=BenWilson
+csum:1137980313=
+diff:1137980313:1137979349:=7,8c7,8%0a%3c (:pagelist group={$Group} :)%0a%3c %0a---%0a> (:pagelist group={$Group} fmt=#sitemap:)%0a> %0a
+host:1137980313=70.252.86.42
+author:1137979349=BenWilson
+csum:1137979349=
+diff:1137979349:1137979330:=7,8c7,8%0a%3c (:pagelist group={$Group} fmt=#sitemap:)%0a%3c %0a---%0a> (:pagelist group={$Group}:)%0a> %0a
+host:1137979349=70.252.86.42
+author:1137979330=BenWilson
+csum:1137979330=
+diff:1137979330:1118091880:=7,8c7,8%0a%3c (:pagelist group={$Group}:)%0a%3c %0a---%0a> (:pagelist group={$Group} fmt=simple:)%0a> %0a
+host:1137979330=70.252.86.42
+author:1118091880=BenWilson
+diff:1118091880:1105932003:=0a1,2%0a> ! {$Group}%0a> %0a7,8c9,10%0a%3c (:pagelist group={$Group} fmt=simple:)%0a%3c %0a---%0a> (:pagelist group={$Group}:)%0a> %0a
+host:1118091880=68.51.35.56

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.8) Gecko/20071022 Ubuntu/7.10 (gutsy) Firefox/2.0.0.8
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1194037104
+host=69.243.109.103
+name=NaturalSciences.WeightsAndMeasures
+rev=3
+targets=Chronology.Chronology,NaturalSciences.GravatonicInterloquiterEquation
+text=:Quid: A QUID (Quasi Universal Intergalactic Denomination) is the basic unit of currency during most periods of humanity. During periods of stable pan-human governments, a quid represents one hour of menial labor.%0a%0a:Pace: A Pace the basic unit of distance for soup travel. One pace is the distance traveled in one hour from a one GIE location with a one magnatude gravatonic inducer. Thus, a 400 pace route would take 400 hours during the [[Chronology|First Expanse]].%0a%0a:[[Gravatonic Interloquiter Equation|GIE]]: GIE (Gravatonic Interloquiter Equation) is a unit of relative location from a star where soup travel is deemed safest.
+time=1194037488
+author:1194037488=BenWilson
+csum:1194037488=
+diff:1194037488:1194037396:=5c5%0a%3c :[[Gravatonic Interloquiter Equation|GIE]]: GIE (Gravatonic Interloquiter Equation) is a unit of relative location from a star where soup travel is deemed safest.%0a\ No newline at end of file%0a---%0a> :[[Gravatonic Interloquiter Equation|GIE]]: (Gravatonic Interloquiter Equation) is a unit of relative location from a star where soup travel is deemed safest.%0a\ No newline at end of file%0a
+host:1194037488=69.243.109.103
+author:1194037396=BenWilson
+csum:1194037396=
+diff:1194037396:1194037104:=3,5c3,4%0a%3c :Pace: A Pace the basic unit of distance for soup travel. One pace is the distance traveled in one hour from a one GIE location with a one magnatude gravatonic inducer. Thus, a 400 pace route would take 400 hours during the [[Chronology|First Expanse]].%0a%3c %0a%3c :[[Gravatonic Interloquiter Equation|GIE]]: (Gravatonic Interloquiter Equation) is a unit of relative location from a star where soup travel is deemed safest.%0a\ No newline at end of file%0a---%0a> :Pace: A Pace the basic unit of distance for soup travel. The distance traveled in one hour...%0a> %0a
+host:1194037396=69.243.109.103
+author:1194037104=BenWilson
+csum:1194037104=
+diff:1194037104:1194037104:=1,4d0%0a%3c :Quid: A QUID (Quasi Universal Intergalactic Denomination) is the basic unit of currency during most periods of humanity. During periods of stable pan-human governments, a quid represents one hour of menial labor.%0a%3c %0a%3c :Pace: A Pace the basic unit of distance for soup travel. The distance traveled in one hour...%0a%3c %0a
+host:1194037104=69.243.109.103

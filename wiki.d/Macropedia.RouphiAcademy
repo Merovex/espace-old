@@ -1,0 +1,15 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.RouphiAcademy
+rev=6
+targets=Macropedia.QuixoticMaelstrom,Macropedia.RaoulTammerik,Macropedia.ImperiumEdition,Macropedia.HegemonicEconomicTradeGroup,StarSystems.SouldoglePrime,Macropedia.DioEnMashino,Macropedia.ChovimFamily,Macropedia.TerranRepublic,Macropedia.MuzigleFiasco,Macropedia.KlisterUniversity,Macropedia.KuberianMovement,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Rouphi Academy was first sponsored by the HegemonicEconomicTradeGroup on StarSystems/SouldoglePrime just prior to the discover of the DioEnMashino. The Rouphi where a small splinter of the ChovimFamily. Its early history and focus appears devoted to the study of interstellar economics and the development of insterstellar trade law. The Academy was a strong supporter of both the TerranRepublic and the Imperium. %0a%0aThat focus continued, to one extent or another, and prevails today. The Academy quickly rose to prominence as the fashionable place for aristocratic and noble scions to learn the games of power. This was quite valuable for the [[HegemonicEconomicTradeGroup|HETG]] until outside investment made the academy a primarily independent body after the MuzigleFiasco. This also had the effect of essentially restricting the student body to "normal" humans.%0a%0aThe Academy came to have a competitive relationship with KlisterUniversity. While Klister University was the Imperium's great center for scientific and engineering research, Rouphi Academy became the Imperium's great center for cultural, social, and policy advancement. While both institutions had colleges and programs in the other's expertises, neither ever managed to encroach on the other's reputation.%0a%0aThe Academy's endeavours suffered mightily from the KuberianMovement, eliminating the sholarly value of many of its programs. The Academy still functions today, but its future is in doubt as the galactic culture changes.%0a%0a!! References%0a# HegemonicEconomicTradeGroup%0a# KlisterUniversity%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129670980
+author:1129670980=BenWilson
+diff:1129670980:1127248984:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670980=144.167.105.115
+author:1127248984=BenWilson
+diff:1127248984:1119151355:=16c16,17%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> %0a> [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1127248984=144.167.105.33

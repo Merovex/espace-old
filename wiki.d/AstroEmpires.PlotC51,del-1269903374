@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1189256972
+host=69.243.109.103
+name=AstroEmpires.PlotC51
+rev=2
+targets=
+text=(:plot-map:)
+time=1189256986
+author:1189256986=BenWilson
+csum:1189256986=
+diff:1189256986:1189256972:=
+host:1189256986=69.243.109.103
+author:1189256972=BenWilson
+csum:1189256972=
+diff:1189256972:1189256972:=1d0%0a%3c (:plot-map:)%0a\ No newline at end of file%0a
+host:1189256972=69.243.109.103

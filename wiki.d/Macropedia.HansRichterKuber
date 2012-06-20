@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.12) Gecko/20050919 Firefox/1.0.7
+author=MateuszCzaplinski
+ctime=1137874695
+excerpt=%3cp>(:redirect %3cspan class='wikiword'>%3ca class='wikilink' href='http://www.gmtoolbox.org/espace/Macropedia/KuberianMovement'>Kuberian Movement%3c/a>%3c/span>:)%0a%3c/p>%0a
+host=83.16.49.165
+name=Macropedia.HansRichterKuber
+rev=1
+targets=Macropedia.KuberianMovement
+text=(:redirect KuberianMovement:)
+time=1137874695
+author:1137874695=MateuszCzaplinski
+csum:1137874695=redirect to KuberianMovement
+diff:1137874695:1137874695:minor=1d0%0a%3c (:redirect KuberianMovement:)%0a\ No newline at end of file%0a
+host:1137874695=83.16.49.165

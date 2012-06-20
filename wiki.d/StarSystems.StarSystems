@@ -1,0 +1,19 @@
+version=pmwiki-2.2.0-beta56 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+author=AaronClausen
+charset=ISO-8859-1
+csum=
+host=70.67.63.106
+name=StarSystems.StarSystems
+rev=16
+targets=StarSystems.AlphaCentauri,StarSystems.Hazadal,StarSystems.Dazamine,StarSystems.EpsilonIndi,StarSystems.EpsilonEridani,StarSystems.Ithad,StarSystems.Gazar,StarSystems.SolarSystem,StarSystems.MundumoSystem,StarSystems.MuzigleSystem,StarSystems.Nguyonh,StarSystems.FauSystem,StarSystems.PuriviDonar,StarSystems.SigmaDraconis,StarSystems.SouldoglePrime
+text=* AlphaCentauri%0a* [[Hazadal]]%0a* [[Dazamine]]%0a* EpsilonIndi%0a* EpsilonEridani%0a* [[Ithad]]%0a* [[Gazar]]%0a* [[SolarSystem |Sol]]%0a* [[MundumoSystem |Mundumo]]%0a* [[MuzigleSystem |Muzigle]]%0a* [[Nguyonh]]%0a* [[FauSystem|Fau]]%0a* PuriviDonar%0a* SigmaDraconis%0a* SouldoglePrime%0a%0a(:pagelist group=StarSystems:)
+time=1182454510
+author:1182454510=AaronClausen
+csum:1182454510=
+diff:1182454510:1133383060:=6d5%0a%3c * [[Ithad]]%0a17c16%0a%3c (:pagelist group=StarSystems:)%0a\ No newline at end of file%0a---%0a> (:pagelist group=StarSystems:)%0a
+host:1182454510=70.67.63.106
+author:1133383060=AaronClausen
+csum:1133383060=Added new reference to Hazadal system
+diff:1133383060:1120269277:=2d1%0a%3c * [[Hazadal]]%0a
+host:1133383060=64.141.6.11

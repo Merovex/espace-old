@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103238771
+text=Stubb
+targets=
+author=BenWilson
+author:1103238771=BenWilson
+host:1103238771=10.1.1.74
+diff:1103238771:1103238771:=1d0²< Stubb²\ No newline at end of file²
+name=Macropedia.Terradom
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

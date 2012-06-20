@@ -1,0 +1,76 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.8) Gecko/20100214 Ubuntu/9.10 (karmic) Firefox/3.5.8
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1269795519
+host=68.48.114.50
+name=Site.FootMenu
+rev=16
+targets=Main.Main,Main.Contributors,Main.Bookmarks,Main.MailingLists,Main.Dictionary,Main.AllRecentChanges,Macropedia.Macropedia,Milieu.Milieu,Chronology.Chronology,AstroEmpires.AstroEmpires,Main.NotesForContributers,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,Site.SideBar,Site.Navigation
+text=>>menu%3c%3c%0a!! About%0a* [[Main/Main|Home]]%0a* [[Main/Contributors]]%0a* [[http://groups.google.com/group/espacesociety|Google Group]]%0a* [[Main/Bookmarks]]%0a* [[Main/Contributors]]%0a* [[Main/Mailing Lists]]%0a* [[(Main/Dictionary]]%0a* [[Main.AllRecentChanges|What's new]]%0a%0a>>%3c%3c%0a%0a>>menu%3c%3c%0a!! Macropedia%0a* [[Macropedia/Macropedia|Overview]]%0a* [[Milieu/Milieu]]%0a(:pagelist group=Macropedia fmt=#title link=Category.Sidebar :)%0a%0a!! Chronology%0a* [[Chronology/Chronology|Overview]]%0a(:pagelist group=Chronology fmt=#title link=Category.Sidebar :)%0a%0a>>%3c%3c%0a%0a>>menu%3c%3c%0a!! `AstroEmpire Guides%0a* [[AstroEmpires/AstroEmpires|Overview]]%0a(:pagelist group=AstroEmpires fmt=#title link=Category.Sidebar :)%0a%0a(:if auth edit :)%0a>>menu%3c%3c%0a!! Editor's Section%0a* [[(Main.)Notes for Contributers]]%0a* [[(PmWiki.)Basic Editing]]%0a* [[(PmWiki.)Documentation Index]]%0a* [[(PmWiki.)FAQ]]%0a* [[Site.SideBar?action=edit | edit Sidebar]]%0a* [[Site.Navigation?action=edit | edit Topbar]]
+time=1269799494
+author:1269799494=BenWilson
+csum:1269799494=
+diff:1269799494:1269799288:=11c11,12%0a%3c %0a---%0a> * [[Milieu/Milieu]]%0a> %0a17d17%0a%3c * [[Milieu/Milieu]]%0a
+host:1269799494=68.48.114.50
+author:1269799288=BenWilson
+csum:1269799288=
+diff:1269799288:1269798360:=3a4%0a> * [[Site.ExpandedCopyright|Copyright]] &copy; E-Space Society 2004&ndash;2009%0a
+host:1269799288=68.48.114.50
+author:1269798360=BenWilson
+csum:1269798360=
+diff:1269798360:1269798272:=6,13d5%0a%3c * [[http://groups.google.com/group/espacesociety|Google Group]]%0a%3c * [[Main/Bookmarks]]%0a%3c * [[Main/Contributors]]%0a%3c * [[Main/Mailing Lists]]%0a%3c * [[(Main/Dictionary]]%0a%3c * [[Main.AllRecentChanges|What's new]]%0a%3c * [[Milieu/Milieu]]%0a%3c %0a
+host:1269798360=68.48.114.50
+author:1269798272=BenWilson
+csum:1269798272=
+diff:1269798272:1269798215:=11,12c11,13%0a%3c (:pagelist group=Macropedia fmt=#title link=Category.Sidebar :)%0a%3c %0a---%0a> * [[Macropedia/Imperium Edition]]%0a> * [[Macropedia/Original Edition]]%0a> %0a22c23,27%0a%3c (:pagelist group=AstroEmpires fmt=#title link=Category.Sidebar :)%0a---%0a> * [[AstroEmpires/Small Fleet Doctrine]]%0a> * [[AstroEmpires/Advanced Base Guide]]%0a> * [[AstroEmpires/Base Defense Guide]]%0a> * [[AstroEmpires/The Ten Seven Guide]]%0a> (:pagelist link=Category.Sidebar fmt=#footmenu order=group,title:)%0a
+host:1269798272=68.48.114.50
+author:1269798215=BenWilson
+csum:1269798215=
+diff:1269798215:1269798171:=15,16c15%0a%3c * [[Chronology/Chronology|Overview]]%0a%3c (:pagelist group=Chronology fmt=#title link=Category.Sidebar :)%0a---%0a> (:pagelist group=Chronology fmt=#simple link=Category.Sidebar :)%0a
+host:1269798215=68.48.114.50
+author:1269798171=BenWilson
+csum:1269798171=
+diff:1269798171:1269798012:=13,16d12%0a%3c %0a%3c !! Chronology%0a%3c (:pagelist group=Chronology fmt=#simple link=Category.Sidebar :)%0a%3c %0a
+host:1269798171=68.48.114.50
+author:1269798012=BenWilson
+csum:1269798012=
+diff:1269798012:1269797986:=11,12c11,12%0a%3c * [[Macropedia/Imperium Edition]]%0a%3c * [[Macropedia/Original Edition]]%0a---%0a> * [[Macropedia/ImperiumEdition|Macropedia Terradoma---Imperium Edition]]%0a> * [[Macropedia/OriginalEdition|Macropedia Terradoma---Original Edition]]%0a
+host:1269798012=68.48.114.50
+author:1269797986=BenWilson
+csum:1269797986=
+diff:1269797986:1269797781:=3d2%0a%3c * [[Main/Main|Home]]%0a4a4%0a> * a%0a10,12c10,11%0a%3c * [[Macropedia/Macropedia|Overview]]%0a%3c * [[Macropedia/ImperiumEdition|Macropedia Terradoma---Imperium Edition]]%0a%3c * [[Macropedia/OriginalEdition|Macropedia Terradoma---Original Edition]]%0a---%0a> * Macropedia Terradoma---Imperium Edition%0a> * that%0a21c20%0a%3c * [[AstroEmpires/The Ten Seven Guide]]%0a---%0a> %0a
+host:1269797986=68.48.114.50
+author:1269797781=BenWilson
+csum:1269797781=
+diff:1269797781:1269797502:=15,19c15,17%0a%3c !! `AstroEmpire Guides%0a%3c * [[AstroEmpires/AstroEmpires|Overview]]%0a%3c * [[AstroEmpires/Small Fleet Doctrine]]%0a%3c * [[AstroEmpires/Advanced Base Guide]]%0a%3c * [[AstroEmpires/Base Defense Guide]]%0a---%0a> !! Astrography%0a> * This%0a> * That%0a
+host:1269797781=68.48.114.50
+author:1269797502=BenWilson
+csum:1269797502=
+diff:1269797502:1269797383:=3,5c3,4%0a%3c * [[Site.ExpandedCopyright|Copyright]] &copy; E-Space Society 2004&ndash;2009%0a%3c * a%0a%3c * [[Main/Contributors]]%0a---%0a> * This%0a> * That%0a
+host:1269797502=68.48.114.50
+author:1269797383=BenWilson
+csum:1269797383=
+diff:1269797383:1269796799:=1,17d0%0a%3c >>menu%3c%3c%0a%3c !! About%0a%3c * This%0a%3c * That%0a%3c >>%3c%3c%0a%3c %0a%3c >>menu%3c%3c%0a%3c !! Macropedia%0a%3c * Macropedia Terradoma---Imperium Edition%0a%3c * that%0a%3c >>%3c%3c%0a%3c %0a%3c >>menu%3c%3c%0a%3c !! Astrography%0a%3c * This%0a%3c * That%0a%3c %0a
+host:1269797383=68.48.114.50
+author:1269796799=BenWilson
+csum:1269796799=
+diff:1269796799:1269796765:=4c4%0a%3c >>menu%3c%3c%0a---%0a> >>group%3c%3c%0a
+host:1269796799=68.48.114.50
+author:1269796765=BenWilson
+csum:1269796765=
+diff:1269796765:1269796728:=0a1,11%0a> (:div class=menu:)%0a> !! Stuff%0a> * [[http://groups.google.com/group/espacesociety|Google Group]]%0a> * [[Main.Bookmarks       |Bookmarks]]%0a> * [[(Main.)Contributors]]%0a> * [[Main/Mailing Lists]]%0a> * [[(Main.)Dictionary]]%0a> * [[Main.AllRecentChanges|What's new]]%0a> * [[Milieu/Milieu]]%0a> (:divend:)%0a> %0a
+host:1269796765=68.48.114.50
+author:1269796728=BenWilson
+csum:1269796728=
+diff:1269796728:1269795596:=1c1%0a%3c (:div class=menu:)%0a---%0a> (:div:)%0a
+host:1269796728=68.48.114.50
+author:1269795596=BenWilson
+csum:1269795596=
+diff:1269795596:1269795519:=1,2d0%0a%3c (:div:)%0a%3c !! Stuff%0a10,11d7%0a%3c (:divend:)%0a%3c %0a
+host:1269795596=68.48.114.50
+author:1269795519=BenWilson
+csum:1269795519=
+diff:1269795519:1269795519:=1,18d0%0a%3c * [[http://groups.google.com/group/espacesociety|Google Group]]%0a%3c * [[Main.Bookmarks       |Bookmarks]]%0a%3c * [[(Main.)Contributors]]%0a%3c * [[Main/Mailing Lists]]%0a%3c * [[(Main.)Dictionary]]%0a%3c * [[Main.AllRecentChanges|What's new]]%0a%3c * [[Milieu/Milieu]]%0a%3c (:pagelist link=Category.Sidebar fmt=#footmenu order=group,title:)%0a%3c %0a%3c (:if auth edit :)%0a%3c >>group%3c%3c%0a%3c !! Editor's Section%0a%3c * [[(Main.)Notes for Contributers]]%0a%3c * [[(PmWiki.)Basic Editing]]%0a%3c * [[(PmWiki.)Documentation Index]]%0a%3c * [[(PmWiki.)FAQ]]%0a%3c * [[Site.SideBar?action=edit | edit Sidebar]]%0a%3c * [[Site.Navigation?action=edit | edit Topbar]]%0a\ No newline at end of file%0a
+host:1269795519=68.48.114.50

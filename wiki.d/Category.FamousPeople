@@ -1,0 +1,19 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.12) Gecko/20050919 Firefox/1.0.7
+author=MateuszCzaplinski
+ctime=1137876425
+excerpt=%3cp>A category, trying to group all %3ca class='wikilink' href='http://www.gmtoolbox.org/espace/Macropedia/Macropedia'>Macropedia%3c/a> entries about famous people.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>Unfortunately, it seems categories are not working properly now, so I can't do that.%0a%3c/p>%0a
+host=83.16.49.165
+name=Category.FamousPeople
+rev=2
+targets=Macropedia.Macropedia
+text=A category, trying to group all [[Macropedia]] entries about famous people.%0a%0aUnfortunately, it seems categories are not working properly now, so I can't do that.
+time=1137876662
+author:1137876662=MateuszCzaplinski
+csum:1137876662=not working
+diff:1137876662:1137876425:=1,3c1%0a%3c A category, trying to group all [[Macropedia]] entries about famous people.%0a%3c %0a%3c Unfortunately, it seems categories are not working properly now, so I can't do that.%0a\ No newline at end of file%0a---%0a> A category, trying to group all [[Macropedia]] entries about famous people.%0a\ No newline at end of file%0a
+host:1137876662=83.16.49.165
+author:1137876425=MateuszCzaplinski
+csum:1137876425=short info
+diff:1137876425:1137876425:=1d0%0a%3c A category, trying to group all [[Macropedia]] entries about famous people.%0a\ No newline at end of file%0a
+host:1137876425=83.16.49.165

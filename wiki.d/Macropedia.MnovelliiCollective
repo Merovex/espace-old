@@ -1,0 +1,28 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.MnovelliiCollective
+rev=6
+targets=Macropedia.MorshFurnoklin,Macropedia.NevianSchmizt,Macropedia.ImperiumEdition,Macropedia.PanTerranDefenseTreatyCouncil,Macropedia.BafiktuyIntelligenceDirective,Macropedia.TerranRepublic,Macropedia.TawmerikDynasty,Category.ImperiumEdition,Category.IsaacTaubAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe '''Mnovellii Collective''' remains one of the most perplexing groups ever to be remembered by history. Calling themselves the Collective, this group of anarchists united for a common goal of ripping the seam of Imperial society and returning to the period before the [[Pan Terran Defense Treaty Council]].%0a%0aThe Collective evaded authorities for years because of their amorphic organization. They also evaded because there were many who either envied the Tawmerik's power or sought a return to the [[Terran Republic]]. The Collectivists did not care for either, but enjoyed the covert protection by several Oligarch families. Even the families who helped did not know which other within the Oligarch were helping. The [[Bafiktuy Intelligence Directive| Directive]] had a difficult time infiltrating the organization. Once one cell was infiltrated, the Collective seemed to simply sever ties with that cell. This has led many to contend that the [[Bafiktuy Intelligence Directive]] was either infiltrated by members of the Collective, or that the Directive sponsored the Collective.%0a%0aOnce they had assassinated a member of the [[Tawmerik Dynasty]], the Imperial factions rained down upon the Collective. They rooted out cells and exposed Oligarch families found to provide safe-haven to the Collective. Oddly enough, this led to greater support for the Imperial government as some of the exposed Oligarch families were among the most oppressive on their hown world.%0a%0aThe Collective eventually faded from history never having been fully destroyed. This scholar believes this may be due to the support among the privileged class. The Collective most likely became a secret society among the aristocracy, and thus lost the violent and anarchic childhood from which it grew.%0a%0a!! References%0a* [[Bafiktuy Intelligence Directive]]%0a* [[Pan Terran Defense Treaty Council]]%0a* [[Tawmerik Dynasty]]%0a* [[Terran Republic]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+time=1129670471
+author:1129670471=BenWilson
+diff:1129670471:1128785824:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670471=144.167.105.115
+author:1128785824=BenWilson
+csum:1128785824=fixed link
+diff:1128785824:1128785806:=18c18%0a%3c [[!ImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a
+host:1128785824=144.167.104.109
+author:1128785806=BenWilson
+csum:1128785806=Added link
+diff:1128785806:1128785778:=12d11%0a%3c * [[Tawmerik Dynasty]]%0a
+host:1128785806=144.167.104.109
+author:1128785778=BenWilson
+csum:1128785778=Initially Written
+diff:1128785778:1128785120:=1,8c1%0a%3c The '''Mnovellii Collective''' remains one of the most perplexing groups ever to be remembered by history. Calling themselves the Collective, this group of anarchists united for a common goal of ripping the seam of Imperial society and returning to the period before the [[Pan Terran Defense Treaty Council]].%0a%3c %0a%3c The Collective evaded authorities for years because of their amorphic organization. They also evaded because there were many who either envied the Tawmerik's power or sought a return to the [[Terran Republic]]. The Collectivists did not care for either, but enjoyed the covert protection by several Oligarch families. Even the families who helped did not know which other within the Oligarch were helping. The [[Bafiktuy Intelligence Directive| Directive]] had a difficult time infiltrating the organization. Once one cell was infiltrated, the Collective seemed to simply sever ties with that cell. This has led many to contend that the [[Bafiktuy Intelligence Directive]] was either infiltrated by members of the Collective, or that the Directive sponsored the Collective.%0a%3c %0a%3c Once they had assassinated a member of the [[Tawmerik Dynasty]], the Imperial factions rained down upon the Collective. They rooted out cells and exposed Oligarch families found to provide safe-haven to the Collective. Oddly enough, this led to greater support for the Imperial government as some of the exposed Oligarch families were among the most oppressive on their hown world.%0a%3c %0a%3c The Collective eventually faded from history never having been fully destroyed. This scholar believes this may be due to the support among the privileged class. The Collective most likely became a secret society among the aristocracy, and thus lost the violent and anarchic childhood from which it grew.%0a%3c %0a---%0a> %0a10,13c3%0a%3c * [[Bafiktuy Intelligence Directive]]%0a%3c * [[Pan Terran Defense Treaty Council]]%0a%3c * [[Terran Republic]]%0a%3c %0a---%0a> %0a
+host:1128785778=144.167.104.109
+author:1128785120=BenWilson
+csum:1128785120=drafting
+diff:1128785120:1114200992:=2,7c2%0a%3c !! References%0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c [[!PhantomImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1128785120=144.167.104.109

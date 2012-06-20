@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=144.167.104.139
+name=StarSystems.MundumoSystem
+rev=3
+targets=Chronology.FirstExpanse
+text=(:toc:)²²!! Overview²²Macrodyn Techtronics, Inc. covertly founded '''''Mundumo''''' during the [[Chronology.FirstExpanse |FirstExpanse]] as a contengency in case the slowly fracturing Terran society reached the breaking point. When the decline came, they rereated. The Colony stat reflects the several hundres years from the founding of the colony until the present campaign year (3400C).²²!! Stellar Data²²²!! Planets²²* A Planet²* Mundumo²²!! Mundumo²²:Gravity%dlstar%: Good²:Habitat: Good²:Colony: Fair²:Resources: Good (850M)²²!! History²²!!! Discovery²²!!! Early Colonization²²!!! Epoch²²!!! Epoch²²!! References²# ²²!! Related Articles²(:pagelist fmt=simple {$Name}:)²
+time=1119999065
+author:1119999065=BenWilson
+diff:1119999065:1103052029:=1,36c1,9²< (:toc:)²< ²< !! Overview²< ²< Macrodyn Techtronics, Inc. covertly founded '''''Mundumo''''' during the [[Chronology.FirstExpanse |FirstExpanse]] as a contengency in case the slowly fracturing Terran society reached the breaking point. When the decline came, they rereated. The Colony stat reflects the several hundres years from the founding of the colony until the present campaign year (3400C).²< ²< !! Stellar Data²< ²< ²< !! Planets²< ²< * A Planet²< * Mundumo²< ²< !! Mundumo²< ²< :Gravity%dlstar%: Good²< :Habitat: Good²< :Colony: Fair²< :Resources: Good (850M)²< ²< !! History²< ²< !!! Discovery²< ²< !!! Early Colonization²< ²< !!! Epoch²< ²< !!! Epoch²< ²< !! References²< # ²< ²< !! Related Articles²< (:pagelist fmt=simple {$Name}:)²---²> ! Mundumo²> || border=1 cellspacing=0 width=25% style="float: left;"²> ||Gravity   || Good ||²> ||Resources || Good ||²> ||Habitat   || Fair ||²> ||Colony    || Good (850M) ||²> || '''Squib:''' The home system for the Macrodius Group. ||||²> ²> Macrodyn Techtronics, Inc. covertly founded __Mundumo__ during the [[Chronology.FirstExpanse |FirstExpanse]] as a contengency in case the slowly fracturing Terran society reached the breaking point. When the decline came, they rereated. The Colony stat reflects the several hundres years from the founding of the colony until the present campaign year (3400C).²\ No newline at end of file²
+host:1119999065=144.167.104.139

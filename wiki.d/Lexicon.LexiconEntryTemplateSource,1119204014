@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1105821822
+text=! Lexicon Entry Template²²!! In-text headings.²²!! References²* At least one actual entry²* First Phantom Entry²* Second Phantom Entry²²!! ''optional'' Citing Pages²(:pagelist group=LexiconGroupName {$Name}:).²²----²* Category/{$LexiconName}²* Category/{$scholar_name}Authored
+targets=
+author=BenWilson
+author:1105821822=BenWilson
+host:1105821822=68.51.35.56
+diff:1105821822:1105821822:=1,15d0²< ! Lexicon Entry Template²< ²< !! In-text headings.²< ²< !! References²< * At least one actual entry²< * First Phantom Entry²< * Second Phantom Entry²< ²< !! ''optional'' Citing Pages²< (:pagelist group=LexiconGroupName {$Name}:).²< ²< ----²< * Category/{$LexiconName}²< * Category/{$scholar_name}Authored²\ No newline at end of file²
+name=Lexicon.LexiconEntryTemplateSource
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

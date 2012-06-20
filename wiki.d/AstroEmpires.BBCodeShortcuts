@@ -1,0 +1,40 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2) Gecko/20100124 Firefox/3.6 (Swiftfox)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1207499831
+host=68.48.114.50
+name=AstroEmpires.BBCodeShortcuts
+rev=7
+targets=
+text=[size='3'][color='yellow'][/color][/size]%0a%0a[size='3'][color='yellow']Base Locations[/color][/size]%0aAs y'all settle new bases, send me your coordinates. Thanks.%0a%0a%0a[size='3'][color='yellow']Macropedia Terradoma---Imperium Edition Now Available![/color][/size]%0a%0aPlease forgive my intrusion and shameless plug. I will only do this once (on this server).%0a%0aSix years ago a bunch of guys who only met online thought it would be nice to put together a Shared Universe milieu. Originally, it was to help the FUDGE RPG, but we decided to just make it generic so sci-fi authors could work with us.%0a%0aFive years ago, three of us set to the task using the structure of the Lexicon RPG, which is a mock Wikipedia. I promised to edit and publish the book. It took me a few years, but I've honored my promise. The [url='http://espacesociety.org/Macropedia/ImperiumEditionPrinted']Macropedia Terradoma--Imperium Edition is now available for purchase[/url]. In a few days or weeks (depending on the process), you'll be able to buy one from Amazon, but please consider buying directly from Lulu. I've been told it ships faster. If you like Sci-Fi and are looking for what happens when three geeks decide to describe a milieu Wikipedia-style, then pick up a copy today!%0a%0aThank you for suffering under my shameless plug. Now back to your regularly scheduled empire building, already in progress.%0a%0a[color='green']%0a[size='3']Trade Request[/size]%0a%0aLooking for LD, Unique%0a[/color]%0a%0a[center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE. DELETE REQUESTS OLDER THAN ONE DAY.[/color][/b][/size][center]%0a%0a[center][size='3'][b][color='orange']OBVIOUS DEFENSE RULE: If you are above level 30, you must put Planetary Rings on your bases. Shields provide little protection. If you are approaching 30th level, avoid going above 30th until you have prings. Obvious enough?[/color][/b][/size][center]
+time=1265757344
+author:1265757344=BenWilson
+csum:1265757344=
+diff:1265757344:1243987636:=2,5d1%0a%3c %0a%3c [size='3'][color='yellow']Base Locations[/color][/size]%0a%3c As y'all settle new bases, send me your coordinates. Thanks.%0a%3c %0a
+host:1265757344=68.48.114.50
+author:1243987636=BenWilson
+csum:1243987636=
+diff:1243987636:1243787256:=3,11d2%0a%3c [size='3'][color='yellow']Macropedia Terradoma---Imperium Edition Now Available![/color][/size]%0a%3c %0a%3c Please forgive my intrusion and shameless plug. I will only do this once (on this server).%0a%3c %0a%3c Six years ago a bunch of guys who only met online thought it would be nice to put together a Shared Universe milieu. Originally, it was to help the FUDGE RPG, but we decided to just make it generic so sci-fi authors could work with us.%0a%3c %0a%3c Five years ago, three of us set to the task using the structure of the Lexicon RPG, which is a mock Wikipedia. I promised to edit and publish the book. It took me a few years, but I've honored my promise. The [url='http://espacesociety.org/Macropedia/ImperiumEditionPrinted']Macropedia Terradoma--Imperium Edition is now available for purchase[/url]. In a few days or weeks (depending on the process), you'll be able to buy one from Amazon, but please consider buying directly from Lulu. I've been told it ships faster. If you like Sci-Fi and are looking for what happens when three geeks decide to describe a milieu Wikipedia-style, then pick up a copy today!%0a%3c %0a%3c Thank you for suffering under my shameless plug. Now back to your regularly scheduled empire building, already in progress.%0a
+host:1243987636=68.48.114.50
+author:1243787256=BenWilson
+csum:1243787256=
+diff:1243787256:1241384490:=2,8d1%0a%3c %0a%3c %0a%3c [color='green']%0a%3c [size='3']Trade Request[/size]%0a%3c %0a%3c Looking for LD, Unique%0a%3c [/color]%0a
+host:1243787256=68.48.114.50
+author:1241384490=BenWilson
+csum:1241384490=
+diff:1241384490:1232724493:=3,5c3%0a%3c [center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE. DELETE REQUESTS OLDER THAN ONE DAY.[/color][/b][/size][center]%0a%3c %0a%3c [center][size='3'][b][color='orange']OBVIOUS DEFENSE RULE: If you are above level 30, you must put Planetary Rings on your bases. Shields provide little protection. If you are approaching 30th level, avoid going above 30th until you have prings. Obvious enough?[/color][/b][/size][center]%0a\ No newline at end of file%0a---%0a> [center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE. DELETE REQUESTS OLDER THAN ONE DAY.[/color][/b][/size][center]%0a\ No newline at end of file%0a
+host:1241384490=68.48.114.50
+author:1232724493=BenWilson
+csum:1232724493=
+diff:1232724493:1228069882:=3c3%0a%3c [center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE. DELETE REQUESTS OLDER THAN ONE DAY.[/color][/b][/size][center]%0a\ No newline at end of file%0a---%0a> [center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE.[/color][/b][/size][center]%0a\ No newline at end of file%0a
+host:1232724493=98.218.217.196
+author:1228069882=BenWilson
+csum:1228069882=
+diff:1228069882:1207499831:=1,3c1%0a%3c [size='3'][color='yellow'][/color][/size]%0a%3c %0a%3c [center][size='3'][b][color='orange']THIS MESSAGE SHOULD ALWAYS APPEAR ON THE FIRST PAGE OF THE TRADE BOARD. IF YOU CAN, PLEASE REMOVE TRADES THAT HAVE BEEN FULFILLED TO ENSURE THIS MESSAGE IS ON THE FIRST PAGE.[/color][/b][/size][center]%0a\ No newline at end of file%0a---%0a> [size='3'][color='yellow'][/color][/size]%0a\ No newline at end of file%0a
+host:1228069882=98.218.217.196
+author:1207499831=BenWilson
+csum:1207499831=
+diff:1207499831:1207499831:=1d0%0a%3c [size='3'][color='yellow'][/color][/size]%0a\ No newline at end of file%0a
+host:1207499831=69.243.109.103

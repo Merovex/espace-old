@@ -1,0 +1,24 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.GalacticLibraryOfLanguageAndCulture
+rev=5
+targets=Macropedia.GahaniBariMonastery,Macropedia.GeneticallyEnhancedPeoples,Macropedia.ImperiumEdition,Macropedia.TembaTwo,Chronology.FirstExpanse,Macropedia.HundredBloodyDays,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe largest library in the Imperium, founded by [[TembaTwo|Temba II]], and the repository of much of humanity's knowledge, from the [[Chronology/FirstExpanse|pre-Expanse]] period up until the present.  Considered one of the great gifts from the Emperors to their citizens, it is indispensable to anyone exploring the knowledge, history and wisdom of humanity.%0a%0aThe Library is divided into three sections:%0a%0a* The Arinacon - This section is dedicated to all the works of fiction; prose and poetry, that the librarians have managed to gather.  Some of the works here are alleged to date back to long before humanity spread out from the Terran System.%0a%0a* The Nostocon - This section deals with scholarly, scientific and technical works.%0a%0a* The Alluvian - This is the archival section, where ancient documents, both written and electronic, are maintained.  It is the job of the curators of the Alluvian to assure that works of this nature (often found in archaeological digs or when private collections are donated) are transcribed into the main memory systems for the Arinacon and Nostocon.%0a%0aThe Library was nearly destroyed during the chaos after the HundredBloodyDays, and only the swift and surprisingly robust defense by the librarians and curators saved the library from destruction.  Such a loss would have been incalcuable in knowledge and culture.%0a%0a!! References%0a# Chronology/FirstExpanse%0a# HundredBloodyDays%0a# [[TembaTwo|Temba II]]%0a%0a%25category%25Categories: [[!ImperiumEdition]] | [[!ChangSinghAuthored]]
+time=1129667717
+author:1129667717=BenWilson
+diff:1129667717:1123211717:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667717=144.167.105.115
+author:1123211717=BenWilson
+csum:1123211717=applied category markup.
+diff:1123211717:1123104726:=18c18,20%0a%3c %25category%25Categories: [[!ImperiumEdition]] | [[!ChangSinghAuthored]] \ No newline at end of file%0a---%0a> ----%0a> [[!ImperiumEdition]] > [[!ChangSinghAuthored]] \ No newline at end of file%0a
+host:1123211717=70.249.188.117
+author:1123104726=AaronClausen
+csum:1123104726=Fixed categories
+diff:1123104726:1123098941:minor=19,20c19,20%0a%3c [[!ImperiumEdition]] %3c [[!ChangSinghAuthored]] \ No newline at end of file%0a---%0a> [[!ImperiumEdition]] > [[!ChangSinghAuthored]] \ No newline at end of file%0a
+host:1123104726=64.141.6.11
+author:1123098941=AaronClausen
+csum:1123098941=Completed phantom entry
+diff:1123098941:1106865550:=1,17c1%0a%3c The largest library in the Imperium, founded by [[TembaTwo|Temba II]], and the repository of much of humanity's knowledge, from the [[Chronology/FirstExpanse|pre-Expanse]] period up until the present.  Considered one of the great gifts from the Emperors to their citizens, it is indispensable to anyone exploring the knowledge, history and wisdom of humanity.%0a%3c %0a%3c The Library is divided into three sections:%0a%3c %0a%3c * The Arinacon - This section is dedicated to all the works of fiction; prose and poetry, that the librarians have managed to gather.  Some of the works here are alleged to date back to long before humanity spread out from the Terran System.%0a%3c %0a%3c * The Nostocon - This section deals with scholarly, scientific and technical works.%0a%3c %0a%3c * The Alluvian - This is the archival section, where ancient documents, both written and electronic, are maintained.  It is the job of the curators of the Alluvian to assure that works of this nature (often found in archaeological digs or when private collections are donated) are transcribed into the main memory systems for the Arinacon and Nostocon.%0a%3c %0a%3c The Library was nearly destroyed during the chaos after the HundredBloodyDays, and only the swift and surprisingly robust defense by the librarians and curators saved the library from destruction.  Such a loss would have been incalcuable in knowledge and culture.%0a%3c %0a%3c !! References%0a%3c # Chronology/FirstExpanse%0a%3c # HundredBloodyDays%0a%3c # [[TembaTwo|Temba II]]%0a%3c %0a---%0a> %0a19,20c3%0a%3c [[!ImperiumEdition]] %3c [[!ChangSinghAuthored]] \ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]]
+host:1123098941=64.141.6.11

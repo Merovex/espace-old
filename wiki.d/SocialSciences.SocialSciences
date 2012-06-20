@@ -1,0 +1,19 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=SocialSciences.SocialSciences
+rev=8
+targets=SocialSciences.CalendarsAndTime,SocialSciences.FullyIntegratedCompany,SocialSciences.RecentChanges
+text=This is a manually updated list of topics that fit into the '''Social Sciences''' Category.²²:SocialSciences/CalendarsAndTime: A calendar is a system of assigning dates to days, and traditionally has been based on the period of rotation of planet around a star. Over time, scientists developed improved methods for reckoning time and dates.²²:FullyIntegratedCompany: A fully-integrated company is typically a trans-system corporation where all aspectcs of its employees' society is provided for by the corporation.²²If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.²²----²(:pagelist fmt=simple group=SocialSciences:)²²
+time=1120738000
+author:1120738000=BenWilson
+diff:1120738000:1120737985:=10,11c10,11²< (:pagelist fmt=simple group=SocialSciences:)²< ²---²> (:pagelist gfmt=simple roup=SocialSciences:)²> ²
+host:1120738000=70.248.67.21
+author:1120737985=BenWilson
+diff:1120737985:1120737972:=10,11c10,11²< (:pagelist gfmt=simple roup=SocialSciences:)²< ²---²> (:pagelist group=SocialSciences:)²> ²
+host:1120737985=70.248.67.21
+author:1120737972=BenWilson
+diff:1120737972:1106952544:=0a1,2²> ! Social Sciences²> ²
+host:1120737972=70.248.67.21

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20060601 Firefox/2.0.0.3 (Ubuntu-edgy)
+author=BenWilson
+csum=
+ctime=1136164711
+host=69.243.109.103
+name=Site.ExpandedCopyright
+rev=3
+targets=
+text=Fudge and the D20 Gaming systems are released using the Open Gaming License. The OGL provides that licensees will not use any Product Identity, including as an indication as to compatibility, except as expressly licensed, and that the owner of any Product Identity used in or on game content---in this case, The E-Space Society---shall retain all rights, title and interest in and to that Product Identity.%0a%0aIndividual contributions to E-Space are a contribution to a collective work and remain the property of the respective author and are used by The E-Space Society with the author's permission. Contribution of a work does not expressly transfer ownership from the author of the individual article, but does grant a non-exclusive license to The E-Space Society to publish the work in print and on the web.%0a%0aThe site theme is copyright 2005 Benjamin C. Wilson licensed for use by The E-Space Society's web site.
+time=1179067547
+author:1179067547=BenWilson
+csum:1179067547=
+diff:1179067547:1136164796:=1,2c1,2%0a%3c Fudge and the D20 Gaming systems are released using the Open Gaming License. The OGL provides that licensees will not use any Product Identity, including as an indication as to compatibility, except as expressly licensed, and that the owner of any Product Identity used in or on game content---in this case, The E-Space Society---shall retain all rights, title and interest in and to that Product Identity.%0a%3c %0a---%0a> Fudge and the D20 Gaming systems are released using the Open Gaming License. The OGL provides that licensees will not use any Product Identity, including as an indication as to compatibility, except as expressly licensed, and that the owner of any Product Identity used in or on game content – in this case, The E-Space Society – shall retain all rights, title and interest in and to that Product Identity.%0a> %0a
+host:1179067547=69.243.109.103
+author:1136164796=BenWilson
+diff:1136164796:1136164711:=3,4d2%0a%3c Individual contributions to E-Space are a contribution to a collective work and remain the property of the respective author and are used by The E-Space Society with the author's permission. Contribution of a work does not expressly transfer ownership from the author of the individual article, but does grant a non-exclusive license to The E-Space Society to publish the work in print and on the web.%0a%3c %0a
+host:1136164796=69.155.125.173
+author:1136164711=BenWilson
+diff:1136164711:1136164711:=1,3d0%0a%3c Fudge and the D20 Gaming systems are released using the Open Gaming License. The OGL provides that licensees will not use any Product Identity, including as an indication as to compatibility, except as expressly licensed, and that the owner of any Product Identity used in or on game content – in this case, The E-Space Society – shall retain all rights, title and interest in and to that Product Identity.%0a%3c %0a%3c The site theme is copyright 2005 Benjamin C. Wilson licensed for use by The E-Space Society's web site.%0a\ No newline at end of file%0a
+host:1136164711=69.155.125.173

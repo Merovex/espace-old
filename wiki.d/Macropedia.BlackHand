@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.12) Gecko/20050919 Firefox/1.0.7
+author=MateuszCzaplinski
+ctime=1137873669
+excerpt=%3cp>(:redirect Woth:)%0a%3c/p>%0a
+host=83.16.49.165
+name=Macropedia.BlackHand
+rev=1
+targets=
+text=(:redirect Woth:)
+time=1137873669
+author:1137873669=MateuszCzaplinski
+csum:1137873669=redirect to Woth
+diff:1137873669:1137873669:minor=1d0%0a%3c (:redirect Woth:)%0a\ No newline at end of file%0a
+host:1137873669=83.16.49.165

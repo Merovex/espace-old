@@ -1,0 +1,63 @@
+version=pmwiki-2.2.0-beta62 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.4) Gecko/20061201 Firefox/2.0.0.4 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.243.109.103
+name=Chronology.Chronology
+rev=13
+targets=
+text=Humanity reached from the womb Earth and slowly spread across the Galaxy. As with all human history, the expansion followed cycles of growth and decline. Humanity eventually met other sentient species and struggled to earn a place in this community. This second describes this general pattern of humanity's growth.%0a%0a(:toc:)%0a%0a(:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title link=Category.Chronology:)%0a(:title E-space Chronology:)
+time=1185635272
+title=E-space Chronology
+author:1185635272=BenWilson
+csum:1185635272=
+diff:1185635272:1185633462:=5a6,7%0a> %0a> [[!Sidebar]]%0a
+host:1185635272=69.243.109.103
+author:1185633462=BenWilson
+csum:1185633462=
+diff:1185633462:1183240005:=6,7d5%0a%3c %0a%3c [[!Sidebar]]%0a
+host:1185633462=69.243.109.103
+author:1183240005=BenWilson
+csum:1183240005=
+diff:1183240005:1182860375:=1,4d0%0a%3c Humanity reached from the womb Earth and slowly spread across the Galaxy. As with all human history, the expansion followed cycles of growth and decline. Humanity eventually met other sentient species and struggled to earn a place in this community. This second describes this general pattern of humanity's growth.%0a%3c %0a%3c (:toc:)%0a%3c %0a5a2,4%0a> %0a> ----%0a> (:pagelist list=normal group={$Group} :)%0a
+host:1183240005=70.128.43.16
+author:1182860375=BenWilson
+csum:1182860375=
+diff:1182860375:1182859268:=0a1,5%0a> This is the main page for the chronology%0a> %0a> (:pagelist list=normal group={$Group} :)%0a> ----%0a> %0a2,4d6%0a%3c %0a%3c ----%0a%3c (:pagelist list=normal group={$Group} :)%0a
+host:1182860375=64.124.158.130
+author:1182859268=BenWilson
+csum:1182859268=
+diff:1182859268:1182859247:=6c6%0a%3c (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title link=Category.Chronology:)%0a---%0a> (:pagelist list=normal group={$Group} fmt=#headerinclude order=title link=Category.Chronology:)%0a
+host:1182859268=64.124.158.130
+author:1182859247=BenWilson
+csum:1182859247=
+diff:1182859247:1174873621:=5,6c5,7%0a%3c %0a%3c (:pagelist list=normal group={$Group} fmt=#headerinclude order=title link=Category.Chronology:)%0a---%0a> !! Timeline Using Pagelists%0a> %0a> (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title count=10:)%0a
+host:1182859247=64.124.158.130
+author:1174873621=BenWilson
+csum:1174873621=
+diff:1174873621:1174873430:=5,7c5,6%0a%3c !! Timeline Using Pagelists%0a%3c %0a%3c (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title count=10:)%0a---%0a> %0a> (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title:)%0a
+host:1174873621=69.243.109.103
+author:1174873430=BenWilson
+csum:1174873430=
+diff:1174873430:1174873376:=6,7c6%0a%3c (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title:)%0a%3c (:title E-space Chronology:)%0a\ No newline at end of file%0a---%0a> (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title:)%0a\ No newline at end of file%0a
+host:1174873430=69.243.109.103
+author:1174873376=BenWilson
+csum:1174873376=
+diff:1174873376:1174872017:=6c6%0a%3c (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude order=title:)%0a\ No newline at end of file%0a---%0a> (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude :)%0a\ No newline at end of file%0a
+host:1174873376=69.243.109.103
+author:1174872017=BenWilson
+csum:1174872017=
+diff:1174872017:1174871838:=3,5d2%0a%3c (:pagelist list=normal group={$Group} :)%0a%3c ----%0a%3c %0a
+host:1174872017=69.243.109.103
+author:1174871838=BenWilson
+csum:1174871838=
+diff:1174871838:1174871822:=3c3,4%0a%3c (:pagelist list=normal group={$Group} fmt=Site.LocalTemplates#headerinclude :)%0a\ No newline at end of file%0a---%0a> (:pagelist group={$Group} fmt=Site.LocalTemplates#headerinclude :)%0a> %0a
+host:1174871838=69.243.109.103
+author:1174871822=BenWilson
+csum:1174871822=
+diff:1174871822:1118006821:=3,4c3%0a%3c (:pagelist group={$Group} fmt=Site.LocalTemplates#headerinclude :)%0a%3c %0a---%0a> (:pagelist fmt=simple group={$Group}:)%0a\ No newline at end of file%0a
+host:1174871822=69.243.109.103
+author:1118006821=BenWilson
+diff:1118006821:1118006821:=1,3d0%0a%3c This is the main page for the chronology%0a%3c %0a%3c (:pagelist fmt=simple group={$Group}:)%0a\ No newline at end of file%0a
+host:1118006821=68.51.35.56

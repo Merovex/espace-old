@@ -1,0 +1,38 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.13) Gecko/2009080315 Ubuntu/9.04 (jaunty) Firefox/3.0.13
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=68.48.114.50
+name=NaturalSciences.NaturalSciences
+rev=10
+targets=NaturalSciences.RecentChanges,NaturalSciences.BraneHopping,NaturalSciences.BraneTheory,NaturalSciences.MagneticMonopoles,NaturalSciences.LifeExtension,NaturalSciences.SpaceTravel
+text=This is a manually updated list of topics that fit into the '''Natural Sciences''' Category.%0a%0aIf you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%0a:[[Brane Hopping]]: E-Space's mechanism for superluminal travel.%0a:[[Brane Theory]]: The science behind superluminal travel%0a:[[Magnetic Monopoles]]: A scientific theory that helps boost energy in E-Space.%0a%0a:[[Life Extension]]: A discussion of life extension techniques and of the general lifespan of humans throughout the Imperium.%0a:[[Space Travel]]: Practical application of superluminal and subluminal travel on the Terradoma.%0a%0a----%0a%0a(These are all pages in this category. If you find one here that is not above, please correct the list above.)%0a(:pagelist group=NaturalSciences:)
+time=1252257842
+author:1252257842=BenWilson
+csum:1252257842=
+diff:1252257842:1137979696:=10,11c10%0a%3c :[[Space Travel]]: Practical application of superluminal and subluminal travel on the Terradoma.%0a%3c %0a---%0a> %0a15c14,15%0a%3c (:pagelist group=NaturalSciences:)%0a\ No newline at end of file%0a---%0a> (:pagelist group=NaturalSciences:)%0a> %0a
+host:1252257842=68.48.114.50
+author:1137979696=BenWilson
+csum:1137979696=
+diff:1137979696:1137979516:=14,15c14,15%0a%3c (:pagelist group=NaturalSciences:)%0a%3c %0a---%0a> (:pagelist group=NaturalSciences fmt=#sitemap:)%0a> %0a
+host:1137979696=70.252.86.42
+author:1137979516=BenWilson
+csum:1137979516=
+diff:1137979516:1137979484:=14,15c14,15%0a%3c (:pagelist group=NaturalSciences fmt=#sitemap:)%0a%3c %0a---%0a> (:pagelist group={$Group} fmt=#sitemap:)%0a> %0a
+host:1137979516=70.252.86.42
+author:1137979484=BenWilson
+csum:1137979484=
+diff:1137979484:1134607771:=14,15c14,15%0a%3c (:pagelist group={$Group} fmt=#sitemap:)%0a%3c %0a---%0a> (:pagelist group={$Group}:)%0a> %0a
+host:1137979484=70.252.86.42
+author:1134607771=BenWilson
+diff:1134607771:1129060495:=3,10c3,10%0a%3c If you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%3c %0a%3c :[[Brane Hopping]]: E-Space's mechanism for superluminal travel.%0a%3c :[[Brane Theory]]: The science behind superluminal travel%0a%3c :[[Magnetic Monopoles]]: A scientific theory that helps boost energy in E-Space.%0a%3c %0a%3c :[[Life Extension]]: A discussion of life extension techniques and of the general lifespan of humans throughout the Imperium.%0a%3c %0a---%0a> If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a> %0a> :BraneHopping: E-Space's mechanism for superluminal travel.%0a> :BraneTheory: The science behind superluminal travel%0a> :MagneticMonopoles: A scientific theory that helps boost energy in E-Space.%0a> %0a> :LifeExtension: A discussion of life extension techniques and of the general lifespan of humans throughout the Imperium.%0a> %0a
+host:1134607771=69.155.125.173
+author:1129060495=AaronClausen
+csum:1129060495=Added reference to Life Extension article
+diff:1129060495:1122842027:=9,10d8%0a%3c :LifeExtension: A discussion of life extension techniques and of the general lifespan of humans throughout the Imperium.%0a%3c %0a
+host:1129060495=64.141.6.11
+author:1122842027=BenWilson
+csum:1122842027=fixed title
+diff:1122842027:1106063731:=0a1,2%0a> ! Natural Sciences%0a> %0a
+host:1122842027=70.245.12.29

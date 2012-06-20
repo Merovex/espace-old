@@ -1,0 +1,94 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.140.6.80
+name=Main.HomePage
+rev=168
+targets=
+text=(:redirect Main.WelcomeToEspace:)
+time=1311091094
+author:1311091094=BenWilson
+csum:1311091094=
+diff:1311091094:1311052101:=1c1%0a%3c (:redirect Main.WelcomeToEspace:)%0a\ No newline at end of file%0a---%0a> (:redirect Main.Main:)%0a\ No newline at end of file%0a
+host:1311091094=69.140.6.80
+author:1311052101=BenWilson
+csum:1311052101=
+diff:1311052101:1105938218:=1c1%0a%3c (:redirect Main.Main:)%0a\ No newline at end of file%0a---%0a> (:redirect [[Main.Main]]:)%0a\ No newline at end of file%0a
+host:1311052101=69.140.6.80
+author:1105931254=BenWilson
+diff:1105931254:1104159395:=5,8c5,20%0a%3c !! What's Going On%0a%3c %0a%3c Lately, we've been tinkering with a Lexicon called the [[Macropedia]]. Essentially, this is just a way for a few contributers to create background in a structured way.%0a%3c %0a---%0a> !! TODO:%0a> %0a> Like any great work, it remains in progress, and probably will for some time. Here's what needs to be documented or discussed:%0a> * Cosmology%0a> ** document Cosmology%0a> * Star Systems%0a> ** Determine "Core" Star systems%0a> * Timeline discussion%0a> ** document [[Chronology.FirstDecline |First Decline]]%0a> ** discuss  [[Chronology.ImperialDominion |Imperial Dominion]]%0a> ** discuss  [[Chronology.SecondDecline |Second Decline]]%0a> ** discuss  [[Chronology.Reunification |Reunification]]%0a> ** discuss  [[Chronology.Hegemony |Hegemony]]%0a> ** discuss  [[Chronology.Xenodomination |Xenodomination]]%0a> ** discuss  [[Chronology.Federation |Federation]]%0a> %0a
+host:1105931254=68.51.35.56
+author:1104159395=BenWilson
+diff:1104159395:1103057728:minor=19,23c19%0a%3c ** discuss  [[Chronology.Federation |Federation]]%0a%3c %0a%3c !! Special Thanks%0a%3c %0a%3c The E-Space Community especially thanks [[http://www.phoenyx.net | Phoenyx Games]] for hosting our discussion list. If you're looking for an online Fudge gaming experience, give them a try.%0a---%0a> ** discuss  [[Chronology.Federation |Federation]]%0a\ No newline at end of file%0a
+host:1104159395=172.164.159.163
+author:1103057728=BenWilson
+diff:1103057728:1103055665:minor=1,2c1,2%0a%3c ! E-space%0a%3c %0a---%0a> ! Terraspace%0a> %0a
+host:1103057728=10.1.1.74
+author:1103055665=BenWilson
+diff:1103055665:1103055642:=3,4c3,4%0a%3c E-Space is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [=GMs=] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a%3c %0a---%0a> E-Space is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [[=GMs=]] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a> %0a
+host:1103055665=10.1.1.74
+author:1103055642=BenWilson
+diff:1103055642:1103046912:=3,4c3,4%0a%3c E-Space is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [[=GMs=]] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a%3c %0a---%0a> E-Space is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a> %0a
+host:1103055642=10.1.1.74
+author:1103046912=BenWilson
+diff:1103046912:1103041808:=8,19c8,11%0a%3c * Cosmology%0a%3c ** document Cosmology%0a%3c * Star Systems%0a%3c ** Determine "Core" Star systems%0a%3c * Timeline discussion%0a%3c ** document [[Chronology.FirstDecline |First Decline]]%0a%3c ** discuss  [[Chronology.ImperialDominion |Imperial Dominion]]%0a%3c ** discuss  [[Chronology.SecondDecline |Second Decline]]%0a%3c ** discuss  [[Chronology.Reunification |Reunification]]%0a%3c ** discuss  [[Chronology.Hegemony |Hegemony]]%0a%3c ** discuss  [[Chronology.Xenodomination |Xenodomination]]%0a%3c ** discuss  [[Chronology.Federation |Federation]]%0a\ No newline at end of file%0a---%0a> * Mechanics%0a> * A lot else%0a> * More than we imagine%0a> * But not too much.%0a\ No newline at end of file%0a
+host:1103046912=10.1.1.74
+author:1103046582=BenWilson
+diff:1103046582:1102996778:=3,4c3,6%0a%3c E-Space is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a%3c %0a---%0a> BEST%0a> %0a> '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a> %0a8,9c10%0a%3c * Mechanics%0a%3c * A lot else%0a\ No newline at end of file%0a---%0a> * Mechanics%0a\ No newline at end of file%0a
+host:1103046582=10.1.1.74
+author:1103041808=BenWilson
+diff:1103041808:1103041749:minor=10,11c10%0a%3c * More than we imagine%0a%3c * But not too much.%0a\ No newline at end of file%0a---%0a> * More than we imagine%0a\ No newline at end of file%0a
+host:1103041808=10.1.1.74
+author:1103041749=BenWilson
+diff:1103041749:1103046582:=9,10c9%0a%3c * A lot else%0a%3c * More than we imagine%0a\ No newline at end of file%0a---%0a> * A lot else%0a\ No newline at end of file%0a
+host:1103041749=10.1.1.74
+author:1102996778=BenWilson
+diff:1102996778:1102996738:=3,4c3,4%0a%3c BEST%0a%3c %0a---%0a> Test%0a> %0a
+host:1102996778=10.1.1.74
+author:1102996738=BenWilson
+diff:1102996738:1102996729:=3,4c3,4%0a%3c Test%0a%3c %0a---%0a> BEST%0a> %0a
+host:1102996738=10.1.1.74
+author:1102996729=BenWilson
+diff:1102996729:1102971526:=3,4d2%0a%3c BEST%0a%3c %0a
+host:1102996729=10.1.1.74
+author:1102971526=BenWilson
+diff:1102971526:1102971260:minor=3,4c3,4%0a%3c '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html#firm |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a%3c %0a---%0a> '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a> %0a
+host:1102971526=144.167.104.119
+author:1102971260=BenWilson
+diff:1102971260:1102971242:=3,4c3,6%0a%3c '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a%3c %0a---%0a> '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt. %0a> %0a> Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a> %0a
+host:1102971260=144.167.104.119
+author:1102971242=BenWilson
+diff:1102971242:1102969769:=3,4c3,4%0a%3c '''Terraspace''' is a [[http://www.orionsarm.com/intro/grading.html |firm-Science Fiction]] role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt. %0a%3c %0a---%0a> '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt. http://www.orionsarm.com/intro/grading.html%0a> %0a
+host:1102971242=144.167.104.119
+author:1102969769=BenWilson
+diff:1102969769:1102914613:minor=3,4c3,4%0a%3c '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt. http://www.orionsarm.com/intro/grading.html%0a%3c %0a---%0a> '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt.%0a> %0a
+host:1102969769=144.167.104.63
+author:1102914613=BenWilson
+diff:1102914613:1102914588:minor=3,4c3,4%0a%3c '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magic Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt.%0a%3c %0a---%0a> '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magi Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt.%0a> %0a
+host:1102914613=10.1.1.74
+author:1102914588=BenWilson
+diff:1102914588:1102914465:minor=3,4c3,4%0a%3c '''Terraspace''' is a firm-Science Fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science Fiction covers a wide range of tastes from the science-is-magi Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right. If Space Opera were pudding, and hard Sci-Fi were granite, we'd be asphalt.%0a%3c %0a---%0a> '''Terraspace''' is a firm-science fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science fiction covers a wide range of tastes from the science-is-magi Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right.%0a> %0a
+host:1102914588=10.1.1.74
+author:1102914465=BenWilson
+diff:1102914465:1102914410:minor=9c9%0a%3c Like any great work, it remains in progress, and probably will for some time. Here's what needs to be documented or discussed:%0a---%0a> Here's what needs to be documented or discussed:%0a
+host:1102914465=10.1.1.74
+author:1102914410=BenWilson
+diff:1102914410:1102893615:=1,6c1,11%0a%3c ! Terraspace%0a%3c %0a%3c '''Terraspace''' is a firm-science fiction role-playing game grounded in the gaming philosophy if '''''Fudge'''''. What is "firm sci-fi?" Science fiction covers a wide range of tastes from the science-is-magi Space Opera on the left hand, to the hard cord hard-science on the right. Firm science fits almost squarely between the two, while leaning definatively to the right.%0a%3c %0a%3c Our goal is to satisfy those who need a bit more scientific truth to suspend their disbelief and have a good game. We hope to create a setting that will help [=GMs=] create autonomous micro-settings that still feels like it belongs a part of the original setting.%0a%3c %0a---%0a> ! Introduction%0a> %0a> Tetraspace is a generic, broad-scoped, hard-science leaning Science Fiction setting designed to let [=GMs=] create autonomous micro-settings.%0a> %0a> !! History%0a> Tetraspace was born from the discussion of successful rules-light commercial settings, and so titled to suggest its purpose as a guide in creating personalized micro-settings. The scope of Macro Space is to provide enough coverage through time and space to encompass most SF genre trends. %0a> %0a> !! Objective%0a> %0a> This site hopes to develop and promote the use of Fudge in space adventures.%0a> %0a
+host:1102914410=10.1.1.74
+author:1102893615=BenWilson
+diff:1102893615:1102886685:minor=3,4c3,4%0a%3c Tetraspace is a generic, broad-scoped, hard-science leaning Science Fiction setting designed to let [=GMs=] create autonomous micro-settings.%0a%3c %0a---%0a> Tetraspace is a generic, broad-scoped, hard-science leaning Science Fiction setting designed to let GMs create autonomous micro-settings.%0a> %0a
+host:1102893615=10.1.1.74
+author:1102886685=BenWilson
+diff:1102886685:1102886513:=1,2c1,2%0a%3c ! Introduction%0a%3c %0a---%0a> !! Introduction%0a> %0a
+host:1102886685=10.1.1.74
+author:1102886513=BenWilson
+diff:1102886513:1102885635:=1,9d0%0a%3c !! Introduction%0a%3c %0a%3c Tetraspace is a generic, broad-scoped, hard-science leaning Science Fiction setting designed to let GMs create autonomous micro-settings.%0a%3c %0a%3c !! History%0a%3c Tetraspace was born from the discussion of successful rules-light commercial settings, and so titled to suggest its purpose as a guide in creating personalized micro-settings. The scope of Macro Space is to provide enough coverage through time and space to encompass most SF genre trends. %0a%3c %0a%3c !! Objective%0a%3c %0a
+host:1102886513=10.1.1.74
+author:1102885635=BenWilson
+diff:1102885635:1102692225:=1,6c1,4%0a%3c This site hopes to develop and promote the use of Fudge in space adventures.%0a%3c %0a%3c !! TODO:%0a%3c %0a%3c Here's what needs to be documented or discussed:%0a%3c * Mechanics%0a\ No newline at end of file%0a---%0a> (:wikilognews Blog:)%0a> %0a> %0a> This is the site.%0a\ No newline at end of file%0a
+host:1102885635=10.1.1.74
+author:1102692225=BenWilson
+diff:1102692225:1102061492:=1,4c1,8%0a%3c (:wikilognews Blog:)%0a%3c %0a%3c %0a%3c This is the site.%0a\ No newline at end of file%0a---%0a> %0a> Here are some useful default pages installed along with the PmWiki software:%0a> * PmWiki documentation is available at [[PmWiki.DocumentationIndex]].%0a> * What is the [[PmWiki/WikiWikiWeb]]?%0a> * [[PmWiki/TipsForEditing]] and [[PmWiki/TextFormattingRules]] describe how to create pages in PmWiki.%0a> * Practice editing pages in the [[WikiSandbox]].%0a> %0a> More information about [[PmWiki/PmWiki]] can be found at http://www.pmwiki.org/.%0a
+host:1102692225=144.167.104.63

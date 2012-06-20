@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.CathianNavy
+rev=4
+targets=Macropedia.CanticleOfHope,Macropedia.Celtainu,Macropedia.ImperiumEdition,Macropedia.DeltaiCathianLeague,Macropedia.Anthorph,Macropedia.BangHaiNokIncident,Macropedia.ImperialCongress,Macropedia.BafiktuyIntelligenceDirective,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Cathian Navy had its roots in the early Imperium era, beginning as a defense force for the then-independent [[DeltaiCathianLeague|Deltai-Cathian League]].  In the tumultuous years of the early Imperium it quickly outgrew its role as a police force for Deltai-Cathian merchant vessels, becoming a semi-independent government all its own, with its own martial forms of governance, its own monetary system and private planetary holdings.  It's subservience to the [[DeltaiCathianLeague|Deltai-Cathian League]] came to be little more than a theoretical, and eventually ceremonial matter, and the Navy persued its own interests.%0a%0aThe Cathian Navy was also notable as one of the first human-norm groups to tap the vast potential of the [[Anthorph]]s.  After the BangHaiNokIncident, the Navy opened its doors to Anthorph recruits, accomodating their unique physical and socio-religious needs.%0a%0aAs the Imperium took root and its growing power became obvious, the Cathian Navy faced a grave decision; to remain independent and risk becoming an obstacle to the Imperium's expansion, or to align itself with the Imperium and retain at least some independence.  In the end, and after long negotiations a treaty was signed.  The Cathian Navy maintained an independent chain of command, answerable directly to the Emperor, and not the ImperialCongress or other political organs of the Imperium.  This produced no end of conflict with various branches of the BafiktuyIntelligenceDirective.%0a%0aThe Cathian Navy was a major planetary holder, with direct governance of a number of worlds (all in the name of the Emperor of course).  The Navy had a great interest in self-reliance, and thus had some agricultural worlds, as well as planets less than habitable, but rich in various mineral reserves.  It had its own cadre of scientists, engineers and technicians, and, to the frustration of other stakeholders in the Imperium, tended to keep unique discoveries and technological developments to itself.  In the end, and despite its pride at its independence, it became little more than the Emperor's private army.%0a%0a!! References%0a# [[Anthorph]]%0a# BafiktuyIntelligenceDirective%0a# BangHaiNokIncident%0a# [[DeltaiCathianLeague|Deltai-Cathian League]]%0a# ImperialCongress%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667048
+author:1129667048=BenWilson
+diff:1129667048:1123393193:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667048=144.167.105.115
+author:1123393193=BenWilson
+csum:1123393193=fixed title
+diff:1123393193:1105992811:=0a1,2%0a> ! Cathian Navy%0a> %0a
+host:1123393193=70.249.188.117

@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1112550682
+text=(:pagelist group=Category:)
+targets=
+author=MateuszCzaplinski
+author:1112550682=MateuszCzaplinski
+host:1112550682=83.16.49.165
+diff:1112550682:1112550682:=1d0²< (:pagelist group=Category:)²\ No newline at end of file²
+name=Main.Category
+host=83.16.49.165
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.6) Gecko/20050321 Firefox/1.0.2
+rev=1

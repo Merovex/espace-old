@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1106524576
+text=(:redirect [[StarSystems.StarSystems]]:)
+targets=StarSystems.EpsilonIndi,StarSystems.SolarSystem,StarSystems.MundumoSystem
+author=AaronClausen
+name=StarSystems.HomePage
+host=68.51.35.56
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041231 Firefox/1.0
+rev=4
+author:1104477304=AaronClausen
+host:1104477304=64.141.6.8
+diff:1104477304:1103051553:=1c1²< * EpsilonIndi²---²> * EpsilonIndy²

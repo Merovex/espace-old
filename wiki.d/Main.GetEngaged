@@ -1,0 +1,20 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1291953360
+host=68.33.222.116
+name=Main.GetEngaged
+rev=2
+targets=Macropedia.Macropedia
+text=What do I mean by get engaged? I'm a budding novelist. In the mid-2000s, myself and two other intrepid authors wrote a series of mock encyclopedia articles on this site, which became the [[Macropedia/]]. Since then, I've plotted two novels and am presently drafting one. My goal is to have one or both of the novels out by June 2011. %0aSince 2007, I have been fairly active on Astro Empires; though presently I'm forced to focus on family and the books. So, think of this as a way to help get a fellow player's efforts out there!%0a%0aI will give a free ebook of the first released novel to anybody following me on [[http://twitter.com/merovex|Twitter]] in the first month of its release. My main web site [[http://dausha.net|Dausha Communications]] tracks my progress and provides a way for you to comment on entries and get involved.%0a%0aI might even need you to help me proof the book and find issues with it. Anybody who does I'll put in the acknowledgements.
+time=1291953484
+author:1291953484=BenWilson
+csum:1291953484=
+diff:1291953484:1291953360:=4,6c4%0a%3c I will give a free ebook of the first released novel to anybody following me on [[http://twitter.com/merovex|Twitter]] in the first month of its release. My main web site [[http://dausha.net|Dausha Communications]] tracks my progress and provides a way for you to comment on entries and get involved.%0a%3c %0a%3c I might even need you to help me proof the book and find issues with it. Anybody who does I'll put in the acknowledgements.%0a\ No newline at end of file%0a---%0a> I will give a free copy of the first released novel to anybody following me on [[http://twitter.com/merovex|Twitter]]. My main web site [[http://dausha.net|Dausha Communications]] tracks my progress and provides a way for you to comment on entries and get involved.%0a\ No newline at end of file%0a
+host:1291953484=68.33.222.116
+author:1291953360=BenWilson
+csum:1291953360=
+diff:1291953360:1291953360:=1,4d0%0a%3c What do I mean by get engaged? I'm a budding novelist. In the mid-2000s, myself and two other intrepid authors wrote a series of mock encyclopedia articles on this site, which became the [[Macropedia/]]. Since then, I've plotted two novels and am presently drafting one. My goal is to have one or both of the novels out by June 2011. %0a%3c Since 2007, I have been fairly active on Astro Empires; though presently I'm forced to focus on family and the books. So, think of this as a way to help get a fellow player's efforts out there!%0a%3c %0a%3c I will give a free copy of the first released novel to anybody following me on [[http://twitter.com/merovex|Twitter]]. My main web site [[http://dausha.net|Dausha Communications]] tracks my progress and provides a way for you to comment on entries and get involved.%0a\ No newline at end of file%0a
+host:1291953360=68.33.222.116

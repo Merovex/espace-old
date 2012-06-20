@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1188602232
+host=69.243.109.103
+name=AstroEmpires.RulesOfThumb
+rev=1
+targets=
+text=:Minimum Fighter Protection:(Base Econ / 5) * 60 
+time=1188602232
+author:1188602232=BenWilson
+csum:1188602232=
+diff:1188602232:1188602232:=1d0%0a%3c :Minimum Fighter Protection:(Base Econ / 5) * 60 %0a\ No newline at end of file%0a
+host:1188602232=69.243.109.103

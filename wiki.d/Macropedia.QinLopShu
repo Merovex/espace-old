@@ -1,0 +1,19 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.QinLopShu
+rev=7
+targets=Macropedia.QannaDabrianTwo,Macropedia.QuijradLkradaWars,Macropedia.ImperiumEdition,Macropedia.GeneticallyEnhancedPeoples,Macropedia.Lemardians,Macropedia.ConferenceOfReligionAndScience,Category.ImperiumEdition,Category.ChoMinhTelRanAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a!! 'The Skeptic's Path' or 'The Way of Doubting'%0a%0aQin Lop Shu is the philosophy followed by most scholars in the Latter Imperium, and it is as well the most prominent philosophy practiced among the descendants of the GeneticallyEnhancedPeoples. While many ascribe Qin Lop Shu the title of religion, it lacks many features of religions and has some that are not found often, if at all, in religion.%0a%0aWhile the subtleties of living with this philosophy are hard to express in such a small article, the fundamentals of the philosophy are easy enough to describe. %0a%0a* The generative force of the universe, has provided you with the intellectual tools and capacity to understand the universe.%0a* Enlightenment, if it can be achieved at all, comes from understanding the world.%0a* Your existence within the universe constitutes a "Test" that you must pass in order to survive. This requires you to be wary of your own misconceptions. %0a%0aBasically, the Creator (if he exists) presents the world to you as a Test. Followers often refer to themselves (and other rational sentients) as 'the Tested.' Within the grand Test of the universe there are smaller Tests to be completed or understood. Philoshopers and scholars have identified some of them and many are talked of with understood titles:%0a%0a* The Test of (Primitive)Survival - All creatures must pass this or perish.%0a* The Test of Rational Thinking - True understanding comes only from recognizing and advancing past your emotional or mystical thinking and desires. There are many component Tests within this Test.%0a* The Test of Self Governance - All communtities of thinking beings must resolve this test to effectively advance.%0a* The Test of Dogmatism - Dogmatism is the refusal to accept new data. This is the enemy of understanding.%0a%0aHistorically, Qin Lop Shu evolved as part of the [[Lemardians|Lemardian Movement]] in response to growing threats and the instability of the irrational religious movements of the time. While some form of its basic tenets and premises had been bandied about for some time, the philosophy was truly crystallized during the ConferenceOfReligionAndScience.%0a%0a%0a!! References%0a# ConferenceOfReligionAndScience%0a# GeneticallyEnhancedPeoples%0a# Lemardians%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%25category%25 Categories: [[!ImperiumEdition]] | [[!ChoMinhTelRanAuthored]] %0a
+time=1129670951
+author:1129670951=BenWilson
+diff:1129670951:1122848635:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129670951=144.167.105.115
+author:1122848635=BenWilson
+diff:1122848635:1122848618:=29,30c29,30%0a%3c %25category%25 Categories: [[!ImperiumEdition]] | [[!ChoMinhTelRanAuthored]] %3c %0a---%0a> %25category%25 Categories: [[!ImperiumEdition]] | [!ChoMinhTelRanAuthored]] > %0a
+host:1122848635=70.245.12.29
+author:1122848618=BenWilson
+csum:1122848618=fixed category markup
+diff:1122848618:1121033558:=29,30c29,32%0a%3c %25category%25 Categories: [[!ImperiumEdition]] | [!ChoMinhTelRanAuthored]] %3c %0a---%0a> ----%0a> [[!ImperiumEdition%0a> [[!ChoMinhTelRanAuthored%0a> %0a
+host:1122848618=70.245.12.29

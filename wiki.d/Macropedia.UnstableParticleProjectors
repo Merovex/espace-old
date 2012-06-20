@@ -1,0 +1,25 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+host=70.249.188.200
+name=Macropedia.UnstableParticleProjectors
+rev=8
+targets=Macropedia.UnlekSyndrome,Macropedia.UntaraDriveControl,Macropedia.ImperiumEditionIndex,Macropedia.Template,Macropedia.UpliftProject,Macropedia.ImperiumEquipmentIndex,Macropedia.JupiterRocket,Macropedia.FrontierRebellion,Macropedia.AlaerianCult,StarSystems.KauriumSystem,Macropedia.ImperiumMacropediaTimeline,NaturalSciences.MagneticMonopoles,Macropedia.FractalShielding,Macropedia.DaoJihnCorp,Category.ImperiumEdition,Category.ChoMinhTelRanAuthored,Category.ImperiumEquipment
+text=%3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a%3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%0aWhen the FrontierRebellion began, the AlaerianCult controlled many ships, but mostly they were civilian vessels, lightly armed. They did control the StarSystems/KauriumSystem and its excess of [[JupiterRocket]]s. Trade and production were disrupted throughout the systems they controlled, making weapons development nigh impossible.%0a%0aSome nameless engineer would put his resources to good use, and create some of the most terrifying weaponry of the [[ImperiumMacropediaTimeline#toc4|Early Imperium]]. Most warships of the period relied on some form of magneto-plasmic propulsion utilizing charged particles and NaturalSciences/MagneticMonopoles. Which allowed them greater maneuverability in systems with hostile or under-developed boost lasers. The Alaerians took [[JupiterRocket|VASIMR]] engines from older ships in a Kaurium scrap yard and mounted them on their ships as weapons. %0a%0aModified slightly, the engines would spray a stream of decaying particles at enemy ships. A little nuclear engineering allowed them to alter their ammunition to cause all manner of chaos and destruction on enemy vessels. Neutrons could be emitted to flood an enemy ship with high-energy alpha particles and protons, often killing the crew and disrupting electonics. Heavier ionized isotopes were often lauched to foul the drives and disable enemy ships.%0a%0aWhile devastating, the weapons did suffer from a few problems. Primarily, they were not very targetable and maneuverable. Clever Imperial Captains quickly learned to maneuver in such a way to dodge all but the best and luckiest Alaerian ships. Secondly, they still acted as drives, often shoving the firing ship off-course. Third, they were difficult to handle and tempermental. On three separate occasions, Alaerian crews were killed by their own weapon as it fouled itself with heavy isotopes and irradiated the ship.%0a%0aWhile they didn't change the course of naval battles as the Alaerians originally hoped, they still counted the weapons as a success for the horrible effect they had on attacks against mines and space stations.  As the Alaerians tried to wipe the "genetic abominations" from the face of the galaxy, they found it very useful to sterilize peaceful habitats and stations. Additionally, the wepons could be dismounted and attached to a small asteroid to be accelerated into a planetary settlement. The reaction of the genetically enhanced people is recorded elsewhere.%0a%0aAfter the FrontierRebellion, more sophisticated versions of the weapons appeared becoming part of the standard arsenal for naval combat. This situation continued with little change until the development of FractalShielding by the famous Fteigar smiths of the DaoJihnCorp.%0a%0a!! References%0a# AlaerianCult%0a# DaoJihnCorp%0a# FractalShielding%0a# FrontierRebellion%0a# JupiterRocket%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!ImperiumEquipment]]%0a
+time=1141520039
+author:1141520039=BubbaWilson
+csum:1141520039=
+diff:1141520039:1141520001:=1c1%0a%3c %3c%3c|[[Macropedia/Imperium Edition Index]]|>>%0a---%0a> %3c%3c|[[mperium Edition Index]]|>>%0a27c27%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!ImperiumEquipment]]%0a---%0a> [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!ImperiumEquipment]]%0a\ No newline at end of file%0a
+host:1141520039=70.249.188.200
+author:1141520001=BubbaWilson
+csum:1141520001=
+diff:1141520001:1141519657:=1,3c1,2%0a%3c %3c%3c|[[mperium Edition Index]]|>>%0a%3c %3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%3c %0a---%0a> %3c%3c|ImperiumEditionIndex|>>%0a> %0a
+host:1141520001=70.249.188.200
+author:1141519657=BubbaWilson
+csum:1141519657=
+diff:1141519657:1129672533:=26c26%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!ImperiumEquipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1141519657=70.249.188.200
+author:1129672533=BenWilson
+diff:1129672533:1121034134:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672533=144.167.105.115

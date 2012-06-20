@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1107985862
+text=²²!! Macropedia References²(:pagelist group=Macropedia {Kaurium}:)²(:pagelist group=Macropedia {KauriumGovernment}:)²(:pagelist group=Macropedia {$Name}:)
+targets=
+author=JohnUghrin
+author:1107985806=JohnUghrin
+host:1107985806=24.166.101.248
+diff:1107985806:1107985806:=1,5d0²< ²< ²< ²< !! Macropedia References²< (:pagelist group=Macropedia {Kaurium}:)²\ No newline at end of file²
+name=StarSystems.KauriumSystem
+host=24.166.101.248
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1107985862=JohnUghrin
+host:1107985862=24.166.101.248
+diff:1107985862:1107985806:=2a3²> ²4,6c5²< (:pagelist group=Macropedia {Kaurium}:)²< (:pagelist group=Macropedia {KauriumGovernment}:)²< (:pagelist group=Macropedia {$Name}:)²\ No newline at end of file²---²> (:pagelist group=Macropedia {Kaurium}:)²\ No newline at end of file²

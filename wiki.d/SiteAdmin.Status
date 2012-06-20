@@ -1,0 +1,8 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+host=69.140.6.80
+name=SiteAdmin.Status
+rev=5
+text=(:comment Any local edits to this page may be lost!:)%0a%0aThis site is running {$Version} (VersionNum={$VersionNum}).%0a
+time=1312135239
+updatedto=2002029

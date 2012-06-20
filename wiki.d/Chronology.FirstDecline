@@ -1,0 +1,27 @@
+version=pmwiki-2.2.0-beta62 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.4) Gecko/20061201 Firefox/2.0.0.4 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.243.109.103
+name=Chronology.FirstDecline
+rev=6
+targets=Chronology.HyperspaceVortices,Contributers.JohnUghrin,Contributers.AaronClausen,Category.Chronology,Category.Sidebar
+text=During the First Decline, mankind is splintered on hundreds of worlds among dozens of starsystems. The HyperspaceVortices prevent FTL interstellar travel, and the interstellar economy collapses.%0a%0a----%0a%0a!! Old Summary%0a%0aFollowing the collapse of the interstellar community. The colonies adapt as best they can. Earth reels from the impact of alien plaques. This is still under discussion on-list.%0a%0a''Originally by [[~JohnUghrin]]''%0a%0aDuring the First Decline, mankind is splintered on hundreds of worlds among dozens of starsystems. The HyperspaceVortices prevent FTL interstellar travel, and the interstellar economy collapses. %0a%0aMeanwhile, Earth staggers under the destructive power of several alien plagues that rip through the population and the ecosystem.%0a%0aThe nearly complete cut off of various colonial worlds from each other, and from Earth, leads to major cultural changes for many worlds.  On the most resource-rich worlds, civilizations survive and evolve, but on the marginal worlds, near-extinction leads some societies to be driven back to stone age levels of technology.%0a%0a-- [[~AaronClausen]] - 05 Dec 2004%0a%0a[[!Chronology]]%0a%0a[[!Sidebar]]%0a(:title 27C-37C: First Decline:)
+time=1185642209
+title=27C-37C: First Decline
+author:1185642209=BenWilson
+csum:1185642209=
+diff:1185642209:1182859113:=20,21d19%0a%3c %0a%3c [[!Sidebar]]%0a
+host:1185642209=69.243.109.103
+author:1182859113=BenWilson
+csum:1182859113=
+diff:1182859113:1174872359:=18,19d17%0a%3c %0a%3c [[!Chronology]]%0a
+host:1182859113=64.124.158.130
+author:1174872359=BenWilson
+csum:1174872359=
+diff:1174872359:1120821446:=1,8d0%0a%3c During the First Decline, mankind is splintered on hundreds of worlds among dozens of starsystems. The HyperspaceVortices prevent FTL interstellar travel, and the interstellar economy collapses.%0a%3c %0a%3c ----%0a%3c %0a%3c !! Old Summary%0a%3c %0a%3c Following the collapse of the interstellar community. The colonies adapt as best they can. Earth reels from the impact of alien plaques. This is still under discussion on-list.%0a%3c %0a17,18c9%0a%3c -- [[~AaronClausen]] - 05 Dec 2004%0a%3c (:title 27C-37C: First Decline:)%0a\ No newline at end of file%0a---%0a> -- [[~AaronClausen]] - 05 Dec 2004%0a\ No newline at end of file%0a
+host:1174872359=69.243.109.103
+author:1120821446=MateuszCzaplinski
+diff:1120821446:1104689022:minor=1,2c1,4%0a%3c ''Originally by [[~JohnUghrin]]''%0a%3c %0a---%0a> ! First Decline%0a> %0a> Originally by [[~JohnUghrin]]%0a> %0a
+host:1120821446=83.16.49.165

@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta23 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1139791004
+host=69.155.127.118
+name=Category.Template
+rev=3
+targets=
+text=This category represents all things related to {$Name}.%0a%0a----
+time=1139791146
+author:1139791146=BenWilson
+csum:1139791146=
+diff:1139791146:1139791020:=2,3d1%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1139791146=69.155.127.118
+author:1139791020=BenWilson
+csum:1139791020=
+diff:1139791020:1139791004:=1c1,3%0a%3c This category represents all things related to {$Name}.%0a---%0a> This category represents all things related to Natural Science.%0a> %0a> (:pagelist fmt=#sitemap !{$Name}]]%0a\ No newline at end of file%0a
+host:1139791020=69.155.127.118
+author:1139791004=BenWilson
+csum:1139791004=
+diff:1139791004:1139791004:=1,3d0%0a%3c This category represents all things related to Natural Science.%0a%3c %0a%3c (:pagelist fmt=#sitemap !{$Name}]]%0a\ No newline at end of file%0a
+host:1139791004=69.155.127.118

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+host=70.249.188.200
+name=Macropedia.UpliftProject
+rev=5
+targets=Macropedia.UntaraDriveControl,Macropedia.UvaneMerithProvince,Macropedia.ImperiumEditionIndex,Macropedia.ImperiumEquipmentIndex,Macropedia.TembaTwo,Macropedia.ImperialCongress,Macropedia.TawmerikDynasty,Category.ImperiumEdition,Category.ChangSinghAuthored,Category.ImperiumEquipment
+text=%3c%3c|[[Imperium Edition Index]]|>>%0a%3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%0aThe Uplift Project was the first major infrastructure of the Imperium.  Initiated by [[TembaTwo|Temba II]], the project saw many of the worlds in the Imperium receive space elevators, orbital space ports and orbital construction and maintenance facilities.  The costs of the project were extraordinary, and only [[TembaTwo|Temba II]]'s personal prestige kept the ImperialCongress from openly revolting against the project.%0a%0aIn the end, however, the Uplift Project became one of the jewels in the Imperial Crown.  Many worlds saw their economies improve dramatically as they gained easier access to interstellar markets.  The Emperors gained a good deal of loyalty and goodwill out of the project, and even the most vocal critics were forced to admit that it had done much good for the unity of the Imperium.%0a%0aIt was only after [[TembaTwo|Temba II]]'s death that allegations of corruption began to come forward.  The [[TawmerikDynasty|Tawmerik's]] and the closely aligned families and corporations had done exceedingly well through lucrative contracts.  Allegations of kickbacks, influence peddling, misappropriation and out-and-out theft of Imperium funds were made.  The ImperialCongress did make an effort at an official inquiry, the first one to ever force immediate family and close advisors to an Emperor to testify.  Concerns that much of the good that had been down through the Uplift Project being undone eventually lead to the inquiry being shut down.  A few scapegoats were found and imprisoned or exiled, and the matter was buried.%0a%0aIn historical context, whatever the misdeeds of the Tawmeriks during the Uplift Project, the good that was done for many worlds cannot be denied.  Though one can never excuse immoral and unethical conduct, it seems impossible that a project of such vast size could ever be accomplished without some degree of corruption.%0a%0a!! References%0a# [[Imperial Congress]]%0a# [[Tawmerik Dynasty]]%0a# [[TembaTwo|Temba II]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!ImperiumEquipment]]
+time=1141519959
+author:1141519959=BubbaWilson
+csum:1141519959=
+diff:1141519959:1129672546:=1,3c1,2%0a%3c %3c%3c|[[Imperium Edition Index]]|>>%0a%3c %3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a%3c %0a---%0a> %3c%3c|ImperiumEditionIndex|>>%0a> %0a13,14c12,13%0a%3c # [[Imperial Congress]]%0a%3c # [[Tawmerik Dynasty]]%0a---%0a> # ImperialCongress%0a> # TawmerikDynasty%0a20c19,20%0a%3c [[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!ImperiumEquipment]]%0a\ No newline at end of file%0a---%0a> %0a> [[!ImperiumEdition]] [[!ChangSinghAuthored]]%0a\ No newline at end of file%0a
+host:1141519959=70.249.188.200
+author:1129672546=BenWilson
+diff:1129672546:1121034106:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672546=144.167.105.115

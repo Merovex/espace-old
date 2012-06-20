@@ -1,0 +1,21 @@
+version=pmwiki-2.1.beta14 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b5) Gecko/20051006 Firefox/1.4.1
+author=BenWilson
+excerpt=%3cp class='vspace'>%3c/p>%3cul>%3cli>%3ca class='wikilink' href='http://www.gmtoolbox.org/espace/D20Rules/CharacterBasics'>Character Basics%3c/a>%0a%3c/li>%3cli>%3ca class='wikilink' href='http://www.gmtoolbox.org/espace/D20Rules/SkillBasics'>Skill Basics%3c/a>%0a%3cp class='vspace'>%3c/p>%3c/li>%3cli>%3ca class='wikilink' href='http://www.gmtoolbox.org/espace/D20Rules/OpenGamingLicense'>Open Gaming License%3c/a>%0a%3c/li>%3c/ul>%0a
+host=69.155.125.173
+name=D20Rules.D20Rules
+rev=4
+targets=D20Rules.CharacterBasics,D20Rules.SkillBasics,D20Rules.OpenGamingLicense
+text=(:title Rules for d20 Users:)%0a%0a* [[Character Basics]]%0a* [[Skill Basics]]%0a%0a* [[Open Gaming License]]
+time=1134502570
+title=Rules for d20 Users
+author:1134502570=BenWilson
+diff:1134502570:1128393090:=3,6c3,6%0a%3c * [[Character Basics]]%0a%3c * [[Skill Basics]]%0a%3c %0a%3c * [[Open Gaming License]]%0a\ No newline at end of file%0a---%0a> * CharacterBasics%0a> * SkillBasics%0a> %0a> * OpenGamingLicense%0a\ No newline at end of file%0a
+host:1134502570=69.155.125.173
+author:1128393090=JohnUghrin
+diff:1128393090:1128393059:minor=3,6c3,5%0a%3c * CharacterBasics%0a%3c * SkillBasics%0a%3c %0a%3c * OpenGamingLicense%0a\ No newline at end of file%0a---%0a> CharacterBasics%0a> SkillBasics%0a> OpenGamingLicense%0a\ No newline at end of file%0a
+host:1128393090=24.166.101.248
+author:1128393059=JohnUghrin
+csum:1128393059=getting started
+diff:1128393059:1120517244:=1,5c1%0a%3c (:title Rules for d20 Users:)%0a%3c %0a%3c CharacterBasics%0a%3c SkillBasics%0a%3c OpenGamingLicense%0a\ No newline at end of file%0a---%0a> (:title d20 Rules:)%0a\ No newline at end of file%0a
+host:1128393059=24.166.101.248

@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.8) Gecko/2009032712 Ubuntu/8.10 (intrepid) Firefox/3.0.8
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1238365513
+host=68.48.114.50
+name=AstroEmpires.CalculatingCombat
+rev=2
+targets=
+text=There are basically three formulas you need to calculate unit-on-unit combat. In the three examples below, ``Power" refers to the Attacker, ``Shield" and ``Armour" refer to the defender.%0a%0aWhen Power is lower than Armour (e.g. Fighters v. Cruisers), but higher than Shield.%0a%0a>>formula%3c%3c%0a%0aArmour / (Power - Shield) = Number of Attackers to Kill One Defender%0a%0a>>%3c%3c%0a%0aWhen Power is greater than Armour (e.g. Dreadnought v. Cruiser)%0a%0a>>formula%3c%3c%0a%0a(Power - Shield) / Armour = Number of Defenders Killed per Attacker%0a%0a>>%3c%3c%0a%0aWhen Power is less than Shield (except those Ion units that have 50 percent of their power bypass shields).%0a%0a>>formula%3c%3c%0a%0aArmour / (Power * 0.01) = Number of Attackers needed.%0a%0a>>%3c%3c
+time=1238365574
+author:1238365574=BenWilson
+csum:1238365574=
+diff:1238365574:1238365513:=19c19%0a%3c When Power is less than Shield (except those Ion units that have 50 percent of their power bypass shields).%0a---%0a> When Power is less than Shield (except those Ion Units that have their power bypass shields).%0a
+host:1238365574=68.48.114.50
+author:1238365513=BenWilson
+csum:1238365513=
+diff:1238365513:1238365513:=1,25d0%0a%3c There are basically three formulas you need to calculate unit-on-unit combat. In the three examples below, ``Power" refers to the Attacker, ``Shield" and ``Armour" refer to the defender.%0a%3c %0a%3c When Power is lower than Armour (e.g. Fighters v. Cruisers), but higher than Shield.%0a%3c %0a%3c >>formula%3c%3c%0a%3c %0a%3c Armour / (Power - Shield) = Number of Attackers to Kill One Defender%0a%3c %0a%3c >>%3c%3c%0a%3c %0a%3c When Power is greater than Armour (e.g. Dreadnought v. Cruiser)%0a%3c %0a%3c >>formula%3c%3c%0a%3c %0a%3c (Power - Shield) / Armour = Number of Defenders Killed per Attacker%0a%3c %0a%3c >>%3c%3c%0a%3c %0a%3c When Power is less than Shield (except those Ion Units that have their power bypass shields).%0a%3c %0a%3c >>formula%3c%3c%0a%3c %0a%3c Armour / (Power * 0.01) = Number of Attackers needed.%0a%3c %0a%3c >>%3c%3c%0a\ No newline at end of file%0a
+host:1238365513=68.48.114.50

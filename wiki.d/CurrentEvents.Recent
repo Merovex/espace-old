@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta10
+newline=²
+time=1103385488
+text=(:redirect [[CurrentEvents.CurrentEvents]]:)
+targets=CurrentEvents.2004Dec17,CurrentEvents.Past
+author=BenWilson
+author:1103385280=BenWilson
+host:1103385280=68.51.35.56
+diff:1103385280:1103385280:=1,5d0²< !! Recent Events²< ²< * '''2004-Dec-17''' [[CurrentEvents.2004Dec17 | Site Up]]²< ²< [[CurrentEvents.Past | Past Events]]²\ No newline at end of file²
+name=CurrentEvents.Recent
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2

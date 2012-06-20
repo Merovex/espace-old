@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1232732340
+host=98.218.217.196
+name=AstroEmpires.Vocabulary
+rev=2
+targets=
+text=%0a%0a:'''Cost of Conquest''': The amount of damage an attacker is expected to sustain attacking a base in a single-wave conquest.%0a:'''Cost of Entry/Admittance''': The amount of fleet an attacker needs to successfully conquer a base in one wave.%0a:'''Pace''': The distance between two astros. As in, it is 200 paces from X12 to X13.%0a:'''Space''': The available space on an astro/base.%0a:'''Slot''': The orbit position of an astro, represented by the 'Y' in X12:23:46:Y8.%0a%0a(:comment This page has been edited using Pywe:)
+time=1232732375
+author:1232732375=BenWilson
+diff:1232732375:1232732340:=3,7c3,7%0a%3c :'''Cost of Conquest''': The amount of damage an attacker is expected to sustain attacking a base in a single-wave conquest.%0a%3c :'''Cost of Entry/Admittance''': The amount of fleet an attacker needs to successfully conquer a base in one wave.%0a%3c :'''Pace''': The distance between two astros. As in, it is 200 paces from X12 to X13.%0a%3c :'''Space''': The available space on an astro/base.%0a%3c :'''Slot''': The orbit position of an astro, represented by the 'Y' in X12:23:46:Y8.%0a---%0a> :Cost of Conquest: The amount of damage an attacker is expected to sustain attacking a base in a single-wave conquest.%0a> :Cost of Entry/Admittance: The amount of fleet an attacker needs to successfully conquer a base in one wave.%0a> :Pace: The distance between two astros. As in, it is 200 paces from X12 to X13.%0a> :Space: The available space on an astro/base.%0a> :Slot: The orbit position of an astro, represented by the 'Y' in X12:23:46:Y8.%0a
+host:1232732375=98.218.217.196
+author:1232732340=BenWilson
+diff:1232732340:1232732340:=1,9d0%0a%3c %0a%3c %0a%3c :Cost of Conquest: The amount of damage an attacker is expected to sustain attacking a base in a single-wave conquest.%0a%3c :Cost of Entry/Admittance: The amount of fleet an attacker needs to successfully conquer a base in one wave.%0a%3c :Pace: The distance between two astros. As in, it is 200 paces from X12 to X13.%0a%3c :Space: The available space on an astro/base.%0a%3c :Slot: The orbit position of an astro, represented by the 'Y' in X12:23:46:Y8.%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1232732340=98.218.217.196

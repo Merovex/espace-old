@@ -1,0 +1,40 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.2) Gecko/20060308 Firefox/1.5.0.2
+author=BenWilson
+csum=
+host=69.153.116.225
+name=Site.CMSMenu
+rev=8
+targets=Site.CMSMenu,Site.AuthUser
+text=(:if !authid:)%0a%25rel=nofollow%25[[{$FullName}?action=login|login]]%0a(:if authid:)%0a[[{$FullName}?action=logout|$[logout]]]%0a(:if auth edit:)%0a&middot; [[{$FullName}?action=edit|$[edit]]]%0a&middot; [[{$FullName}?action=diff|$[history]]]%0a(:if auth admin:)%0a&middot; [[{$FullName}?action=attr|$[attr]]]%0a&middot; [[{$SiteGroup}.AuthUser|$[users]]]
+time=1145334728
+author:1145334728=BenWilson
+csum:1145334728=
+diff:1145334728:1140731726:=2c2%0a%3c %25rel=nofollow%25[[{$FullName}?action=login|login]]%0a---%0a> [[{$FullName}?action=login|$[login]]]%0a
+host:1145334728=69.153.116.225
+author:1140731726=BenWilson
+csum:1140731726=
+diff:1140731726:1140731672:=1,2d0%0a%3c (:if !authid:)%0a%3c [[{$FullName}?action=login|$[login]]]%0a8a7%0a> &middot; [[{$FullName}?action=admin|$[admin]]]%0a
+host:1140731726=144.167.104.254
+author:1140731672=BenWilson
+csum:1140731672=
+diff:1140731672:1137415910:=9c9%0a%3c &middot; [[{$SiteGroup}.AuthUser|$[users]]]%0a\ No newline at end of file%0a---%0a> &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a
+host:1140731672=144.167.104.254
+author:1137415910=BenWilson
+csum:1137415910=
+diff:1137415910:1137415657:=0a1,2%0a> (:if !authid:)%0a> [[{$FullName}?action=login|$[login]]]%0a
+host:1137415910=65.68.18.205
+author:1137415657=BenWilson
+csum:1137415657=
+diff:1137415657:1137368107:=1,2d0%0a%3c (:if !authid:)%0a%3c [[{$FullName}?action=login|$[login]]]%0a
+host:1137415657=65.68.18.205
+author:1137368107=BenWilson
+csum:1137368107=
+diff:1137368107:1135969028:=0a1,2%0a> (:if !authid:)%0a> [[{$FullName}?action=login|$[login]]]%0a
+host:1137368107=70.252.86.42
+author:1135969028=BenWilson
+diff:1135969028:1135962161:=7d6%0a%3c &middot; [[{$FullName}?action=diff|$[history]]]%0a
+host:1135969028=65.68.18.205
+author:1135962161=BenWilson
+diff:1135962161:1135962161:=1,10d0%0a%3c (:if !authid:)%0a%3c [[{$FullName}?action=login|$[login]]]%0a%3c (:if authid:)%0a%3c [[{$FullName}?action=logout|$[logout]]]%0a%3c (:if auth edit:)%0a%3c &middot; [[{$FullName}?action=edit|$[edit]]]%0a%3c (:if auth admin:)%0a%3c &middot; [[{$FullName}?action=admin|$[admin]]]%0a%3c &middot; [[{$FullName}?action=attr|$[attr]]]%0a%3c &middot; [[{$SiteGroup}.AuthUser?action=edit|$[users]]]%0a\ No newline at end of file%0a
+host:1135962161=65.68.18.205

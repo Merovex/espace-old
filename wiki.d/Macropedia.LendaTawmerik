@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.LendaTawmerik
+rev=3
+targets=Macropedia.LastChargeOfLightHorse,Macropedia.MacrodonicCollapse,Macropedia.ImperiumEdition,Category.PhantomImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!PhantomImperiumEdition]]
+time=1129669734
+author:1129669734=BenWilson
+diff:1129669734:1115841388:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a5a4%0a> %0a
+host:1129669734=144.167.105.115

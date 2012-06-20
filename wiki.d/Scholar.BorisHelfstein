@@ -1,0 +1,39 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12) Gecko/20051010 Firefox/1.0.7 (Ubuntu package 1.0.7)
+author=JohnUghrin
+csum=
+ctime=1140321044
+host=24.166.101.248
+name=Scholar.BorisHelfstein
+rev=7
+targets=Macropedia.GesceamianChoent,Macropedia.HundredBloodyDays,Macropedia.KlisterUniversity,Macropedia.CanticleOfHope,Category.Scholar
+text=!!Boris Chu'un-Weing Helfstein%0a%0aFormer member of the Macropedia/GesceamianChoent, Boris Helfstein fought in several conflicts in their service to several different noble families. Later, his partial anthorph heritage lead to a series of shifting positions and significant combat during the Macropedia/HundredBloodyDays, in particular the failed defense of Macropedia/KlisterUniversity.  %0a%0aBoris later became involved with the security of, and possibly is a contributor to the Macropedia/CanticleOfHope. He runs a eponymous security firm, which is presently not accepting new contracts.   %0a%0a!!! Boris' Articles%0a(:pagelist fmt=simple !BorisHelfsteinAuthored:)%0a%0a[[!Scholar]]
+time=1141866657
+author:1141866657=JohnUghrin
+csum:1141866657=
+diff:1141866657:1141866593:=8,9c8,9%0a%3c (:pagelist fmt=simple !BorisHelfsteinAuthored:)%0a%3c %0a---%0a> (:pagelist fmt=simple Category/BorisHelfsteinAuthored:)%0a> %0a
+host:1141866657=24.166.101.248
+author:1141866593=JohnUghrin
+csum:1141866593=
+diff:1141866593:1141866193:=8,9c8,9%0a%3c (:pagelist fmt=simple Category/BorisHelfsteinAuthored:)%0a%3c %0a---%0a> (:pagelist group=Macropedia fmt=simple Category/BorisHelfsteinAuthored:)%0a> %0a
+host:1141866593=24.166.101.248
+author:1141866193=JohnUghrin
+csum:1141866193=
+diff:1141866193:1141866156:=
+host:1141866193=24.166.101.248
+author:1141866156=JohnUghrin
+csum:1141866156=
+diff:1141866156:1141866056:=8,9c8,9%0a%3c (:pagelist group=Macropedia fmt=simple Category/BorisHelfsteinAuthored:)%0a%3c %0a---%0a> (:pagelist group=BorisHelfsteinAuthored fmt=Simple:)%0a> %0a
+host:1141866156=24.166.101.248
+author:1141866056=JohnUghrin
+csum:1141866056=
+diff:1141866056:1141865981:=8,9c8,9%0a%3c (:pagelist group=BorisHelfsteinAuthored fmt=Simple:)%0a%3c %0a---%0a> (:pagelist group=BorisHelfsteinAuthored:)%0a> %0a
+host:1141866056=24.166.101.248
+author:1141865981=JohnUghrin
+csum:1141865981=
+diff:1141865981:1140321044:=0a1%0a> %0a7,9d7%0a%3c !!! Boris' Articles%0a%3c (:pagelist group=BorisHelfsteinAuthored:)%0a%3c %0a
+host:1141865981=24.166.101.248
+author:1140321044=BenWilson
+csum:1140321044=
+diff:1140321044:1140321044:=1,8d0%0a%3c %0a%3c !!Boris Chu'un-Weing Helfstein%0a%3c %0a%3c Former member of the Macropedia/GesceamianChoent, Boris Helfstein fought in several conflicts in their service to several different noble families. Later, his partial anthorph heritage lead to a series of shifting positions and significant combat during the Macropedia/HundredBloodyDays, in particular the failed defense of Macropedia/KlisterUniversity.  %0a%3c %0a%3c Boris later became involved with the security of, and possibly is a contributor to the Macropedia/CanticleOfHope. He runs a eponymous security firm, which is presently not accepting new contracts.   %0a%3c %0a%3c [[!Scholar]]%0a\ No newline at end of file%0a
+host:1140321044=24.166.101.248

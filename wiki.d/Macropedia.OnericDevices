@@ -1,0 +1,17 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7 (ax)
+author=BenWilson
+csum=
+host=24.166.101.248
+name=Macropedia.OnericDevices
+rev=4
+targets=Macropedia.OdniPlanyeti,Macropedia.OradianShippingConglomerate,Macropedia.ImperiumEditionIndex,Macropedia.LiuNoRiMasters,Macropedia.DinzwarGefera,Macropedia.ImperialCongress,Macropedia.HjansKrebLakol,Category.ImperiumEdition,Category.ChangSinghAuthored,Category.CombatEquipment
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aFearsome weapons first developed by the [[LiuNoRiMasters|Liu-No-Ri Masters]], an offshoot of the DinzwarGefera.  The essential principle was a%0apsychic as well as physical attack, thus weakening a defender's mind as well%0aas their body.  The [[LiuNoRiMasters|Liu-No-Ri]] used them to terrifying%0aefficiency, thus making them into legends whilst simultaneously resurrecting%0athe older martial combat that had been abandoned so long ago in favor of%0amonolithic machines of war.%0a%0aThe earliest examples of Oneric Devices were generally simple blades and%0amaces.  Embedded in them was a generator capable of emitting waves that%0ainterrupted the brain patterns of a victim.  The results of these earliest%0adevices was unpredictable, and sometimes were even known to produce a%0aberzerker effect.  As well, these weapons could have a lash-back effect,%0aeffecting the wielder as well as the target.  The%0a[[LiuNoRiMasters|Liu-No-Ri]] overcame this with a number of meditation%0atechniques.%0a%0aDespite this, Oneric Devices gained a reputation as being the ultimate in%0amelee combat weapons.  It wasn't very long before others had figured out%0awhat the [[LiuNoRiMasters|Liu-No-Ri Masters]] had done and began duplicating%0athem.  Soon all the security firms had them, and despite the frequent%0aprotestations of the ImperialCongress, none cared to the devices up.  In%0afact, the Oneric Devices were steadily improved, and new forms were made;%0alike gloves that could cause severe damage to the brain if someone were%0asimply tapped on the forehead, or suits that sufficiently scrambled brain patterns to cause confusion in an opponent.%0a%0aA final attempt was made to ban Oneric Devices during the Premiereship of HjansKrebLakol.  Legislation was passed making the possession of such devices illegal.  By this point, the Imperium's ability to actually enforce such a law was almost impossible, and security firms continue to use such weapons to this very day.%0a%0a!! References%0a# DinzwarGefera%0a# HjansKrebLakol%0a# ImperialCongress%0a# [[LiuNoRiMasters|Liu-No-Ri Masters]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]]
+time=1140325980
+author:1140325980=BenWilson
+csum:1140325980=
+diff:1140325980:1129670695:=40c40%0a%3c [[!ImperiumEdition]] [[!ChangSinghAuthored]] [[!Combat Equipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!ChangSinghAuthored]]%0a\ No newline at end of file%0a
+host:1140325980=24.166.101.248
+author:1129670695=BenWilson
+diff:1129670695:1111081223:=1,2c1,2%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a---%0a> ! Oneric Devices%0a> %0a
+host:1129670695=144.167.105.115

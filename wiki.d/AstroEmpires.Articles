@@ -1,0 +1,16 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1293910479
+host=68.33.222.116
+name=AstroEmpires.Articles
+rev=1
+targets=
+text=(:if auth edit:)%0a(:newpageboxplus base=AstroEmpires.Articles prefix={$Today}- label="New Blog Entry":)%0a(:ifend:)%0a%0a%0a(:pagelist fmt=Site/CustomPagelistTemplates#blogsummary group=AstroEmpires name=2*,1* order=-name:)
+time=1293910479
+author:1293910479=BenWilson
+csum:1293910479=
+diff:1293910479:1293910479:=1,6d0%0a%3c (:if auth edit:)%0a%3c (:newpageboxplus base=AstroEmpires.Articles prefix={$Today}- label="New Blog Entry":)%0a%3c (:ifend:)%0a%3c %0a%3c %0a%3c (:pagelist fmt=Site/CustomPagelistTemplates#blogsummary group=AstroEmpires name=2*,1* order=-name:)%0a\ No newline at end of file%0a
+host:1293910479=68.33.222.116

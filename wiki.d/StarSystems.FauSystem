@@ -1,0 +1,19 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=StarSystems.FauSystem
+rev=6
+targets=Macropedia.FrontierRebellion
+text=(:*toc:)²²!! Overview²²Fau is a binary star system with a major star Fau-Twid and a minor star Fau-Kerkan. Fau-Twid has a single planet known for its resources but not habitability. Fau-Kerkan has three planets known for habitability but abject lack of natural resources. As a result, the colonists of both systems developed a tight relationship²²!! Fau-Twid²²!!!Fautwid ²:%dlstar%Gravity:       Fair   ²:Resources:     Good²:Habitat:       Mediocre²:Colony:        Mediocre²²Fautwid is a large rockbody planet.²²!! Fau-Kernan²²!!!Mazdai ²:%dlstar%Gravity:       Fair²:Resources:     Poor²:Habitat:       Great²:Colony:        Fair²²is a medium rockball²²!!!Zerdosho ²:%dlstar%Gravity:       Good  ²:Resources:     Mediocre²:Habitat:       Good²:Colony:        Good²is a medium rockball²²!!! Nassai ²:%dlstar%Gravity:       Mediocre   ²:Resources:     Terrible²:Habitat:       Fair²:Colony:        Poor²is a medium rockball²²!! History²²!!! Founding²²The Fau system was discovered . . . .²²!!! During the Imperium²²The Fau system was the scene of the Macropedia/FrontierRebellion's begin, major battle, and climax. What began as minor complaints of Imperial taxation grew to an interstellar conflict that led to the unification of all accessible Terran worlds during the Imperium, and sparked the '''''Pax Terra Imperia'''''.²²!! Related Articles²(:pagelist fmt=simple group=Macropedia {$Name}:)²²
+time=1121030583
+author:1121030583=BenWilson
+diff:1121030583:1120002960:=19c19²< !!!Mazdai ²---²> !!!System Name: ²27c27²< !!!Zerdosho ²---²> !!!System Name: ²34c34²< !!! Nassai ²---²> !!!System Name: ²
+host:1121030583=70.248.67.21
+author:1120002960=BenWilson
+diff:1120002960:1120002921:=52,53c52,53²< (:pagelist fmt=simple group=Macropedia {$Name}:)²< ²---²> (:pagelist group=Macropedia {$Name}:)²> ²
+host:1120002960=144.167.104.139
+author:1120002921=BenWilson
+diff:1120002921:1106527152:=0a1,2²> ! Fau System²> ²7,14c9,18²< !! Fau-Twid²< ²< !!!Fautwid ²< :%dlstar%Gravity:       Fair   ²< :Resources:     Good²< :Habitat:       Mediocre²< :Colony:        Mediocre²< ²---²> !! System Description²> ²> !!! Fau-Twid²> ²>  Fautwid: ²>  Gravity:       Fair   ²>  Resources:     Good²>  Habitat:       Mediocre²>  Colony:        Mediocre²> ²17,24c21,28²< !! Fau-Kernan²< ²< !!!System Name: ²< :%dlstar%Gravity:       Fair²< :Resources:     Poor²< :Habitat:       Great²< :Colony:        Fair²< ²---²> !!! Fau-Kernan²> ²>  System Name: ²>  Gravity:       Fair²>  Resources:     Poor²>  Habitat:       Great²>  Colony:        Fair²> ²27,31c31,35²< !!!System Name: ²< :%dlstar%Gravity:       Good  ²< :Resources:     Mediocre²< :Habitat:       Good²< :Colony:        Good²---²>  System Name: ²>  Gravity:       Good  ²>  Resources:     Mediocre²>  Habitat:       Good²>  Colony:        Good²34,38c38,42²< !!!System Name: ²< :%dlstar%Gravity:       Mediocre   ²< :Resources:     Terrible²< :Habitat:       Fair²< :Colony:        Poor²---²>  System Name: ²>  Gravity:       Mediocre   ²>  Resources:     Terrible²>  Habitat:       Fair²>  Colony:        Poor²52,53c56²< (:pagelist group=Macropedia {$Name}:)²< ²---²> (:pagelist group=Macropedia {$Name}:)²\ No newline at end of file²
+host:1120002921=144.167.104.139

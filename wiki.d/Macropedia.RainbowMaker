@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BubbaWilson
+csum=
+ctime=1141501674
+host=70.249.188.200
+name=Macropedia.RainbowMaker
+rev=3
+targets=Macropedia.PulseCannon,Macropedia.SMEE,Macropedia.ImperiumEquipmentIndex,Macropedia.AnotekIsotopeFiltration,Macropedia.KehnMunhLightBattleSuit,Category.ImperiumEquipment,Category.IsaacTaubAuthored
+text=%3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a(:*toc:)%0a!! Overview%0a%0a"Shaking his '''Rainbow maker'''" became a catchphrase of the late Imperium. The rainbow maker class of personal weapons was a late development in the use of x-ray based laser technology. The nomenclature "rainbow maker" refers to how the weapon's beam reacts with [[Anotek Isotope Filtration]] equipped combatants. This seems implausible except that the Filtration was originally meant to protect against radiation. While nicknamed the "Rainbow Maker," these weapons are commonly called personal-class x-ray lasers.%0a%0a!! Development%0a%0aThe use of laser technology has been around for about as long as superluminal travel. However, the visible light nature of lasers make them easy to spot and easy to deflect. Even the most basic [[Kehn Munh Light Battle Suit]] carrys some reflective ability, though the armor itself does not reflect nor is it intended to deflect laser-based weapons. X-ray lasers lack the disadvantage of visible light, but have a significantly shorter range in atmospheric combat. %0a%0a!! Use%0a%0aTo have any practical combat capacity (that is, number of shots per battery), the x-ray lasers are commonly used as rifles. However, single-shot holdouts have been manufactured in the fringe colonies. Additionally, vehicle mounted high-rate of fire weapons (measured in hundreds of shots per minute) are fairly common, and are used primarily in an antipersonnel capacity.%0a%0aThese weapons cause severe skin burns and can irradiate internal organs of unarmored targets.%0a%0a!! References%0a# [[Kehn Munh Light Battle Suit]]%0a# [[Anotek Isotope Filtration]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEquipment]] [[!IsaacTaubAuthored]]
+time=1141503649
+author:1141503649=BubbaWilson
+csum:1141503649=
+diff:1141503649:1141501713:=25c25%0a%3c [[!ImperiumEquipment]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEquipment]] [[!{$ScholarName}Authored]]%0a\ No newline at end of file%0a
+host:1141503649=70.249.188.200
+author:1141501713=BubbaWilson
+csum:1141501713=
+diff:1141501713:1141501674:=19,20c19%0a%3c # [[Anotek Isotope Filtration]]%0a%3c %0a---%0a> %0a
+host:1141501713=70.249.188.200
+author:1141501674=BubbaWilson
+csum:1141501674=
+diff:1141501674:1141501674:=1,24d0%0a%3c %3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a%3c (:*toc:)%0a%3c !! Overview%0a%3c %0a%3c "Shaking his '''Rainbow maker'''" became a catchphrase of the late Imperium. The rainbow maker class of personal weapons was a late development in the use of x-ray based laser technology. The nomenclature "rainbow maker" refers to how the weapon's beam reacts with [[Anotek Isotope Filtration]] equipped combatants. This seems implausible except that the Filtration was originally meant to protect against radiation. While nicknamed the "Rainbow Maker," these weapons are commonly called personal-class x-ray lasers.%0a%3c %0a%3c !! Development%0a%3c %0a%3c The use of laser technology has been around for about as long as superluminal travel. However, the visible light nature of lasers make them easy to spot and easy to deflect. Even the most basic [[Kehn Munh Light Battle Suit]] carrys some reflective ability, though the armor itself does not reflect nor is it intended to deflect laser-based weapons. X-ray lasers lack the disadvantage of visible light, but have a significantly shorter range in atmospheric combat. %0a%3c %0a%3c !! Use%0a%3c %0a%3c To have any practical combat capacity (that is, number of shots per battery), the x-ray lasers are commonly used as rifles. However, single-shot holdouts have been manufactured in the fringe colonies. Additionally, vehicle mounted high-rate of fire weapons (measured in hundreds of shots per minute) are fairly common, and are used primarily in an antipersonnel capacity.%0a%3c %0a%3c These weapons cause severe skin burns and can irradiate internal organs of unarmored targets.%0a%3c %0a%3c !! References%0a%3c # [[Kehn Munh Light Battle Suit]]%0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c %0a%3c [[!ImperiumEquipment]] [[!{$ScholarName}Authored]]%0a\ No newline at end of file%0a
+host:1141501674=70.249.188.200

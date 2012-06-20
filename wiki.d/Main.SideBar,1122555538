@@ -1,0 +1,25 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=68.51.35.56
+name=Main.SideBar
+rev=114
+targets=Main.Login,Main.About,Main.Bookmarks,Main.FudgeDisclaimer,Main.AllRecentChanges,Main.SiteMap,Main.Contributers,Main.SearchWiki,CurrentEvents.Recent,Campaigns.Campaigns,Main.Dictionary,Macropedia.Macropedia,Macropedia.ImperiumEdition,Macropedia.ImperiumMacropediaTimeline,Macropedia.ImperiumEditionSchedule,Main.Lexicon,Milieu.Milieu,Generalities.Generalities,PhilosophyAndPsychology.PhilosophyAndPsychology,Religion.Religion,SocialSciences.SocialSciences,Language.Language,NaturalSciences.NaturalSciences,Technology.Technology,TheArts.TheArts,LiteratureAndRhetoric.LiteratureAndRhetoric,GeographyAndHistory.GeographyAndHistory,Mechanics.Mechanics,Mechanics.StarSystemDesign,Main.NotesForContributers,PmWiki.TipsForEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,Main.SideBar
+text=! Macrogation²* [[Main.Login           |Login to E-Space]]²* [[Main.About           |About Us]]²* [[Main.Bookmarks       |Bookmarks]]²* [[Main.FudgeDisclaimer |About Fudge]]²* [[Main.AllRecentChanges|What's New or Different]]²* [[Main.SiteMap         |Sitemap]]²* [[Main/Contributers]]²* [[Main/SearchWiki|Search E-Space]]²* [[CurrentEvents.Recent |Recent Events]]²²* [[Campaigns/Campaigns]]²* [[http://www.phoenyx.net/macrospace/2004/ |Discussion Group]]²* [[Main/Dictionary]]²²! [[Macropedia/Macropedia]]²* [[Macropedia/ImperiumEdition]]²** [[Macropedia/ImperiumMacropediaTimeline]]²** [[Macropedia/ImperiumEditionSchedule]]²* [[Main/Lexicon | Lexicon Rules]]²²! '''[[Milieu/Milieu]]'''²* [[Generalities/Generalities]]²* PhilosophyAndPsychology/PhilosophyAndPsychology²* [[Religion/Religion]]²* SocialSciences/SocialSciences²* [[Language/Language]]²* NaturalSciences/NaturalSciences²* [[Technology/Technology]]²* TheArts/TheArts²* LiteratureAndRhetoric/LiteratureAndRhetoric²* GeographyAndHistory/GeographyAndHistory²²! Mechanics²* [[Mechanics/Mechanics|Overview]]²* [[Mechanics/StarSystemDesign]]²²! Pm Wiki²* Main/NotesForContributers²* [[PmWiki/Tips For Editing]]²* [[PmWiki/Documentation Index]]²* [[PmWiki/FAQ]]²* [[PmWiki/PmWikiPhilosophy]]²²* [-([[Main.SideBar?action=edit | edit]])-]
+time=1118006712
+author:1118006712=BenWilson
+diff:1118006712:1118006517:=12c12²< * [[Campaigns/Campaigns]]²---²> * [[Campaigns.HomePage |Campaigns]]²
+host:1118006712=68.51.35.56
+author:1118006517=BenWilson
+diff:1118006517:1118005997:=6c6²< * [[Main.AllRecentChanges|What's New or Different]]²---²> * [[Main.AllRecentChanges|What's New or Different]] ([[Main.AllRecentChangesShort|Short]])²
+host:1118006517=68.51.35.56
+author:1118005997=BenWilson
+diff:1118005997:1118005986:=6c6²< * [[Main.AllRecentChanges|What's New or Different]] ([[Main.AllRecentChangesShort|Short]])²---²> * [[Main.AllRecentChanges|What's New or Different]] ([[Main.AllRecentChanges|Short]])²
+host:1118005997=68.51.35.56
+author:1118005986=BenWilson
+diff:1118005986:1118003531:=6c6²< * [[Main.AllRecentChanges|What's New or Different]] ([[Main.AllRecentChanges|Short]])²---²> * [[Main.AllRecentChanges|What's New or Different]]²
+host:1118005986=68.51.35.56
+author:1118003531=BenWilson
+diff:1118003531:1107799432:=4d3²< * [[Main.Bookmarks       |Bookmarks]]²6,7c5,6²< * [[Main.AllRecentChanges|What's New or Different]]²< * [[Main.SiteMap         |Sitemap]]²---²> * [[Main.Bookmarks       |Bookmarks]]²> * [[Campaigns.HomePage |Campaigns]]²9d7²< * [[Main/SearchWiki|Search E-Space]]²11,12c9²< ²< * [[Campaigns.HomePage |Campaigns]]²---²> * [[Main.AllRecentChanges   |What's New or Different]]²15c12,13²< ²---²> * [[Main/SearchWiki|Search E-Space]]²> ²
+host:1118003531=68.51.35.56

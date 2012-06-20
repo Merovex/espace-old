@@ -1,0 +1,32 @@
+version=pmwiki-2.1.3 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BenWilson
+csum=
+host=144.167.104.254
+name=Macropedia.Template
+rev=6
+targets=Macropedia.TelefreiberWarriorAnts,Macropedia.UnstableParticleProjectors,Macropedia.ImperiumEquipmentIndex,Category.ImperiumEquipment,Category.Authored
+text=%3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a(:*toc:)%0aOverview%0a======%0a%0aWith sub-sections, might be helpful to have one overview section to summarize.%0a%0aIn-Text Heading 1%0a=============%0a%0aSample text%0a%0aIn-Text Heading 2%0a=============%0a%0a(:comment When text exceeds 200 words, should break into sections, %0aseparate by in-text headings. When 3 or more headings, leave the %0aTOC macro in place. :)%0a%0aSample text%0a%0aReferences%0a========%0a%0a# Actual Entry%0a# First Phantom Entry%0a# Second Phantom Entry%0a%0aRelated Articles%0a===========%0a%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEquipment]] [[!{$ScholarName}Authored]]
+time=1144194859
+author:1144194859=BenWilson
+csum:1144194859=
+diff:1144194859:1144194844:=25,28c25,28%0a%3c # Actual Entry%0a%3c # First Phantom Entry%0a%3c # Second Phantom Entry%0a%3c %0a---%0a>    # Actual Entry%0a>    # First Phantom Entry%0a>    # Second Phantom Entry%0a> %0a
+host:1144194859=144.167.104.254
+author:1144194844=BenWilson
+csum:1144194844=
+diff:1144194844:1140282401:=1c1%0a%3c %3c%3c|[[Macropedia/Imperium Equipment Index]]|>>%0a---%0a> %3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a3,5c3,4%0a%3c Overview%0a%3c ======%0a%3c %0a---%0a> !! Overview%0a> %0a8,10c7,8%0a%3c In-Text Heading 1%0a%3c =============%0a%3c %0a---%0a> !! In-Text Heading 1%0a> %0a13,15c11,12%0a%3c In-Text Heading 2%0a%3c =============%0a%3c %0a---%0a> !! In-Text Heading 2%0a> %0a22,31c19,24%0a%3c References%0a%3c ========%0a%3c %0a%3c    # Actual Entry%0a%3c    # First Phantom Entry%0a%3c    # Second Phantom Entry%0a%3c %0a%3c Related Articles%0a%3c ===========%0a%3c %0a---%0a> !! References%0a> # Actual Entry%0a> # First Phantom Entry%0a> # Second Phantom Entry%0a> %0a> !! Related Articles%0a
+host:1144194844=144.167.104.254
+author:1140282401=BenWilson
+csum:1140282401=
+diff:1140282401:1139792559:=28c28%0a%3c [[!ImperiumEquipment]] [[!{$ScholarName}Authored]]%0a\ No newline at end of file%0a---%0a> [[!{$Period}Edition]] [[!{$ScholarName}Authored]]%0a\ No newline at end of file%0a
+host:1140282401=70.245.211.7
+author:1139792559=BenWilson
+csum:1139792559=
+diff:1139792559:1118789682:=1d0%0a%3c %3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a
+host:1139792559=69.155.127.118
+author:1118789682=BenWilson
+diff:1118789682:1118788124:=27,28c27,28%0a%3c [[!{$Period}Edition]] %3c [[!{$ScholarName}Authored]] \ No newline at end of file%0a---%0a> [[!]]{$Period}Edition%0a> [[!]]{$ScholarName}Authored%0a\ No newline at end of file%0a
+host:1118789682=144.167.104.139
+author:1118788124=BenWilson
+diff:1118788124:1118788124:=1,28d0%0a%3c (:*toc:)%0a%3c !! Overview%0a%3c %0a%3c With sub-sections, might be helpful to have one overview section to summarize.%0a%3c %0a%3c !! In-Text Heading 1%0a%3c %0a%3c Sample text%0a%3c %0a%3c !! In-Text Heading 2%0a%3c %0a%3c (:comment When text exceeds 200 words, should break into sections, %0a%3c separate by in-text headings. When 3 or more headings, leave the %0a%3c TOC macro in place. :)%0a%3c %0a%3c Sample text%0a%3c %0a%3c !! References%0a%3c # Actual Entry%0a%3c # First Phantom Entry%0a%3c # Second Phantom Entry%0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c ----%0a%3c [[!]]{$Period}Edition%0a%3c [[!]]{$ScholarName}Authored%0a\ No newline at end of file%0a
+host:1118788124=144.167.104.139

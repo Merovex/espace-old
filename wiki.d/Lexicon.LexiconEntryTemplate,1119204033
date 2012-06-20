@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1105821741
+text=! Lexicon Entry Template²²([[LexiconEntryTemplateSource?action=source|For this page w/o comments]])²²Page heading should always be <h1>[=!!=]. In, text-headings should always be <h2> ([=!!=]).²²!! In-text headings.²²Use in-text headings when your entry will span several major categories and likely exceeds the 200 word limit. (Two-hundred fifty words is roughly a typed manuscript page.) When you have more than three such headings, please insert a table of contents macro [=(:*toc:)=] immediately under the main page title.²²!! References²* At least one actual entry²* First Phantom Entry²* Second Phantom Entry²²!! ''optional'' Citing Pages²If you want an automatic link to pages that cite to this page, put a Pagelist macro exactly like this [=(:pagelist group=LexiconGroupName {$Name}:)=].²²----²* Category/{$LexiconName}²* Category/{$scholar_name}Authored²²This section provides category-based linking, optimal for use with a Pagelist macro.
+targets=Lexicon.LexiconEntryTemplateSource
+author=BenWilson
+author:1105821741=BenWilson
+host:1105821741=68.51.35.56
+diff:1105821741:1105821741:=1,23d0²< ! Lexicon Entry Template²< ²< ([[LexiconEntryTemplateSource?action=source|For this page w/o comments]])²< ²< Page heading should always be <h1>[=!!=]. In, text-headings should always be <h2> ([=!!=]).²< ²< !! In-text headings.²< ²< Use in-text headings when your entry will span several major categories and likely exceeds the 200 word limit. (Two-hundred fifty words is roughly a typed manuscript page.) When you have more than three such headings, please insert a table of contents macro [=(:*toc:)=] immediately under the main page title.²< ²< !! References²< * At least one actual entry²< * First Phantom Entry²< * Second Phantom Entry²< ²< !! ''optional'' Citing Pages²< If you want an automatic link to pages that cite to this page, put a Pagelist macro exactly like this [=(:pagelist group=LexiconGroupName {$Name}:)=].²< ²< ----²< * Category/{$LexiconName}²< * Category/{$scholar_name}Authored²< ²< This section provides category-based linking, optimal for use with a Pagelist macro.²\ No newline at end of file²
+name=Lexicon.LexiconEntryTemplate
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

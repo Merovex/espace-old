@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7 (ax)
+author=BenWilson
+csum=
+host=24.166.101.248
+name=Scholar.Scholar
+rev=4
+targets=Scholar.BorisHelfstein
+text=BorisHelfstein%0a(:pagelist group=Scholar:)%0a
+time=1140320260
+author:1140320260=BenWilson
+csum:1140320260=
+diff:1140320260:1104805695:=1d0%0a%3c BorisHelfstein%0a
+host:1140320260=24.166.101.248
+author:1104805695=JohnUghrin
+diff:1104805695:1104802221:=1a2%0a> ChoMinhTelRan%0a\ No newline at end of file%0a
+host:1104805695=63.188.161.100
+author:1104802221=JohnUghrin
+diff:1104802221:1104610708:minor=1,2c1%0a%3c (:pagelist group=Scholar:)%0a%3c ChoMinhTelRan%0a\ No newline at end of file%0a---%0a> (:pagelist group=Scholar:)%0a\ No newline at end of file%0a
+host:1104802221=63.188.161.100
+author:1104610708=BenWilson
+diff:1104610708:1104610708:=1d0%0a%3c (:pagelist group=Scholar:)%0a\ No newline at end of file%0a
+host:1104610708=68.51.35.56

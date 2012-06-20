@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.7) Gecko/20070914 Firefox/2.0.0.7
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1190633447
+host=64.124.158.130
+name=Category.Sidebar
+rev=1
+targets=
+text=This category represents all things related to {$Name}.%0a%0a----
+time=1190633447
+author:1190633447=BenWilson
+csum:1190633447=
+diff:1190633447:1190633447:=1,3d0%0a%3c This category represents all things related to {$Name}.%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1190633447=64.124.158.130

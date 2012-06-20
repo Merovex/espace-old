@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta51 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Gecko/20050716 Firefox/1.0.6
+author=BenWilson
+host=70.249.188.117
+name=PhilosophyAndPsychology.PhilosophyAndPsychology
+rev=3
+targets=PhilosophyAndPsychology.RecentChanges
+text=This is a manually updated list of topics that fit into the '''Philosophy and Psychology''' Category.²²If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.²²----²²(These are all pages in this category. If you find one here that is not above, please correct the list above.²(:pagelist group={$Group}:)²²
+time=1122958105
+author:1122958105=BenWilson
+diff:1122958105:1105931839:=0a1,2²> ! Philosophy and Psychology²> ²
+host:1122958105=70.249.188.117

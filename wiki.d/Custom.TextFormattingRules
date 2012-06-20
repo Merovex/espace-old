@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103047624
+text=In addition to the regular [[PmWiki.TextFormattingRules |Text Formatting Rules]], E-Space has other formatting rules in place.²²----²!! Automatic Formatting²* Fudge is automatically bold and italicized.²* E-Space and variations are automatically bolded and italicized.²* References to older names for the project are automatically converted to the present name.²²!! Twiki-esque Markups²* the Twiki heading markups work (e.g., H2 [=---++=]).²* PmWiki's subscript markup now creates italics (e.g. _italic_ [=_italic_=])²* Twiki bold italics work(e.g. __bold italic__ [=__bold italic__=])²* I've tried to get Twiki bold markup to work, but presently to no avail.²
+targets=PmWiki.TextFormattingRules,PmWiki.PmWiki
+author=BenWilson
+author:1103047624=BenWilson
+host:1103047624=10.1.1.74
+diff:1103047624:1103047624:=1,13d0²< In addition to the regular [[PmWiki.TextFormattingRules |Text Formatting Rules]], E-Space has other formatting rules in place.²< ²< ----²< !! Automatic Formatting²< * Fudge is automatically bold and italicized.²< * E-Space and variations are automatically bolded and italicized.²< * References to older names for the project are automatically converted to the present name.²< ²< !! Twiki-esque Markups²< * the Twiki heading markups work (e.g., H2 [=---++=]).²< * PmWiki's subscript markup now creates italics (e.g. _italic_ [=_italic_=])²< * Twiki bold italics work(e.g. __bold italic__ [=__bold italic__=])²< * I've tried to get Twiki bold markup to work, but presently to no avail.²
+name=Custom.TextFormattingRules
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

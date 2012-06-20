@@ -1,0 +1,26 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1252257734
+host=68.48.114.50
+name=NaturalSciences.SpaceTravel
+rev=4
+targets=NaturalSciences.BraneTheory,Category.NaturalSciences
+text=Discussion of [[Brane Theory]] may be interesting, but it fails to%0aprovide the information needed for day-to-day living. This article%0aexplains the practical application of modern science to space travel.%0a%0a(:*toc:)%0a%0aSubluminal Travel%0a=================%0a%0aLight travels at 300,000 kilometers per second. Science has proven this%0asufficiently constant to be relied upon inside star systems. Stellar%0aunits are typically rated in percentages of light speed, or '''%25C'''.%0aOne-percent of light speed is 3,000 kilometers per second.%0a%0aIntrasteller distances are typically measured by time distance in light:%0alight minutes, light hours, etc. One AU is approximately 150 million%0akilometers, or 0.139 light hours. A unit travelling at 1%25C would take%0a13.9 hours to cover that distance; if it were at full speed. A unit%0astarting at a (relatively) dead start and coming to a full stop would%0atake roughly twice as long (due to acceleration, deceleration), or 2.78%0ahours.%0a%0aBy comparison, it would take a ship at 1%25C travelling from Earth to%0aPluto 54 hours, or 2.25 days.%0a%0aSuperluminal Travel%0a===================%0a%0aTheory for travel in the Soup is [[Brane Theory|already explained]].  In%0athe Soup, stellar distances are between 10 and 5400 paces. Distances%0aare not dependent on Realspace distances, which has caused humanity to%0aredefine the meaning of galaxies. A ship's subluminal rate tends to%0atranslate to Soup travel, where each ``pace" is roughly 1%25C per hour.%0aSo, a unit rated at 3 can cover 2100 paces in 700 hours (29 days). Thus,%0aa unit rated at 1 travelling the maximum distance would take 225 days to%0areach its destination.%0a%0a|| Near || 10--100 paces ||%0a|| Medium || 100--1000 paces ||%0a|| Long || 1200--3000 paces ||%0a|| Distant || 3100--5400 paces ||%0a%0a[[!NaturalSciences]]%0a%0a(:comment This page has been edited using Pywe:)
+time=1253403289
+author:1253403289=BenWilson
+diff:1253403289:1252260884:=30c30%0a%3c the Soup, stellar distances are between 10 and 5400 paces. Distances%0a---%0a> the Soup, stellar distances are between 200 and 5400 paces. Distances%0a37,41d36%0a%3c %0a%3c || Near || 10--100 paces ||%0a%3c || Medium || 100--1000 paces ||%0a%3c || Long || 1200--3000 paces ||%0a%3c || Distant || 3100--5400 paces ||%0a
+host:1253403289=68.48.114.50
+author:1252260884=BenWilson
+diff:1252260884:1252257767:=1,40c1,3%0a%3c Discussion of [[Brane Theory]] may be interesting, but it fails to%0a%3c provide the information needed for day-to-day living. This article%0a%3c explains the practical application of modern science to space travel.%0a%3c %0a%3c (:*toc:)%0a%3c %0a%3c Subluminal Travel%0a%3c =================%0a%3c %0a%3c Light travels at 300,000 kilometers per second. Science has proven this%0a%3c sufficiently constant to be relied upon inside star systems. Stellar%0a%3c units are typically rated in percentages of light speed, or '''%25C'''.%0a%3c One-percent of light speed is 3,000 kilometers per second.%0a%3c %0a%3c Intrasteller distances are typically measured by time distance in light:%0a%3c light minutes, light hours, etc. One AU is approximately 150 million%0a%3c kilometers, or 0.139 light hours. A unit travelling at 1%25C would take%0a%3c 13.9 hours to cover that distance; if it were at full speed. A unit%0a%3c starting at a (relatively) dead start and coming to a full stop would%0a%3c take roughly twice as long (due to acceleration, deceleration), or 2.78%0a%3c hours.%0a%3c %0a%3c By comparison, it would take a ship at 1%25C travelling from Earth to%0a%3c Pluto 54 hours, or 2.25 days.%0a%3c %0a%3c Superluminal Travel%0a%3c ===================%0a%3c %0a%3c Theory for travel in the Soup is [[Brane Theory|already explained]].  In%0a%3c the Soup, stellar distances are between 200 and 5400 paces. Distances%0a%3c are not dependent on Realspace distances, which has caused humanity to%0a%3c redefine the meaning of galaxies. A ship's subluminal rate tends to%0a%3c translate to Soup travel, where each ``pace" is roughly 1%25C per hour.%0a%3c So, a unit rated at 3 can cover 2100 paces in 700 hours (29 days). Thus,%0a%3c a unit rated at 1 travelling the maximum distance would take 225 days to%0a%3c reach its destination.%0a%3c %0a%3c [[!NaturalSciences]]%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a---%0a> test%0a> %0a> [[!NaturalSciences]]%0a\ No newline at end of file%0a
+host:1252260884=68.48.114.50
+author:1252257767=BenWilson
+csum:1252257767=
+diff:1252257767:1252257734:=1,3c1%0a%3c test%0a%3c %0a%3c [[!NaturalSciences]]%0a\ No newline at end of file%0a---%0a> test%0a\ No newline at end of file%0a
+host:1252257767=68.48.114.50
+author:1252257734=BenWilson
+csum:1252257734=
+diff:1252257734:1252257734:=1d0%0a%3c test%0a\ No newline at end of file%0a
+host:1252257734=68.48.114.50

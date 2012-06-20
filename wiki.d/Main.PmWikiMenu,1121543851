@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta47 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.9) Gecko/20050711 Firefox/1.0.5
+author=BenWilson
+host=70.248.67.21
+name=Main.PmWikiMenu
+rev=1
+targets=Main.NotesForContributers,PmWiki.TipsForEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy
+text=* Main/NotesForContributers²* [[PmWiki/Tips For Editing]]²* [[PmWiki/Documentation Index]]²* [[PmWiki/FAQ]]²* [[PmWiki/PmWikiPhilosophy]]
+time=1121542967
+author:1121542967=BenWilson
+diff:1121542967:1121542967:=1,5d0²< * Main/NotesForContributers²< * [[PmWiki/Tips For Editing]]²< * [[PmWiki/Documentation Index]]²< * [[PmWiki/FAQ]]²< * [[PmWiki/PmWikiPhilosophy]]²\ No newline at end of file²
+host:1121542967=70.248.67.21

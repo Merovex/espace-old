@@ -1,0 +1,18 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1226677939
+host=98.218.217.196
+name=AstroEmpires.CalculatingEfficiency
+rev=2
+targets=
+text=What is the best way to calculate a unit's efficiency? There is a simple%0aformula that helps a player calculate the ratio of units needed in an%0aattack:%0a%0a>>formula%3c%3c%0aRatio = (Power'_Attacker_' - Shield'_Defender_') / Armour'_Defender_'%0a>>%3c%3c%0a%0aThis is a clean formula. You have to adjust for the technology level of%0athe attacker and defender, but the result is how many attacking units%0aare necessary to defeat the enemy in one attack. Against base defenses,%0ayou have to remember to multiply by five. You also have to remember to%0ahalve the value of the Shield when dealing with Ions.%0a%0a>>formula%3c%3c%0aBase Defenses on the Attack:%0a%0aRatio = (Power'_Attacker_' - Shield'_Defender_') * 5 / Armour'_Defender_'%0a%0aBase Defenses on the Defense:%0a%0aRatio = (Power'_Attacker_' - Shield'_Defender_') / (Armour'_Defender_' * 5)%0a%0a>>%3c%3c%0a%0aThere is another way to approach this. The formula below shows the%0acost per unit of power delivered against a given target.%0a%0a>>formula%3c%3c%0aCost = Cost'_Attacker_' / (Power'_Attacker_' - Shield'_Defender_') %0a>>%3c%3c%0a%0aAs an example, Let's try a Battleship against a Titan. We will assume%0aall technologies at level 20.%0a%0a>>formula%3c%3c%0aCost = 2000 / (336 - (30/2)) = 6.23 credits%0a>>%3c%3c%0a%0a(:comment This page has been edited using Pywe:)
+time=1226678120
+author:1226678120=BenWilson
+diff:1226678120:1226677939:=30c30%0a%3c Cost = Cost'_Attacker_' / (Power'_Attacker_' - Shield'_Defender_') %0a---%0a> Cost = (Power'_Attacker_' - Shield'_Defender_') / Cost'_Attacker_'%0a33,35c33,34%0a%3c As an example, Let's try a Battleship against a Titan. We will assume%0a%3c all technologies at level 20.%0a%3c %0a---%0a> As an example, Let's try a Battleship against a Titan.%0a> %0a37,38d35%0a%3c Cost = 2000 / (336 - (30/2)) = 6.23 credits%0a%3c >>%3c%3c%0a
+host:1226678120=98.218.217.196
+author:1226677939=BenWilson
+diff:1226677939:1226677939:=1,37d0%0a%3c What is the best way to calculate a unit's efficiency? There is a simple%0a%3c formula that helps a player calculate the ratio of units needed in an%0a%3c attack:%0a%3c %0a%3c >>formula%3c%3c%0a%3c Ratio = (Power'_Attacker_' - Shield'_Defender_') / Armour'_Defender_'%0a%3c >>%3c%3c%0a%3c %0a%3c This is a clean formula. You have to adjust for the technology level of%0a%3c the attacker and defender, but the result is how many attacking units%0a%3c are necessary to defeat the enemy in one attack. Against base defenses,%0a%3c you have to remember to multiply by five. You also have to remember to%0a%3c halve the value of the Shield when dealing with Ions.%0a%3c %0a%3c >>formula%3c%3c%0a%3c Base Defenses on the Attack:%0a%3c %0a%3c Ratio = (Power'_Attacker_' - Shield'_Defender_') * 5 / Armour'_Defender_'%0a%3c %0a%3c Base Defenses on the Defense:%0a%3c %0a%3c Ratio = (Power'_Attacker_' - Shield'_Defender_') / (Armour'_Defender_' * 5)%0a%3c %0a%3c >>%3c%3c%0a%3c %0a%3c There is another way to approach this. The formula below shows the%0a%3c cost per unit of power delivered against a given target.%0a%3c %0a%3c >>formula%3c%3c%0a%3c Cost = (Power'_Attacker_' - Shield'_Defender_') / Cost'_Attacker_'%0a%3c >>%3c%3c%0a%3c %0a%3c As an example, Let's try a Battleship against a Titan.%0a%3c %0a%3c >>formula%3c%3c%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1226677939=98.218.217.196

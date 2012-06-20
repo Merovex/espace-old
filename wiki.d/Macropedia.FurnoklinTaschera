@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.FurnoklinTaschera
+rev=6
+targets=Macropedia.FullyIntegratedCorporation,Macropedia.GahanianSeers,Macropedia.ImperiumEdition,Macropedia.BenitaPerez,Macropedia.MorshFurnoklin,Macropedia.TawmerikDynasty,Category.ImperiumEdition,Category.IsaacTaubAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a'''Furnoklin Taschera''' was one of the last pre-Imperium justices of the Terran Courts. Scholars rank him among both the most contrivertial and most corrupt justices of his day, although much of this is likely Imperial bias. Tashera belonged to a line of lawyer-justices, and briefly served as a commerce attorney. He was first elected to the Terran Assembly where he served on six-year term. He was then appointed as a justice where he remained for nearly 24 years.%0a%0aThe first two-thirds of his tenure passed without incident. As the Emperor consolidated power, however, Taschera found himself more frequently standing in the way. One incident where Taschera acted against the Emperor was his ruling to release BenitaPerez during a rare recess decision.%0a%0aTaschera was pressured out of office under charges of bribery and his blatant alcoholism. As he retired, he was given a life-long acheivement award for justice. He died three years later, presumably of complications due to his alcoholism.%0a%0aFurnoklin Taschera's third cousin, MorshFurnoklin, was an agent for the pre-Imperial TawmerikDynasty.%0a%0a!! References%0a# BenitaPerez%0a# TawmerikDynasty%0a# MorshFurnoklin%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+time=1129667677
+author:1129667677=BenWilson
+diff:1129667677:1113180396:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667677=144.167.105.115

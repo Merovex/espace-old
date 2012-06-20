@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=StarSystems.GroupTemplate
+rev=2
+targets=
+text=(:redirect [[StarSystems.Template]]:)
+time=1119991703
+author:1119991670=BenWilson
+diff:1119991670:1119991670:=1,40d0²< (:toc:)²< ²< !! Overview²< ²< ²< !! Stellar Data²< ²< ²< !! Planets²< ²< * A Planet²< * Another Planet²< ²< !! A Habitable/Significant Planet²< ²< %ddstarsystem²< :Gravity: Good²< :Habitat: Poor²< :Colony: Great²< :Resources: Superb²< ²< Belshane is slightly smaller than Old Terra, but its higher density gives it a gravity slightly higher.  It is rich in metal ores, but, as habitable planets go, it is at the low end.  Despite its proximity to the star and to the brown dwarf primary Kito, it is a cold world, with polar ice caps that cover some 26% of its surface.  Most of its oceans are shallow, and the complex gravitational situation of a brown dwarf, nearby star and several large moons make those oceans unpredictable and dangerous.²< ²< The ecoystem, while carbon-based, is not edible without substantial chemical alteration.  The atmosphere is breathable, but unpleasant for offworlders, who say it has a slightly metallic tang.²< ²< !! History²< ²< !!! Discovery²< ²< !!! Early Colonization²< ²< !!! Epoch²< ²< !!! Epoch²< ²< !! References²< # ²< ²< !! Related Articles²< (:pagelist fmt=simple {$Name}:)²
+host:1119991670=70.248.67.21

@@ -1,0 +1,16 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1327180892
+host=69.140.6.80
+name=EveOnline.PVETankAndDamage
+rev=1
+targets=
+text={|%0a|-%0a!Faction%0a!Armor%0a!Shield%0a!Deal%0a!Drone%0a!Missile%0a|-%0a|Angel Cartel%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Blood Raiders	%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Guristas Pirates%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Mercenaries%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Rogue drones%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Sansha's Nation%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|-%0a|Serpentis%0a|Armor%0a|Shield%0a|Deal%0a|Drone%0a|Missile%0a|}
+time=1327180892
+author:1327180892=BenWilson
+csum:1327180892=
+diff:1327180892:1327180892:=1,58d0%0a%3c {|%0a%3c |-%0a%3c !Faction%0a%3c !Armor%0a%3c !Shield%0a%3c !Deal%0a%3c !Drone%0a%3c !Missile%0a%3c |-%0a%3c |Angel Cartel%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Blood Raiders	%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Guristas Pirates%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Mercenaries%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Rogue drones%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Sansha's Nation%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |-%0a%3c |Serpentis%0a%3c |Armor%0a%3c |Shield%0a%3c |Deal%0a%3c |Drone%0a%3c |Missile%0a%3c |}%0a\ No newline at end of file%0a
+host:1327180892=69.140.6.80

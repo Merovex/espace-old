@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.8) Gecko/20071008 Firefox/2.0.0.8
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1193939048
+host=64.124.158.130
+name=Main.MailingLists
+rev=2
+targets=
+text=:[ [[http://www.phoenyx.net/macrospace/2006/ |Phoenyx Archives]] ]: This is the original provider.%0a%0a:[ [[http://groups.google.com/group/espacesociety|Google Group]] ]: We presently use Google Groups for our discussion list.
+time=1193939101
+author:1193939101=BenWilson
+csum:1193939101=
+diff:1193939101:1193939048:=1,3c1,3%0a%3c :[ [[http://www.phoenyx.net/macrospace/2006/ |Phoenyx Archives]] ]: This is the original provider.%0a%3c %0a%3c :[ [[http://groups.google.com/group/espacesociety|Google Group]] ]: We presently use Google Groups for our discussion list.%0a\ No newline at end of file%0a---%0a> * [[http://www.phoenyx.net/macrospace/2006/ |Phoenyx Archives]]%0a> %0a> * [[http://groups.google.com/group/espacesociety|Google Group]]%0a\ No newline at end of file%0a
+host:1193939101=64.124.158.130
+author:1193939048=BenWilson
+csum:1193939048=
+diff:1193939048:1193939048:=1,3d0%0a%3c * [[http://www.phoenyx.net/macrospace/2006/ |Phoenyx Archives]]%0a%3c %0a%3c * [[http://groups.google.com/group/espacesociety|Google Group]]%0a\ No newline at end of file%0a
+host:1193939048=64.124.158.130

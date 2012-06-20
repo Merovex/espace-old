@@ -1,0 +1,24 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+excerpt=%3cp>This is a manually updated list of topics that fit into the %3cstrong>The Arts%3c/strong> Category.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>If you visit the site often, you might want to check out this category's %3ca class='wikilink' href='http://espace.gmtoolbox.org/TheArts/RecentChanges'>RecentChanges%3c/a>.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3chr />%0a%3cp class='vspace'>%3c/p>%3cp>(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a%3c/p>%0a
+host=70.252.86.42
+name=TheArts.TheArts
+rev=4
+targets=TheArts.RecentChanges
+text=This is a manually updated list of topics that fit into the '''The Arts''' Category.%0a%0aIf you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%0a----%0a%0a(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a(:pagelist group={$Group}c fmt=#sitemap:)
+time=1137979452
+author:1137979452=BenWilson
+csum:1137979452=
+diff:1137979452:1137979413:=3,4c3,4%0a%3c If you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%3c %0a---%0a> If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a> %0a8c8%0a%3c (:pagelist group={$Group}c fmt=#sitemap:)%0a\ No newline at end of file%0a---%0a> (:pagelist group={$Group}:)%0a\ No newline at end of file%0a
+host:1137979452=70.252.86.42
+author:1137979413=BenWilson
+csum:1137979413=
+diff:1137979413:1105932054:=0a1,2%0a> ! The Arts%0a> %0a
+host:1137979413=70.252.86.42
+author:1105932054=BenWilson
+diff:1105932054:1105929808:=1,6c1,4%0a%3c ! The Arts%0a%3c %0a%3c This is a manually updated list of topics that fit into the '''The Arts''' Category.%0a%3c %0a%3c If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a%3c %0a---%0a> ! {$Group}%0a> %0a> This is a manually updated list of topics that fit into the '''{$Group}''' Category.%0a> %0a10c8,9%0a%3c (:pagelist group={$Group}:)%0a\ No newline at end of file%0a---%0a> (:pagelist group={$Group}:)%0a> %0a
+host:1105932054=68.51.35.56
+author:1105929808=BenWilson
+diff:1105929808:1105929808:=1,9d0%0a%3c ! {$Group}%0a%3c %0a%3c This is a manually updated list of topics that fit into the '''{$Group}''' Category.%0a%3c %0a%3c ----%0a%3c %0a%3c (These are all pages in this category. If you find one here that is not above, please correct the list above.%0a%3c (:pagelist group={$Group}:)%0a%3c %0a
+host:1105929808=68.51.35.56

@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta10
+newline=²
+time=1103386285
+text=This page should discuss milestones and other events, not necessarily just E-Space related.²²To add an event, three things should happen:²²# In CurrentEvents.CurrentEvents, you need to "include" the story. We include so it is easier to move events around without a lot of cutting and pasting. To include you just put in this [=(:include CurrentEvents.YYYYMonDD:)=] tag on the page, where YYYY is the year, Mon is the three letter month abbreviation, and DD is the day.²²# In [[CurrentEvents.Past |CurrentEvents.Past]], you need to put a link to the story, in logical order with the other links. The link syntax is [=[[CurrentEvents.YYYYMonDD | your title]]=].²²# You need to edit the story. Once you've created the link on the past events page, then you'll be able to click-through and be put into an editing context.²²That's it!
+targets=CurrentEvents.CurrentEvents,CurrentEvents.Past
+author=BenWilson
+author:1103386243=BenWilson
+host:1103386243=68.51.35.56
+diff:1103386243:1103386243:=1,11d0²< This page should discuss milestones and other events, not necessarily just E-Space related.²< ²< To add an event, three things should happen:²< ²< # In CurrentEvents.CurrentEvents, you need to "include" the story. We include so it is easier to move events around without a lot of cutting and pasting. To include you just put in this [=(:include CurrentEvents.YYYYMonDD:)=] tag on the page, where YYYY is the year, Mon is the three letter month abbreviation, and DD is the day.²< ²< # In CurrentEvents.Past, you need to put a link to the story, in logical order with the other links. The link syntax is [=[[CurrentEvents.YYYYMonDD | your title]]=].²< ²< # You need to edit the story. Once you've created the link on the past events page, then you'll be able to click-through and be put into an editing context.²< ²< That's it!²\ No newline at end of file²
+name=CurrentEvents.CurrentEventsTalk
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1103386285=BenWilson
+host:1103386285=68.51.35.56
+diff:1103386285:1103386243:=7,8c7,8²< # In [[CurrentEvents.Past |CurrentEvents.Past]], you need to put a link to the story, in logical order with the other links. The link syntax is [=[[CurrentEvents.YYYYMonDD | your title]]=].²< ²---²> # In CurrentEvents.Past, you need to put a link to the story, in logical order with the other links. The link syntax is [=[[CurrentEvents.YYYYMonDD | your title]]=].²> ²

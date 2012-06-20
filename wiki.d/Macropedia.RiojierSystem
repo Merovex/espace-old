@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1116619917
+text=System data
+targets=
+author=AaronClausen
+author:1116619917=AaronClausen
+host:1116619917=64.141.6.11
+diff:1116619917:1116619917:=1d0²< System data²\ No newline at end of file²
+name=Macropedia.RiojierSystem
+host=64.141.6.11
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+rev=1

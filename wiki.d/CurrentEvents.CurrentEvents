@@ -1,0 +1,17 @@
+version=pmwiki-2.0.beta44 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=70.248.67.21
+name=CurrentEvents.CurrentEvents
+rev=7
+targets=CurrentEvents.Past,CurrentEvents.CurrentEventsTalk
+text=(:include CurrentEvents.2005Jul11:)²²[[CurrentEvents.Past | Past Events]]²²[[CurrentEvents.CurrentEvents_Talk |Instructions]] on how to add an event.
+time=1121136766
+author:1121136766=BenWilson
+diff:1121136766:1121136719:=2a3,4²> (:include CurrentEvents.2004Dec17:)²> ²
+host:1121136766=70.248.67.21
+author:1121136719=BenWilson
+csum:1121136719=added event
+diff:1121136719:1103386369:=1,2d0²< (:include CurrentEvents.2005Jul11:)²< ²
+host:1121136719=70.248.67.21

@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.3) Gecko/20070309 Firefox/2.0.0.3
+author=BenWilson
+csum=
+host=64.124.158.130
+name=Main.Bookmarks
+rev=9
+targets=
+text=!! Astronomy, Astrogation & World Building%0a* [[http://www.solstation.com/stars.htm |Star Chart out to 150 light years]]%0a* [[http://www32.brinkster.com/snefru/space/srcalc/srcalc.htm |Special Relativity Calculator]]%0a* [[http://www.exoplaneten.de/sirius/english.html |Sirius System]]%0a* [[http://test.alberni.net/taocow/files/planet_generation.txt|A very good planet generation system]]%0a* [[http://www.sfwa.org/writing/worldbuilding1.htm| "Fantasy" Worldbuilding Questions]]%0a* [[Extreme life ->http://www.astrobiology.com/extreme.html]]%0a* [[Destroying the Earth-> http://qntm.org/destroy]]%0a%0a!! Propulsion%0a* [[http://en.wikipedia.org/wiki/Mini-magnetospheric_plasma_propulsion | Magneto-spheric Plasma Propultion]]%0a%0a!! Science%0a* [[http://www.physics.mcgill.ca/~cliff/ |Something on String/Brane Theory]]%0a* [[http://www.mkaku.org/books/hyperspace/ |Book on Hyperspace w/ free 1st chapter]]%0a%0a!! Science Fiction%0a* [[http://en.wikipedia.org/wiki/Category:Science_fiction|Wikipedia Category on Sci-Fi]]%0a%0aSizes of Oil Tankers (Terran circa 21C)%0a* Panamax 60,000 DWT%0a* Aframax 100,000 DWT%0a* Suezmax 150,000 DWT%0a* VLCC 280,000 DWT%0a* ULCC 410,000 DWT%0a* Jahre Viking, largest ship in the world: 564,000 DWT 1504 ft. long
+time=1175865871
+author:1175865871=BenWilson
+csum:1175865871=
+diff:1175865871:1127578333:=8,9c8%0a%3c * [[Destroying the Earth-> http://qntm.org/destroy]]%0a%3c %0a---%0a> %0a
+host:1175865871=64.124.158.130
+author:1127578333=BenWilson
+diff:1127578333:1111878401:=7,8c7%0a%3c * [[Extreme life ->http://www.astrobiology.com/extreme.html]]%0a%3c %0a---%0a> %0a
+host:1127578333=144.167.105.33

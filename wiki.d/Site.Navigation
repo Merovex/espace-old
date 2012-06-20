@@ -1,0 +1,25 @@
+version=pmwiki-2.2.0-beta62 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.4) Gecko/20061201 Firefox/2.0.0.4 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1174781112
+host=69.243.109.103
+name=Site.Navigation
+rev=4
+targets=Main.Main,Main.About,Main.FudgeDisclaimer,Site.SiteMap
+text=* [[Main.Main|Home]]%0a* [[Main/About|About Us]]%0a* [[Main.FudgeDisclaimer |About Fudge]]%0a* [[Site.SiteMap         |Sitemap]]
+time=1185642066
+author:1185642066=BenWilson
+csum:1185642066=
+diff:1185642066:1174781883:=2,4c2,4%0a%3c * [[Main/About|About Us]]%0a%3c * [[Main.FudgeDisclaimer |About Fudge]]%0a%3c * [[Site.SiteMap         |Sitemap]]%0a\ No newline at end of file%0a---%0a> * [[Macropedia/Macropedia]]%0a> * [[Milieu/Milieu]]%0a> * [[Main/About|About Us]]%0a\ No newline at end of file%0a
+host:1185642066=69.243.109.103
+author:1174781883=BenWilson
+diff:1174781883:1174781271:=3d2%0a%3c * [[Milieu/Milieu]]%0a
+host:1174781883=69.243.109.103
+author:1174781271=BenWilson
+diff:1174781271:1174781112:=1d0%0a%3c * [[Main.Main|Home]]%0a
+host:1174781271=69.243.109.103
+author:1174781112=BenWilson
+diff:1174781112:1174781112:=1,2d0%0a%3c * [[Macropedia/Macropedia]]%0a%3c * [[Main/About|About Us]]%0a\ No newline at end of file%0a
+host:1174781112=69.243.109.103

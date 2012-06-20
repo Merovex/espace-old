@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.FrontierScoutFleet
+rev=4
+targets=Macropedia.FrontierRebellion,Macropedia.FteigarAlloys,Macropedia.ImperiumEdition,Chronology.FirstDecline,Chronology.FirstExpanse,Macropedia.DurinBonish,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aAn important component of the early Imperium's success was the exploration and, more importantly, re-exploration of space.  Many star systems had, during the [[Chronology/FirstDecline|First Decline]] been isolated and forgotten.  Initial surveys using [[Chronology/FirstExpanse|First Expanse]] records proved futile, as the records were often of a fragmentary nature.  Thus the Frontier Scout Fleet was born, it's original mission to visit all stars with known or suspected habitable planets.%0a%0aDespite the obvious Imperialistic goals of the Fleet, it proved in some cases a life saver for some worlds tottering on the brink of extinction.  Just as often, though, it was met by resistance from those worlds who did not want to be found, or at least wanted to retain their independence.  Thus, it became paradoxically both the most visible representation of the rise from the ashes of the [[Chronology/FirstDecline|First Decline]] and the reclaiming of humanity's right to the stars, and conversely the most obvious arm of an Imperium bent upon enlarging itself irrespective to any local system's wishes or desires.%0a%0aThe Frontier Scout Fleet survived many changes, but towards the end of the Imperium it was raped of its resources by the Emperors, who needed the ships, engineers, technicians and officers elsewhere.  It was finally abolished by DurinBonish.%0a%0a!! References%0a# DurinBonish%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667619
+author:1129667619=BenWilson
+diff:1129667619:1123393139:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667619=144.167.105.115
+author:1123393139=BenWilson
+csum:1123393139=fixed title
+diff:1123393139:1106595119:=0a1,2%0a> ! Frontier Scout Fleet%0a> %0a
+host:1123393139=70.249.188.117

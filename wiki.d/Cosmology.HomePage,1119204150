@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=68.51.35.56
+name=Cosmology.HomePage
+rev=6
+targets=Cosmology.BraneTheory,Cosmology.BraneHopping,Cosmology.MagneticMonopoles
+text=(:redirect [[Cosmology.Cosmology]]:)
+time=1119204139
+author:1104446173=BenWilson
+diff:1104446173:1103063154:=3,5c3,7²< '''Cosmology''' is the study of the large-scale structure and history of E-Space. For our purposes, this section discusses the various scientific assumptions we chose to help validate our setting. Most of this deals with superluminal, faster-than-light, travel as our present understanding of physics would seem to deny us this feat.²< ²< We chose an understanding of the BraneTheory as a plausible way of explaining how superluminal travel was possible. From that, we discuss BraneHopping, which translates Brane Theory into action. Finally, MagneticMonopoles are the material that makes superluminal travel work.²\ No newline at end of file²---²> BraneTheory²> ²> BraneHopping²> ²> MagneticMonopoles²\ No newline at end of file²
+host:1104446173=68.51.35.56

@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BenWilson
+csum=Initially Written
+ctime=1142185065
+host=70.249.188.200
+name=Macropedia.ImprintedPersonality
+rev=1
+targets=Macropedia.ImperiumEquipmentIndex,Macropedia.FADAP,Macropedia.Ether,Category.ImperiumEquipment,Category.IsaacTaubAuthored,Category.ComputerEquipment
+text=%3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a(:*toc:)%0a%0aWith the profligation of [[FADAP]]s, one of the greater concerns among security experts is the development of computer applications that are harder to detect. '''Imprinted Personality''' AIs (nicknamed "IMPs") are bits of software that are virtually identical to human interaction. It has been said that some IMPs will watch an individual's [[Ether]] activity, then adapt to his pattern. %0a%0aThis unique IMP-ish behavior has caused deep concern for security specialists as it makes it harder for them to diagnose and target against FADAP activity. Many Terran Rights activists claim that many well-known programmers have been falsely imprisoned because an IMP copied their signature behaviors, then applied that behavior to attack key Imperial systems. Naturally, the Imperial government is statisfied that a cracker has been imprisoned.%0a%0aIt is widely believed that the Feldar Incident was the result of an IMP hacking into a system Soup-AI Hopputer and misprogramming it.%0a%0a!! References%0a# [[FADAP]]%0a# [[Ether]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEquipment]] [[!IsaacTaubAuthored]] [[!ComputerEquipment]]
+time=1142185065
+author:1142185065=BenWilson
+csum:1142185065=Initially Written
+diff:1142185065:1142185065:=1,18d0%0a%3c %3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a%3c (:*toc:)%0a%3c %0a%3c With the profligation of [[FADAP]]s, one of the greater concerns among security experts is the development of computer applications that are harder to detect. '''Imprinted Personality''' AIs (nicknamed "IMPs") are bits of software that are virtually identical to human interaction. It has been said that some IMPs will watch an individual's [[Ether]] activity, then adapt to his pattern. %0a%3c %0a%3c This unique IMP-ish behavior has caused deep concern for security specialists as it makes it harder for them to diagnose and target against FADAP activity. Many Terran Rights activists claim that many well-known programmers have been falsely imprisoned because an IMP copied their signature behaviors, then applied that behavior to attack key Imperial systems. Naturally, the Imperial government is statisfied that a cracker has been imprisoned.%0a%3c %0a%3c It is widely believed that the Feldar Incident was the result of an IMP hacking into a system Soup-AI Hopputer and misprogramming it.%0a%3c %0a%3c !! References%0a%3c # [[FADAP]]%0a%3c # [[Ether]]%0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c %0a%3c [[!ImperiumEquipment]] [[!IsaacTaubAuthored]] [[!ComputerEquipment]]%0a\ No newline at end of file%0a
+host:1142185065=70.249.188.200

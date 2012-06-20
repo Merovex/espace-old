@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7 (ax)
+author=BenWilson
+csum=
+ctime=1140325220
+host=24.166.101.248
+name=Category.CombatEquipment
+rev=1
+targets=Category.CombatEquipment
+text=This category represents all things related to {$Name}.%0a%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a----
+time=1140325220
+author:1140325220=BenWilson
+csum:1140325220=
+diff:1140325220:1140325220:=1,7d0%0a%3c This category represents all things related to {$Name}.%0a%3c %0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c ----%0a\ No newline at end of file%0a
+host:1140325220=24.166.101.248

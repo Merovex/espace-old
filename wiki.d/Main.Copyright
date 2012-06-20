@@ -1,0 +1,53 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060601 Firefox/2.0.0.2 (Ubuntu-edgy)
+author=BenWilson
+csum=
+ctime=1136162704
+host=69.243.109.103
+name=Site.Copyright
+rev=13
+targets=Site.ExpandedCopyright,Site.FudgeCopyright,Site.Copyright
+text=>>copyright%3c%3c%0a%25noprint%25 This site is [[http://validator.w3.org/check?uri=referer|XHTML]] and %0a[[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid. [[%3c%3c]]%0a%25center%25[[(Site.Expanded)Copyright]] &copy; 2004-2006 The E-Space Society[[%3c%3c]]%0a%25center%25[[(Site.)Fudge copyright]] &copy; Grey Ghost Games (GGG). %0a%0a(:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]
+time=1174925787
+author:1174925787=BenWilson
+csum:1174925787=
+diff:1174925787:1174925741:=2,3d1%0a%3c %25noprint%25 This site is [[http://validator.w3.org/check?uri=referer|XHTML]] and %0a%3c [[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid. [[%3c%3c]]%0a6,7c4,7%0a%3c %0a%3c (:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a\ No newline at end of file%0a---%0a> %25noprint%25 &middot; [[http://validator.w3.org/check?uri=referer|XHTML]] and %0a> [[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid. [[%3c%3c]]%0a> %0a> (:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a
+host:1174925787=69.243.109.103
+author:1174925741=BenWilson
+csum:1174925741=
+diff:1174925741:1174925705:=3c3,4%0a%3c %25center%25[[(Site.)Fudge copyright]] &copy; Grey Ghost Games (GGG). %0a---%0a> %25center%25[[(Site.)Fudge copyright]] &copy; Grey Ghost Games (GGG).[[%3c%3c]](:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a> %0a5,7c6%0a%3c [[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid. [[%3c%3c]]%0a%3c %0a%3c (:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a---%0a> [[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid.%0a
+host:1174925741=69.243.109.103
+author:1174925705=BenWilson
+csum:1174925705=
+diff:1174925705:1136165470:=4,6d3%0a%3c %0a%3c %25noprint%25 &middot; [[http://validator.w3.org/check?uri=referer|XHTML]] and %0a%3c [[http://jigsaw.w3.org/css-validator/check/referer|CSS]] valid.%0a
+host:1174925705=69.243.109.103
+author:1136165470=BenWilson
+diff:1136165470:1136165463:=1a2%0a> %0a
+host:1136165470=69.155.125.173
+author:1136165463=BenWilson
+diff:1136165463:1136164844:=3c3%0a%3c %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-2006 The E-Space Society[[%3c%3c]]%0a---%0a> %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]%0a
+host:1136165463=69.155.125.173
+author:1136164844=BenWilson
+diff:1136164844:1136164806:=3c3,4%0a%3c %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]%0a---%0a> %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society%0a> %0a
+host:1136164844=69.155.125.173
+author:1136164806=BenWilson
+diff:1136164806:1136164594:=3,4c3,7%0a%3c %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society%0a%3c %0a---%0a> %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]Individual contributions to E-Space are a contribution to a collective work%0a> and remain the property of the respective author and are used here with the%0a> author's permission. Contribution of a work does not expressly transfer%0a> ownership from the author of the individual article.%0a> %0a
+host:1136164806=69.155.125.173
+author:1136164594=BenWilson
+diff:1136164594:1136164289:=3c3%0a%3c %25center%25[[(Site.Expanded)Copyright]] &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]Individual contributions to E-Space are a contribution to a collective work%0a---%0a> %25center%25Copyright &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]Individual contributions to E-Space are a contribution to a collective work%0a
+host:1136164594=69.155.125.173
+author:1136164289=BenWilson
+diff:1136164289:1136162858:=2,3c2,4%0a%3c %0a%3c %25center%25Copyright &copy; 2004-{$Year} The E-Space Society[[%3c%3c]]Individual contributions to E-Space are a contribution to a collective work%0a---%0a> Copyright &copy; 2004-{$Year} The E-Space Society%0a> %0a> Individual contributions to E Space are a contribution to a collective work%0a8c9%0a%3c %25center%25[[(Site.)Fudge copyright]] &copy; Grey Ghost Games (GGG).[[%3c%3c]](:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a---%0a> Fudge copyright &copy; Grey Ghost Games (GGG).[[%3c%3c]](:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a
+host:1136164289=69.155.125.173
+author:1136162858=BenWilson
+diff:1136162858:1136162841:=1d0%0a%3c >>copyright%3c%3c%0a
+host:1136162858=69.155.125.173
+author:1136162841=BenWilson
+diff:1136162841:1136162717:=1,2c1%0a%3c Copyright &copy; 2004-{$Year} The E-Space Society%0a%3c %0a---%0a> Copyright &copy; 2004-{$Year} The E-Space Society%3cbr />%0a6,8c5,6%0a%3c ownership from the author of the individual article.%0a%3c %0a%3c Fudge copyright &copy; Grey Ghost Games (GGG).[[%3c%3c]](:if auth admin:)[[Site.Copyright?action=edit|edit copyright]]%0a---%0a> ownership from the author of the individual article.%3cbr />%3cbr />%0a> Fudge copyright &copy; Grey Ghost Games (GGG).%0a
+host:1136162841=69.155.125.173
+author:1136162717=BenWilson
+diff:1136162717:1136162704:=1c1%0a%3c Copyright &copy; 2004-{$Year} The E-Space Society%3cbr />%0a---%0a> [[(Site.)Copyright &copy; 2004-{$Year} The E-Space Society%3cbr />%0a
+host:1136162717=69.155.125.173
+author:1136162704=BenWilson
+diff:1136162704:1136162704:=1,6d0%0a%3c [[(Site.)Copyright &copy; 2004-{$Year} The E-Space Society%3cbr />%0a%3c Individual contributions to E Space are a contribution to a collective work%0a%3c and remain the property of the respective author and are used here with the%0a%3c author's permission. Contribution of a work does not expressly transfer%0a%3c ownership from the author of the individual article.%3cbr />%3cbr />%0a%3c Fudge copyright &copy; Grey Ghost Games (GGG).%0a
+host:1136162704=69.155.125.173

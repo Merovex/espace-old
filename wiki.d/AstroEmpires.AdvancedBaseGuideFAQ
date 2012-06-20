@@ -1,0 +1,25 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-us) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1226787646
+host=68.33.222.116
+name=AstroEmpires.AdvancedBaseGuideFAQ
+rev=4
+targets=AstroEmpires.AdvancedBaseGuide,AstroEmpires.ProductionStructures
+text=This is an FAQ for the [[Advanced Base Guide]]. The goal of that guide%0ais to offer novice players a bit of experienced wisdom. It also%0achallenges more experienced players who have not given optimal base%0adesign serious thought. This FAQ page tries to address some lingering%0aquestions to that guide that falls outside its scope.%0a%0a(:toc:)%0a%0aQ: Why does the Research Column mention a reduced number of Spaceports?%0a%0aFree players are limited in the number of Terraforms. The Research Labs%0aincrease the total number of spaces needed by 29 when the Fusion Plants%0aand Urban structures are built. This puts an Arid astro with five%0aTerraforms over its space allocation by five. The two ways to remedy%0athis is to eithe reduce the number of Robotic Factories or Spaceports by%0afive. This saves the need for one Urban and one Plant, totaling seven.%0aThe Production column demonstrates the reduction by Robotic Factories.%0a%0aQ: What about Android Factories? Don't Free players get five of them as well?%0a%0aFree players get five Android Factories, which increase the energy%0ademands by 20. This would require three more Fusion Plants and four more%0aUrban Structures. This is a total space demand increase of 12 spaces for%0aa production/construction improvement of 30. The [[Production Structures]] %0apage shows the baseline construction for a Minimum base of 76, so this%0ais an improvement of fifty percent. However, by researching to%0aCybernetics-10, a free player gains the same improvement without the%0aincreased space demands.%0a%0aQ: What about Orbital Bases?%0a%0a(:comment This page has been edited using Pywe:)
+time=1290699863
+author:1290699863=BenWilson
+csum:1290699863=
+diff:1290699863:1226793222:=19c19,20%0a%3c Q: What about Android Factories? Don't Free players get five of them as well?%0a---%0a> Q: What about Android Factories? Don't Free players get five of them as%0a> well?%0a
+host:1290699863=68.33.222.116
+author:1226793222=BenWilson
+diff:1226793222:1226792097:=1,6c1,2%0a%3c This is an FAQ for the [[Advanced Base Guide]]. The goal of that guide%0a%3c is to offer novice players a bit of experienced wisdom. It also%0a%3c challenges more experienced players who have not given optimal base%0a%3c design serious thought. This FAQ page tries to address some lingering%0a%3c questions to that guide that falls outside its scope.%0a%3c %0a---%0a> This is an FAQ%0a> %0a15,16c11%0a%3c this is to eithe reduce the number of Robotic Factories or Spaceports by%0a%3c five. This saves the need for one Urban and one Plant, totaling seven.%0a---%0a> this is to eithe reduce the number of Robotic Factories or Spaceports.%0a18,31d12%0a%3c %0a%3c Q: What about Android Factories? Don't Free players get five of them as%0a%3c well?%0a%3c %0a%3c Free players get five Android Factories, which increase the energy%0a%3c demands by 20. This would require three more Fusion Plants and four more%0a%3c Urban Structures. This is a total space demand increase of 12 spaces for%0a%3c a production/construction improvement of 30. The [[Production Structures]] %0a%3c page shows the baseline construction for a Minimum base of 76, so this%0a%3c is an improvement of fifty percent. However, by researching to%0a%3c Cybernetics-10, a free player gains the same improvement without the%0a%3c increased space demands.%0a%3c %0a%3c Q: What about Orbital Bases?%0a
+host:1226793222=98.218.217.196
+author:1226792097=BenWilson
+diff:1226792097:1226787646:=7,12c7%0a%3c Free players are limited in the number of Terraforms. The Research Labs%0a%3c increase the total number of spaces needed by 29 when the Fusion Plants%0a%3c and Urban structures are built. This puts an Arid astro with five%0a%3c Terraforms over its space allocation by five. The two ways to remedy%0a%3c this is to eithe reduce the number of Robotic Factories or Spaceports.%0a%3c The Production column demonstrates the reduction by Robotic Factories.%0a---%0a> Because.%0a
+host:1226792097=98.218.217.196
+author:1226787646=BenWilson
+diff:1226787646:1226787646:=1,9d0%0a%3c This is an FAQ%0a%3c %0a%3c (:toc:)%0a%3c %0a%3c Q: Why does the Research Column mention a reduced number of Spaceports?%0a%3c %0a%3c Because.%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1226787646=98.218.217.196

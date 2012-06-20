@@ -1,0 +1,16 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.FemaronFelard
+rev=5
+targets=Macropedia.FasantauriSystem,Macropedia.FractalShielding,Macropedia.ImperiumEdition,Macropedia.JubalFour,Macropedia.NormalizedAnthorph,Macropedia.Anthorph,Macropedia.DurinBonish,Macropedia.ImperialInterregnum,Macropedia.BafiktuyIntelligenceDirective,Macropedia.TawmerikDynasty,Macropedia.HundredBloodyDays,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aAlso known as the Bloody Pretender.%0a%0aFemaron Felard was born to a family of [[NormalizedAnthorph]]s, and from early childhood was raised with a deep hatred of [[Anthorph]]s.  In the years after the death of [[JubalFour|Emperor Jubal IV]] and the ascension of DurinBonish as the first Premiere during the ImperialInterregnum, Femaron’s family had attempted a number of unsuccessful uprisings against the Imperium, and were finally forced to flee beyond the Imperium.%0a%0aFemaron returned to the Imperium under the guise of a wealthy merchant and ingratiated himself with the last, weaker Premiers that succeeded DurinBonish.  He also took under his wing the remnants of the BafiktuyIntelligenceDirective, and brilliantly played all sides against each other, until he finally felt the time right and seized power.  He briefly reigned as a Premiere, mouthing the vows to leave the throne to the Imperial House, all the while preparing for his ultimate goal.%0a%0aIn a bold move, using a cadre of informers, spies and assassins, he murdered hundreds (some say even thousands) of members of noble families and high ranking merchants, and declared himself Emperor through a fictitous genealogy linking him to the TawmerikDynasty.  His hatred of [[Anthorph]]s was made clear as he set about on a series of horrifying purges known as the HundredBloodyDays, murdering Anthorph leaders, jailing sympathizers and placing hundreds of thousands on a number of prison worlds.%0a%0aHis reign of terror became so horrible that finally even those among his associates who shared his anti-Anthorph bigotry could no longer stand by and watch.  On the eve of Famaron signing an Imperial Proclamation ordering the execution of all [[Anthorph]]s in Imperium space, his own guard assassinated him.%0a%0aThe death of the Bloody Pretender Femaron Felard is generally marked as the final collapse of the Imperium.%0a%0a!! References%0a# [[Anthorph]]%0a# BafiktuyIntelligenceDirective%0a# DurinBonish%0a# HundredBloodyDays%0a# ImperialInterregnum%0a# [[JubalFour|Emperor Jubal IV]]%0a# NormalizedAnthorph%0a# TawmerikDynasty%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129667577
+author:1129667577=BenWilson
+diff:1129667577:1123386034:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667577=144.167.105.115
+author:1123386034=BenWilson
+csum:1123386034=fixed title
+diff:1123386034:1106264272:=0a1,2%0a> ! Femaron Felard%0a> %0a
+host:1123386034=70.249.188.117

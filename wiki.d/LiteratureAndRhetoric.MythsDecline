@@ -1,0 +1,14 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+author=BenWilson
+host=68.51.35.56
+name=LiteratureAndRhetoric.MythsDecline
+rev=2
+targets=Macropedia.Lemardians,Scholar.ChangSingh,Macropedia.Kazam-Re,Macropedia.ImperialCoreWorlds
+text=(:title Myths of the Decline:)²²During Scholar/ChangSingh's imprisonment, he finally set about completing one of the tasks that he had set for himself as a youth.  In proper [[Macropedia/Lemardians|Lemardian]] fashion, Scholar/ChangSingh attempted to get to the source of various tall tales.  The work was not completed until the last few years of his life, and not published until after his death.²²A constant theme of this work is that the scattered tribes of humanity, whether in desperate straights on worlds ill-fit to their survival, or on the more Earth-like worlds, was a desire to return to the stars.  Even the most technologically and information degraded societies still remembered, in one form or another, tales of great men in ships navigating the ocean of the sky.²²In some cases Scholar/ChangSingh even discovered that some so-called myths were likely quite firmly rooted in truth.  His investigations into the nefarious [[Macropedia/Kazam-Re|Kazam-re]] paint a picture of warlords seizing control of worlds as the interstellar system crumbled.²²Scholar/ChangSingh also demonstrated how the half-remembered past among the people of the Macropedia/ImperialCoreWorlds lead to a belief that the old pre-Decline Terran system with its Oligarchs, vast corporate and government entanglements were a good model.  Indeed, Scholar/ChangSingh quite clearly believed that the creation of the Imperium was just as much clever men and women matching the public will as any sort of dirty dealings.  People did not want a republic with the trappings of democracy, they wanted the system that they believed had existed before the Decline.
+time=1119205965
+title=Myths of the Decline
+author:1119205965=BenWilson
+diff:1119205965:1109011883:=1,2c1,2²< (:title Myths of the Decline:)²< ²---²> ! Myths of the Decline²> ²
+host:1119205965=68.51.35.56

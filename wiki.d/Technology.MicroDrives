@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103077933
+text=* [[http://en.wikipedia.org/wiki/Spacecraft_propulsion#Systems_without_reaction_mass | Reactionless drives]]²* [[http://en.wikipedia.org/wiki/Nuclear_pulse_propulsion | Nuclear Pulse Propulsion]]²* [[http://en.wikipedia.org/wiki/Mini-magnetospheric_plasma_propulsion |Mini-magnetospheric Plasma Propulsion]]²²* http://en.wikipedia.org/wiki/Specific_impulse
+targets=
+author=BenWilson
+author:1103077933=BenWilson
+host:1103077933=10.1.1.74
+diff:1103077933:1103077933:=1,5d0²< * [[http://en.wikipedia.org/wiki/Spacecraft_propulsion#Systems_without_reaction_mass | Reactionless drives]]²< * [[http://en.wikipedia.org/wiki/Nuclear_pulse_propulsion | Nuclear Pulse Propulsion]]²< * [[http://en.wikipedia.org/wiki/Mini-magnetospheric_plasma_propulsion |Mini-magnetospheric Plasma Propulsion]]²< ²< * http://en.wikipedia.org/wiki/Specific_impulse²\ No newline at end of file²
+name=Technology.MicroDrives
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

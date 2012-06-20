@@ -1,0 +1,48 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-us) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1290620506
+host=68.33.222.116
+name=GalacticLoonies.RivalMap
+rev=9
+targets=
+text=J33%0a=====%0a%0a{|class='wikitable'%0a|-%0a|&nbsp;%0a|0%0a|1%0a|2%0a|3%0a|4%0a|5%0a|6%0a|7%0a|8%0a|9%0a|-%0a|'''0'''%0a|-%0a|'''1'''%0a|-%0a|'''2'''%0a|-%0a|'''3'''%0a|%0a|%0a|%0a|%0a|%0a[RISE]%0a|%0a|%0a[MNT]%0a[ARM]%0a[J33]%0a|-%0a|'''6'''%0a|-%0a|'''6'''%0a|-%0a|'''6'''%0a|}
+time=1290702124
+author:1290702124=BenWilson
+csum:1290702124=
+diff:1290702124:1290702109:=31d30%0a%3c |%0a
+host:1290702124=68.33.222.116
+author:1290702109=BenWilson
+csum:1290702109=
+diff:1290702109:1290620760:=31,40d30%0a%3c |%0a%3c [MNT]%0a%3c [ARM]%0a%3c [J33]%0a%3c |-%0a%3c |'''6'''%0a%3c |-%0a%3c |'''6'''%0a%3c |-%0a%3c |'''6'''%0a
+host:1290702109=68.33.222.116
+author:1290620760=BenWilson
+csum:1290620760=
+diff:1290620760:1290620691:=6d5%0a%3c |&nbsp;%0a18,23d16%0a%3c |'''0'''%0a%3c |-%0a%3c |'''1'''%0a%3c |-%0a%3c |'''2'''%0a%3c |-%0a25d17%0a%3c |%0a
+host:1290620760=68.33.222.116
+author:1290620691=BenWilson
+csum:1290620691=
+diff:1290620691:1290620641:=4c4%0a%3c {|class='wikitable'%0a---%0a> {|border=1%0a
+host:1290620691=68.33.222.116
+author:1290620641=BenWilson
+csum:1290620641=
+diff:1290620641:1290620629:=17a18%0a> |%0a
+host:1290620641=68.33.222.116
+author:1290620629=BenWilson
+csum:1290620629=
+diff:1290620629:1290620605:=22,23c22,23%0a%3c |%0a%3c [RISE]%0a---%0a> |4%0a> [RISE] Jak MancSlayer%0a
+host:1290620629=68.33.222.116
+author:1290620605=BenWilson
+csum:1290620605=
+diff:1290620605:1290620582:=4c4%0a%3c {|border=1%0a---%0a> {|%0a
+host:1290620605=68.33.222.116
+author:1290620582=BenWilson
+csum:1290620582=
+diff:1290620582:1290620506:=23,24c23%0a%3c [RISE] Jak MancSlayer%0a%3c |}%0a\ No newline at end of file%0a---%0a> [RISE] Jak MancSlayer%0a\ No newline at end of file%0a
+host:1290620582=68.33.222.116
+author:1290620506=BenWilson
+csum:1290620506=
+diff:1290620506:1290620506:=1,23d0%0a%3c J33%0a%3c =====%0a%3c %0a%3c {|%0a%3c |-%0a%3c |0%0a%3c |1%0a%3c |2%0a%3c |3%0a%3c |4%0a%3c |5%0a%3c |6%0a%3c |7%0a%3c |8%0a%3c |9%0a%3c |-%0a%3c |'''3'''%0a%3c |%0a%3c |%0a%3c |%0a%3c |%0a%3c |4%0a%3c [RISE] Jak MancSlayer%0a\ No newline at end of file%0a
+host:1290620506=68.33.222.116

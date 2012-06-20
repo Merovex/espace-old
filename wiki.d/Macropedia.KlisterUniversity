@@ -1,0 +1,19 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.KlisterUniversity
+rev=6
+targets=Macropedia.KingTraihLeague,Macropedia.KrezilStockMarketCrash,Macropedia.ImperiumEdition,Macropedia.Anthorph,StarSystems.Ju-majo,Macropedia.TerranRepublic,Macropedia.HundredBloodyDays,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a'''Klister University''' was once one of the most renowned centers of learning in the Imperium, with some of the best genetics laboratories in human space.  Located on the [[Anthorph]] world, [[StarSystems/Ju-majo]], it was founded during the TerranRepublic.  With its specialization in various [[Anthorph]] forms, it quickly became an important institution.%0a%0aIts great library was legendary for the vast amount of data on various life forms, Terran-native and extra-Terran.  Doctors, biologists, pharmaceutical chemists and the like soon swelled the ranks.  A great library filled with generations of research was compiled, surely one of the greatest natural science collections in the history of humanity.%0a%0aTragedy struck, however, during the HundredBloodyDays.  Anti-[[Anthorph]] groups destroyed much of the University, including the Library.  It is a tragedy that is felt to this very day, as the collected knowledge of a millennia of centuries of careful research were snuffed out in a matter of hours, leaving many worlds vulnerable to plagues that might have been easily cured a few decades before.%0a%0aI have heard, though, that the survivors of the disaster, [[Anthorph]] and Normal alike, have been working to rebuild the University and to recover what they can from the ruins of the Library.  Let us hope that they are blessed with success, so that the dark age that encompasses our species is shortened.%0a%0a!! References%0a# [[Anthorph]]s%0a# [[HundredBloodyDays]]%0a# [[StarSystems/Ju-majo]]%0a# [[TerranRepublic]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a(:pagelist group=StarSystems {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129668287
+author:1129668287=BenWilson
+diff:1129668287:1123386113:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129668287=144.167.105.115
+author:1123386113=BenWilson
+diff:1123386113:1123386087:=10,11c10,11%0a%3c # [[Anthorph]]s%0a%3c # [[HundredBloodyDays]]%0a---%0a> # [[Anthorph|Anthorphs]]%0a> # HundredBloodyDays%0a13,14c13,14%0a%3c # [[TerranRepublic]]%0a%3c %0a---%0a> # TerranRepublic%0a> %0a
+host:1123386113=70.249.188.117
+author:1123386087=BenWilson
+csum:1123386087=fixed title
+diff:1123386087:1109966593:=0a1,2%0a> ! Klister University%0a> %0a
+host:1123386087=70.249.188.117

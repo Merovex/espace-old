@@ -1,0 +1,12 @@
+version=pmwiki-2.0.12 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b5) Gecko/20051006 Firefox/1.4.1
+author=BenWilson
+host=69.155.125.173
+name=Macropedia.PhantomEntriesList
+rev=2
+targets=
+text=%0aThese are all the entries that indicate that they are still categorized as phantoms.%0a%0a(:pagelist group=Macropedia fmt=simple [[!PhantomImperiumEdition]]:)%0a
+time=1131404159
+author:1131404159=BenWilson
+diff:1131404159:1117260582:=1c1%0a%3c %0a---%0a> !! Phantom Entries%0a
+host:1131404159=69.155.125.173

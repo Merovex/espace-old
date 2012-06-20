@@ -1,0 +1,16 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1293910524
+host=68.33.222.116
+name=Site.CustomPagelistTemplates
+rev=1
+targets=
+text=----%0a!!fmt=#blogsummary%0a%0aA simple bullet list of page titles.  Use [@order=title@] to have them sorted by title (the default sort is by name).%0a%0a[@%0a[[#blogsummary]]%0a(:div class='entry':)%0a>>span-2%3c%3c%0a(:blogcalendardate {=$BlogCalendarDate}:)%0a>>span-11 last%3c%3c%0a!!! [[{=$FullName}|{=$Titlespaced}]]%0a%0a(:include {=$FullName}#teaser#body:)%0a%0a[[{=$FullName}|Read More...]](:nl:)%0a%25class=discus%25[[{=$FullName}#disqus_thread]]%25%25%0a>>%3c%3c%0a----%0a(:divend:)%0a%0a[[#blogsummaryend]]%0a@]
+time=1293910524
+author:1293910524=BenWilson
+csum:1293910524=
+diff:1293910524:1293910524:=1,23d0%0a%3c ----%0a%3c !!fmt=#blogsummary%0a%3c %0a%3c A simple bullet list of page titles.  Use [@order=title@] to have them sorted by title (the default sort is by name).%0a%3c %0a%3c [@%0a%3c [[#blogsummary]]%0a%3c (:div class='entry':)%0a%3c >>span-2%3c%3c%0a%3c (:blogcalendardate {=$BlogCalendarDate}:)%0a%3c >>span-11 last%3c%3c%0a%3c !!! [[{=$FullName}|{=$Titlespaced}]]%0a%3c %0a%3c (:include {=$FullName}#teaser#body:)%0a%3c %0a%3c [[{=$FullName}|Read More...]](:nl:)%0a%3c %25class=discus%25[[{=$FullName}#disqus_thread]]%25%25%0a%3c >>%3c%3c%0a%3c ----%0a%3c (:divend:)%0a%3c %0a%3c [[#blogsummaryend]]%0a%3c @]%0a\ No newline at end of file%0a
+host:1293910524=68.33.222.116

@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta37 ordered=1
+newline=²
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.6) Gecko/20050524 Firefox/1.0 (Ubuntu package 1.0.2 MFSA2005-44)
+author=JohnUghrin
+host=24.166.101.248
+name=Macropedia.ConspiricyOfAges
+rev=1
+targets=[[!PhantomImperiumEdition]]
+text=²²²²----²²!!! References²²# Article1²²# Article2²²²²!!! Related Articles²²(:pagelist group=Macropedia {$Name}:)²²²²----²²[[!PhantomImperiumEdition]]
+time=1118631211
+author:1118631211=JohnUghrin
+diff:1118631211:1118631211:minor=1,23d0²< ²< ²< ²< ²< ----²< ²< !!! References²< ²< # Article1²< ²< # Article2²< ²< ²< ²< !!! Related Articles²< ²< (:pagelist group=Macropedia {$Name}:)²< ²< ²< ²< ----²< ²< [[!PhantomImperiumEdition]] \ No newline at end of file²
+host:1118631211=24.166.101.248

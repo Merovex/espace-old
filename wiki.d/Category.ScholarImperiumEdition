@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104463001
+text=(:redirect [[Macropedia/ImperiumEdition]]:)
+targets=
+author=BenWilson
+author:1104463001=BenWilson
+host:1104463001=68.51.35.56
+diff:1104463001:1104463001:=1d0²< (:redirect [[Macropedia/ImperiumEdition]]:)²\ No newline at end of file²
+name=Category.ScholarImperiumEdition
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

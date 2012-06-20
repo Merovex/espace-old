@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; pl-PL; rv:1.7.12) Gecko/20050919 Firefox/1.0.7
+author=MateuszCzaplinski
+ctime=1137870190
+excerpt=%3cp>(:redirect %3cspan class='wikiword'>%3ca class='wikilink' href='http://gmtoolbox.org/espace/Macropedia/ArturoSanDegas'>Arturo San Degas%3c/a>%3c/span>:)%0a%3c/p>%0a
+host=83.16.49.165
+name=Macropedia.KingTraih
+rev=1
+targets=Macropedia.ArturoSanDegas
+text=(:redirect ArturoSanDegas:)
+time=1137870190
+author:1137870190=MateuszCzaplinski
+csum:1137870190=redirect to ArturoSanDegas
+diff:1137870190:1137870190:minor=1d0%0a%3c (:redirect ArturoSanDegas:)%0a\ No newline at end of file%0a
+host:1137870190=83.16.49.165

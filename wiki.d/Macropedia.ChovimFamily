@@ -1,0 +1,25 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.ChovimFamily
+rev=6
+targets=Macropedia.CommitteeTenThousandFlowers,Macropedia.ChogiaFaith,Macropedia.ImperiumEdition,StarSystems.ProcyonSystem,Macropedia.FullyIntegratedCorporation,Macropedia.HegemonicEconomicTradeGroup,Macropedia.Imudring,Macropedia.DioEnMashino,Macropedia.TerranRepublic,Macropedia.PerezFamily,Macropedia.ImperialCongress,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Chovim Family was a FullyIntegratedCorporation on [[StarSystems/ProcyonSystem|SouldoglePrime]]. They were, for a time, as politically powerful there as either the Perez or Tawmerik families. However, they combined with several other groups to form the HegemonicEconomicTradeGroup and thereby eventually lost their identity as a seperate entity.%0a%0aAbout the time of the DioEnMashino discovery, the Chovim were involved in a subtle feud with the Perez family. The two families disagreed on several points about the proper relationship of a FIC with other citizens. This feud blossomed during the time of the TerranRepublic as the Chovim sought further special corporate privileges over the common people. This strain was exacerbated by the burgeoning relatioship between the PerezFamily and the [[Imudring]]. The feud is sometimes cited as a contributing factor to the instability of the Republic.%0a%0aAs the Chovim family became dominated by concern with the HETG, they began to lose both political identity and power (at least as distinguishable from the HETG, itself.) During the reign of Lendth Tawmerik, they disappeared entirely, losing their representation in both the [[ImperialCongress|House of Patricians]] and the [[ImperialCongress|Senot]].%0a%0a!! References%0a* FullyIntegratedCorporation%0a* HegemonicEconomicTradeGroup%0a%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129667170
+author:1129667170=BenWilson
+diff:1129667170:1127248719:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667170=144.167.105.115
+author:1127248719=BenWilson
+csum:1127248719=changed category
+diff:1127248719:1123507593:=16c16%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1127248719=144.167.105.33
+author:1123507593=JohnUghrin
+diff:1123507593:1123507530:minor=16c16%0a%3c [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [!PhantomImperiumEdition] [!ChoMinhTelRanAuthored]%0a\ No newline at end of file%0a
+host:1123507593=24.166.101.248
+author:1123507530=JohnUghrin
+diff:1123507530:1123507458:minor=16c16%0a%3c [!PhantomImperiumEdition] [!ChoMinhTelRanAuthored]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition] [!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1123507530=24.166.101.248
+author:1123507458=JohnUghrin
+diff:1123507458:1106954282:=1,11d0%0a%3c The Chovim Family was a FullyIntegratedCorporation on [[StarSystems/ProcyonSystem|SouldoglePrime]]. They were, for a time, as politically powerful there as either the Perez or Tawmerik families. However, they combined with several other groups to form the HegemonicEconomicTradeGroup and thereby eventually lost their identity as a seperate entity.%0a%3c %0a%3c About the time of the DioEnMashino discovery, the Chovim were involved in a subtle feud with the Perez family. The two families disagreed on several points about the proper relationship of a FIC with other citizens. This feud blossomed during the time of the TerranRepublic as the Chovim sought further special corporate privileges over the common people. This strain was exacerbated by the burgeoning relatioship between the PerezFamily and the [[Imudring]]. The feud is sometimes cited as a contributing factor to the instability of the Republic.%0a%3c %0a%3c As the Chovim family became dominated by concern with the HETG, they began to lose both political identity and power (at least as distinguishable from the HETG, itself.) During the reign of Lendth Tawmerik, they disappeared entirely, losing their representation in both the [[ImperialCongress|House of Patricians]] and the [[ImperialCongress|Senot]].%0a%3c %0a%3c !! References%0a%3c * FullyIntegratedCorporation%0a%3c * HegemonicEconomicTradeGroup%0a%3c %0a%3c %0a16c5%0a%3c [[!PhantomImperiumEdition] [!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1123507458=24.166.101.248

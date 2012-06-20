@@ -1,0 +1,31 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104612849
+text=(:redirect [[Macropedia.Macropedia]]:)
+targets=Macropedia.OriginalEdition,Macropedia.ImperiumEdition,Macropedia.SampleEdition,Main.Lexicon
+author=BenWilson
+author:1103267450=BenWilson
+host:1103267450=10.1.1.74
+diff:1103267450:1103267450:=1,22d0²< ! Macropedia Terradoma²< ²< This is the ''Macropedia Terradoma,'' a compendium . . .²< ²< !! Editions²< ²< Throughout its history, there have been several editions of the ''Macropedia Terradoma''²< ²< * Original Edition²< * [[Macropedia.ImperiumEdition |Imperium Edition]]²< * Unification Edition²< * Hegemony Edition²< * Federation Edition²< ²< !! Mechanics²< ²< The idea for the ''Macropedia Terradoma'' was inspired by the [[http://gamegrene.com/wiki/Category:Lexicon Lexicon RPG]]. The premise is that those who contribute do so as a group of scholars, who are very opinionated, egocentric, eccentric, and without fear of peer review.²< ²< * [[Main.Lexicon | Ground Rules]]²< * [[Macropedia.ImperiumEdition |Current Project]]²< ** [[Macropedia.CurrentEvents  |What's going on]]²< ** Other link.²\ No newline at end of file²
+name=Macropedia.HomePage
+host=68.51.35.56
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041231 Firefox/1.0
+rev=8
+author:1103302184=BenWilson
+host:1103302184=10.1.1.74
+diff:1103302184:1103267450:minor=19d18²< * [[Macropedia.SampleEdition| Sample Macropedia Edition]]²
+author:1103331922=BenWilson
+host:1103331922=68.51.35.56
+diff:1103331922:1103302184:minor=23,25c23²< ** Other link.²< ²< (:pagelist group="Macropedia":)²\ No newline at end of file²---²> ** Other link.²\ No newline at end of file²
+author:1103331952=BenWilson
+host:1103331952=68.51.35.56
+diff:1103331952:1103331922:=23c23,25²< ** Other link.²\ No newline at end of file²---²> ** Other link.²> ²> (:pagelist group="Macropedia":)²\ No newline at end of file²
+author:1103601338=BenWilson
+host:1103601338=68.51.35.56
+diff:1103601338:1103331952:=9,10c9,10²< * [[Macropedia/OriginalEdition]]²< * [[Macropedia/ImperiumEdition]]²---²> * Original Edition²> * [[Macropedia.ImperiumEdition |Imperium Edition]]²
+author:1103601502=BenWilson
+host:1103601502=68.51.35.56
+diff:1103601502:1103601338:=17,18c17,18²< The idea for the ''Macropedia Terradoma'' was inspired by the [[http://gamegrene.com/wiki/Category:Lexicon | Lexicon RPG]]. The premise is that those who contribute do so as a group of scholars, who are very opinionated, egocentric, eccentric, and without fear of peer review.²< ²---²> The idea for the ''Macropedia Terradoma'' was inspired by the [[http://gamegrene.com/wiki/Category:Lexicon Lexicon RPG]]. The premise is that those who contribute do so as a group of scholars, who are very opinionated, egocentric, eccentric, and without fear of peer review.²> ²
+author:1103603668=BenWilson
+host:1103603668=68.51.35.56
+diff:1103603668:1103601502:=10c10²< * [[Macropedia/ImperiumEdition]] (Current Project)²---²> * [[Macropedia/ImperiumEdition]]²20c20,23²< * [[Main.Lexicon | Ground Rules]]²\ No newline at end of file²---²> * [[Main.Lexicon | Ground Rules]]²> * [[Macropedia.ImperiumEdition |Current Project]]²> ** [[Macropedia.CurrentEvents  |What's going on]]²> ** Other link.²\ No newline at end of file²

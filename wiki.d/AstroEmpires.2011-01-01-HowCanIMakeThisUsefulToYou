@@ -1,0 +1,24 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1293904006
+host=68.33.222.116
+name=AstroEmpires.2011-01-01-HowCanIMakeThisUsefulToYou
+rev=3
+targets=AstroEmpires.SmallFleetDoctrine,Category.AstroEmpires
+text=(:tags:[[!Astro Empires]]:)%0a'''(:blogarticledate:)'''%0a[[#teaser]]%0aIt is the beginning of yet another year on Everyspace Society. Looking at the%0acontent generated over the past six years, and looking at the traffic we%0areceive now, I chose to post this inaugural article for Astro Empires visitors.%0a%0a[[#body]]%0a%0aFirst, welcome! Espace receives hundreds of visitors each week. You come here%0agenerally to read the [[AstroEmpires/Small Fleet Doctrine]] article, but there%0aare others you view as well. I appreciate the interest, the data was earned%0athrough playing, winning and losing.%0a%0aBut, the articles need to remain fresh and relevant to you. You have questions%0aand needs that exceed the articles written. So, I'm asking for you, via your%0acomments below, for insight to what you seek.%0a%0aNow is January. Toward the end of May and early June, the next server will%0astart. One thing I thought of was a series of discussions preparing players for%0aserver start. What do you think?%0a%0a(:comment This page has been edited using Pywe:)%0a(:title How Can I Make Espace Useful to You?:)
+time=1293985139
+title=How Can I Make Espace Useful to You?
+author:1293985139=BenWilson
+csum:1293985139=
+diff:1293985139:1293984898:=3a4%0a> %0a
+host:1293985139=68.33.222.116
+author:1293984898=BenWilson
+csum:1293984898=
+diff:1293984898:1293904006:=0a1%0a> (:title How Can I Make Espace Useful to You?:)%0a24,25c25%0a%3c (:comment This page has been edited using Pywe:)%0a%3c (:title How Can I Make Espace Useful to You?:)%0a\ No newline at end of file%0a---%0a> (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1293984898=68.33.222.116
+author:1293904006=BenWilson
+diff:1293904006:1293904006:=1,25d0%0a%3c (:title How Can I Make Espace Useful to You?:)%0a%3c (:tags:[[!Astro Empires]]:)%0a%3c '''(:blogarticledate:)'''%0a%3c [[#teaser]]%0a%3c %0a%3c It is the beginning of yet another year on Everyspace Society. Looking at the%0a%3c content generated over the past six years, and looking at the traffic we%0a%3c receive now, I chose to post this inaugural article for Astro Empires visitors.%0a%3c %0a%3c [[#body]]%0a%3c %0a%3c First, welcome! Espace receives hundreds of visitors each week. You come here%0a%3c generally to read the [[AstroEmpires/Small Fleet Doctrine]] article, but there%0a%3c are others you view as well. I appreciate the interest, the data was earned%0a%3c through playing, winning and losing.%0a%3c %0a%3c But, the articles need to remain fresh and relevant to you. You have questions%0a%3c and needs that exceed the articles written. So, I'm asking for you, via your%0a%3c comments below, for insight to what you seek.%0a%3c %0a%3c Now is January. Toward the end of May and early June, the next server will%0a%3c start. One thing I thought of was a series of discussions preparing players for%0a%3c server start. What do you think?%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1293904006=68.33.222.116

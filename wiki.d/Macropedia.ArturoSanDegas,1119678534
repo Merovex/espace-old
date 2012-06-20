@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta17
+newline=²
+time=1107126237
+text=²!! Related Articles²(:pagelist group=Macropedia fmt=simple {$Name}:)²²²[[!PhantomImperiumEdition]] 
+targets=[[!PhantomImperiumEdition]]
+author=JohnUghrin
+author:1107126237=JohnUghrin
+host:1107126237=24.166.101.248
+diff:1107126237:1107126237:=1,6d0²< ²< !! Related Articles²< (:pagelist group=Macropedia {$Name}:)²< ²< ----²< [[!PhantomImperiumEdition]] 
+name=Macropedia.ArturoSanDegas
+host=24.166.101.248
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

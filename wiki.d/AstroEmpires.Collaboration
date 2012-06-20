@@ -1,0 +1,20 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1260845966
+host=68.48.114.50
+name=AstroEmpires.Collaboration
+rev=2
+targets=
+text=Read completely...%0a%0aSteps for using system:%0a%0a1. Install: [[http://espacesociety.org/astrography/javascripts/astrography.user.js|the collaboration thing]]. This is a Grease Monkey script, so you'll want Firefox and to install that as well.%0a2. Ensure you are using the ``Original" skin. [[http://helion.astroempires.com/account.aspx?view=display| Change it here]] to ``AE Original."%0a2. Scan your Home Planet in Helion.%0a3. [[http://espacesociety.org/astrography/sign_up|Sign up]], check your email and confirm.%0a4. Contact in-game to be given access.%0a%0a'''Do not sign up for the following until you have your H server account.''' You'll need to give that ID (e.g. yours on Gamma is G.2977).%0a%0a>>note%3c%3c%0aYou need to use the classic skin to use this script.%0a>>%3c%3c
+time=1261243699
+author:1261243699=BenWilson
+csum:1261243699=
+diff:1261243699:1260845966:=11a12,15%0a> %0a> >>warn%3c%3c%0a> Notice. The URL sent in the email has too many "astrography" in it, so remove one.%0a> >>%3c%3c%0a
+host:1261243699=68.48.114.50
+author:1260845966=BenWilson
+csum:1260845966=
+diff:1260845966:1260845966:=1,19d0%0a%3c Read completely...%0a%3c %0a%3c Steps for using system:%0a%3c %0a%3c 1. Install: [[http://espacesociety.org/astrography/javascripts/astrography.user.js|the collaboration thing]]. This is a Grease Monkey script, so you'll want Firefox and to install that as well.%0a%3c 2. Ensure you are using the ``Original" skin. [[http://helion.astroempires.com/account.aspx?view=display| Change it here]] to ``AE Original."%0a%3c 2. Scan your Home Planet in Helion.%0a%3c 3. [[http://espacesociety.org/astrography/sign_up|Sign up]], check your email and confirm.%0a%3c 4. Contact in-game to be given access.%0a%3c %0a%3c '''Do not sign up for the following until you have your H server account.''' You'll need to give that ID (e.g. yours on Gamma is G.2977).%0a%3c %0a%3c >>warn%3c%3c%0a%3c Notice. The URL sent in the email has too many "astrography" in it, so remove one.%0a%3c >>%3c%3c%0a%3c %0a%3c >>note%3c%3c%0a%3c You need to use the classic skin to use this script.%0a%3c >>%3c%3c%0a\ No newline at end of file%0a
+host:1260845966=68.48.114.50

@@ -1,0 +1,82 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.140.6.80
+name=Site.EditForm
+rev=62
+targets=Site.EditForm
+text=(:noleft:)(:noright:)(:nobanner:)%0a!!$[Editing {$FullName}] %25block class=wikiaction%25%0a(:if e_preview:)%0a!!$[Preview {$FullName}]%0a'''$[Page is unsaved]'''%0a(:div id='preview':)%0a(:e_preview:)%0a(:divend:)%0a----%0a'''$[End of preview -- remember to save]'''\\%0a[[#top | $[Top] ]]%0a(:if:)%0a(:messages:)%0a(:div id='wikiedit':)%0a%0a(:input e_form:)[[#top]]%0a(:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a%0a(:input e_minorcheckbox:)$[This is a minor edit]%0a[[%3c%3c]]%0a$[Title]: (:input e_title:)%0a[[%3c%3c]]%0a$[Summary]: (:input e_changesummary:)\\%0a(:e_guibuttons:)\\%0a(:input e_textarea class=span12:)\\%0a(:input hidden author {$Author}:)%0a(:input end:)%0a(:divend:)%0a(:include $[{$SiteGroup}/EditQuickReference]:)
+time=1321040535
+author:1321040535=BenWilson
+csum:1321040535=
+diff:1321040535:1321040518:=20c20%0a%3c [[%3c%3c]]%0a---%0a> %0a
+host:1321040535=69.140.6.80
+author:1321040518=BenWilson
+csum:1321040518=
+diff:1321040518:1321040467:=22c22%0a%3c [[%3c%3c]]%0a---%0a> %0a
+host:1321040518=69.140.6.80
+author:1321040467=BenWilson
+csum:1321040467=
+diff:1321040467:1320504295:=15c15%0a%3c %0a---%0a> (:noleft:)(:noright:)%0a17,22c17,19%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a%3c %0a%3c (:input e_minorcheckbox:)$[This is a minor edit]%0a%3c %0a%3c $[Title]: (:input e_title:)%0a%3c %0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)\\%0a> (:input e_minorcheckbox:)$[This is a minor edit]\\%0a> (:input e_title:)\\%0a25c22%0a%3c (:input e_textarea class=span12:)\\%0a---%0a> (:input e_textarea:)\\%0a
+host:1321040467=69.140.6.80
+author:1320504295=BenWilson
+csum:1320504295=
+diff:1320504295:1320504248:=1d0%0a%3c (:noleft:)(:noright:)(:nobanner:)%0a26c25%0a%3c (:include $[{$SiteGroup}/EditQuickReference]:)%0a\ No newline at end of file%0a---%0a> (:include $[{$SiteGroup}/EditQuickReference]:)%0a
+host:1320504295=69.140.6.80
+author:1320504248=BenWilson
+csum:1320504248=
+diff:1320504248:1320504229:=14d13%0a%3c (:noleft:)(:noright:)%0a25a25%0a> (:noleft:)(:noright:)%0a\ No newline at end of file%0a
+host:1320504248=69.140.6.80
+author:1320504229=BenWilson
+csum:1320504229=
+diff:1320504229:1319293451:=7c7%0a%3c (:divend:)%0a---%0a> (:divend:)(:noleft:)(:noright:)%0a24,25c24%0a%3c (:include $[{$SiteGroup}/EditQuickReference]:)%0a%3c (:noleft:)(:noright:)%0a\ No newline at end of file%0a---%0a> (:include $[{$SiteGroup}/EditQuickReference]:)%0a\ No newline at end of file%0a
+host:1320504229=69.140.6.80
+author:1319293451=BenWilson
+csum:1319293451=
+diff:1319293451:1269917898:=7c7%0a%3c (:divend:)(:noleft:)(:noright:)%0a---%0a> (:divend:)%0a
+host:1319293451=69.140.6.80
+author:1269917898=BenWilson
+csum:1269917898=
+diff:1269917898:1176941602:=19a20%0a> [[{$Name}?action=editfck|Editer en mode visuel]]\\%0a
+host:1269917898=68.48.114.50
+author:1176941602=BenWilson
+csum:1176941602=
+diff:1176941602:1146618116:=20d19%0a%3c [[{$Name}?action=editfck|Editer en mode visuel]]\\%0a
+host:1176941602=69.243.109.103
+author:1146618116=BenWilson
+csum:1146618116=
+diff:1146618116:1146617620:=1c1%0a%3c !!$[Editing {$FullName}] %25block class=wikiaction%25%0a---%0a> (:noleft:)!!$[Editing {$FullName}] %25block class=wikiaction%25%0a15,17c15%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)\\%0a%3c (:input e_minorcheckbox:)$[This is a minor edit]\\%0a%3c (:input e_title:)\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a19a18%0a> (:input e_title:)\\%0a
+host:1146618116=69.153.116.225
+author:1146617620=BenWilson
+csum:1146617620=
+diff:1146617620:1141144520:=15c15,16%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)%0a> (:input e_minorcheckbox:) $[This is a minor edit]\\%0a18d18%0a%3c (:input e_title:)\\%0a23c23,24%0a%3c (:include $[{$SiteGroup}/EditQuickReference]:)%0a\ No newline at end of file%0a---%0a> (:include $[{$SiteGroup}/EditQuickReference]:)%0a> %0a
+host:1146617620=69.153.116.225
+author:1141144520=BenWilson
+csum:1141144520=
+diff:1141144520:1141144495:=15,16c15%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)%0a%3c (:input e_minorcheckbox:) $[This is a minor edit]\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:)\\ $[This is a minor edit]\\%0a
+host:1141144520=65.68.18.205
+author:1141144495=BenWilson
+csum:1141144495=
+diff:1141144495:1139336284:=15c15%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:)\\ $[This is a minor edit]\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a
+host:1141144495=65.68.18.205
+author:1139336284=BenWilson
+csum:1139336284=
+diff:1139336284:1127578614:=1c1%0a%3c (:noleft:)!!$[Editing {$FullName}] %25block class=wikiaction%25%0a---%0a> (:noleft:)!$[Editing {$FullName}] %25block class=wikiaction%25%0a15c15%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_savedraftbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a
+host:1139336284=65.68.18.205
+author:1127578614=BenWilson
+diff:1127578614:1127313029:=1c1%0a%3c (:noleft:)!$[Editing {$FullName}] %25block class=wikiaction%25%0a---%0a> (:noright:)!$[Editing {$FullName}] %25block class=wikiaction%25%0a
+host:1127578614=144.167.105.33
+author:1127313029=BenWilson
+diff:1127313029:1127312976:=5d4%0a%3c (:div id='preview':)%0a7d5%0a%3c (:divend:)%0a
+host:1127313029=144.167.105.33
+author:1127312976=BenWilson
+diff:1127312976:1127312939:=13c13%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)(:input e_minorcheckbox:) $[This is a minor edit]\\%0a---%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a17c17%0a%3c (:input hidden author {$Author}:)%0a---%0a> $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]\\%0a
+host:1127312976=144.167.105.33
+author:1127312939=BenWilson
+diff:1127312939:1127312870:=1,9c1%0a%3c (:noright:)!$[Editing {$FullName}] %25block class=wikiaction%25%0a%3c (:if e_preview:)%0a%3c !!$[Preview {$FullName}]%0a%3c '''$[Page is unsaved]'''%0a%3c (:e_preview:)%0a%3c ----%0a%3c '''$[End of preview -- remember to save]'''\\%0a%3c [[#top | $[Top] ]]%0a%3c (:if:)%0a---%0a> !$[Editing {$FullName}] %25block class=wikiaction%25%0a21c13,20%0a%3c %0a---%0a> (:if e_preview:)%0a> !!$[Preview {$FullName}]%0a> '''$[Page is unsaved]'''%0a> (:e_preview:)%0a> ----%0a> '''$[End of preview -- remember to save]'''\\%0a> [[#top | $[Top] ]]%0a> (:if:)%0a
+host:1127312939=144.167.105.33
+author:1127312870=BenWilson
+diff:1127312870:1121960597:=4,5c4,5%0a%3c (:input e_form:)[[#top]]%0a%3c (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a---%0a> (:input e_form:)[[#top]](:e_guibuttons:)\\%0a> (:input e_textarea:)\\%0a7,8d6%0a%3c (:e_guibuttons:)\\%0a%3c (:input e_textarea:)\\%0a9a8%0a> (:input e_savebutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a
+host:1127312870=144.167.105.33

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060601 Firefox/2.0.0.2 (Ubuntu-edgy)
+author=BenWilson
+csum=
+host=69.243.109.103
+name=Scholar.IsaacTaub
+rev=12
+targets=Category.ScholarImperiumEdition
+text='''Isaac Taub''' An esteemed technologist and historian. His fantastically researched and written articles include:%0a%0a!! Articles%0a(:pagelist fmt=title Category.IsaacTaub:)%0a%0a!! Incomplete Articles%0a(:pagelist fmt=title group=Macropedia Category.PhantomIsaacTaub:)%0a%0a[[!ScholarImperiumEdition]]
+time=1174868779
+author:1174868779=BenWilson
+csum:1174868779=
+diff:1174868779:1126983119:=4,5c4,5%0a%3c (:pagelist fmt=title Category.IsaacTaub:)%0a%3c %0a---%0a> (:pagelist fmt=simple !IsaacTaub:)%0a> %0a7,8c7,8%0a%3c (:pagelist fmt=title group=Macropedia Category.PhantomIsaacTaub:)%0a%3c %0a---%0a> (:pagelist fmt=simple group=Macropedia !PhantomIsaacTaub:)%0a> %0a
+host:1174868779=69.243.109.103
+author:1126983119=BenWilson
+diff:1126983119:1125760672:=4,5c4,5%0a%3c (:pagelist fmt=simple !IsaacTaub:)%0a%3c %0a---%0a> (:pagelist fmt=simple !IsaacTaubAuthored:)%0a> %0a
+host:1126983119=144.167.105.33
+author:1125760672=BenWilson
+diff:1125760672:1125760643:=7,9c7,10%0a%3c (:pagelist fmt=simple group=Macropedia !PhantomIsaacTaub:)%0a%3c %0a%3c [[!ScholarImperiumEdition]]%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=simple group=Macropedia Category/PhantomIsaacTaub:)%0a> %0a> ----%0a> Category/ScholarImperiumEdition%0a\ No newline at end of file%0a
+host:1125760672=144.167.105.33
+author:1125760643=BenWilson
+diff:1125760643:1118602914:=4,5c4,5%0a%3c (:pagelist fmt=simple !IsaacTaubAuthored:)%0a%3c %0a---%0a> (:pagelist fmt=simple Category/IsaacTaubAuthored:)%0a> %0a
+host:1125760643=144.167.105.33

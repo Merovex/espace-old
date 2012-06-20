@@ -1,0 +1,25 @@
+version=pmwiki-2.0.beta14
+newline=²
+time=1104444682
+text=This is the main page for listing various sciences.²²[[AIComputers|Computers]]--this discusses the history and development of computers in E-space²²MicroDrives--this discusses sub-luminal technology.²²MacroDrives--this discusses super-luminal technology.
+targets=Technology.AIComputers,Technology.MicroDrives,Technology.MacroDrives
+author=BenWilson
+author:1102637821=BenWilson
+host:1102637821=10.1.1.74
+diff:1102637821:1102637821:=1d0²< (:pagelist group=Technology:)²\ No newline at end of file²
+name=Technology.HomePage
+host=68.51.35.56
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=5
+author:1103050948=BenWilson
+host:1103050948=10.1.1.74
+diff:1103050948:1102637821:=1c1²< This is the main page for listing various sciences.²\ No newline at end of file²---²> (:pagelist group=Technology:)²\ No newline at end of file²
+author:1103055863=BenWilson
+host:1103055863=10.1.1.74
+diff:1103055863:1103050948:minor=1,3c1²< This is the main page for listing various sciences.²< ²< AIComputers²\ No newline at end of file²---²> This is the main page for listing various sciences.²\ No newline at end of file²
+author:1103077779=BenWilson
+host:1103077779=10.1.1.74
+diff:1103077779:1103055863:=3,4c3²< AIComputers²< MicroDrives²\ No newline at end of file²---²> AIComputers²\ No newline at end of file²
+author:1104444682=BenWilson
+host:1104444682=68.51.35.56
+diff:1104444682:1103077779:minor=3,7c3,4²< [[AIComputers|Computers]]--this discusses the history and development of computers in E-space²< ²< MicroDrives--this discusses sub-luminal technology.²< ²< MacroDrives--this discusses super-luminal technology.²\ No newline at end of file²---²> AIComputers²> MicroDrives²\ No newline at end of file²

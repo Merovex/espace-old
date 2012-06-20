@@ -1,0 +1,19 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Python-urllib/1.17
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1243787025
+host=68.48.114.50
+name=AstroEmpires.ObjectiveBasedEmpireGuide
+rev=2
+targets=
+text=The Objective-Based Guide to Empire Building offers a player goals to%0ahelp his empire thrive. The guide is topically arranged chronologically.%0aThat is, from the beginning to the end are recommended goals. If you%0aprefer a different goal, feel free to omit them. The table of contents%0aprovides an at-a-glance listing.%0a%0a(:toc:)%0a%0aQuick Economy%0a=============%0a%0aWhen first starting your empire, you will need a few Metal Refineries.%0aThese are the core of your ability to build quickly. After you have%0abuilt a few (two or three), build a Spaceport. Look for local trade%0aopportunities to give yourself an easy three credit boost.%0a%0aCorvette Scouts%0a===============%0a%0aCorvettes are the ideal scout. They are quick enough, and they are%0acombat units. When scouting, you may find neighbors worth tapping for a%0afew extra credits. I prefer one base per region, so reconnaisance is%0acritical.%0a%0a%0a(:title Objective-Based Guide to Empire Building:)%0a%0a(:comment This page has been edited using Pywe:)%0a(:title Objective-Based Guide to Empire Building:)
+time=1243787720
+title=Objective-Based Guide to Empire Building
+author:1243787720=BenWilson
+diff:1243787720:1243787025:=2,25c2%0a%3c help his empire thrive. The guide is topically arranged chronologically.%0a%3c That is, from the beginning to the end are recommended goals. If you%0a%3c prefer a different goal, feel free to omit them. The table of contents%0a%3c provides an at-a-glance listing.%0a%3c %0a%3c (:toc:)%0a%3c %0a%3c Quick Economy%0a%3c =============%0a%3c %0a%3c When first starting your empire, you will need a few Metal Refineries.%0a%3c These are the core of your ability to build quickly. After you have%0a%3c built a few (two or three), build a Spaceport. Look for local trade%0a%3c opportunities to give yourself an easy three credit boost.%0a%3c %0a%3c Corvette Scouts%0a%3c ===============%0a%3c %0a%3c Corvettes are the ideal scout. They are quick enough, and they are%0a%3c combat units. When scouting, you may find neighbors worth tapping for a%0a%3c few extra credits. I prefer one base per region, so reconnaisance is%0a%3c critical.%0a%3c %0a%3c %0a---%0a> help his empire thrive.%0a28,29c5%0a%3c (:comment This page has been edited using Pywe:)%0a%3c (:title Objective-Based Guide to Empire Building:)%0a\ No newline at end of file%0a---%0a> (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1243787720=68.48.114.50
+author:1243787025=BenWilson
+diff:1243787025:1243787025:=1,5d0%0a%3c The Objective-Based Guide to Empire Building offers a player goals to%0a%3c help his empire thrive.%0a%3c (:title Objective-Based Guide to Empire Building:)%0a%3c %0a%3c (:comment This page has been edited using Pywe:)%0a\ No newline at end of file%0a
+host:1243787025=68.48.114.50

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.MysteriesOfTheDiaspora
+rev=6
+targets=Macropedia.MuridianAvengers,Macropedia.MessenFremezulejo,Macropedia.ImperiumEdition,Category.IsaacTaubAuthored,Category.PhantomImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0a%0a!! References%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!IsaacTaubAuthored]] [[!PhantomImperiumEdition]]
+time=1129670417
+author:1129670417=BenWilson
+diff:1129670417:1118602466:=1,5d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a%3c %0a%3c !! References%0a%3c %0a9c4,5%0a%3c [[!IsaacTaubAuthored]] [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a---%0a> %0a> [[!IsaacTaubAuthored]] [[!ImperiumEdition]] [[!PhantomIsaacTaub]]%0a\ No newline at end of file%0a
+host:1129670417=144.167.105.115

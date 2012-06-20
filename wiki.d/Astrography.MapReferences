@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1188598034
+host=69.243.109.103
+name=Astrography.MapReferences
+rev=1
+targets=Category.Geography
+text=In mapping stellar regions, humanity devised a simple reference system based on galaxy and region. As there are many unnamed regions, the common reference method relies on hexadecimal numbers rather than names, although populated human systems are named.%0a%0aGalaxy:Region:System:Orbit%0a%0a%0a[[!Geography]]
+time=1188598034
+author:1188598034=BenWilson
+csum:1188598034=
+diff:1188598034:1188598034:=1,6d0%0a%3c In mapping stellar regions, humanity devised a simple reference system based on galaxy and region. As there are many unnamed regions, the common reference method relies on hexadecimal numbers rather than names, although populated human systems are named.%0a%3c %0a%3c Galaxy:Region:System:Orbit%0a%3c %0a%3c %0a%3c [[!Geography]]%0a\ No newline at end of file%0a
+host:1188598034=69.243.109.103

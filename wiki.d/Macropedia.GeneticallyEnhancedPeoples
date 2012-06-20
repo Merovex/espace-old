@@ -1,0 +1,20 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.GeneticallyEnhancedPeoples
+rev=4
+targets=Macropedia.GalacticLibraryOfLanguageAndCulture,Macropedia.GieliadenSohia,Macropedia.ImperiumEdition,Macropedia.Anthorph,Chronology.FirstExpanse,Macropedia.Imudring,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aGenerally, the term "Genetically Enhanced Peoples" refers specifically to [[Anthorph]]s and other closely related peoples in populated space.  The [[Anthorph]]s are a genetically diverse people that are bound by some similiarities in culture, custom and faith.%0a%0aThere have been other populations of genetically enhanced peoples that are generally not classified as being [[Anthorph]]s.  Many of these are descendants of pre-Anthorph experiments, particularly during the Chronology/FirstExpanse.  There are records of many such experiments from this earliest period of space travel.  So-called Belters that lived in the rocky asteroid belt of the Terran system were said to have had alterations done to make living for extended periods in zero-g environments easier.  The descendants of these Belters still live today, most not having stood on a planetary surface in millennia.%0a%0aThere are rumors that the [[Imudring]] also experimented upon themselves.  The secretive Imudring will refuse to answer such questions, though it is at least a possible explanation as to why incidents of interbreeding between Imudring and other human types is almost unheard of.%0a%0a!! References%0a# [[Anthorph]]s%0a# Chronology/FirstExpanse%0a# [[Imudring]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%25category%25Categories: [[!ImperiumEdition]] | [[!ChangSinghAuthored]]
+time=1129667727
+author:1129667727=BenWilson
+diff:1129667727:1123876349:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667727=144.167.105.115
+author:1123876349=AaronClausen
+csum:1123876349=Added related articles tag
+diff:1123876349:1123876283:minor=12,14d11%0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a
+host:1123876349=64.141.6.11
+author:1123876283=AaronClausen
+csum:1123876283=Completed article
+diff:1123876283:1113062523:=1,12c1,10%0a%3c Generally, the term "Genetically Enhanced Peoples" refers specifically to [[Anthorph]]s and other closely related peoples in populated space.  The [[Anthorph]]s are a genetically diverse people that are bound by some similiarities in culture, custom and faith.%0a%3c %0a%3c There have been other populations of genetically enhanced peoples that are generally not classified as being [[Anthorph]]s.  Many of these are descendants of pre-Anthorph experiments, particularly during the Chronology/FirstExpanse.  There are records of many such experiments from this earliest period of space travel.  So-called Belters that lived in the rocky asteroid belt of the Terran system were said to have had alterations done to make living for extended periods in zero-g environments easier.  The descendants of these Belters still live today, most not having stood on a planetary surface in millennia.%0a%3c %0a%3c There are rumors that the [[Imudring]] also experimented upon themselves.  The secretive Imudring will refuse to answer such questions, though it is at least a possible explanation as to why incidents of interbreeding between Imudring and other human types is almost unheard of.%0a%3c %0a%3c !! References%0a%3c # [[Anthorph]]s%0a%3c # Chronology/FirstExpanse%0a%3c # [[Imudring]]%0a%3c %0a%3c %25category%25Categories: [[!ImperiumEdition]] | [[!ChangSinghAuthored]]%0a\ No newline at end of file%0a---%0a> ----%0a> !!! References%0a> # Article1%0a> # Article2%0a> %0a> !!! Related Articles%0a> (:pagelist group=Macropedia fmt=simple {$Name}:)%0a> %0a> %0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1123876283=64.141.6.11

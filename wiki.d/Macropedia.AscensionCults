@@ -1,0 +1,23 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.AscensionCults
+rev=5
+targets=Macropedia.ArturoSanDegas,Macropedia.Assimilysis,Macropedia.ImperiumEdition,Macropedia.RetriGahani,Macropedia.OdniPlanyeti,Category.ImperiumEdition,Category.IsaacTaubAuthored
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe '''Ascension Cults''' are a series of religious fanatic groups obsessed with escaping our Imperium either physically or metaphysically. Among these are those [[Retri Gahani]] who rose every so often. Typically, these cults were started by an individual with strong charisma who preyed on weak-minded citizens.%0a%0aAlthough this is indicative of most cults, what makes ascension cults stand out is the emphasis on escapism. Some would claim [[Odni Planyeti]] as a fallen Eden to be reclaimed by the faithful. Others would claim that the original inhabitants in Odni Planyeti had ascended, and that those in the cult should do likewise.%0a%0aThose most disturbing were the ascension cults that required the members engage in horrific acts, either of self-mutilation or of mass murder (either of the cult members or non-cult members).%0a%0a!! References%0a# [[Retri Gahani]]%0a# [[Odni Planyeti]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a[[!ImperiumEdition]] [[!IsaacTaubAuthored]]
+time=1129666926
+author:1129666926=BenWilson
+diff:1129666926:1127677667:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129666926=144.167.105.115
+author:1127677667=BenWilson
+csum:1127677667=written
+diff:1127677667:1126622360:=1,6c1%0a%3c The '''Ascension Cults''' are a series of religious fanatic groups obsessed with escaping our Imperium either physically or metaphysically. Among these are those [[Retri Gahani]] who rose every so often. Typically, these cults were started by an individual with strong charisma who preyed on weak-minded citizens.%0a%3c %0a%3c Although this is indicative of most cults, what makes ascension cults stand out is the emphasis on escapism. Some would claim [[Odni Planyeti]] as a fallen Eden to be reclaimed by the faithful. Others would claim that the original inhabitants in Odni Planyeti had ascended, and that those in the cult should do likewise.%0a%3c %0a%3c Those most disturbing were the ascension cults that required the members engage in horrific acts, either of self-mutilation or of mass murder (either of the cult members or non-cult members).%0a%3c %0a---%0a> (:phantom:)%0a8,10c3,5%0a%3c # [[Retri Gahani]]%0a%3c # [[Odni Planyeti]]%0a%3c %0a---%0a> # Article1%0a> # Article2%0a> %0a14c9,10%0a%3c [[!ImperiumEdition]] [[!IsaacTaubAuthored]]%0a\ No newline at end of file%0a---%0a> %0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1127677667=144.167.105.33
+author:1126622360=BenWilson
+diff:1126622360:1123393022:=1c1,2%0a%3c (:phantom:)%0a---%0a> !! Ascension Cults%0a> %0a
+host:1126622360=144.167.105.33
+author:1123393022=BenWilson
+csum:1123393022=fixed formatting
+diff:1123393022:1110856357:=3c3,4%0a%3c !! References%0a---%0a> ----%0a> !!! References%0a7c8%0a%3c !! Related Articles%0a---%0a> !!! Related Articles%0a
+host:1123393022=70.249.188.117

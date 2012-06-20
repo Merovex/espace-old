@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta23 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1139792602
+host=69.155.127.118
+name=Macropedia.ImperiumEditionIndex
+rev=3
+targets=
+text=(:pagelist fmt=#sitemap !ImperiumEdition:)
+time=1139794170
+author:1139794170=BenWilson
+csum:1139794170=
+diff:1139794170:1139794146:=1c1%0a%3c (:pagelist fmt=#sitemap !ImperiumEdition:)%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=#simple !ImperiumEdition:)%0a\ No newline at end of file%0a
+host:1139794170=69.155.127.118
+author:1139794146=BenWilson
+csum:1139794146=
+diff:1139794146:1139792602:=1c1%0a%3c (:pagelist fmt=#simple !ImperiumEdition:)%0a\ No newline at end of file%0a---%0a> (:pagelist fmt=#sitemap !ImperiumEdition:)%0a\ No newline at end of file%0a
+host:1139794146=69.155.127.118
+author:1139792602=BenWilson
+csum:1139792602=
+diff:1139792602:1139792602:=1d0%0a%3c (:pagelist fmt=#sitemap !ImperiumEdition:)%0a\ No newline at end of file%0a
+host:1139792602=69.155.127.118

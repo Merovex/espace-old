@@ -1,0 +1,195 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.231 Safari/534.10
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1174782979
+host=68.33.222.116
+name=Site.LocalTemplates
+rev=46
+targets=Group.Name
+text=(:toc:)%0a----%0a!!fmt=#blogsummary%0a%0aA simple bullet list of page titles.  Use [@order=title@] to have them sorted by title (the default sort is by name).%0a%0a[@%0a[[#blogsummary]]%0a>>span-2%3c%3c%0a(:blogcalendardate {=$BlogCalendarDate}:)%0a>>span-11 last%3c%3c%0a!!! [[{=$FullName}|{=$Titlespaced}]]%0a%0a(:include {=$FullName}#teaser#body:)%0a%0a[[{=$FullName}|Read More...]](:nl:)%0a%25class=discus%25[[{=$FullName}#disqus_thread]]%25%25%0a>>%3c%3c%0a----%0a%0a[[#blogsummaryend]]%0a@]%0a%0a!!! #groupsidebar%0a[@%0a[[#groupsidebar]]%0a(:template each:)%0a(:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}]](:if:)%0a[[#groupsidebarend]]%0a@]%0a%0a!!! #sidebar%0a[@%0a[[#sidebar]]%0a(:template first {=$Group}:)%0a* [[{=$Group}]]%0a(:template each:)%0a(:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}]](:if:)%0a[[#sidebarend]]%0a@]%0a%0a!!! #footmenu%0a[@%0a[[#footmenu]]%0a(:if ! equal {=$Group} {%3c$Group}:)%0a(:div class=menu:)%0a!![[{=$Group}/]]%0a(:if:)%0a* [[{=$Group}/[[{=$Name} | + ]]%0a(:if equal {>$Group}:)%0a(:divend:)%0a(:if:)%0a[[#footmenuend]]%0a@]%0a%0a%0a!!!  #include%0a%0aConcatenate the text of pages in the list. (Note, this can be an expensive operation!)%0a%0a[@%0a[[#include]]%0a(:include {=$FullName} self=0:)%0a%0a[[#includeend]]%0a@]%0a%0a!!! headerinclude%0a%0a[@%0a[[#headerinclude]]%0a!!! {=$Titlespaced}%0a(:include {=$FullName} para=1:)%0a   * Read More about [[{=$FullName}|{=$Titlespaced}]]%0a%0a(:if equal {>$Group}:)%0a(:if:)%0a[[#headerincludeend]]%0a@]%0a%0a!!! #sitemap%0a%0a[[#sitemap]] (:if ! equal {=$Group} {=$Name}:)%0a(:if ! equal {%3c$Group} {=$Group}:)%0a!! {=$Groupspaced} (:if ! equal {=$Group} {=$Name}:)%0a   * [[{=$Group}/{=$Name}|{=$Titlespaced}]]%0a(:if equal {>$Group}:)%0a(:if:)%0a[[#sitemapend]]%0a%0a!!! #chrontrail%0a%0a[@%0a[[#chrontrail]]%0a(:if equal {$FullName} {=$FullName}:)%25p class=trail%25&laquo;[[{%3c$FullName}|+]] | \%0a[[{$Group}]] | [[{>$FullName}|+]]&raquo;%25%25(:if:)%0a[[#chrontrailend]]%0a@]%0a(:title LocalTemplates:)
+time=1292772490
+title=LocalTemplates
+author:1292772490=BenWilson
+csum:1292772490=
+diff:1292772490:1269796574:=2,22c2,4%0a%3c ----%0a%3c !!fmt=#blogsummary%0a%3c %0a%3c A simple bullet list of page titles.  Use [@order=title@] to have them sorted by title (the default sort is by name).%0a%3c %0a%3c [@%0a%3c [[#blogsummary]]%0a%3c >>span-2%3c%3c%0a%3c (:blogcalendardate {=$BlogCalendarDate}:)%0a%3c >>span-11 last%3c%3c%0a%3c !!! [[{=$FullName}|{=$Titlespaced}]]%0a%3c %0a%3c (:include {=$FullName}#teaser#body:)%0a%3c %0a%3c [[{=$FullName}|Read More...]](:nl:)%0a%3c %25class=discus%25[[{=$FullName}#disqus_thread]]%25%25%0a%3c >>%3c%3c%0a%3c ----%0a%3c %0a%3c [[#blogsummaryend]]%0a%3c @]%0a---%0a> %0a> %0a> !!! #groupsidebar%0a
+host:1292772490=68.33.222.116
+author:1269796574=BenWilson
+csum:1269796574=
+diff:1269796574:1269796496:=26c26%0a%3c (:div class=menu:)%0a---%0a> (:div:)%0a
+host:1269796574=68.48.114.50
+author:1269796496=BenWilson
+csum:1269796496=
+diff:1269796496:1269796422:=26,27c26,27%0a%3c (:div:)%0a%3c !![[{=$Group}/]]%0a---%0a> %0a> :[[{=$Group}/]] /:%0a29,32c29%0a%3c * [[{=$Group}/[[{=$Name} | + ]]%0a%3c (:if equal {>$Group}:)%0a%3c (:divend:)%0a%3c (:if:)%0a---%0a> : :[[{=$Group}/[[{=$Name} | + ]]%0a
+host:1269796496=68.48.114.50
+author:1269796422=BenWilson
+csum:1269796422=
+diff:1269796422:1269796282:=24c24%0a%3c [[#footmenu]]%0a---%0a> [[#footmenutitle]]%0a32d31%0a%3c %0a
+host:1269796422=68.48.114.50
+author:1269796282=BenWilson
+csum:1269796282=
+diff:1269796282:1269796159:=24,29c24,31%0a%3c [[#footmenutitle]]%0a%3c (:if ! equal {=$Group} {%3c$Group}:)%0a%3c %0a%3c :[[{=$Group}/]] /:%0a%3c (:if:)%0a%3c : :[[{=$Group}/[[{=$Name} | + ]]%0a---%0a> [[#footmenu]]%0a> (:template first {=$Group}:)%0a> %0a> (:div:)%0a> !![[{=$Group}/]]%0a> (:template each:)%0a> * [[{=$Group}/{=$Name}]]%0a> (:ifend:)%0a
+host:1269796282=68.48.114.50
+author:1269796159=BenWilson
+csum:1269796159=
+diff:1269796159:1269795656:=26d25%0a%3c %0a28c27%0a%3c !![[{=$Group}/]]%0a---%0a> !! [[{=$Group}]]%0a30,31c29,32%0a%3c * [[{=$Group}/{=$Name}]]%0a%3c (:ifend:)%0a---%0a> * [[{=$FullName}|{=$Titlespaced}]]%0a> (:if equal {>$Group}:)%0a> (:divend:)%0a> (:if:)%0a
+host:1269796159=68.48.114.50
+author:1269795656=BenWilson
+csum:1269795656=
+diff:1269795656:1269795489:=29c29%0a%3c * [[{=$FullName}|{=$Titlespaced}]]%0a---%0a> (:if equal {=$Group} {*$Group}:)* [[{=$FullName}|{=$Titlespaced}]]%0a
+host:1269795656=68.48.114.50
+author:1269795489=BenWilson
+csum:1269795489=
+diff:1269795489:1269790689:=20,33d19%0a%3c @]%0a%3c %0a%3c !!! #footmenu%0a%3c [@%0a%3c [[#footmenu]]%0a%3c (:template first {=$Group}:)%0a%3c (:div:)%0a%3c !! [[{=$Group}]]%0a%3c (:template each:)%0a%3c (:if equal {=$Group} {*$Group}:)* [[{=$FullName}|{=$Titlespaced}]]%0a%3c (:if equal {>$Group}:)%0a%3c (:divend:)%0a%3c (:if:)%0a%3c [[#footmenuend]]%0a
+host:1269795489=68.48.114.50
+author:1269790689=BenWilson
+csum:1269790689=
+diff:1269790689:1185668797:=3,10d2%0a%3c %0a%3c !!! #groupsidebar%0a%3c [@%0a%3c [[#groupsidebar]]%0a%3c (:template each:)%0a%3c (:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}]](:if:)%0a%3c [[#groupsidebarend]]%0a%3c @]%0a
+host:1269790689=68.48.114.50
+author:1185668797=BenWilson
+csum:1185668797=
+diff:1185668797:1185668744:=7a8%0a> %0a
+host:1185668797=69.243.109.103
+author:1185668744=BenWilson
+csum:1185668744=
+diff:1185668744:1185638346:=5c5%0a%3c [@%0a---%0a> %0a13d12%0a%3c @]%0a
+host:1185668744=69.243.109.103
+author:1185638346=BenWilson
+csum:1185638346=
+diff:1185638346:1185638322:=11c11%0a%3c (:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}]](:if:)%0a---%0a> (:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}(:if:)%0a
+host:1185638346=69.243.109.103
+author:1185638322=BenWilson
+csum:1185638322=
+diff:1185638322:1185635249:=11c11%0a%3c (:if equal {=$Group} {*$Group}:)** [[{=$FullName}|{=$Titlespaced}(:if:)%0a---%0a> ** [[{=$Group}/{=$Namespaced}]]%0a
+host:1185638322=69.243.109.103
+author:1185635249=BenWilson
+csum:1185635249=
+diff:1185635249:1185635230:=9c9%0a%3c * [[{=$Group}]]%0a---%0a> * [[{=$Group}]] /%0a
+host:1185635249=69.243.109.103
+author:1185635230=BenWilson
+csum:1185635230=
+diff:1185635230:1185635202:=9c9%0a%3c * [[{=$Group}]] /%0a---%0a> #[[{=$Group}]] /%0a11c11,12%0a%3c ** [[{=$Group}/{=$Namespaced}]]%0a---%0a> ##[[{=$Group}/{=$Namespaced}]]%0a> [-{=$:Summary}-]%0a
+host:1185635230=69.243.109.103
+author:1185635202=BenWilson
+csum:1185635202=
+diff:1185635202:1185635108:=6a7%0a> [[#bygroup]]%0a9c10%0a%3c #[[{=$Group}]] /%0a---%0a> :[[{=$Group}/]] /:%0a11,12c12%0a%3c ##[[{=$Group}/{=$Namespaced}]]%0a%3c [-{=$:Summary}-]%0a---%0a> : :[[{=$Group}/{=$Name}]]%0a
+host:1185635202=69.243.109.103
+author:1185635108=BenWilson
+csum:1185635108=
+diff:1185635108:1185634896:=7d6%0a%3c [[#bygroup]]%0a9,12c8,10%0a%3c %0a%3c :[[{=$Group}/]] /:%0a%3c (:template each:)%0a%3c : :[[{=$Group}/{=$Name}]]%0a---%0a> (:template each ! equal {=$Group} {=$Name}:)%0a> ** [[{=$FullName}|+]]%0a> (:if:)%0a
+host:1185635108=69.243.109.103
+author:1185634896=BenWilson
+csum:1185634896=
+diff:1185634896:1185634831:=8c8%0a%3c (:template each ! equal {=$Group} {=$Name}:)%0a---%0a> (:if equal {=$Group} {$=Name}:)%0a
+host:1185634896=69.243.109.103
+author:1185634831=BenWilson
+csum:1185634831=
+diff:1185634831:1185634796:=8c8%0a%3c (:if equal {=$Group} {$=Name}:)%0a---%0a> (:template each:)%0a
+host:1185634831=69.243.109.103
+author:1185634796=BenWilson
+csum:1185634796=
+diff:1185634796:1185634706:=3,12d2%0a%3c %0a%3c !!! #sidebar%0a%3c %0a%3c [[#sidebar]]%0a%3c (:template first {=$Group}:)%0a%3c (:template each:)%0a%3c ** [[{=$FullName}|+]]%0a%3c (:if:)%0a%3c [[#sidebarend]]%0a%3c %0a54a45,54%0a> %0a> !!! #sidebar%0a> %0a> [[#sidebar]]%0a> (:template first {=$Name} {=$Group}:)%0a> * [[{=$FullName}|+]]%0a> (:template each:)%0a> ** [[{=$FullName}|+]]%0a> (:if:)%0a> [[#sidebarend]]%0a
+host:1185634796=69.243.109.103
+author:1185634706=BenWilson
+csum:1185634706=
+diff:1185634706:1185634670:=49c49%0a%3c (:template first {=$Name} {=$Group}:)%0a---%0a> (:template first {=$Name}:)%0a
+host:1185634706=69.243.109.103
+author:1185634670=BenWilson
+csum:1185634670=
+diff:1185634670:1185634621:=49c49%0a%3c (:template first {=$Name}:)%0a---%0a> (:template first {=$Group}:)%0a
+host:1185634670=69.243.109.103
+author:1185634621=BenWilson
+csum:1185634621=
+diff:1185634621:1185634419:=49c49%0a%3c (:template first {=$Group}:)%0a---%0a> (:template first:)%0a
+host:1185634621=69.243.109.103
+author:1185634419=BenWilson
+csum:1185634419=
+diff:1185634419:1185634310:=49,50d48%0a%3c (:template first:)%0a%3c * [[{=$FullName}|+]]%0a52c50,51%0a%3c ** [[{=$FullName}|+]]%0a---%0a> (:if equal {$=Name} {=$Group}:)%0a> * [[{=$FullName}|+]]%0a
+host:1185634419=69.243.109.103
+author:1185634310=BenWilson
+csum:1185634310=
+diff:1185634310:1185634239:=48a49,50%0a> (:template first {=$Group}:)%0a> * {=$Group}%0a50,51c52,53%0a%3c (:if equal {$=Name} {=$Group}:)%0a%3c * [[{=$FullName}|+]]%0a---%0a> (:if !equal {$=Name} {=$Group}:)%0a> ** [[{=$FullName}|+]]%0a
+host:1185634310=69.243.109.103
+author:1185634239=BenWilson
+csum:1185634239=
+diff:1185634239:1185634141:=52d51%0a%3c (:if !equal {$=Name} {=$Group}:)%0a54d52%0a%3c (:if:)%0a
+host:1185634239=69.243.109.103
+author:1185634141=BenWilson
+csum:1185634141=
+diff:1185634141:1185634007:=50c50%0a%3c * {=$Group}%0a---%0a> Group: {=$Group}%0a52c52%0a%3c ** [[{=$FullName}|+]]%0a---%0a> * {=$FullName}%0a
+host:1185634141=69.243.109.103
+author:1185634007=BenWilson
+csum:1185634007=
+diff:1185634007:1182860314:=45,53d44%0a%3c %0a%3c !!! #sidebar%0a%3c %0a%3c [[#sidebar]]%0a%3c (:template first {=$Group}:)%0a%3c Group: {=$Group}%0a%3c (:template each:)%0a%3c * {=$FullName}%0a%3c [[#sidebarend]]%0a
+host:1185634007=69.243.109.103
+author:1182860314=BenWilson
+csum:1182860314=
+diff:1182860314:1182858657:=19c19%0a%3c (:include {=$FullName} para=1:)%0a---%0a> (:include {=$FullName}#from para=1:)%0a
+host:1182860314=64.124.158.130
+author:1182858657=BenWilson
+csum:1182858657=
+diff:1182858657:1182858601:=41c41%0a%3c (:if equal {$FullName} {=$FullName}:)%25p class=trail%25&laquo;[[{%3c$FullName}|+]] | \%0a---%0a> (:if equal {$FullName} {=$FullName}:)%25p class=trail%25%25laquo;[[{%3c$FullName}|+]] | \%0a
+host:1182858657=64.124.158.130
+author:1182858601=BenWilson
+csum:1182858601=
+diff:1182858601:1182858323:=41,42c41,42%0a%3c (:if equal {$FullName} {=$FullName}:)%25p class=trail%25%25laquo;[[{%3c$FullName}|+]] | \%0a%3c [[{$Group}]] | [[{>$FullName}|+]]&raquo;%25%25(:if:)%0a---%0a> (:if equal {$FullName} {=$FullName}:)%25p class=trail%25[[{%3c$FullName}| &laquo; previous ]] | \%0a> [[{$Group}]] | [[{>$FullName}| next &raquo; ]]%25%25(:if:)%0a
+host:1182858601=64.124.158.130
+author:1182858323=BenWilson
+csum:1182858323=
+diff:1182858323:1182858206:=1,4c1,2%0a%3c (:toc:)%0a%3c %0a%3c !!!  #include%0a%3c %0a---%0a> !!! fmt={$FullName}#include%0a> %0a14,15c12,13%0a%3c !!! headerinclude%0a%3c %0a---%0a> !!! fmt={$FullName}#headerinclude%0a> %0a27,28c25,26%0a%3c !!! #sitemap%0a%3c %0a---%0a> !!! fmt={$FullName}#sitemap%0a> %0a37c35%0a%3c !!! #chrontrail%0a---%0a> !!! fmt={$FullName}#chrontrail%0a
+host:1182858323=64.124.158.130
+author:1182858206=BenWilson
+csum:1182858206=
+diff:1182858206:1182858134:=38,40c38,39%0a%3c [[#chrontrail]]%0a%3c (:if equal {$FullName} {=$FullName}:)%25p class=trail%25[[{%3c$FullName}| &laquo; previous ]] | \%0a%3c [[{$Group}]] | [[{>$FullName}| next &raquo; ]]%25%25(:if:)%0a---%0a> [[#chrontrail]]{=$FullName}%0a> (:if equal {$FullName} {=$FullName}:)[[{%3c$FullName}|+]] | [[{$Group}]] | [[{>$FullName}|+]](:if:)%0a
+host:1182858206=64.124.158.130
+author:1182858134=BenWilson
+csum:1182858134=
+diff:1182858134:1182858083:=38c38%0a%3c [[#chrontrail]]{=$FullName}%0a---%0a> [[#chrontrail]]a%0a
+host:1182858134=64.124.158.130
+author:1182858131=BenWilson
+csum:1182858131=
+diff:1182858131:1182858083:=38c38%0a%3c [[#chrontrail]]{=$FullName}%0a---%0a> [[#chrontrail]]a%0a
+host:1182858131=64.124.158.130
+author:1182858083=BenWilson
+csum:1182858083=
+diff:1182858083:1182858033:=38c38%0a%3c [[#chrontrail]]a%0a---%0a> [[#chrontrail]]%0a
+host:1182858083=64.124.158.130
+author:1182858033=BenWilson
+csum:1182858033=
+diff:1182858033:1178455162:=34,41d33%0a%3c %0a%3c !!! fmt={$FullName}#chrontrail%0a%3c %0a%3c [@%0a%3c [[#chrontrail]]%0a%3c (:if equal {$FullName} {=$FullName}:)[[{%3c$FullName}|+]] | [[{$Group}]] | [[{>$FullName}|+]](:if:)%0a%3c [[#chrontrailend]]%0a%3c @]%0a
+host:1182858033=64.124.158.130
+author:1178455162=BenWilson
+csum:1178455162=
+diff:1178455162:1178454832:=30c30%0a%3c    * [[{=$Group}/{=$Name}|{=$Titlespaced}]]%0a---%0a>    * [[{=$Group}/{=$Name}|+]]%0a
+host:1178455162=69.243.109.103
+author:1178454832=BenWilson
+csum:1178454832=
+diff:1178454832:1174871970:=24,33d23%0a%3c %0a%3c !!! fmt={$FullName}#sitemap%0a%3c %0a%3c [[#sitemap]] (:if ! equal {=$Group} {=$Name}:)%0a%3c (:if ! equal {%3c$Group} {=$Group}:)%0a%3c !! {=$Groupspaced} (:if ! equal {=$Group} {=$Name}:)%0a%3c    * [[{=$Group}/{=$Name}|+]]%0a%3c (:if equal {>$Group}:)%0a%3c (:if:)%0a%3c [[#sitemapend]]%0a
+host:1178454832=69.243.109.103
+author:1174871970=BenWilson
+csum:1174871970=
+diff:1174871970:1174871798:=16,19c16,17%0a%3c !!! {=$Titlespaced}%0a%3c (:include {=$FullName}#from para=1:)%0a%3c    * Read More about [[{=$FullName}|{=$Titlespaced}]]%0a%3c %0a---%0a> %25rfloat%25[-more-] [[{=$FullName}|{=$Titlespaced}]]%0a> (:include {=$FullName} para=1:)%0a21a20%0a> %0a
+host:1174871970=69.243.109.103
+author:1174871798=BenWilson
+csum:1174871798=
+diff:1174871798:1174871783:=12,13c12,13%0a%3c !!! fmt={$FullName}#headerinclude%0a%3c %0a---%0a> !!! fmt=#headerinclude%0a> %0a
+host:1174871798=69.243.109.103
+author:1174871783=BenWilson
+csum:1174871783=
+diff:1174871783:1174871767:=1,2c1,2%0a%3c !!! fmt={$FullName}#include%0a%3c %0a---%0a> !!! fmt=$FullName#include%0a> %0a23c23%0a%3c (:title LocalTemplates:)%0a\ No newline at end of file%0a---%0a> (:title {$Title}:)%0a\ No newline at end of file%0a
+host:1174871783=69.243.109.103
+author:1174871767=BenWilson
+csum:1174871767=
+diff:1174871767:1174871743:=1,2c1,2%0a%3c !!! fmt=$FullName#include%0a%3c %0a---%0a> !!! fmt=#include%0a> %0a19,20c19,20%0a%3c (:if:)%0a%3c %0a---%0a> (:title {$Title}:)(:if:)%0a> %0a22,23c22%0a%3c @]%0a%3c (:title {$Title}:)%0a\ No newline at end of file%0a---%0a> @]%0a\ No newline at end of file%0a
+host:1174871767=69.243.109.103
+author:1174871743=BenWilson
+csum:1174871743=
+diff:1174871743:1174783003:=10,21d9%0a%3c @]%0a%3c %0a%3c !!! fmt=#headerinclude%0a%3c %0a%3c [@%0a%3c [[#headerinclude]]%0a%3c %25rfloat%25[-more-] [[{=$FullName}|{=$Titlespaced}]]%0a%3c (:include {=$FullName} para=1:)%0a%3c (:if equal {>$Group}:)%0a%3c (:title {$Title}:)(:if:)%0a%3c %0a%3c [[#headerincludeend]]%0a
+host:1174871743=69.243.109.103
+author:1174783003=
+diff:1174783003:1174782979:=1,2c1,2%0a%3c !!! fmt=#include%0a%3c %0a---%0a> fmt=#include%0a> %0a5d4%0a%3c [@%0a10d8%0a%3c @]%0a\ No newline at end of file%0a
+host:1174783003=69.243.109.103
+author:1174782979=
+diff:1174782979:1174782979:=1,8d0%0a%3c fmt=#include%0a%3c %0a%3c Concatenate the text of pages in the list. (Note, this can be an expensive operation!)%0a%3c %0a%3c [[#include]]%0a%3c (:include {=$FullName} self=0:)%0a%3c %0a%3c [[#includeend]]%0a
+host:1174782979=69.243.109.103

@@ -1,0 +1,15 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=BenWilson
+csum=
+ctime=1140211143
+host=64.141.6.11
+name=StarSystems.TestPage2
+rev=1
+targets=Contributers.BenWilson
+text=[[~BenWilson]] February 17, 2006 at 16:19 CST (GMT -6)
+time=1140211143
+author:1140211143=BenWilson
+csum:1140211143=
+diff:1140211143:1140211143:=1d0%0a%3c [[~BenWilson]] February 17, 2006 at 16:19 CST (GMT -6)%0a\ No newline at end of file%0a
+host:1140211143=64.141.6.11

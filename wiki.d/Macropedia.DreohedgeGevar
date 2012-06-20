@@ -1,0 +1,34 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7 (ax)
+author=BenWilson
+csum=
+host=24.166.101.248
+name=Macropedia.DreohedgeGevar
+rev=8
+targets=Macropedia.DioEnMashino,Macropedia.DurinBonish,Macropedia.ImperiumEditionIndex,NaturalSciences.BraneHopping,Macropedia.KlisterUniversity,Macropedia.LendthTawmerik,Macropedia.ParthasClassVessels,Macropedia.FasantauriSystem,Macropedia.CathianNavy,Macropedia.PopelofProject,Category.ImperiumEdition,Category.ChoMinhTelRanAuthored,Category.TransportationEquipment
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe ''Dreohedge Gevar'' was a special research vessel used by KlisterUniversity to solve many of the Creator's tests regarding [[NaturalSciences/BraneHopping|jump drives]] and other technology. Originally commissioned during the reign of LendthTawmerik, the ''Dreohedge Gevar'' quickly evolved a profusion of both [[NaturalSciences/BraneHopping|brane-hopping]] and slower-than-light modifications. It is the only vessel ever to have clearly recorded a recovery from a hop error. %0a%0aAs incidents and experiments began to collect in the history of the vessel, it developed quite a reputation as a sturdy and "lucky" ship. A heavily modified [[ParthasClassVessels|ParthasClassVessel]] it had several redundant command, computation, and control centers to handle the extra drives and mofications sensibly. When the ship actually managed to recover from a bad hop, its reputation took on legendary proportions.%0a%0aDuring that incident, the ''Gevar'' made a hop from the University to the FasantauriSystem. It failed to properly gain normal space and was only visible in the direction of Fasantauri itself. One of the most famous video recordings in history was shot by a small CathianNavy scout. The recording starts with a fully visible shot from the bow of the ship. Crewmembers are clearly visible in the ports. The scout then executes a roughly circular maneuver over the dorsal side of the ''Gevar'' which becomes increasingly transparent during the process. Almost 7 hours after the incident, the ''Gevar'' hopped again and properly gained space back in its home system. Analysis of the incident later lead to the conclusion that such a recovery was very unlikely to be possible, and only the result of the special circumstances surrounding the ship to begin with.%0a%0aAfter participation in the PopelofProject, the ''Gevar'' has vanished. It has been declared lost, carrying with it a copy of one of the greates stores of knowledge in human history.%0a%0a!! References%0a* KlisterUniversity%0a* ParthasClassVessels%0a* NaturalSciences/BraneHopping%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!Transportation Equipment]]
+time=1140324758
+author:1140324758=BenWilson
+csum:1140324758=
+diff:1140324758:1129667435:=20c20%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]] [[!Transportation Equipment]]%0a\ No newline at end of file%0a---%0a> [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1140324758=24.166.101.248
+author:1129667435=BenWilson
+diff:1129667435:1129344580:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129667435=144.167.105.115
+author:1129344580=JohnUghrin
+csum:1129344580=de-phantomed
+diff:1129344580:1129339778:=18c18%0a%3c [[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1129344580=24.166.101.248
+author:1129339778=JohnUghrin
+diff:1129339778:1129339680:minor=18c18%0a%3c [[!PhantomImperiumEdition]] [[!ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]] [[ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a
+host:1129339778=24.166.101.248
+author:1129339680=JohnUghrin
+diff:1129339680:1129339606:=18c18%0a%3c [[!PhantomImperiumEdition]] [[ChoMinhTelRanAuthored]]%0a\ No newline at end of file%0a---%0a> [[!PhantomImperiumEdition]]%0a\ No newline at end of file%0a
+host:1129339680=24.166.101.248
+author:1129339606=JohnUghrin
+diff:1129339606:1129339533:=0a1%0a> %0a7,8c8,9%0a%3c After participation in the PopelofProject, the ''Gevar'' has vanished. It has been declared lost, carrying with it a copy of one of the greates stores of knowledge in human history.%0a%3c %0a---%0a> %0a> %0a
+host:1129339606=24.166.101.248
+author:1129339533=JohnUghrin
+csum:1129339533=Klister University's research vessel
+diff:1129339533:1112572482:=1,14d0%0a%3c %0a%3c The ''Dreohedge Gevar'' was a special research vessel used by KlisterUniversity to solve many of the Creator's tests regarding [[NaturalSciences/BraneHopping|jump drives]] and other technology. Originally commissioned during the reign of LendthTawmerik, the ''Dreohedge Gevar'' quickly evolved a profusion of both [[NaturalSciences/BraneHopping|brane-hopping]] and slower-than-light modifications. It is the only vessel ever to have clearly recorded a recovery from a hop error. %0a%3c %0a%3c As incidents and experiments began to collect in the history of the vessel, it developed quite a reputation as a sturdy and "lucky" ship. A heavily modified [[ParthasClassVessels|ParthasClassVessel]] it had several redundant command, computation, and control centers to handle the extra drives and mofications sensibly. When the ship actually managed to recover from a bad hop, its reputation took on legendary proportions.%0a%3c %0a%3c During that incident, the ''Gevar'' made a hop from the University to the FasantauriSystem. It failed to properly gain normal space and was only visible in the direction of Fasantauri itself. One of the most famous video recordings in history was shot by a small CathianNavy scout. The recording starts with a fully visible shot from the bow of the ship. Crewmembers are clearly visible in the ports. The scout then executes a roughly circular maneuver over the dorsal side of the ''Gevar'' which becomes increasingly transparent during the process. Almost 7 hours after the incident, the ''Gevar'' hopped again and properly gained space back in its home system. Analysis of the incident later lead to the conclusion that such a recovery was very unlikely to be possible, and only the result of the special circumstances surrounding the ship to begin with.%0a%3c %0a%3c %0a%3c %0a%3c !! References%0a%3c * KlisterUniversity%0a%3c * ParthasClassVessels%0a%3c * NaturalSciences/BraneHopping%0a%3c %0a
+host:1129339533=24.166.101.248

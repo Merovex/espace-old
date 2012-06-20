@@ -1,0 +1,17 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=BenWilson
+excerpt=%3cp>This is a manually updated list of topics that fit into the %3cstrong>Geography and History%3c/strong> Category.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>If you visit the site often, you might want to check out this category's %3ca class='wikilink' href='http://espace.gmtoolbox.org/GeographyAndHistory/RecentChanges'>RecentChanges%3c/a>.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3chr />%0a%3cp class='vspace'>%3c/p>%3cp>(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a%3c/p>%0a%3cp class='vspace'>%3c/p>%3cp>(Systems listed in the Macropedia)%0a%3c/p>%0a
+host=65.68.18.205
+name=GeographyAndHistory.GeographyAndHistory
+rev=10
+targets=GeographyAndHistory.RecentChanges
+text=This is a manually updated list of topics that fit into the '''Geography and History''' Category.%0a%0aIf you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%0a----%0a%0a(These are all pages in this category. If you find one here that is not above, please correct the list above.%0a%0a(:pagelist group={$Group}:)%0a(:pagelist group=StarSystems:)%0a(:pagelist group=Chronology:)%0a%0a(Systems listed in the Macropedia)%0a(:pagelist group=macropedia StarSystems:)
+time=1137414620
+author:1137414620=BenWilson
+csum:1137414620=
+diff:1137414620:1132517249:=8d7%0a%3c %0a14c13%0a%3c (:pagelist group=macropedia StarSystems:)%0a\ No newline at end of file%0a---%0a> (:pagelist group=macropedia StarSystems:) ||%0a\ No newline at end of file%0a
+host:1137414620=65.68.18.205
+author:1132517249=BenWilson
+diff:1132517249:1113179511:=3,4c3,4%0a%3c If you visit the site often, you might want to check out this category's [[{$Group}/RecentChanges]].%0a%3c %0a---%0a> If you visit the site often, you might want to check out this category's {$Group}/RecentChanges.%0a> %0a
+host:1132517249=69.155.125.173

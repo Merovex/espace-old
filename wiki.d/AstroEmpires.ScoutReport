@@ -1,0 +1,16 @@
+version=pmwiki-2.2.0-beta63 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.6) Gecko/20061201 Firefox/2.0.0.6 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1189544633
+host=69.243.109.103
+name=AstroEmpires.ScoutReport
+rev=1
+targets=
+text=(:ae-form-scout-report default='C51':)
+time=1189544633
+author:1189544633=BenWilson
+csum:1189544633=
+diff:1189544633:1189544633:=1d0%0a%3c (:ae-form-scout-report default='C51':)%0a\ No newline at end of file%0a
+host:1189544633=69.243.109.103

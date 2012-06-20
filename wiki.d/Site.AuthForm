@@ -1,0 +1,27 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=68.48.114.50
+name=Site.AuthForm
+rev=15
+targets=
+text=!! Sign In%0a%0a'''$[Password required]'''%0a(:messages:)%0a(:if enabled InvalidLogin:)* $[Name/password not recognized]%0a(:if:)%0a(:input auth_form:)%0a(:if enabled EnableAuthUser:)%0a||$[Name]:||(:input text name=authid:)%0a(:if:)%0a||$[Password]:||(:input password name=authpw:)%0a(:input submit value='OK':)%0a(:input end:)%0a
+time=1259453841
+author:1259453841=BenWilson
+csum:1259453841=
+diff:1259453841:1179445528:=13a14,17%0a> %0a> !! Create New User Account%0a> %0a> (:htpasswdform:)%0a\ No newline at end of file%0a
+host:1259453841=68.48.114.50
+author:1179445528=BenWilson
+csum:1179445528=
+diff:1179445528:1179445483:=1,2d0%0a%3c !! Sign In%0a%3c %0a15,16c13,14%0a%3c !! Create New User Account%0a%3c %0a---%0a> ----%0a> %0a
+host:1179445528=69.243.109.103
+author:1179445483=BenWilson
+csum:1179445483=
+diff:1179445483:1174868031:=11,15c11%0a%3c (:input end:)%0a%3c %0a%3c ----%0a%3c %0a%3c (:htpasswdform:)%0a\ No newline at end of file%0a---%0a> (:input end:)%0a\ No newline at end of file%0a
+host:1179445483=69.243.109.103
+author:1174868031=BenWilson
+csum:1174868031=
+diff:1174868031:1135895744:=6,9c6,7%0a%3c (:if enabled EnableAuthUser:)%0a%3c ||$[Name]:||(:input text name=authid:)%0a%3c (:if:)%0a%3c ||$[Password]:||(:input password name=authpw:)%0a---%0a> (:if enabled EnableAuthUser:)$[Name]: (:input text name=authid:)\\%0a> (:if:)$[Password]: (:input password name=authpw:)%0a11c9%0a%3c (:input end:)%0a\ No newline at end of file%0a---%0a> (:input end:)%0a
+host:1174868031=69.243.109.103

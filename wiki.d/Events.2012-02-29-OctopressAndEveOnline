@@ -1,0 +1,17 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+author=BenWilson
+charset=ISO-8859-1
+csum=
+ctime=1330515355
+host=69.140.6.80
+name=Events.2012-02-29-OctopressAndEveOnline
+rev=1
+targets=AstroEmpires.AstroEmpires,PmWiki.PmWiki
+text=(:title Octopress and Eve Online:)%0a'''(:blogarticledate:)'''%0a[[#teaser]]%0aAs you can tell, I don't blog on Espace much these days. Most of the visitors head over to the [[Astro Empires/]] guides and pick up a few tips. This site has more than that, and it's about to change.%0a%0a[[#body]]%0aSince this site started it has been managed with PmWiki. A great tool. Easy to modify. Easy to manage. I've been using PmWiki for nearly a decade. I'll be converting this site to Octopress. That's another way of saying the site will be statically generated. Octopress lets me manage the site pretty much the way I always do. But, static generation gives me a few capabilities I'm looking for at this point.%0a%0aOver the past year I've been tinkering with Eve Online. You see the section on the top bar. It's a fun game, though a bit of a time hog. One has to have the interest.%0a%0aLast Fall I published *Scintilla*. I started on *Luctation*, but failed to focus on milieu development. That produced artistic debt that ground the draft to a halt. My son's waxing interest in tabletop role-playing led me to look into Traveller. Traveller and Eve are similar, and both have helped me to develop the Pax Terradoma which is paying down that debt. I hope to resume writing *Luctation* soon.%0a%0aThat's a quick update. I'm always looking for ways to improve the site for the many of you who visit. What are you hoping to find here that you're not?%0a(:title Octopress and Eve Online:)
+time=1330515355
+title=Octopress and Eve Online
+author:1330515355=BenWilson
+csum:1330515355=
+diff:1330515355:1330515355:=1,14d0%0a%3c (:title Octopress and Eve Online:)%0a%3c '''(:blogarticledate:)'''%0a%3c [[#teaser]]%0a%3c As you can tell, I don't blog on Espace much these days. Most of the visitors head over to the [[Astro Empires/]] guides and pick up a few tips. This site has more than that, and it's about to change.%0a%3c %0a%3c [[#body]]%0a%3c Since this site started it has been managed with PmWiki. A great tool. Easy to modify. Easy to manage. I've been using PmWiki for nearly a decade. I'll be converting this site to Octopress. That's another way of saying the site will be statically generated. Octopress lets me manage the site pretty much the way I always do. But, static generation gives me a few capabilities I'm looking for at this point.%0a%3c %0a%3c Over the past year I've been tinkering with Eve Online. You see the section on the top bar. It's a fun game, though a bit of a time hog. One has to have the interest.%0a%3c %0a%3c Last Fall I published *Scintilla*. I started on *Luctation*, but failed to focus on milieu development. That produced artistic debt that ground the draft to a halt. My son's waxing interest in tabletop role-playing led me to look into Traveller. Traveller and Eve are similar, and both have helped me to develop the Pax Terradoma which is paying down that debt. I hope to resume writing *Luctation* soon.%0a%3c %0a%3c That's a quick update. I'm always looking for ways to improve the site for the many of you who visit. What are you hoping to find here that you're not?%0a%3c (:title Octopress and Eve Online:)%0a\ No newline at end of file%0a
+host:1330515355=69.140.6.80

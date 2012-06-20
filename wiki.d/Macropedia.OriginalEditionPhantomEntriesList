@@ -1,0 +1,18 @@
+version=pmwiki-2.0.12 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b5) Gecko/20051006 Firefox/1.4.1
+author=BenWilson
+host=69.155.125.173
+name=Macropedia.OriginalEditionPhantomEntriesList
+rev=3
+targets=
+text=These are all the entries that indicate that they are still categorized as phantoms.%0a%0a(:pagelist group=Macropedia fmt=simple [[!PhantomOriginalEdition]]:)%0a
+time=1131404166
+author:1131404166=BenWilson
+diff:1131404166:1131404117:=0a1%0a> !! Phantom Entries%0a
+host:1131404166=69.155.125.173
+author:1131404117=BenWilson
+diff:1131404117:1131404051:=1,4c1,2%0a%3c !! Phantom Entries%0a%3c These are all the entries that indicate that they are still categorized as phantoms.%0a%3c %0a%3c (:pagelist group=Macropedia fmt=simple [[!PhantomOriginalEdition]]:)%0a---%0a> This is the list of entries that have been phantomed but not written.%0a> (:pagelist category=PhantomOriginalEdition fmt=sitemap:)%0a\ No newline at end of file%0a
+host:1131404117=69.155.125.173
+author:1131404051=BenWilson
+diff:1131404051:1131404051:=1,2d0%0a%3c This is the list of entries that have been phantomed but not written.%0a%3c (:pagelist category=PhantomOriginalEdition fmt=sitemap:)%0a\ No newline at end of file%0a
+host:1131404051=69.155.125.173

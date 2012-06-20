@@ -1,0 +1,22 @@
+version=pmwiki-2.0.beta21
+newline=²
+time=1109611592
+text=!! The Procyon System²²Procyon is a binary system with two stars. They orbit each other at a distance 16 times that of the Earth and Sol. (16 AU)²²Procyon alpha: a F5 giant in its last stages of life. Yellow-White²Procyon beta:  a white dwarf. ²²During the Imperium Era. They considered themselves separate entites, although unified in the past through the efforts of the Souldogle Fic.²²Procyon Alpha is orbited by one planet, called Souldogle Prime. ²²||table border=1²||Souldogle Prime||²||Gravity: Fair||²||Habitat: Good||²||Colony: Great||²||Resources: Mediocre||²
+targets=
+author=JohnUghrin
+author:1109611397=JohnUghrin
+host:1109611397=24.166.101.248
+diff:1109611397:1109611397:=1,17d0²< !! The Procyon System²< ²< Procyon is a binary system with two stars. They orbit each other at a distance 16 times that of the Earth and Sol. (16 AU)²< ²< Procyon alpha: a F5 giant in its last stages of life. Yellow-White²< Procyon beta:  a white dwarf. ²< ²< During the Imperium Era. They considered themselves separate entites, although unified in the past through the efforts of the Souldogle Fic.²< ²< Procyon Alpha is orbited by one planet, called Souldogle Prime. ²< ²< ||Souldogle Prime||²< ||Gravity: Fair||²< ||Habitat: Good||²< ||Colony: Great||²< ||Resources: Mediocre||²<  ²\ No newline at end of file²
+name=StarSystems.ProcyonSystem
+host=24.166.101.248
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=4
+author:1109611525=JohnUghrin
+host:1109611525=24.166.101.248
+diff:1109611525:1109611397:=12d11²< (:table border=1:)²
+author:1109611542=JohnUghrin
+host:1109611542=24.166.101.248
+diff:1109611542:1109611525:minor=12c12²< (:table border=1)²---²> (:table border=1:)²
+author:1109611592=JohnUghrin
+host:1109611592=24.166.101.248
+diff:1109611592:1109611542:minor=12c12²< ||table border=1²---²> (:table border=1)²

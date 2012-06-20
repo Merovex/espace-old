@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1103051503
+text=! Macrodyn Techtronics²²Macrodyn Techtronics, Inc. (MTI) was a major producer of AI computers prior to the First Decline. Their virtual monopoly of the field allowed them to gain access to key astrogation information. The MTI Board chose to conceal the location of several habitable worlds due to their joint proximity. They then set up a major colony on Mundumo, and established a fiefdom officially called Macrodius. When the decline came, they altered information regarding the primary route to Macrodius, and retreated into their encleave.²²Captive Airship
+targets=
+author=BenWilson
+author:1102883771=BenWilson
+host:1102883771=10.1.1.74
+diff:1102883771:1102883771:=1d0²< Captive Airship²\ No newline at end of file²
+name=MacrodynTectronics.HomePage
+host=10.1.1.74
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1103051503=BenWilson
+host:1103051503=10.1.1.74
+diff:1103051503:1102883771:=1,4d0²< ! Macrodyn Techtronics²< ²< Macrodyn Techtronics, Inc. (MTI) was a major producer of AI computers prior to the First Decline. Their virtual monopoly of the field allowed them to gain access to key astrogation information. The MTI Board chose to conceal the location of several habitable worlds due to their joint proximity. They then set up a major colony on Mundumo, and established a fiefdom officially called Macrodius. When the decline came, they altered information regarding the primary route to Macrodius, and retreated into their encleave.²< ²

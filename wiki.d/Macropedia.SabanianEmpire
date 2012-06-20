@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.SabanianEmpire
+rev=6
+targets=Macropedia.SoroMeldurKafrahBank,Macropedia.SedrenTawmerik,Macropedia.ImperiumEdition,Macropedia.ImperialInterregnum,Macropedia.QadanRom,Macropedia.FemaronFelard,Macropedia.OradianShippingConglomerate,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Sabanian Empire is a new fledgeling splinter of the grand Imperium, its future and stability are somewhat uncertain at this point. The roots of the SE lie in the history of the ImperialInterregnum. When QadanRom took the Oradian Shipping Conglomerate back under the Imperial seal, the systems that would later form the SE were greatly hurt for various reasons. At first, their protests were civil, but under the brutal enforcement of FemaronFelard, they turned to violence. %0a%0aThe SE is composed of 12 worlds of varied ethnicity and composition. _The Sabanian Revolution_, as it is called, saw cooperation of several normally opposed groups soldiers from genetically enhanced races fought beside Kuberian cultists. They both fought beside coporate and aristicratic mercenaries.%0a%0aOf course, this diversity is now the source of the SE's instability. Without the unifying villainy of [[FemaronFelard|Felard]], they have little in common to forge cooperation. %0a%0a!! References%0a# FemaronFelard%0a# OradianShippingConglomerate%0a# QadanRom%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129671613
+author:1129671613=BenWilson
+diff:1129671613:1121033756:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129671613=144.167.105.115

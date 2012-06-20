@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta7
+newline=²
+time=1102692091
+text=This is the blog.
+targets=
+author=BenWilson
+author:1102692091=BenWilson
+host:1102692091=144.167.104.63
+diff:1102692091:1102692091:=1d0²< This is the blog.²\ No newline at end of file²
+name=Blog.Blog
+host=144.167.104.63
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=1

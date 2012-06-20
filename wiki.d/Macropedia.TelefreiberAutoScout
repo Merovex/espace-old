@@ -1,0 +1,23 @@
+version=pmwiki-2.1.beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12) Gecko/20051010 Firefox/1.0.7 (Ubuntu package 1.0.7)
+author=BenWilson
+csum=
+ctime=1141264497
+host=24.166.101.248
+name=Macropedia.TelefreiberAutoScout
+rev=3
+targets=Macropedia.SMEE,Macropedia.ImperiumEquipmentIndex,Macropedia.Ether,Macropedia.TelefreiberObservers,Macropedia.EndyphadKonjrez,Macropedia.TelefreiberWarriorAnts,Category.ImperiumEquipment,Category.BorisHelfsteinAuthored,Category.MiscellaneousEquipment
+text=%3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a%0a!! Telefreiber Auto Scout%0a%0aThe Telefreiber Auto Scout is a nifty little helpmate in unfamiliar territory. Fitting in a typical fieldpack handily, the Auto Scout can be used to find local resources such as water, shelter, and can even be set to seek help and habitation.%0a%0aThe cannister releases up to 8, 4 cm robotic scouts. They will head out and using both visual and sonic scanners start mapping the local area. The cannister can be used as a display that the scouts report back to. It can also be (usually) linked to a portable [[Ether]].%0a%0aTelefreiber leveraged their "swarm-bot" technology to this application after it garnered a bit of resentment from their [[TelefreiberObservers|Observers]].%0a%0aGenerally speaking, these kits are fairly decent survival gear. The little 'bots are quite vulnerable to any number of hostile means of destruction or interference, and you certainly don't want an enemy following one back you your hideout.%0a%0aThere have been occasional reports of Telefreiber's Warrior Ants becoming disoriented by interaction with Auto Scouts. However, I don't think I'd bet my life on it.%0a%0a!! References%0a# EndyphadKonjrez%0a# [[Ether]]%0a# TelefreiberObservers%0a# TelefreiberWarriorAnts%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEquipment]] [[!BorisHelfsteinAuthored]] [[!Miscellaneous Equipment]]
+time=1141276052
+author:1141276052=BenWilson
+csum:1141276052=
+diff:1141276052:1141264907:=5,6c5,6%0a%3c The Telefreiber Auto Scout is a nifty little helpmate in unfamiliar territory. Fitting in a typical fieldpack handily, the Auto Scout can be used to find local resources such as water, shelter, and can even be set to seek help and habitation.%0a%3c %0a---%0a> The Telefreiber Auto Scout is a nifty little helpmate in unfamiliar territory. Fitting in a typical fieldpack handily, the Auto Scout can be used to find local resources such as water, shelter, and even terrain features.%0a> %0a11,14d10%0a%3c Generally speaking, these kits are fairly decent survival gear. The little 'bots are quite vulnerable to any number of hostile means of destruction or interference, and you certainly don't want an enemy following one back you your hideout.%0a%3c %0a%3c There have been occasional reports of Telefreiber's Warrior Ants becoming disoriented by interaction with Auto Scouts. However, I don't think I'd bet my life on it.%0a%3c %0a16c12%0a%3c # EndyphadKonjrez%0a---%0a> # Actual Entry%0a19,20c15,16%0a%3c # TelefreiberWarriorAnts%0a%3c %0a---%0a> # Second Phantom Entry%0a> %0a
+host:1141276052=24.166.101.248
+author:1141264907=BenWilson
+csum:1141264907=
+diff:1141264907:1141264497:=9,10c9,10%0a%3c Telefreiber leveraged their "swarm-bot" technology to this application after it garnered a bit of resentment from their [[TelefreiberObservers|Observers]].%0a%3c %0a---%0a> Telefreiber%0a> %0a14c14%0a%3c # TelefreiberObservers%0a---%0a> # Telefreiber%0a
+host:1141264907=24.166.101.248
+author:1141264497=BenWilson
+csum:1141264497=
+diff:1141264497:1141264497:=1,21d0%0a%3c %3c%3c|Macropedia/ImperiumEquipmentIndex|>>%0a%3c %0a%3c !! Telefreiber Auto Scout%0a%3c %0a%3c The Telefreiber Auto Scout is a nifty little helpmate in unfamiliar territory. Fitting in a typical fieldpack handily, the Auto Scout can be used to find local resources such as water, shelter, and even terrain features.%0a%3c %0a%3c The cannister releases up to 8, 4 cm robotic scouts. They will head out and using both visual and sonic scanners start mapping the local area. The cannister can be used as a display that the scouts report back to. It can also be (usually) linked to a portable [[Ether]].%0a%3c %0a%3c Telefreiber%0a%3c %0a%3c !! References%0a%3c # Actual Entry%0a%3c # [[Ether]]%0a%3c # Telefreiber%0a%3c # Second Phantom Entry%0a%3c %0a%3c !! Related Articles%0a%3c (:pagelist group=Macropedia fmt=simple {$Name}:)%0a%3c %0a%3c %0a%3c [[!ImperiumEquipment]] [[!BorisHelfsteinAuthored]] [[!Miscellaneous Equipment]]%0a\ No newline at end of file%0a
+host:1141264497=24.166.101.248

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.SohiaFamily
+rev=3
+targets=Macropedia.SESTreL,Macropedia.StellarTreaty,Macropedia.ImperiumEdition,Chronology.FirstDecline,Macropedia.GieliadenSohia,Macropedia.ImperialInterregnum,Category.ChangSinghAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Sohia Family was one of the most important clans of the early Imperium, and at one time vied for power with the Tawmeriks.  The Sohia's claimed to have been descendants of pre-[[Chronology/FirstDecline|Decline]] oligarchic families.  Unlike many such claims which turn out to be of dubious nature, the legendary return of the pre-Decline vessel the GieliadenSohia all but confirmed that they were an ancient family.%0a%0aWith the return of the nearly eight century overdue GieliadenSohia, the Sohia Family was propelled to the forefront of the major powers in the early post-Decline era.  They seemed, for a brief time at least, to be on the cusp of forging their own interstellar state, but the rise of the Republican movement put an end to that.%0a%0aThe Sohias did their best to weather the storms that surrounded the collapse of the Republic and the rise of the Imperium.  The Tawmerik emperors held them in deep distrust, and the Sohias were forced to abandon many of their political ambitions.  Their fortunes would change when the young and beautiful Amansa Sohia Voiner married the dashing Captain Lukas Dabrian, and their descendants succeeded the Tawmeriks to the throne.%0a%0aThe Sohias themselves were to regain much of their political clout during the High Imperium, but the family began to splinter as the ImperialInterregnum approached.  The ruling Premiers, like the Tawmeriks so long before, were fearful of such an ancient, wealthy and influential family, and, it seems, resorted to assassination to get rid of the Sohia's most important members.  The family finally fled, and their whereabouts are still unknown.%0a%0a!! References%0a# Chronology/FirstDecline%0a# GieliadenSohia%0a# ImperialInterregnum%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChangSinghAuthored]]
+time=1129671202
+author:1129671202=BenWilson
+diff:1129671202:1114451192:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129671202=144.167.105.115

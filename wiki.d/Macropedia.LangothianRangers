@@ -1,0 +1,13 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.LangothianRangers
+rev=4
+targets=Macropedia.KanthTawmerik,Macropedia.Lemardians,Macropedia.ImperiumEdition,Macropedia.TerranRepublic,Macropedia.Imudring,Chronology.FirstDecline,Macropedia.CathianNavy,Macropedia.TawmerikDynasty,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=(:title The Langothian Rangers:)%3c%3c|ImperiumEditionIndex|>>%0a%0aDuring and immediately prior to the formation of the Empire, there were many military organizations and bodies that were tied to one or more political bodies that were being subsumed within the TerranRepublic and finally the Empire. Among them, perhaps most flamboyantly, were the Langothian Rangers.%0a%0aLangos is a rather unusual system with a large number of reasonably colonizable bodies. Even through the Chronology/FirstDecline, piracy and lawlessness were a problem. Combine that with resentment against a large population of in-system [[Imudring]] and conflict results. This lead to the formation of a group of almost freelance "law men" calling themselves the Langothian Rangers. They were a marginally effective, and rather haphazard solution to the Tests they faced.%0a%0aThe Rangers started as just wealthier colonists who outfit their ships with light weaponry and carried a badge and weapon themselves. As time went on, they somehow managed to gain more trust from the [[Imudring]] and the system reached a sort of stable state of chaos. Eventually, a respectable government formed. Soon, that government found ever fewer reasons to allow a group like the Rangers to roam around the system "keeping the peace." %0a%0aThe Rangers eventually slid from being an ostensible law enforcement organization into being a "security firm." Membership had changed significantly by this time, as the Rangers were seen as a way to make a name for yourself. By the time FTL travel was renewed to the system, the Rangers became a mercenary outfit. They continued as such for some time before  dissolving for financial reasons sometime soon after the rise of the Empire.%0a%0a!! References%0a# CathianNavy%0a# [[Imudring]]%0a# TawmerikDynasty%0a# TerranRepublic%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129668390
+title=The Langothian Rangers
+author:1129668390=BenWilson
+diff:1129668390:1110051599:=1,2c1,2%0a%3c (:title The Langothian Rangers:)%3c%3c|ImperiumEdition|>>%0a%3c %0a---%0a> ! The Langothian Rangers%0a> %0a
+host:1129668390=144.167.105.115

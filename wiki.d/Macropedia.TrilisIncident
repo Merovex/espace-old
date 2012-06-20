@@ -1,0 +1,12 @@
+version=pmwiki-2.0.10 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+author=BenWilson
+host=144.167.105.115
+name=Macropedia.TrilisIncident
+rev=6
+targets=Macropedia.TwistOfFate,Macropedia.TholomanKreselMuthron,Macropedia.ImperiumEdition,Macropedia.CathianNavy,Macropedia.Imudring,Category.ChoMinhTelRanAuthored,Category.ImperiumEdition
+text=%3c%3c|ImperiumEditionIndex|>>%0a%0aThe Trilis Incident is alternatively viewed as a queer accident, or the most open and clumsy attempt at assassination that has ever been attempted.%0a%0aThe Trilis Incident started as a relatively harmless event. A spaceborne reenactment of a long past military compaign. However, at the time political tensions between the CathianNavy and Emperor Kanth Tawmerik were getting quite strained. Kanth wanted the navy to become part of his Imperial structure, many particularly older members of the CathianNavy greatly resisted.%0a%0aSo, when large, luxurious yachts carrying numerous delegates and observers (almost all supporters of merger) were fired on by archaic warships manned by ageing CathianNavy retirees, many cried "foul!" The reenactors claimed targeting errors and mistakes lead to the incident. No clear cut evidence was found to make conspiracy charges stick. While several reenactors were charged with various crimes from "negligent homicide" to "reckless firing of gunnery" no real pogrom congealed. This was partly due to the fact that the unprofessional nature of the incident polarized the younger, active officers of the CathianNavy against their older compatriots. Soon the CathianNavy did join the Imperium, serving the Emperor directly.%0a%0aWhile the incident resulted in many fatalities and numerous injuries and multiple prosecutions it also had some other curious effects. [[Imudring]] ships responded to emergency hails and rescue beacons, even intercepting one "misdirected" reenactment ship. This resulted in many Aristocratic family members owing their lives to the odd culture, perhaps instrumental in granting leeway and Imperial exemptions for that odd people for some time to come.%0a%0a%0a!! References %0a# CathianNavy%0a# [[Imudring]]%0a%0a!! Related Articles%0a(:pagelist group=Macropedia fmt=simple {$Name}:)%0a%0a%0a[[!ImperiumEdition]] [[!ChoMinhTelRanAuthored]]
+time=1129672462
+author:1129672462=BenWilson
+diff:1129672462:1121033885:=1,2d0%0a%3c %3c%3c|ImperiumEdition|>>%0a%3c %0a
+host:1129672462=144.167.105.115
