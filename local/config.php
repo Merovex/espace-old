@@ -19,11 +19,12 @@ $SkinColor = 'red';
 // $Skin = 'minimous';
 $Skin = 'bootstrap';
 $EnableMarkdown =1;
+$FarmC = "FarmD/cookbook";
 include_once("$FarmD/cookbook/pagetoc.php");
 include_once("$FarmD/cookbook/markdown.php");
 // $EditTemplatesFmt = 'Characters.Template';
 
-include_once("eve-related.php")
+include_once("eve-related.php");
 include_once("social.php");
 
 # Station Identification
