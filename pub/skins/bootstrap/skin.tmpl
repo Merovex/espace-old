@@ -41,34 +41,46 @@
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="/">$WikiTitle</a>
-          <div class="btn-group pull-right">
-            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-              <i class="icon-user"></i> $Author
-              <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Profile</a></li>
-              <li class="divider"></li>
-              <li><a href="#">Sign Out</a></li>
-            </ul>
-          </div>
-          <div class="nav-collapse">
-            <ul class="nav">
-              <li class="active"><a href="/">Home</a></li>
-              <li><a href="/Books">Books</a></li>
-              <li><a href="/Characters">Characters</a></li>
-              <li><a href="/Ships">Ships</a></li>              
-              <li><a href="/Setting">Setting</a></li>
-              <li><a href='{$Fullname}?action=edit'>* edit</a></li>
-              <li><a href='{$Fullname}?action=diff'>* history</a></li>
-              <li><a href='{$Fullname}?action=search&q=link={$Fullname}'>* backlinks</a></li>
-            </ul>
+          <h1><a class='brand' href='/'>$WikiTitle<span>$WikiSlogan</span></a></h3>
+          <ul class='nav'>
+            <li class='menu'>
+              <a class='menu' href='#'>About</a>
+              <ul class='menu-dropdown'>
+                <li><a href='/Contributors'>Contributors</a></li>
+                <li><a target='_blank' href='http://groups.google.com/group/espacesociety'>Google Group</a></li>
+                <li><a href='$ScriptUrl/Bookmarks'>Bookmarks</a></li>
+                <li><a href='$ScriptUrl/Contributors'>Contributors</a></li>
+                <li><a href='$ScriptUrl/MailingLists'>Mailing Lists</a></li>
+                <li><a href='$ScriptUrl/Dictionary'>Dictionary</a></li>
+                <li><a href='$ScriptUrl/AllRecentChanges'>What's new</a></li>
+              </ul>
+            </li>
+            <li><a href='http://espacesociety.org/Events/Events'>Events</a></li>
+            <li class='menu'>
+              <a class='menu' href='#'>Astro Empires</a>
+              <ul class='menu-dropdown'>
+                <li><a href='$ScriptUrl/AstroEmpires/AstroEmpires'>Astro Empires</a></li>
+                <li><a href='$ScriptUrl/AstroEmpires/BaseDefenseGuide'>Base Defense Guide</a></li>
+                <li><a href='$ScriptUrl/AstroEmpires/TheTenSevenGuide'>Ten-Seven Guide</a></li>
+                <li><a href='$ScriptUrl/AstroEmpires/AdvancedBaseGuide'>Advanced Base Guide</a></li>
+                <li><a href='$ScriptUrl/AstroEmpires/Articles'>Articles</a></li>
+              </ul>
+            </li>
+            <li class='menu'>
+              <a class='menu' href='#'>Macropedia Terradoma</a>
+              <ul class='menu-dropdown'>
+                <li><a href='/Macropedia/ImperiumEdition'>Imperium Edition</a></li>
+              </ul>
+            </li>
+            <li class='menu'>
+              <a class='menu' href='#'>Eve Online</a>
+              <ul class='menu-dropdown'>
+                <li><a href='/EveOnline/EveOnline'>Eve Online</a></li>
+                <li><a href='/EveOnline/RecommendedSkills'>Recommended Skills</a></li>
+                <li><a href='/EveOnline/Tycoon'>Tycoon</a></li>
+              </ul>
+            </li>
+          </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
