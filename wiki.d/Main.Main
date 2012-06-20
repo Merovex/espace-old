@@ -1,0 +1,122 @@
+version=pmwiki-2.2.29 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.140.6.80
+name=Main.WelcomeToEspace
+rev=210
+targets=Main.GradingSciFi,Events.Events
+text=E-Space is a [[Main/GradingSciFi|firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [=GMs=] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a%0a!! What's Going On%0a%0a(:pagelist group=AstroEmpires,Events name=2*,1* order=-$Name,-$Group fmt=Site.LocalTemplates#blogsummary count=5:)%0a%0aCheck out our [[Events/Events|past events]].%0a(:title Welcome to Everyspace!:)
+time=1312327088
+title=Welcome to Everyspace!
+author:1312327088=BenWilson
+csum:1312327088=
+diff:1312327088:1312256457:=0a1,2%0a> A%0a> %0a
+host:1312327088=69.140.6.80
+author:1312256457=BenWilson
+csum:1312256457=
+diff:1312256457:1293996341:=1,2d0%0a%3c A%0a%3c %0a
+host:1312256457=69.140.6.80
+author:1293996341=BenWilson
+csum:1293996341=
+diff:1293996341:1293984828:=5c5%0a%3c (:pagelist group=AstroEmpires,Events name=2*,1* order=-$Name,-$Group fmt=Site.LocalTemplates#blogsummary count=5:)%0a---%0a> (:pagelist group=AstroEmpires,Events name=2*,1* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a
+host:1293996341=68.33.222.116
+author:1293984828=BenWilson
+csum:1293984828=
+diff:1293984828:1293916673:=5c5%0a%3c (:pagelist group=AstroEmpires,Events name=2*,1* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a---%0a> (:pagelist group=Events,AstroEmpires name=2*,1* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a
+host:1293984828=68.33.222.116
+author:1293916673=BenWilson
+csum:1293916673=
+diff:1293916673:1293916644:=5c5%0a%3c (:pagelist group=Events,AstroEmpires name=2*,1* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a---%0a> (:pagelist group=Events,AstroEmpires name=2* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a
+host:1293916673=68.33.222.116
+author:1293916644=BenWilson
+csum:1293916644=
+diff:1293916644:1292772526:=5c5%0a%3c (:pagelist group=Events,AstroEmpires name=2* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a---%0a> (:pagelist group=Events name=2* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a
+host:1293916644=68.33.222.116
+author:1292772526=BenWilson
+csum:1292772526=
+diff:1292772526:1292771903:=5c5%0a%3c (:pagelist group=Events name=2* order=-name fmt=Site.LocalTemplates#blogsummary count=5:)%0a---%0a> (:pagelist group=Events name=2*Event-* order=-name fmt=Site.LocalTemplates#include count=3:)%0a
+host:1292772526=68.33.222.116
+author:1292771903=BenWilson
+csum:1292771903=
+diff:1292771903:1274540015:=5c5%0a%3c (:pagelist group=Events name=2*Event-* order=-name fmt=Site.LocalTemplates#include count=3:)%0a---%0a> (:pagelist group=Events name=Event-* order=-name fmt=Site.LocalTemplates#include count=3:)%0a
+host:1292771903=68.33.222.116
+author:1274540015=BenWilson
+csum:1274540015=
+diff:1274540015:1274540001:=7,8c7%0a%3c Check out our [[Events/Events|past events]].%0a%3c (:title Welcome to Everyspace!:)%0a\ No newline at end of file%0a---%0a> Check out our [[Events/Events|past events]].%0a\ No newline at end of file%0a
+host:1274540015=68.48.114.50
+author:1274540001=BenWilson
+csum:1274540001=
+diff:1274540001:1262465094:=7c7,8%0a%3c Check out our [[Events/Events|past events]].%0a\ No newline at end of file%0a---%0a> Check out our [[Events/Events|past events]].%0a> (:title E-space:)%0a\ No newline at end of file%0a
+host:1274540001=68.48.114.50
+author:1262465094=BenWilson
+csum:1262465094=
+diff:1262465094:1174868073:=7a8,15%0a> %0a> !! Interested%0a> %0a> If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to host it.%0a> %0a> !! Special Thanks%0a> %0a> The E-Space Community especially thanks [[http://www.phoenyx.net | Phoenyx Games]] for hosting our discussion list. If you're looking for an online Fudge gaming experience, give them a try.%0a
+host:1262465094=68.48.114.50
+author:1174868073=BenWilson
+csum:1174868073=
+diff:1174868073:1174783027:=0a1,2%0a> (:title E-space:)%0a> %0a5,6c7,8%0a%3c (:pagelist group=Events name=Event-* order=-name fmt=Site.LocalTemplates#include count=3:)%0a%3c %0a---%0a> (:pagelist group=Events name=Event-* order=-name fmt=Site.LocalTemplates#include:)%0a> %0a15,16c17%0a%3c The E-Space Community especially thanks [[http://www.phoenyx.net | Phoenyx Games]] for hosting our discussion list. If you're looking for an online Fudge gaming experience, give them a try.%0a%3c (:title E-space:)%0a\ No newline at end of file%0a---%0a> The E-Space Community especially thanks [[http://www.phoenyx.net | Phoenyx Games]] for hosting our discussion list. If you're looking for an online Fudge gaming experience, give them a try.%0a\ No newline at end of file%0a
+host:1174868073=69.243.109.103
+author:1174783027=
+diff:1174783027:1174782765:=7,8c7,8%0a%3c (:pagelist group=Events name=Event-* order=-name fmt=Site.LocalTemplates#include:)%0a%3c %0a---%0a> (:pagelist group=Events name=Event-* order=-name fmt=#include:)%0a> %0a
+host:1174783027=69.243.109.103
+author:1174782765=
+diff:1174782765:1174782580:=7,10c7,8%0a%3c (:pagelist group=Events name=Event-* order=-name fmt=#include:)%0a%3c %0a%3c Check out our [[Events/Events|past events]].%0a%3c %0a---%0a> (:pagelist group=Events name=Event-* order=-name:)%0a> %0a
+host:1174782765=69.243.109.103
+author:1174782580=
+diff:1174782580:1142180283:=7,8c7,14%0a%3c (:pagelist group=Events name=Event-* order=-name:)%0a%3c %0a---%0a> '''February 16, 2006''' We have resumed lexicon building with the [[Macropedia/Imperium Equipment]] annex. This lexicon focuses on exceptional equipment availible during the Imperium.%0a> %0a> On '''October 1, 2005''', We were still ten entries from completing our first Lexicon game.%0a> %0a> Our effort started in February, 2004 and we took a pause in July 2004. In December 2004, we resumed and this site was built. In January 2005, we began tinkering with a Lexicon called the [[Macropedia]]. We weren't sure what to expect, but in the first five months we produced over one-hundred articles detailing the period known as the Imperium. The structure of the Lexicon has helped us keep going.%0a> %0a> On June 30, 2005, we finished our first run through the Lexicon. We wrote over 100 entries during that time. Since then, we have begun to go back through the various letters to complete the phantom entries that we created and were not able to write under the rules of the game.%0a> %0a
+host:1174782580=69.243.109.103
+author:1142180283=BenWilson
+csum:1142180283=
+diff:1142180283:1141492965:=2c2,4%0a%3c %0a---%0a> * [[~BubbaWilson]] March 04, 2006, at 11:56 AM%0a> * [[~BubbaWilson]] March 04, 2006, at 12:22 PM%0a> %0a
+host:1142180283=70.249.188.200
+author:1141492965=BubbaWilson
+diff:1141492965:1141491376:=2,4c2,3%0a%3c * [[~BubbaWilson]] March 04, 2006, at 11:56 AM%0a%3c * [[~BubbaWilson]] March 04, 2006, at 12:22 PM%0a%3c %0a---%0a> [[~BubbaWilson]] March 04, 2006, at 11:56 AM%0a> %0a
+host:1141492965=70.249.188.200
+author:1141491376=BubbaWilson
+diff:1141491376:1140121682:=2,3c2%0a%3c [[~BubbaWilson]] March 04, 2006, at 11:56 AM%0a%3c %0a---%0a> %0a
+host:1141491376=70.249.188.200
+author:1140121682=BenWilson
+csum:1140121682=
+diff:1140121682:1140121605:=9,10c9,10%0a%3c On '''October 1, 2005''', We were still ten entries from completing our first Lexicon game.%0a%3c %0a---%0a> '''October 1, 2005''' We are now only ten entries from completing our first Lexicon game.%0a> %0a
+host:1140121682=144.167.104.254
+author:1140121605=BenWilson
+csum:1140121605=
+diff:1140121605:1136428432:=7,8d6%0a%3c '''February 16, 2006''' We have resumed lexicon building with the [[Macropedia/Imperium Equipment]] annex. This lexicon focuses on exceptional equipment availible during the Imperium.%0a%3c %0a
+host:1140121605=144.167.104.254
+author:1136428432=BenWilson
+csum:1136428432=
+diff:1136428432:1136161886:=4a5%0a> (:colstart:)%0a12a14%0a> (:column:)%0a16c18%0a%3c %0a---%0a> (:colend:)%0a
+host:1136428432=69.155.125.173
+author:1136161886=BenWilson
+diff:1136161886:1134502514:=3,4c3,4%0a%3c E-Space is a [[Main/GradingSciFi|firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [=GMs=] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a%3c %0a---%0a> E-Space is a [[http://www.kheper.net/topics/scifi/grading.html#firm |firm-Science Fiction]] RPG setting, grounded in the Fudge RPG gaming engine, but designed to allow players from other gaming systems enjoy. E-space seeks to cover the gambit of human interaction throughout outer space. We want to offer a solid enough framework to allow individual [=GMs=] and authors to create worlds and campaigns that integrate together, without stepping on anybody's toes too much.%0a> %0a
+host:1136161886=69.155.125.173
+author:1134502514=BenWilson
+diff:1134502514:1133387408:=2a3,4%0a> [[Attach:test.txt]]%0a> %0a
+host:1134502514=69.155.125.173
+author:1133387408=BenWilson
+diff:1133387408:1132518449:=3,4d2%0a%3c [[Attach:test.txt]]%0a%3c %0a
+host:1133387408=69.155.125.173
+author:1132518449=BenWilson
+diff:1132518449:1129488976:=18c18%0a%3c (:colend:)%0a---%0a> %0a
+host:1132518449=69.155.125.173
+author:1129488976=BenWilson
+diff:1129488976:1129475808:=5d4%0a%3c (:colstart:)%0a14d12%0a%3c (:column:)%0a
+host:1129488976=70.249.190.40
+author:1129475808=BenWilson
+csum:1129475808=fixed typo
+diff:1129475808:1128304125:=15,16c15,16%0a%3c If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to host it.%0a%3c %0a---%0a> If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to hoste it.%0a> %0a
+host:1129475808=70.249.190.40
+author:1128304125=BenWilson
+diff:1128304125:1128293869:=2a3,4%0a> this is a handheld test%0a> %0a15,16c17,18%0a%3c If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to hoste it.%0a%3c %0a---%0a> If you are interested in running your own Lexicon game, Gamemaster's Toolbox would like to host it.%0a> %0a
+host:1128304125=70.128.43.216
+author:1128293869=BenWilson
+diff:1128293869:1128197737:=3,4d2%0a%3c this is a handheld test%0a%3c %0a
+host:1128293869=68.28.91.104
+author:1128197737=BenWilson
+diff:1128197737:1128183465:=15,16c15,16%0a%3c If you are interested in running your own Lexicon game, Gamemaster's Toolbox would like to host it.%0a%3c %0a---%0a> If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to hoste it.%0a> %0a
+host:1128197737=144.167.104.109
+author:1128183465=BenWilson
+diff:1128183465:1123392442:=7,8d6%0a%3c '''October 1, 2005''' We are now only ten entries from completing our first Lexicon game.%0a%3c %0a13,16d10%0a%3c !! Interested%0a%3c %0a%3c If you are interested in running your own Lexicon game, [[Gamemaster's Toolbox -> http://www.gmtoolbox.org]] would like to hoste it.%0a%3c %0a
+host:1128183465=144.167.104.109
