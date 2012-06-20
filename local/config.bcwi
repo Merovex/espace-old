@@ -1,0 +1,156 @@
+<?php if (!defined('PmWiki')) exit();
+#$PageCacheFile = 1;
+$WikiStyle['blue'] = array('color' => '#268BE2');
+$WikiStyle['cyan'] = array('color' => '#3BA');
+#$WikiStyle['blue']['color'] = "#FFDEAD';
+#$EnableHTMLCache = 1;
+#$NoHTMLCache = 0;
+#$PageCacheDir = '/var/www/espacesociety.org/public/htmlcache';
+require_once('mediatable.php');
+require_once('EveSkills.php');
+XLPage('prefs', 'Site.Preferences');
+#XLSDV('en', array( 'e_cols' => '100'));
+## add default group (Main) to page search path 
+$PagePathFmt = array(
+      '{$Group}.$1',           # page in current group
+      '{$DefaultGroup}.$1',    # page in default group (Main)
+      '$1.$1',                 # group home page
+      '$1.{$DefaultName}',     # group home page
+);
+SDV($DefaultPage, 'Main.WelcomeToEspace');
+$pagename = MakePageName($DefaultPage, $pagename);
+
+## reformat page urls to omit default group (Main)
+$EnablePathInfo = 1;
+$FmtPV['$PageUrl'] = 'PUE(($group==$GLOBALS["DefaultGroup"])
+                            ? (($name==$GLOBALS["DefaultName"]) ? "$ScriptUrl/" : "$ScriptUrl/$name")
+                              : "$ScriptUrl/$group/$name")';
+$FmtP["!\\\$ScriptUrl/$DefaultGroup/!"] = '$ScriptUrl/';
+$MainWidth='span11';
+
+#$AUDBaseTable['database'] = 'daushan_espaceforum';
+#$AUDBaseTable['user_table'] = 'LUM_User';
+#$AUDBaseTable['user_field'] = 'username';
+#$AUDBaseTable['pw_field']   = 'password';
+$browser = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
+if ($browser == true){ $browser = 'iphone'; }
+
+$EnableUploads = 1;
+$PageTextStartFmt = $PageTextEndFmt = '';
+    #$HTMLVspace = '';
+#$FarmC = '/var/www/pmwiki-share/cookbook';
+#$FarmL = '/var/www/pmwiki-share/configuration';
+$FarmC = '../cookbook';
+$FarmL = '../configuration';
+    #$FarmP = '/usr/local/share/pmwiki/pub';
+$DefaultName = 'Main';
+$FmtPV['$PageCreationDate'] = 'strftime("%Y-%m-%d", time())';
+
+#$Skin = 'NewEspaceSociety';
+$Skin = 'Everyspace';
+#$Skin = 'MinimalEspace';
+#$Skin = 'RawHaml';
+if (isset($_REQUEST['skin'])) { $Skin = $_REQUEST['skin']; }
+$AuthorGroup = 'Contributers';
+#print_r($browser); exit;
+if ($browser == 'iphone') {
+    $WikiTitle = 'E-Space'; # Appears in Browser Title bar.
+    $WikiSlogan = '';
+}
+else {
+$WikiTitle = 'EverySpace Society'; # Appears in Browser Title bar.
+$WikiSlogan = 'A Collaborative Science Fiction Milieu';
+}
+
+$LinkWikiWords = 1;
+$HtpasswordNewUsers = 1;
+$EnableMarkdown = 1;
+$EnableHtgroup = true;
+if ($action == 'markdown') { $LinkPageExistsFmt = "[[\$LinkText]]"; }
+else { Markup('quoted', '_begin', '/``(.*?)"/', "&#8220;$1&#8221;"); }
+
+include_once("$FarmL/stdconfig.php");
+include_once("editmore.php");
+include_once("$FarmL/security.php");
+include_once("$FarmC/lexicon.php");
+include_once("$FarmC/blogcalendardate.php");
+include_once("$FarmC/markdown-output/markdown-output.php");
+#$MarkdownExtra  = TRUE;
+include_once("$FarmC/lexicon-scrabble.php");
+include_once("$FarmC/action_log.php");
+include_once("$FarmC/mediacat.php");
+include_once("$FarmC/newpageboxplus.php");
+include_once("$FarmC/Footnotes/Footnotes.php");
+include_once("$FarmC/AstroEmpire/plotter.php");
+include_once("$FarmC/Markdown/markdown-1.0.0.php");
+
+include_once("$FarmC/translate_this.php");
+Markup('noleft', 'directives', '/\\(:noleft:\\)/e', "NoLeft()");
+Markup('pvp', 'fulltext', '/PvP/e', "Keep('<abbr title=\'Player v. Player\'>PvP</abbr>')");
+Markup('pve', 'fulltext', '/PvE/e', "Keep('<abbr title=\'Player v. Eve\'>PvE</abbr>')");
+
+
+$SocialIconSize = 24;
+$SocialIconType = 'chrome';
+$SocialIconType = 'ico';
+include_once("$FarmC/sociallinks.php");
+
+$AuthUser['htgroup'] = '/home/bwilson/public_html/www/espacesociety/local/.htgroup';
+$DiscusShortName = 'espace';
+include_once("$FarmC/discus.php");
+
+#--------------------------------
+# Specific Style Application
+#--------------------------------
+$WikiStyle['dlstar']['apply']  = 'list';
+$WikiStyle['dlstar']['class']  = 'dlstar';
+$WikiStyle['dlfudge']['apply'] = 'list';
+$WikiStyle['dlfudge']['class'] = 'dlfudge';
+
+$HTMLStylesFmt['pmwiki'] = '';
+
+#function EnableHtml($tag) {
+#Markup(
+#"html-$tag",
+#'>{$var}',
+#'/&lt;(\/?('.$tag.')(?![a-z!])(([\'"]).*?\4|.*?)*?)&gt;/ie',
+#'Keep(PSS(\'<$1>\'))');
+#}
+#include("ReplaceHTML.php");
+#Markup('lquote', '_begin','/ "\b/', ' &#8220;');
+#Markup('rquote', '_begin','/\b" /', '&#8221; ');
+Markup('abbrs', 'fulltext','/([A-Z][A-Z]s)/e', "Keep('$1')");
+function bburl($k) {
+    global $ScriptUrl, $pagename;
+    return "[[$k]] ".Keep("<span class='bburl'>[url=$ScriptUrl/$pagename$k]$k [/url]</span>");
+}
+Markup('bburl', 'directives', '/\(:bburl\s*(#.*?):\)/e', "bburl('\\1')");
+markup('abbreviations', 'directives', '/\(:abbr\s*(\w+)\s(.*?):\)/', "Keep('<abbr title=\'$2\'>$1</abbr>');");
+#markup('abbreviations','directives',
+       #'/\\b([[:upper:]][[:upper:]]+s?)\\s+\(([[:upper:]].*?)\)/es',
+       #"Keep('<abbr title=\'$2\'>$1</abbr>');");
+
+function AECoords($name, $coord) {
+    $galaxy = array(
+        'A' => 'alpha', 
+        'B' => 'beta', 
+        'C' => 'ceti',
+        'D' => 'delta',
+        'E' => 'epsilon',
+        'F' => 'fenix',
+        'G' => 'gamma',
+        'H' => 'helion',
+        'I' => 'ixion',
+    );
+    $url = "http://$galaxy[$name].astroempires.com/map.aspx?loc=";
+    return Keep("<a href='$url$coord'>$coord</a>");
+}
+Markup('AECoords','_begin','/(([A-Z])\d\d:\d\d:\d\d:\d\d)/e', "AECoords('$2','$1')");
+
+$UploadExtSize['js'] = 100000;
+function NoLeft() {
+  global $MainWidth;
+  SetTmplDisplay('PageLeftFmt', 0);
+  $MainWidth = 'span16';
+}
+
