@@ -48,7 +48,7 @@ function bburl($k) {
     return "[[$k]] ".Keep("<span class='bburl'>[url=$ScriptUrl/$pagename$k]$k [/url]</span>");
 }
 if ($action == 'markdown') { $LinkPageExistsFmt = "[[\$LinkText]]"; }
-else { Markup('quoted', '_begin', '/``(.*?)"/', "Keep('&#8220;$1&#8221;')"); }
+else { Markup('quoted', '_end', '/``(.*?)"/', "&#8220;$1&#8221;"); }
 Markup('bburl', 'directives', '/\(:bburl\s*(#.*?):\)/e', "bburl('\\1')");
 markup('abbreviations', 'directives', '/\(:abbr\s*(\w+)\s(.*?):\)/', "Keep('<abbr title=\'$2\'>$1</abbr>');");
 
