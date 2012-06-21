@@ -1,4 +1,4 @@
-.blogcalendar { clear: both; float: left; margin-right: 6px; width: 42px; height: 42px; text-align: center; color: #000 !important; font: 10px/1.3 Arial !important;}
+.blogcalendar { clear: both; float: left; margin-right: 6px; width: 42px; height: 42px; text-align: center; color: #000 !important; ;}
 .blogcalendar .year,.blogcalendar.day {  color #000 !important; width: 42px; }
 .blogcalendar .day span {display: none;}
 .blogcalendar .day { font-size: 1.3em; padding-top: 8px; }
