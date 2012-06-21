@@ -2,15 +2,15 @@
 .blogcalendar .year,.blogcalendar.day { font: 0.9em/1.5 bold; width: 42px; color: #BBB; margin-top: 10px;}
 .blogcalendar .day span {display: none;}
 .blogcalendar .day { font-size: 1.3em; padding-top: 8px; color: #000; margin-top: 10px; }
-.blogcalendar.icon-01 { background: url(/pub/images/calendar_icons/01.gif) no-repeat 0 0; }
-.blogcalendar.icon-02 { background: url(/pub/images/calendar_icons/02.gif) no-repeat 0 0; }
-.blogcalendar.icon-03 { background: url(/pub/images/calendar_icons/03.gif) no-repeat 0 0; }
-.blogcalendar.icon-04 { background: url(/pub/images/calendar_icons/04.gif) no-repeat 0 0; }
-.blogcalendar.icon-05 { background: url(/pub/images/calendar_icons/05.gif) no-repeat 0 0; }
-.blogcalendar.icon-06 { background: url(/pub/images/calendar_icons/06.gif) no-repeat 0 0; }
-.blogcalendar.icon-07 { background: url(/pub/images/calendar_icons/07.gif) no-repeat 0 0; }
-.blogcalendar.icon-08 { background: url(/pub/images/calendar_icons/08.gif) no-repeat 0 0; }
-.blogcalendar.icon-09 { background: url(/pub/images/calendar_icons/09.gif) no-repeat 0 0; }
-.blogcalendar.icon-10 { background: url(/pub/images/calendar_icons/10.gif) no-repeat 0 0; }
-.blogcalendar.icon-11 { background: url(/pub/images/calendar_icons/11.gif) no-repeat 0 0; }
-.blogcalendar.icon-12 { background: url(/pub/images/calendar_icons/12.gif) no-repeat 0 0; }
+.blogcalendar.xicon-01 { background: url(/pub/images/calendar_icons/01.gif) no-repeat 0 0; }
+.blogcalendar.xicon-02 { background: url(/pub/images/calendar_icons/02.gif) no-repeat 0 0; }
+.blogcalendar.xicon-03 { background: url(/pub/images/calendar_icons/03.gif) no-repeat 0 0; }
+.blogcalendar.xicon-04 { background: url(/pub/images/calendar_icons/04.gif) no-repeat 0 0; }
+.blogcalendar.xicon-05 { background: url(/pub/images/calendar_icons/05.gif) no-repeat 0 0; }
+.blogcalendar.xicon-06 { background: url(/pub/images/calendar_icons/06.gif) no-repeat 0 0; }
+.blogcalendar.xicon-07 { background: url(/pub/images/calendar_icons/07.gif) no-repeat 0 0; }
+.blogcalendar.xicon-08 { background: url(/pub/images/calendar_icons/08.gif) no-repeat 0 0; }
+.blogcalendar.xicon-09 { background: url(/pub/images/calendar_icons/09.gif) no-repeat 0 0; }
+.blogcalendar.xicon-10 { background: url(/pub/images/calendar_icons/10.gif) no-repeat 0 0; }
+.blogcalendar.xicon-11 { background: url(/pub/images/calendar_icons/11.gif) no-repeat 0 0; }
+.blogcalendar.xicon-12 { background: url(/pub/images/calendar_icons/12.gif) no-repeat 0 0; }

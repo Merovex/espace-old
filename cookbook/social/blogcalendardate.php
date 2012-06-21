@@ -33,7 +33,7 @@ function BlogCalendarDate($date, $comments=0) {
     $cloud = '';
     if ($comments>0) { $cloud = "<div class='commentscloud'>$comments</div>"; }
     $output =<<<EOT
-<div class="blogcalendar icon-$mon">
+<div class="blogcalendar xicon-$mon">
   <div class="day"><span>$month</span> $day</div>
   <div class='year'>$year</div>$cloud
 </div>
