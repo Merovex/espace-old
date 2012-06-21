@@ -1,0 +1,21 @@
+.uaag { width: 500px; color: #000 !important; }
+.uaag td { font-size: 0.6em; text-align: center; }
+.uaag td.head { background: #99C; font-weight: bold; border-bottom: 2px solid #336; }
+.uaag td.sometimes { background: #FF9; }
+.uaag td.maybe { background: #99F; }
+.uaag td.have { background: #9F9; }
+.uaag td.avoid { background: #F99; }
+.uaag td.good { background: #DFD; }
+.uaag td.bad { background: #FDD; }
+.uaag td.okay { background: #DDF; }
+.uaag tr:hover td { background: #FF3; border-top: 1px solid yellow; border-bottom: 1px solid yellow; font-size: 0.9em}
+.uaag td.type { font-weight: bold; text-align: center; }
+.uaag tr:hover td.sometimes {background: #FF0}
+.uaag tr:hover td.maybe {background: #00F; color: #FFF}
+.uaag tr:hover td.avoid {background: #F00}
+.uaag tr:hover td.have {background: #3F3}
+.uaag tr:hover td.good { background: #9F9; font-weight:bold}
+.uaag tr:hover td.bad { background: #F99; font-weight:bold}
+.uaag tr:hover td.okay { background: #99F; font-weight:bold}
+.wikitable { border-collapse: collapse; }
+.wikitable td { border: 1px solid #999; }
