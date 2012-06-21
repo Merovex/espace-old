@@ -91,11 +91,11 @@ if ($Author) {
       <a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> $Author</a>
       <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
       <ul class="dropdown-menu">
-        <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
-        <li><a href="#"><i class="icon-trash"></i> Delete</a></li>
-        <li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+        <li><a href="?action=edit"><i class="icon-pencil"></i> Edit</a></li>
+        <li><a href="?action=diff"><i class="icon-film"></i> History</a></li>
+        <li><a href="?action=pageattr"><i class="icon-wrench"></i> Settings</a></li>
         <li class="divider"></li>
-        <li><a href="#"><i class="i"></i> Make admin</a></li>
+        <li><a href="?action=signout"><i class="icon-remove"></i> Sign Out</a></li>
       </ul>
     </div>
   </div>
