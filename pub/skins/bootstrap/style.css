@@ -18,9 +18,8 @@ body{
     background: #001320 url(images/esback.jpg) no-repeat top left fixed;
     color: #a3b1b1 !important;
 }
-a { 
-/*  color: #dc322f;*/
-  color: #cb4b16;
+  a { 
+    color: #cb4b16;
   }
   a:hover {
     color: #268bd2;
@@ -33,3 +32,21 @@ a {
 #sidebar h3 { font-size: 1.1em; font-weight: bold; margin: 0 0 0.5em 0}
 #sidebar ul { list-style-type: none; line-height: 2.0em; padding: 0}
 #sidebar { font-size: 0.9em; line-height: 1.2;}
+
+.lexicon h3 { border-bottom: 1px solid #999; }
+.lexicon dt { width: 65%; float: left; border: 1px solid #22282C; }
+.lexicon dd { border: 1px solid #22282C; }
+
+.category { background: #333 !important; }
+.formula { padding: 0.5em; font-size: 0.9em; font-family: monospace; background: #666; }
+a.createlink { font-size:xx-small; vertical-align:top; }
+p + p { text-indent: 1em; }
+textarea { width: 100%; background: #073642; color: #fdf6e3; font-size: 1.1em}
+input[type=text] { background: #073642; color: #fdf6e3; font-size: 1.1em}
+.sprate { border: none !important; background: none !important; color: inherit; font-family: inherit !important; font-size: 1.1em;}
+#attributes input {
+  font-size: 1.2em;
+  opacity: 0.7;
+}
+.highlight { background-color: #DFCE37; color: #444; }
+.hiable { border-bottom: 1px dotted #DFCE37 };
