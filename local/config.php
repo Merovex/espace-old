@@ -42,6 +42,11 @@ include_once("$FarmC/social/blogsimple.php");
 # Page Markup Enhancements
 #==================================
 $FmtPV['$GroupTitle'] = '(($t = PageVar("$group.GroupAttributes", \'$Title\')) == "GroupAttributes") ? $AsSpacedFunction($group) : $t';
+Markup('abbrs', 'fulltext','/([A-Z][A-Z]s)/e', "Keep('$1')");
+function bburl($k) {
+    global $ScriptUrl, $pagename;
+    return "[[$k]] ".Keep("<span class='bburl'>[url=$ScriptUrl/$pagename$k]$k [/url]</span>");
+}
 Markup('bburl', 'directives', '/\(:bburl\s*(#.*?):\)/e', "bburl('\\1')");
 markup('abbreviations', 'directives', '/\(:abbr\s*(\w+)\s(.*?):\)/', "Keep('<abbr title=\'$2\'>$1</abbr>');");
 
