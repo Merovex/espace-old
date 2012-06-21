@@ -112,7 +112,11 @@
             <li class="dropdown">
               <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sign In <strong class="caret"></strong></a>
               <div class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
-              <!-- Login form here -->
+                <form action='/Main/Main?action=login' method='post' name='authform'>
+                <table width='100%'><tr ><td >Name:</td><td ><input type='text' name='authid' class='inputbox' /></td></tr>
+                <tr ><td >Password:</td><td ><input type='password' name='authpw' class='inputbox' /></td></tr>
+                </table><p><input type='submit' value='OK' class='inputbutton' />
+                </p></form>
               </div>
               </li>
           </ul>
