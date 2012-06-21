@@ -30,6 +30,14 @@ $EnableMarkdown = 1;
 
 include_once("$FarmC/security/security.php");
 
+#=================================
+# Social Stuff
+#=================================
+include_once("$FarmC/social/blogcalendardate.php");
+include_once("$FarmC/social/rss-config.php");
+include_once("$FarmC/social/sociallinks.php");
+include_once("$FarmC/social/blogsimple.php");
+
 #==================================
 # Page Markup Enhancements
 #==================================
