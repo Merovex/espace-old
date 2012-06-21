@@ -15,7 +15,8 @@ $FmtPV['$PageCreationDate'] = 'strftime("%Y-%m-%d", time())';
 #================================
 
 $EnablePathInfo = 1;
-$ScriptUrl = 'http://evening-galaxy-4662.herokuapp.com';
+// $ScriptUrl = 'http://evening-galaxy-4662.herokuapp.com';
+$ScriptUrl = '';
 
 #================================
 # Branding
@@ -38,7 +39,7 @@ include_once("$FarmC/markup/grouptitle.php");
 include_once("$FarmC/markup/newpageboxplus.php");
 include_once("$FarmC/pagetoc.php");
 include_once("$FarmC/markdown.php");
-include_once("$FarmC/Footnotes/Footnotes.php")
+include_once("$FarmC/Footnotes/Footnotes.php");
 $EditTemplatesFmt = array('$Group.Template');
 
 # ! == H2, not H1
