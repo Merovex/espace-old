@@ -85,6 +85,8 @@ Markup('^!', 'block', '/^(!{2,6})\\s?(.*)$/e', "'<:block,1><h'.strlen('$1').PSS(
 include_once("eve-related.php");
 include_once("social.php");
 
+$UserText = '';
+
 // if ($Author) {
 //   $UserText =<<<EOT
 //     <div class="btn-group pull-right">
