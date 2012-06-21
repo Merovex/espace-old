@@ -8,7 +8,6 @@
 
 #$EnableMarkdownInline = 0;
 
-
 include_once("$FarmD/scripts/diag.php");
 SDV($EnableMarkdown,0); # Off by default.
 SDV($MarkdownSectionLevel, '!!'); # Creates <h2> for === sections.
