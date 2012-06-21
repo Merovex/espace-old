@@ -87,8 +87,8 @@ include_once("social.php");
 
 if ($Author) {
   $UserText =<<<EOT
-    <div class="btn-group">
-      <a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> User</a>
+    <div class="btn-group pull-right">
+      <a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> $Author</a>
       <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
       <ul class="dropdown-menu">
         <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
