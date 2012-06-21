@@ -1,5 +1,5 @@
 .blogcalendar { clear: both; float: left; margin-right: 6px; width: 42px; height: 42px; text-align: center; color: #000 !important}
-.blogcalendar .year,.blogcalendar.day { font: 0.9em/1.3 bold; color #000; width: 42px; color: #BBB;}
+.blogcalendar .year,.blogcalendar.day { font: 0.9em/1.3 bold !important; color #000 !important; width: 42px; color: #BBB;}
 .blogcalendar .day span {display: none;}
 .blogcalendar .day { font-size: 1.3em; padding-top: 8px; }
 .blogcalendar.icon-01 { background: url(/pub/images/calendar_icons/01.gif) no-repeat 0 0; }
