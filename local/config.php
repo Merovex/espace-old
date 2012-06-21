@@ -42,6 +42,25 @@ include_once("$FarmC/social/blogsimple.php");
 # Page Markup Enhancements
 #==================================
 $FmtPV['$GroupTitle'] = '(($t = PageVar("$group.GroupAttributes", \'$Title\')) == "GroupAttributes") ? $AsSpacedFunction($group) : $t';
+Markup('bburl', 'directives', '/\(:bburl\s*(#.*?):\)/e', "bburl('\\1')");
+markup('abbreviations', 'directives', '/\(:abbr\s*(\w+)\s(.*?):\)/', "Keep('<abbr title=\'$2\'>$1</abbr>');");
+
+function AECoords($name, $coord) {
+    $galaxy = array(
+        'A' => 'alpha', 
+        'B' => 'beta', 
+        'C' => 'ceti',
+        'D' => 'delta',
+        'E' => 'epsilon',
+        'F' => 'fenix',
+        'G' => 'gamma',
+        'H' => 'helion',
+        'I' => 'ixion',
+    );
+    $url = "http://$galaxy[$name].astroempires.com/map.aspx?loc=";
+    return Keep("<a href='$url$coord'>$coord</a>");
+}
+Markup('AECoords','_begin','/(([A-Z])\d\d:\d\d:\d\d:\d\d)/e', "AECoords('$2','$1')");
 
 include_once("$FarmC/markup/mediacat.php");
 include_once("$FarmC/markup/mediatable.php");
