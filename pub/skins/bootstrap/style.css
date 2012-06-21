@@ -22,6 +22,12 @@ a {
 /*  color: #dc322f;*/
   color: #cb4b16;
   }
+  a:hover {
+    color: #268bd2;
+  }
+  a:visited {
+    color: #6C71C4;
+  }
 #sidebar h2 { font-size: 16px; text-transform: uppercase; }
 #sidebar h2 { font-size: 1.3em; border-bottom: 1px solid #CCC; font-weight: bold; }
 #sidebar h3 { font-size: 1.1em; font-weight: bold; margin: 0 0 0.5em 0}
