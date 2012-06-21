@@ -38,7 +38,7 @@ include_once("$FarmC/markup/grouptitle.php");
 include_once("$FarmC/markup/newpageboxplus.php");
 include_once("$FarmC/pagetoc.php");
 include_once("$FarmC/markdown.php");
-include_once("$FarmC/Footnotes/Footnotes/php")
+include_once("$FarmC/Footnotes/Footnotes.php")
 $EditTemplatesFmt = array('$Group.Template');
 
 # ! == H2, not H1
