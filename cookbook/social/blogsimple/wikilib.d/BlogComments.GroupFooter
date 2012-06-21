@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=hb
+ctime=1136400526
+host=127.0.0.1
+name=BlogComments.GroupFooter
+rev=18
+targets=BlogPages.GroupFooter,Blog.Blog
+text=[[%3c%3c]](:title {$BlogTitle}:)%0a>>center%3c%3c[[#commentbox]]%0a(:input form name=cboxform action={$PageUrl} method=post:)%0a(:input hidden n {$FullName}:)%0a(:input hidden action comment:)(:input hidden order chrono:)'''Add Comment:'''[[%3c%3c]]%0a(:input textarea text rows=7 cols=50 class=inputtext:)[[%3c%3c]]%0aAuthor: (:input text author {$Author} class='inputbox':)\%0a (:input submit post Post class='inputbutton':)\%0a (:input reset reset Reset class='inputbutton':)(:input end:)%0a>>%3c%3c%0a----%0aBack to [[BlogPages/{$Name}|{$BlogTitle}]]\%0a  -- [[Blog.Blog| Blog Home Page]]
+time=1140603092

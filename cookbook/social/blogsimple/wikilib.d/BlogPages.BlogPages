@@ -1,0 +1,11 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8) Gecko/20051111 Firefox/1.5
+author=admin
+ctime=1136819229
+name=BlogPages.BlogPages
+rev=1
+targets=
+text=(:title My Blog Pages:)(:nogroupfooter:)%0a!!All Blog Entries:%0a(:pagelist group=BlogPages list=blog fmt=title:)
+time=1136819229
+title=My Blog Pages
+

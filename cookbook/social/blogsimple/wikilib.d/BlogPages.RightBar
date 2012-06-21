@@ -1,0 +1,9 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8) Gecko/20051111 Firefox/1.5
+author=hb
+ctime=1136429013
+name=BlogPages.RightBar
+rev=1
+targets=
+text=(:include Blog.RightBar:)
+time=1136569375

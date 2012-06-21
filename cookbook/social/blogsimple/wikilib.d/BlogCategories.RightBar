@@ -1,0 +1,13 @@
+version=pmwiki-2.1.beta20 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8) Gecko/20051111 Firefox/1.5
+author=Hans
+ctime=1137929678
+host=81.77.165.127
+name=BlogCategories.RightBar
+rev=1
+targets=
+text=(:include Blog.RightBar:)
+time=1137929678
+author:1137929678=Hans
+diff:1137929678:1137929678:=1d0%0a%3c (:include Blog.RightBar:)%0a\ No newline at end of file%0a
+host:1137929678=81.77.165.127

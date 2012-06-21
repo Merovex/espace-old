@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=admin
+ctime=1136832752
+host=85.210.35.95
+name=Blog.BlogCategoriesTemplate
+rev=0
+targets=BlogCategories.BlogCategories,Blog.BlogCategoriesTemplate
+text=%25right%25%3c%3c|[[BlogCategories/Blog Categories]]|>>%0a!!Blog Pages about {$Name} %0a(:pagelist group=BlogPages link=Category.{$Name} list=blog fmt=Blog.BlogListTemplates#blog order=-ctime :)
+time=1140885356

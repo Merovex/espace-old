@@ -1,0 +1,11 @@
+version=pmwiki-2.1.beta30 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=Hans
+ctime=1136823733
+host=127.0.0.1
+name=Blog.BlogConfiguration
+rev=0
+targets=Blog.Blog,Blog.SideBar,Blog.RightBar,Blog.BlogTemplate,Blog.BlogListTemplates,Blog.BlogCategoriesTemplate,Blog.BlogArchiveTemplate,BlogPages.BlogPages,BlogPages.GroupHeader,BlogPages.GroupFooter,BlogComments.BlogComments,BlogComments.GroupHeader,BlogComments.GroupFooter,BlogArchive.BlogArchive,BlogCategories.BlogCategories
+text=(:table:)%0a(:cell:)%0a!!!Blog group%0a*[[Blog]] -- Blog Home Page%0a*[[SideBar]]%0a*[[RightBar]]%0a%0a*[[Blog Template]]%0a*[[Blog List Templates]]%0a*[[Blog Categories Template]]%0a*[[Blog Archive Template]]%0a%0a(:cell:)%0a!!!`BlogPages group%0a*[[BlogPages]] -- index page%0a*[[BlogPages/GroupHeader]]%0a*[[BlogPages/GroupFooter]]%0a%0a!!!`BlogComments group%0a*[[BlogComments]] -- index page%0a*[[BlogComments/GroupHeader]]%0a*[[BlogComments/GroupFooter]]%0a%0a(:cellnr columnspan=2:)%0a'''Each category and archive page needs to be created manually''' %0a%0a(:cellnr:)%0a!!!`BlogArchive group%0a*[[BlogArchive|Blog Archive]] -- index trail page%0a%0a(:newpagebox base=BlogArchive.BlogArchive template=Blog.BlogArchiveTemplate label=Go button=right value="Add Blog Archive" focus=true save=true size=25:) Enter archive date in form of yyyy-mm, press Go, Save page, Add link to [[Blog Archive]]%0a(:pagelist group=BlogArchive fmt=title list=blog order=-name Archive :)%0a%0a(:cell:)%0a!!!`BlogCategories group%0a*[[BlogCategories|Blog Categories]] -- index trail page%0a%0a(:newpagebox base=BlogCategories.BlogCategories template=Blog.BlogCategoriesTemplate label=Go button=right value="Add Blog Category" focus=true save=true size=25:) Enter category name, press Go, Save page, Add link to [[Blog Categories]]%0a(:pagelist group=BlogCategories fmt=title list=blog Categories :)%0a%0a(:tableend:)
+time=1141052674
+

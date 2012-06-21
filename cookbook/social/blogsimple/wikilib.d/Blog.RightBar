@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta30 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=Hans
+ctime=1036338921
+host=127.0.0.1
+name=Blog.RightBar
+rev=0
+targets=BlogCategories.BlogCategories,BlogArchive.BlogArchive
+text=>>clip%3c%3c%0a!!!![[Blog Categories| Categories]]%0a(:pagelist group=BlogCategories list=blog fmt=title:)%0a(:pagelist trail=BlogCategories.BlogCategories fmt=#title :)%0a>>clip%3c%3c%0a!!!![[Blog Archive| Archive]]%0a(:pagelist group=BlogArchive list=blog fmt=Blog.BlogListTemplates#blogmonthtitles order=-name name=2006* :)%0a(:pagelist trail=BlogArchive.BlogArchive fmt=#title :)%0a>>clip%3c%3c%0a!!!!Recent Comments%0a(:pagelist group=BlogComments list=blog fmt=Blog.BlogListTemplates#commentsdatedtitles order=-time count=10 :)%0a>>%3c%3c
+time=1141058633

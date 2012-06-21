@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=hb
+ctime=1136399463
+host=127.0.0.1
+name=BlogPages.GroupFooter
+rev=1
+targets=BlogComments.GroupFooter
+text=====%0a!!!{BlogComments.{$Name}$PostCount} Comments:%0a(:include BlogComments.{$Name}:)%0a[[%3c%3c]]%0a>>center%3c%3c%0a[[BlogComments.{$Name}#commentbox| '''Add Comment''']]%0a>>%3c%3c
+time=1140604424

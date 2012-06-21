@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=admin
+ctime=1136559728
+host=127.0.0.1
+name=BlogComments.GroupHeader
+rev=1
+targets=
+text=(:include BlogPages.{$Name}:)(:nogroup:)%0a====%0a[[#comments]]%0a!!!{$PostCount} Comments%0a
+time=1140602835

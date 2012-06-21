@@ -1,0 +1,10 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8) Gecko/20051111 Firefox/1.5
+author=admin
+ctime=1136571782
+name=Blog.Blog
+rev=5
+targets=
+text=(:nogroup:)(:title My Web Log:)(:newpagebox  base="BlogPages.HomePage" template=Blog.BlogTemplate button=right label="New Blog Entry" size=40  value="{$Today}- " :)%0a%0a!!Recent Entries:%0a(:pagelist group=BlogPages  fmt=Blog.BlogListTemplates#blog list=blog order=-ctime count=10 :)
+time=1136818218
+title=My Web Log
