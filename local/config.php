@@ -32,10 +32,16 @@ include_once("$FarmC/security/security.php");
 #==================================
 # Page Markup Enhancements
 #==================================
+$FmtPV['$GroupTitle'] = '(($t = PageVar("$group.GroupAttributes", \'$Title\')) == "GroupAttributes") ? $AsSpacedFunction($group) : $t';
+
 include_once("$FarmD/cookbook/markup/grouptitle.php");
 include_once("$FarmD/cookbook/markup/newpageboxplus.php");
 include_once("$FarmD/cookbook/pagetoc.php");
 include_once("$FarmD/cookbook/markdown.php");
+$EditTemplatesFmt = array('$Group.Template');
+
+# ! == H2, not H1
+Markup('^!', 'block', '/^(!{2,6})\\s?(.*)$/e', "'<:block,1><h'.strlen('$1').PSS('>$2</h').strlen('$1').'>'");
 
 include_once("eve-related.php");
 include_once("social.php");
