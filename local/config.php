@@ -32,7 +32,8 @@ include_once("$FarmC/security/security.php");
 #==================================
 # Page Markup Enhancements
 #==================================
-include_once("$FarmD/cookbook/markup/grouptitle.php")
+include_once("$FarmD/cookbook/markup/grouptitle.php");
+include_once("$FarmD/cookbook/markup/newpageboxplus.php");
 include_once("$FarmD/cookbook/pagetoc.php");
 include_once("$FarmD/cookbook/markdown.php");
 
