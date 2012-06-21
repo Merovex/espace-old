@@ -43,6 +43,8 @@ include_once("$FarmC/social/blogsimple.php");
 #==================================
 $FmtPV['$GroupTitle'] = '(($t = PageVar("$group.GroupAttributes", \'$Title\')) == "GroupAttributes") ? $AsSpacedFunction($group) : $t';
 
+include_once("$FarmC/mediacat.php");
+include_once("$FarmC/translate_this.php");
 include_once("$FarmC/markup/grouptitle.php");
 include_once("$FarmC/markup/newpageboxplus.php");
 include_once("$FarmC/pagetoc.php");
