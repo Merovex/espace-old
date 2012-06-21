@@ -34,10 +34,11 @@ include_once("$FarmC/security/security.php");
 #==================================
 $FmtPV['$GroupTitle'] = '(($t = PageVar("$group.GroupAttributes", \'$Title\')) == "GroupAttributes") ? $AsSpacedFunction($group) : $t';
 
-include_once("$FarmD/cookbook/markup/grouptitle.php");
-include_once("$FarmD/cookbook/markup/newpageboxplus.php");
-include_once("$FarmD/cookbook/pagetoc.php");
-include_once("$FarmD/cookbook/markdown.php");
+include_once("$FarmC/markup/grouptitle.php");
+include_once("$FarmC/markup/newpageboxplus.php");
+include_once("$FarmC/pagetoc.php");
+include_once("$FarmC/markdown.php");
+include_once("$FarmC/Footnotes/Footnotes/php")
 $EditTemplatesFmt = array('$Group.Template');
 
 # ! == H2, not H1
