@@ -14,7 +14,7 @@ h1 a span { display: block; font-size: 50%;}
 body{
 /*    padding-top: 0.7in;*/
     background: #22282C;
-    font: 16px/1.5 "Helvetica Neue", "Liberation Sans", Verdana, Sans-Serif !important;
+/*    font: 16px/1.5 "Helvetica Neue", "Liberation Sans", Verdana, Sans-Serif !important;*/
     background: #001320 url(images/esback.jpg) no-repeat top left fixed;
     color: #ded8c5 !important;
 }
